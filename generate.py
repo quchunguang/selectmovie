@@ -7,7 +7,8 @@ import time
 
 # Common settings
 library_file = ur"library.json"
-base_path = ur'D:\movie\09_欧美电影576p'
+filelist_file = ur"filelist.json"
+base_path = ur"D:\video\movie"
 
 api_search_base = ur'https://api.douban.com/v2/movie/search?q='
 api_subject_base = ur'https://api.douban.com/v2/movie/subject/'
@@ -67,7 +68,7 @@ def requestJson(url):
     '''
     Douban limit 150 access every hour without access token.
     '''
-    time.sleep(25)
+    # time.sleep(25)
     response = urllib2.urlopen(url.encode('utf-8'))
 
     if response.code != 200:
@@ -79,18 +80,27 @@ def requestJson(url):
         return results
 
 
+def genFileList():
+    exts = [".mkv", ".avi", ".rmvb"]
+    filelist = []
+
+    for filename in os.listdir(base_path):
+        p = os.path.join(base_path, filename)
+        if os.path.isdir(p) or not any(map(filename.endswith, exts)):
+            continue
+        filelist.append(p)
+
+    writeJson(filelist_file, filelist)
+
+
 def genDelta(basepath):
     """
     Generate movie info. Ignore those already in the local library.
     """
     global library
-    exts = [".mkv", ".avi", ".rmvb"]
 
-    for filename in os.listdir(basepath):
-        p = os.path.join(basepath, filename)
-        if os.path.isdir(p) or not any(map(filename.endswith, exts)):
-            continue
-
+    filelist = readJson(filelist_file)
+    for filename in filelist:
         movie_info = genOne(filename)
         if movie_info is not None:
             print "[INFO] New movie:", filename.encode("utf-8")
@@ -169,7 +179,7 @@ def genHTML():
     Generate index.html file by reference the library.
     """
     tpl = open(ur"index.tpl", "r")
-    target = open(ur"index.html", "w", )
+    target = open(ur"index.html", "w")
     for line in tpl:
         if line == "{{ITERATOR_ITEMS}}\n":
             genItems(target)
@@ -180,6 +190,8 @@ def genHTML():
 
 
 def main():
+    # genFileList()
+
     global library
     library = readJson(library_file)
     try:
