@@ -7,7 +7,7 @@ import time
 
 # Common settings
 library_file = ur"library.json"
-base_path = ur'D:\video\movie'
+base_path = ur'D:\movie\09_欧美电影576p'
 
 api_search_base = ur'https://api.douban.com/v2/movie/search?q='
 api_subject_base = ur'https://api.douban.com/v2/movie/subject/'
@@ -64,7 +64,12 @@ def getTitle(filename):
 
 
 def requestJson(url):
+    '''
+    Douban limit 150 access every hour without access token.
+    '''
+    time.sleep(25)
     response = urllib2.urlopen(url.encode('utf-8'))
+
     if response.code != 200:
         print "[WARN] Get data failed."
         return None
@@ -90,7 +95,6 @@ def genDelta(basepath):
         if movie_info is not None:
             print "[INFO] New movie:", filename.encode("utf-8")
             library.append(movie_info)
-            time.sleep(1)
 
 
 def exist(title):
@@ -112,6 +116,10 @@ def genOne(filename):
     # Get first id of movie by title
     results = requestJson(api_search_base + title)
     if results is None:
+        print "[WARN] Connect error."
+        return None
+    if len(results["subjects"]) == 0:
+        print "[WARN] Can not find this movie,"
         return None
     first_id = results["subjects"][0]["id"]
 
@@ -174,7 +182,11 @@ def genHTML():
 def main():
     global library
     library = readJson(library_file)
-    genDelta(base_path)
+    try:
+        genDelta(base_path)
+    except Exception:
+        pass
+
     writeJson(library_file, library)
     genHTML()
 
