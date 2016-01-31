@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>曲春光电影收藏</title>
+    <title>我的电影收藏</title>
     <style type="text/css">
     h1 {
         color: #111;
@@ -131,7 +131,7 @@
 </head>
 
 <body>
-    <h1>曲春光电影收藏</h1>
+    <h1>我的电影收藏</h1>
     <div id="users">
         <input class="search" placeholder="搜索题名或年份" />
         <button class="sort" data-sort="name">
