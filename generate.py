@@ -2,21 +2,30 @@
 import os
 import urllib2
 import json
+import socket
 import time
 
 
-# Common settings
+# Pair of your host name and base path.
+#
+# Ignore generate the file list and trying to using the exist filelist_file,
+# if your host name not list in it or the bash_path not exist.
+#
+# It is useful when using generate data file from other machine.
+# A Raspberry Pi, for example.
+base_path_by_host = {
+    "kevin3": ur"D:\movie\09_欧美电影576p",
+    "kevin6": ur"D:\video\movie"
+}
+
 library_file = ur"library.json"
 filelist_file = ur"filelist.json"
-base_path = ur"D:\video\movie"
-
 api_search_base = ur'https://api.douban.com/v2/movie/search?q='
 api_subject_base = ur'https://api.douban.com/v2/movie/subject/'
 page_subject_base = ur'http://movie.douban.com/subject/'
 
 # Global library of select informations of my movies.
 library = []
-
 
 def readJson(filename):
     """
@@ -34,7 +43,7 @@ def writeJson(filename, obj):
     """
     Write out data to JSON file.
     BUG of python: json.dump(encoding='utf-8') do not convert unicode to utf-8.
-    using json.dumps() and fpwrite() instead.
+    using json.dumps() and fp.write() instead.
     """
     fp = open(filename, "w")
     s = json.dumps(obj, fp,
@@ -66,9 +75,9 @@ def getTitle(filename):
 
 def requestJson(url):
     '''
-    Douban limit 150 access every hour without access token.
+    Douban limit 150 access/h without access token and 500 access/h with token.
     '''
-    # time.sleep(25)
+    # When the limit is reached, raise exception here
     response = urllib2.urlopen(url.encode('utf-8'))
 
     if response.code != 200:
@@ -80,7 +89,7 @@ def requestJson(url):
         return results
 
 
-def genFileList():
+def genFileList(base_path):
     exts = [".mkv", ".avi", ".rmvb"]
     filelist = []
 
@@ -93,7 +102,7 @@ def genFileList():
     writeJson(filelist_file, filelist)
 
 
-def genDelta(basepath):
+def genDelta():
     """
     Generate movie info. Ignore those already in the local library.
     """
@@ -167,7 +176,6 @@ def genItems(target):
         s += '<img src="' + item["image"] + '" class="thumb" alt="" />'
         s += '<h3 class="name"><a href="' + page_subject_base + item["id"]
         s += '">' + item["title"] + '</a></h3>'
-        # s += '<a href=' + base_path + item["filename"] + u'>播放</a>'
         s += '<p class="born">' + item["year"] + '</p>'
         s += '<p>' + item["summary"] + '</p>'
         s += "</li>\n"
@@ -190,14 +198,21 @@ def genHTML():
 
 
 def main():
-    # genFileList()
+    if socket.gethostname() in base_path_by_host:
+        base_path = base_path_by_host[socket.gethostname()]
+        if base_path != "" and os.path.exists(base_path):
+            genFileList(base_path)
 
     global library
     library = readJson(library_file)
-    try:
-        genDelta(base_path)
-    except Exception:
-        pass
+
+    while True:
+        try:
+            genDelta()
+            break
+        except Exception:
+            writeJson(library_file, library)
+            time.sleep(3600)
 
     writeJson(library_file, library)
     genHTML()
