@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/21332535/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055305/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19467.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19467.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19467.jpg"
+                    }, 
+                    "id": "1055305", 
+                    "name": "茱莉亚·路易斯-德瑞弗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049543/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11021.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11021.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11021.jpg"
+                    }, 
+                    "id": "1049543", 
+                    "name": "詹姆斯·甘多菲尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041108/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8262.jpg"
+                    }, 
+                    "id": "1041108", 
+                    "name": "托妮·科莱特"
+                }
+            ], 
+            "collect_count": 6526, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000280/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14135.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14135.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14135.jpg"
+                    }, 
+                    "id": "1000280", 
+                    "name": "妮可·哈罗芬瑟"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "21332535", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2101534758.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2101534758.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2101534758.jpg"
+            }, 
+            "original_title": "Enough Said", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "无须多言", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"无须多言\" 的结果", 
+    "total": 1
+}

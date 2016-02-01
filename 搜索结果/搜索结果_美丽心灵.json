@@ -1,0 +1,460 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1306029/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17524.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17524.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17524.jpg"
+                    }, 
+                    "id": "1016674", 
+                    "name": "罗素·克劳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016673/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3996.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3996.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3996.jpg"
+                    }, 
+                    "id": "1016673", 
+                    "name": "詹妮弗·康纳利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048024/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/277.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/277.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/277.jpg"
+                    }, 
+                    "id": "1048024", 
+                    "name": "艾德·哈里斯"
+                }
+            ], 
+            "collect_count": 335256, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031844/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1366641135.85.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1366641135.85.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1366641135.85.jpg"
+                    }, 
+                    "id": "1031844", 
+                    "name": "朗·霍华德"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情"
+            ], 
+            "id": "1306029", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1665997400.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1665997400.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1665997400.jpg"
+            }, 
+            "original_title": "A Beautiful Mind", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "美丽心灵", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308777/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054438/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/615.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/615.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/615.jpg"
+                    }, 
+                    "id": "1054438", 
+                    "name": "金·凯瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054446/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53358.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53358.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53358.jpg"
+                    }, 
+                    "id": "1054446", 
+                    "name": "凯特·温丝莱特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054429/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3127.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3127.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3127.jpg"
+                    }, 
+                    "id": "1054429", 
+                    "name": "克斯汀·邓斯特"
+                }
+            ], 
+            "collect_count": 146086, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044932/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1634.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1634.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1634.jpg"
+                    }, 
+                    "id": "1044932", 
+                    "name": "米歇尔·冈瑞"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "奇幻"
+            ], 
+            "id": "1308777", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p479565065.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p479565065.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p479565065.jpg"
+            }, 
+            "original_title": "Eternal Sunshine of the Spotless Mind", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "暖暖内含光", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20390042/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033280/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3285.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3285.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3285.jpg"
+                    }, 
+                    "id": "1033280", 
+                    "name": "谭耀文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033233/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21756.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21756.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21756.jpg"
+                    }, 
+                    "id": "1033233", 
+                    "name": "李贞贤"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张汉臣"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "20390042", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2222256215.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2222256215.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2222256215.jpg"
+            }, 
+            "original_title": "美丽心灵", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "美丽心灵", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3434545/", 
+            "casts": [], 
+            "collect_count": 6, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3434545", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "美丽心情", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "美丽心情", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6874033/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040688/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27283.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27283.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27283.jpg"
+                    }, 
+                    "id": "1040688", 
+                    "name": "亚历山德拉·玛丽亚·拉那"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305558/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22135.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22135.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22135.jpg"
+                    }, 
+                    "id": "1305558", 
+                    "name": "爱德华·霍格"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Atrakchi"
+                }
+            ], 
+            "collect_count": 240, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023719/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56319.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56319.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56319.jpg"
+                    }, 
+                    "id": "1023719", 
+                    "name": "安杰伊·亚基莫夫斯基"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6874033", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s12600608.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s12600608.jpg", 
+                "small": "https://img1.doubanio.com/spic/s12600608.jpg"
+            }, 
+            "original_title": "Imagine", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "美丽心境界", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4888050/", 
+            "casts": [], 
+            "collect_count": 8592, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Charlotte Boisson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Julien Fourvel"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pascal Han-Kwan"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tristan Reinarz"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fanny Roche"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "4888050", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4441226.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4441226.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4441226.jpg"
+            }, 
+            "original_title": "Get Out", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "生命之门", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2045564/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014222/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/30048.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/30048.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/30048.jpg"
+                    }, 
+                    "id": "1014222", 
+                    "name": "姜惠贞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "裴宗玉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郑京浩"
+                }
+            ], 
+            "collect_count": 4533, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "许仁茂"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2045564", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2376072.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2376072.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2376072.jpg"
+            }, 
+            "original_title": "허브", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "香草", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4249353/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016663/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5908.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5908.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5908.jpg"
+                    }, 
+                    "id": "1016663", 
+                    "name": "杜淳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275302/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40658.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40658.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40658.jpg"
+                    }, 
+                    "id": "1275302", 
+                    "name": "姚芊羽"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001714/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1415.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1415.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1415.jpg"
+                    }, 
+                    "id": "1001714", 
+                    "name": "奚美娟"
+                }
+            ], 
+            "collect_count": 130, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "柳国庆"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "4249353", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4147728.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4147728.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4147728.jpg"
+            }, 
+            "original_title": "保姆与保安", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "保姆与保安", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"美丽心灵\" 的结果", 
+    "total": 8
+}

@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4221475/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1199296/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1392381664.0.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1392381664.0.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1392381664.0.jpg"
+                    }, 
+                    "id": "1199296", 
+                    "name": "弗洛里安·大卫·弗里茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040984/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/416.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/416.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/416.jpg"
+                    }, 
+                    "id": "1040984", 
+                    "name": "大卫·克劳斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037184/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19601.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19601.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19601.jpg"
+                    }, 
+                    "id": "1037184", 
+                    "name": "德特勒夫·布克"
+                }
+            ], 
+            "collect_count": 1364, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037184/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19601.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19601.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19601.jpg"
+                    }, 
+                    "id": "1037184", 
+                    "name": "德特勒夫·布克"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4221475", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24869764.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24869764.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24869764.jpg"
+            }, 
+            "original_title": "Die Vermessung der Welt", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "测量世界", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"测量世界\" 的结果", 
+    "total": 1
+}

@@ -1,0 +1,127 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1950198/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008068/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2685.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2685.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2685.jpg"
+                    }, 
+                    "id": "1008068", 
+                    "name": "凯瑟琳·海格尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002668/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54437.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54437.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54437.jpg"
+                    }, 
+                    "id": "1002668", 
+                    "name": "塞斯·罗根"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002667/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49.jpg"
+                    }, 
+                    "id": "1002667", 
+                    "name": "保罗·路德"
+                }
+            ], 
+            "collect_count": 27031, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036351/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2000.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2000.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2000.jpg"
+                    }, 
+                    "id": "1036351", 
+                    "name": "贾德·阿帕图"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1950198", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2608258.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2608258.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2608258.jpg"
+            }, 
+            "original_title": "Knocked Up", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "一夜大肚", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4004739/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Spencer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Todd Sherry"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frank Maharajh"
+                }
+            ], 
+            "collect_count": 188, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Craig Moss"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4004739", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4354479.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4354479.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4354479.jpg"
+            }, 
+            "original_title": "The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It", 
+            "rating": {
+                "average": 4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "四十一岁老处男让负心女一夜大肚而感觉超级坏", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"一夜大肚\" 的结果", 
+    "total": 2
+}

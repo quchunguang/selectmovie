@@ -27,6 +27,7 @@ page_subject_base = ur'http://movie.douban.com/subject/'
 # Global library of select informations of my movies.
 library = []
 
+
 def readJson(filename):
     """
     Get data from JSON file
@@ -127,27 +128,28 @@ def genOne(filename):
     """
     Generate movie information from DouBan Movie by given filename.
     """
-    # Get Chinese title from filename
+    # Get Chinese title from filename.
     title = getTitle(filename)
     if title == "" or exist(title):
         return None
 
-    # Get first id of movie by title
-    results = requestJson(api_search_base + title)
-    if results is None:
-        print "[WARN] Connect error."
-        return None
-    if len(results["subjects"]) == 0:
+    # Search movie by title.
+    search = requestJson(api_search_base + title)
+    if search is None or len(search["subjects"]) == 0:
         print "[WARN] Can not find this movie,"
         return None
-    first_id = results["subjects"][0]["id"]
+    writeJson(ur"搜索结果\搜索结果_" + title + ".json", search)
+
+    # Get first id of movie.
+    first_id = search["subjects"][0]["id"]
 
     # Get title,summary of first searching result.
     movie = requestJson(api_subject_base + first_id)
-    if results is None:
+    if movie is None:
         return None
+    writeJson(ur"电影信息\电影信息_" + title + ".json", movie)
 
-    # Generate Object and return
+    # Generate Object and return.
     obj = {}
     obj["id"] = first_id
     obj["title"] = title
@@ -212,6 +214,7 @@ def main():
             break
         except Exception:
             writeJson(library_file, library)
+            print "[WARN] Access limit of Douban reached. Sleep 1 hour ..."
             time.sleep(3600)
 
     writeJson(library_file, library)

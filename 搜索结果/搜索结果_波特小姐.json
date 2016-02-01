@@ -1,0 +1,126 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1900121/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054418/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/591.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/591.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/591.jpg"
+                    }, 
+                    "id": "1054418", 
+                    "name": "蕾妮·齐薇格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012532/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2896.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2896.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2896.jpg"
+                    }, 
+                    "id": "1012532", 
+                    "name": "伊万·麦克格雷格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013814/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24640.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24640.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24640.jpg"
+                    }, 
+                    "id": "1013814", 
+                    "name": "艾米丽·沃森"
+                }
+            ], 
+            "collect_count": 14551, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041485/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18180.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18180.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18180.jpg"
+                    }, 
+                    "id": "1041485", 
+                    "name": "克里斯·努安"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "奇幻"
+            ], 
+            "id": "1900121", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1921867.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1921867.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1921867.jpg"
+            }, 
+            "original_title": "Miss Potter", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "波特小姐", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4943987/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jérémie Renier"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laure Killing"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean-Claude Dauphin"
+                }
+            ], 
+            "collect_count": 47, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jacques Rouffio"
+                }
+            ], 
+            "genres": [], 
+            "id": "4943987", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4534337.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4534337.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4534337.jpg"
+            }, 
+            "original_title": "Miss Harriet", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "哈莉特小姐", 
+            "year": "2007"
+        }
+    ], 
+    "title": "搜索 \"波特小姐\" 的结果", 
+    "total": 2
+}

@@ -1,0 +1,71 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5244258/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1218749/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371297095.92.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371297095.92.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371297095.92.jpg"
+                    }, 
+                    "id": "1218749", 
+                    "name": "蕾切儿·哈伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049884/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4931.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4931.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4931.jpg"
+                    }, 
+                    "id": "1049884", 
+                    "name": "哈里·崔德威"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Wilson"
+                }
+            ], 
+            "collect_count": 726, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014607/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1014607", 
+                    "name": "阿涅丝·梅尔莱"
+                }
+            ], 
+            "genres": [
+                "奇幻"
+            ], 
+            "id": "5244258", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6973259.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6973259.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6973259.jpg"
+            }, 
+            "original_title": "Hideaways", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "隐蔽处", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"隐蔽处\" 的结果", 
+    "total": 1
+}
