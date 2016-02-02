@@ -1,0 +1,535 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1291554/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040500/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/406.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/406.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/406.jpg"
+                    }, 
+                    "id": "1040500", 
+                    "name": "杰拉德·巴特勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021998/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/629.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/629.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/629.jpg"
+                    }, 
+                    "id": "1021998", 
+                    "name": "埃米·罗森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006919/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1384038922.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1384038922.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1384038922.44.jpg"
+                    }, 
+                    "id": "1006919", 
+                    "name": "帕特里克·威尔森"
+                }
+            ], 
+            "collect_count": 133653, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049637/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10681.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10681.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10681.jpg"
+                    }, 
+                    "id": "1049637", 
+                    "name": "乔·舒马赫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "惊悚"
+            ], 
+            "id": "1291554", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1910825990.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1910825990.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910825990.jpg"
+            }, 
+            "original_title": "The Phantom of the Opera", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "歌剧魅影", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295840/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jill Schoelen……Christine Day"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Englund……Eric Destler/The Phantom"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alex Hyde-White……Richard Dutton"
+                }
+            ], 
+            "collect_count": 2486, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "德怀特 H. 利特尔 (Dwight H. Little)"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "恐怖", 
+                "音乐"
+            ], 
+            "id": "1295840", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1477700.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1477700.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1477700.jpg"
+            }, 
+            "original_title": "The Phantom of the Opera", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "歌剧魅影", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294273/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002802/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10634.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10634.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10634.jpg"
+                    }, 
+                    "id": "1002802", 
+                    "name": "朗·钱尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009971/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1384949883.77.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1384949883.77.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1384949883.77.jpg"
+                    }, 
+                    "id": "1009971", 
+                    "name": "玛丽·菲尔宾"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1111463/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1111463", 
+                    "name": "Norman Kerry"
+                }
+            ], 
+            "collect_count": 786, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041967/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354829988.14.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354829988.14.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354829988.14.jpg"
+                    }, 
+                    "id": "1041967", 
+                    "name": "爱德华·塞奇威克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002802/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10634.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10634.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10634.jpg"
+                    }, 
+                    "id": "1002802", 
+                    "name": "朗·钱尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008206/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1008206", 
+                    "name": "鲁珀特·朱利安"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "惊悚"
+            ], 
+            "id": "1294273", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1896801296.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1896801296.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1896801296.jpg"
+            }, 
+            "original_title": "The Phantom of the Opera", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "歌剧魅影", 
+            "year": "1925"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294780/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041209/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4521.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4521.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4521.jpg"
+                    }, 
+                    "id": "1041209", 
+                    "name": "克劳德·雷恩斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037364/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390478485.87.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390478485.87.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390478485.87.jpg"
+                    }, 
+                    "id": "1037364", 
+                    "name": "苏珊娜·福斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1080385/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24631.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24631.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24631.jpg"
+                    }, 
+                    "id": "1080385", 
+                    "name": "纳尔逊·埃迪"
+                }
+            ], 
+            "collect_count": 681, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025475/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1025475", 
+                    "name": "阿瑟·鲁宾"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "恐怖", 
+                "音乐"
+            ], 
+            "id": "1294780", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1435212.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1435212.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1435212.jpg"
+            }, 
+            "original_title": "Phantom of the Opera", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "歌剧魅影", 
+            "year": "1943"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10600877/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008555/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1008555", 
+                    "name": "本·刘易斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anna O'Byrne"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "María Mercedes"
+                }
+            ], 
+            "collect_count": 1045, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1298631/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1298631", 
+                    "name": "Brett Sullivan"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1173540/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1173540", 
+                    "name": "Simon Lee Phillips"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "歌舞"
+            ], 
+            "id": "10600877", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9047645.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9047645.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9047645.jpg"
+            }, 
+            "original_title": "Love Never Dies", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "歌剧魅影2：真爱不死", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6307290/", 
+            "casts": [], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈伟文"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "戏曲"
+            ], 
+            "id": "6307290", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6954136.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6954136.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6954136.jpg"
+            }, 
+            "original_title": "婺劇魅影", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "婺劇魅影", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24751811/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1206123/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33359.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33359.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33359.jpg"
+                    }, 
+                    "id": "1206123", 
+                    "name": "莱明·卡莱姆罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1256011/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44351.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44351.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44351.jpg"
+                    }, 
+                    "id": "1256011", 
+                    "name": "Sierra Boggess"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1249483/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34441.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34441.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34441.jpg"
+                    }, 
+                    "id": "1249483", 
+                    "name": "哈德利·弗雷泽"
+                }
+            ], 
+            "collect_count": 2479, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021247/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1021247", 
+                    "name": "Nick Morris"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laurence Connor"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "音乐", 
+                "歌舞"
+            ], 
+            "id": "24751811", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2006533765.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2006533765.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2006533765.jpg"
+            }, 
+            "original_title": "The Phantom of the Opera at the Royal Albert Hall", 
+            "rating": {
+                "average": 9.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "剧院魅影：25周年纪念演出", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2136729/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049875/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/30951.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/30951.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/30951.jpg"
+                    }, 
+                    "id": "1049875", 
+                    "name": "赫伯特·罗姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028183/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1403059545.28.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1403059545.28.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1403059545.28.jpg"
+                    }, 
+                    "id": "1028183", 
+                    "name": "海瑟·西尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1082692/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1082692", 
+                    "name": "Edward de Souza"
+                }
+            ], 
+            "collect_count": 1438, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032568/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1369710208.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1369710208.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1369710208.61.jpg"
+                    }, 
+                    "id": "1032568", 
+                    "name": "泰伦斯·费希"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "恐怖", 
+                "音乐"
+            ], 
+            "id": "2136729", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2565177.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2565177.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2565177.jpg"
+            }, 
+            "original_title": "The Phantom of the Opera", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "剧院魅影", 
+            "year": "1962"
+        }
+    ], 
+    "title": "搜索 \"歌剧魅影\" 的结果", 
+    "total": 8
+}

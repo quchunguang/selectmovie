@@ -1,0 +1,144 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1294240/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054451/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/645.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/645.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/645.jpg"
+                    }, 
+                    "id": "1054451", 
+                    "name": "阿尔·帕西诺"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053568/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31540.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31540.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31540.jpg"
+                    }, 
+                    "id": "1053568", 
+                    "name": "黛安·基顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048142/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12464.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12464.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12464.jpg"
+                    }, 
+                    "id": "1048142", 
+                    "name": "塔莉娅·夏尔"
+                }
+            ], 
+            "collect_count": 143115, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/592.jpg"
+                    }, 
+                    "id": "1054419", 
+                    "name": "弗朗西斯·福特·科波拉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "1294240", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2169664351.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2169664351.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2169664351.jpg"
+            }, 
+            "original_title": "The Godfather: Part III", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "教父3", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295433/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017917/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5073.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5073.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5073.jpg"
+                    }, 
+                    "id": "1017917", 
+                    "name": "约翰·韦恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048252/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31915.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31915.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31915.jpg"
+                    }, 
+                    "id": "1048252", 
+                    "name": "比德洛·阿门德里兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048213/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16430.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16430.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16430.jpg"
+                    }, 
+                    "id": "1048213", 
+                    "name": "小哈里·凯瑞"
+                }
+            ], 
+            "collect_count": 104, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007035/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4760.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4760.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4760.jpg"
+                    }, 
+                    "id": "1007035", 
+                    "name": "约翰·福特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "西部"
+            ], 
+            "id": "1295433", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2179158291.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2179158291.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2179158291.jpg"
+            }, 
+            "original_title": "3 Godfathers", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "荒漠义侠", 
+            "year": "1948"
+        }
+    ], 
+    "title": "搜索 \"教父3\" 的结果", 
+    "total": 2
+}

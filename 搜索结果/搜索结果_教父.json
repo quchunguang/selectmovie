@@ -1,0 +1,1205 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1291841/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041025/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/465.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/465.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/465.jpg"
+                    }, 
+                    "id": "1041025", 
+                    "name": "马龙·白兰度"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054451/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/645.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/645.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/645.jpg"
+                    }, 
+                    "id": "1054451", 
+                    "name": "阿尔·帕西诺"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000050/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9550.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9550.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9550.jpg"
+                    }, 
+                    "id": "1000050", 
+                    "name": "詹姆斯·凯恩"
+                }
+            ], 
+            "collect_count": 373548, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/592.jpg"
+                    }, 
+                    "id": "1054419", 
+                    "name": "弗朗西斯·福特·科波拉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "1291841", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1910907404.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1910907404.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
+            }, 
+            "original_title": "The Godfather", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "教父", 
+            "year": "1972"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299131/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054451/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/645.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/645.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/645.jpg"
+                    }, 
+                    "id": "1054451", 
+                    "name": "阿尔·帕西诺"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013776/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8576.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8576.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8576.jpg"
+                    }, 
+                    "id": "1013776", 
+                    "name": "罗伯特·杜瓦尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053568/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31540.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31540.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31540.jpg"
+                    }, 
+                    "id": "1053568", 
+                    "name": "黛安·基顿"
+                }
+            ], 
+            "collect_count": 206385, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/592.jpg"
+                    }, 
+                    "id": "1054419", 
+                    "name": "弗朗西斯·福特·科波拉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "1299131", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p616779231.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p616779231.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p616779231.jpg"
+            }, 
+            "original_title": "The Godfather: Part Ⅱ", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "教父2", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26369910/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312782/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13875.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13875.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13875.jpg"
+                    }, 
+                    "id": "1312782", 
+                    "name": "明道"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019372/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3157.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3157.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3157.jpg"
+                    }, 
+                    "id": "1019372", 
+                    "name": "应采儿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315507/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1373426084.31.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1373426084.31.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1373426084.31.jpg"
+                    }, 
+                    "id": "1315507", 
+                    "name": "钱枫"
+                }
+            ], 
+            "collect_count": 188, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327605/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1364369577.56.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1364369577.56.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1364369577.56.jpg"
+                    }, 
+                    "id": "1327605", 
+                    "name": "周智勇"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "26369910", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2305525462.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2305525462.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2305525462.jpg"
+            }, 
+            "original_title": "恋爱教父之三个“坏”家伙", 
+            "rating": {
+                "average": 3.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "恋爱教父之三个“坏”家伙", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1310177/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008521/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28281.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28281.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28281.jpg"
+                    }, 
+                    "id": "1008521", 
+                    "name": "江守彻"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038090/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25650.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25650.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25650.jpg"
+                    }, 
+                    "id": "1038090", 
+                    "name": "冈本绫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1011748/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1011748", 
+                    "name": "梅垣义明"
+                }
+            ], 
+            "collect_count": 34990, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053554/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/491.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/491.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/491.jpg"
+                    }, 
+                    "id": "1053554", 
+                    "name": "今敏"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "动画", 
+                "剧情"
+            ], 
+            "id": "1310177", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p456703618.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p456703618.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p456703618.jpg"
+            }, 
+            "original_title": "東京ゴッドファーザーズ", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "东京教父", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294240/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054451/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/645.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/645.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/645.jpg"
+                    }, 
+                    "id": "1054451", 
+                    "name": "阿尔·帕西诺"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053568/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31540.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31540.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31540.jpg"
+                    }, 
+                    "id": "1053568", 
+                    "name": "黛安·基顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048142/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12464.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12464.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12464.jpg"
+                    }, 
+                    "id": "1048142", 
+                    "name": "塔莉娅·夏尔"
+                }
+            ], 
+            "collect_count": 143115, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/592.jpg"
+                    }, 
+                    "id": "1054419", 
+                    "name": "弗朗西斯·福特·科波拉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "1294240", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2169664351.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2169664351.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2169664351.jpg"
+            }, 
+            "original_title": "The Godfather: Part III", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "教父3", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3714071/", 
+            "casts": [], 
+            "collect_count": 40, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3714071", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4099655.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4099655.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4099655.jpg"
+            }, 
+            "original_title": "广州教父", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "广州教父", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1301446/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047994/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/259.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/259.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/259.jpg"
+                    }, 
+                    "id": "1047994", 
+                    "name": "汤米·李·琼斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031752/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31785.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31785.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31785.jpg"
+                    }, 
+                    "id": "1031752", 
+                    "name": "罗伯特·乌尔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "内德·贝拉米"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050038/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10676.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10676.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10676.jpg"
+                    }, 
+                    "id": "1050038", 
+                    "name": "罗恩·谢尔顿"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "运动"
+            ], 
+            "id": "1301446", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1883090.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1883090.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1883090.jpg"
+            }, 
+            "original_title": "球坛教父 COBB", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "酷伯传奇", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6861570/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨丞琳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "安 雅"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘 恒"
+                }
+            ], 
+            "collect_count": 29, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "柳广辉"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "6861570", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6949779.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6949779.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6949779.jpg"
+            }, 
+            "original_title": "粉红教父小甜甜", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "粉红教父小甜甜", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2144389/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274267/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11462.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11462.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11462.jpg"
+                    }, 
+                    "id": "1274267", 
+                    "name": "梁小龙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032379/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11968.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11968.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11968.jpg"
+                    }, 
+                    "id": "1032379", 
+                    "name": "仓田保昭"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孟海"
+                }
+            ], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴思远 (See-Yuen Ng)"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作"
+            ], 
+            "id": "2144389", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2595152.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2595152.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2595152.jpg"
+            }, 
+            "original_title": "香港小教父", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "香港小教父", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6866816/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274237/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11111.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11111.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11111.jpg"
+                    }, 
+                    "id": "1274237", 
+                    "name": "孙海英"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "叶晖"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "涂凌"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "薛彦东"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史"
+            ], 
+            "id": "6866816", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6959107.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6959107.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6959107.jpg"
+            }, 
+            "original_title": "东北教父", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "东北教父", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3608986/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "庹宗康"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "徐婕儿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高山峰"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "叶鸿伟"
+                }
+            ], 
+            "genres": [], 
+            "id": "3608986", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3718687.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3718687.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3718687.jpg"
+            }, 
+            "original_title": "哈拉教父", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "哈拉教父", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26433334/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008091/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2341.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2341.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2341.jpg"
+                    }, 
+                    "id": "1008091", 
+                    "name": "黄霑"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037908/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54637.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54637.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54637.jpg"
+                    }, 
+                    "id": "1037908", 
+                    "name": "周海媚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318700/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390035071.79.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390035071.79.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390035071.79.jpg"
+                    }, 
+                    "id": "1318700", 
+                    "name": "陈奕诗"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1281025/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23132.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23132.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23132.jpg"
+                    }, 
+                    "id": "1281025", 
+                    "name": "高志森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "26433334", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2252558926.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2252558926.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2252558926.jpg"
+            }, 
+            "original_title": "不文教父带你嫖韩日", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "不文教父带你嫖韩日", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25800890/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314642/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31811.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31811.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31811.jpg"
+                    }, 
+                    "id": "1314642", 
+                    "name": "吴毅将"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "何家驹"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林玉紫"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴国孝"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "悬疑"
+            ], 
+            "id": "25800890", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2173452850.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2173452850.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173452850.jpg"
+            }, 
+            "original_title": "军火教父", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "军火教父", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26317193/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028605/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35159.jpg"
+                    }, 
+                    "id": "1028605", 
+                    "name": "郑浩南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314012/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21305.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21305.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21305.jpg"
+                    }, 
+                    "id": "1314012", 
+                    "name": "骆达华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313041/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14678.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14678.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14678.jpg"
+                    }, 
+                    "id": "1313041", 
+                    "name": "尹扬明"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322628/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1438750199.47.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1438750199.47.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1438750199.47.jpg"
+                    }, 
+                    "id": "1322628", 
+                    "name": "李钊"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "彭俊伟"
+                }
+            ], 
+            "genres": [], 
+            "id": "26317193", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "暴风少年之纽约教父", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "暴风少年之纽约教父", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1999205/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mario Biagioli"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dr. Jerry Brotton"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ian Bustard"
+                }
+            ], 
+            "collect_count": 733, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Justin Hardy"
+                }
+            ], 
+            "genres": [], 
+            "id": "1999205", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2160317.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2160317.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2160317.jpg"
+            }, 
+            "original_title": "Medici: Godfathers of the Renaissance", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "帝国系列之文艺复兴教父：美第齐家族", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292959/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036370/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17200.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17200.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17200.jpg"
+                    }, 
+                    "id": "1036370", 
+                    "name": "C·托马斯·豪威尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004583/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43032.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43032.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43032.jpg"
+                    }, 
+                    "id": "1004583", 
+                    "name": "马特·狄龙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040497/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17305.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17305.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17305.jpg"
+                    }, 
+                    "id": "1040497", 
+                    "name": "拉尔夫·马奇奥"
+                }
+            ], 
+            "collect_count": 588, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/592.jpg"
+                    }, 
+                    "id": "1054419", 
+                    "name": "弗朗西斯·福特·科波拉"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1292959", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4622059.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4622059.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4622059.jpg"
+            }, 
+            "original_title": "The Outsiders", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "小教父", 
+            "year": "1983"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307407/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Danny Aiello"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joe Mantegna"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Daryl Hannah"
+                }
+            ], 
+            "collect_count": 459, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Graeme Clifford"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1307407", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1877030.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1877030.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1877030.jpg"
+            }, 
+            "original_title": "Last Don, The (mini)", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "教父最终篇", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3074011/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/592.jpg"
+                    }, 
+                    "id": "1054419", 
+                    "name": "弗朗西斯·福特·科波拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027498/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21946.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21946.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21946.jpg"
+                    }, 
+                    "id": "1027498", 
+                    "name": "马里奥·普佐"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041025/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/465.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/465.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/465.jpg"
+                    }, 
+                    "id": "1041025", 
+                    "name": "马龙·白兰度"
+                }
+            ], 
+            "collect_count": 364, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1300716/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1300716", 
+                    "name": "Jeff Werner"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "3074011", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24423474.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24423474.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24423474.jpg"
+            }, 
+            "original_title": "The Godfather Family: A Look Inside", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "教父家族", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4120658/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marlon Brando"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Al Pacino"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert De Niro"
+                }
+            ], 
+            "collect_count": 621, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/592.jpg"
+                    }, 
+                    "id": "1054419", 
+                    "name": "弗朗西斯·福特·科波拉"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "4120658", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2220320612.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2220320612.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2220320612.jpg"
+            }, 
+            "original_title": "The Godfather: A Novel for Television", 
+            "rating": {
+                "average": 9.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "tv", 
+            "title": "教父(电视剧重剪版)", 
+            "year": "1977"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1441341/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028062/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4039.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4039.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4039.jpg"
+                    }, 
+                    "id": "1028062", 
+                    "name": "卢伊吉洛·肖卡"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luigi Maria Burruano"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lucia Sardo"
+                }
+            ], 
+            "collect_count": 282, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028068/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15767.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15767.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15767.jpg"
+                    }, 
+                    "id": "1028068", 
+                    "name": "马可·图利欧·吉欧达纳"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1441341", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2791197.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2791197.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2791197.jpg"
+            }, 
+            "original_title": "I cento passi", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "意大利教父", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"教父\" 的结果", 
+    "total": 83
+}
