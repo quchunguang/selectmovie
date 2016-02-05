@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/21348876/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010543/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1243.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1243.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1243.jpg"
+                    }, 
+                    "id": "1010543", 
+                    "name": "杰弗里·拉什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013814/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24640.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24640.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24640.jpg"
+                    }, 
+                    "id": "1013814", 
+                    "name": "艾米丽·沃森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323944/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57662.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57662.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57662.jpg"
+                    }, 
+                    "id": "1323944", 
+                    "name": "苏菲·奈丽丝"
+                }
+            ], 
+            "collect_count": 19024, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1303301/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1373078939.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1373078939.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1373078939.66.jpg"
+                    }, 
+                    "id": "1303301", 
+                    "name": "布莱恩·派西维尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "21348876", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2162741033.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2162741033.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2162741033.jpg"
+            }, 
+            "original_title": "The Book Thief", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "偷书贼", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"偷书贼\" 的结果", 
+    "total": 1
+}
