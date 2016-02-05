@@ -1,0 +1,422 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4905026/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nopachai Jayanama"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274405/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5117.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5117.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5117.jpg"
+                    }, 
+                    "id": "1274405", 
+                    "name": "克丽丝·霍旺"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chanokporn Sayoungkul"
+                }
+            ], 
+            "collect_count": 452, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1295265/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22808.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22808.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22808.jpg"
+                    }, 
+                    "id": "1295265", 
+                    "name": "彭力·云旦拿域安"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "4905026", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1264739326.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1264739326.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1264739326.jpg"
+            }, 
+            "original_title": "ฝนตกขึ้นฟ้า", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "爆头", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5158878/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nicanor Loreti"
+                }
+            ], 
+            "genres": [], 
+            "id": "5158878", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s11137174.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s11137174.jpg", 
+                "small": "https://img1.doubanio.com/spic/s11137174.jpg"
+            }, 
+            "original_title": "Diablo", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爆头风云", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26713424/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319990/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48433.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48433.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48433.jpg"
+                    }, 
+                    "id": "1319990", 
+                    "name": "伊科·乌艾斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1267860/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376467183.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376467183.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376467183.02.jpg"
+                    }, 
+                    "id": "1267860", 
+                    "name": "辛塔·劳拉·基尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1235271/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1373185590.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1373185590.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1373185590.17.jpg"
+                    }, 
+                    "id": "1235271", 
+                    "name": "朱莉·埃斯特尔"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1330396/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/qgUGDQ7eqG4cel_avatar_uploaded1371713812.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/qgUGDQ7eqG4cel_avatar_uploaded1371713812.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/qgUGDQ7eqG4cel_avatar_uploaded1371713812.94.jpg"
+                    }, 
+                    "id": "1330396", 
+                    "name": "提莫·塔哈亚托"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kimo Stamboel"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "26713424", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2312401297.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2312401297.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2312401297.jpg"
+            }, 
+            "original_title": "Headshot", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爆头", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3256172/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047996/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/262.jpg"
+                    }, 
+                    "id": "1047996", 
+                    "name": "西尔维斯特·史泰龙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000166/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1852.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1852.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1852.jpg"
+                    }, 
+                    "id": "1000166", 
+                    "name": "姜成镐"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017830/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18494.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18494.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18494.jpg"
+                    }, 
+                    "id": "1017830", 
+                    "name": "莎拉·夏希"
+                }
+            ], 
+            "collect_count": 7029, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014030/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13105.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13105.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13105.jpg"
+                    }, 
+                    "id": "1014030", 
+                    "name": "沃尔特·希尔"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "3256172", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1865881239.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1865881239.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1865881239.jpg"
+            }, 
+            "original_title": "Bullet to the Head", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "赤警威龙", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2277202/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Enrico Colantoni"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Spade"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laura San Giacomo"
+                }
+            ], 
+            "collect_count": 22, 
+            "directors": [], 
+            "genres": [], 
+            "id": "2277202", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11346786.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11346786.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11346786.jpg"
+            }, 
+            "original_title": "Just Shoot Me!", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "朝我开枪！", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302402/", 
+            "casts": [], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mishka Saal"
+                }
+            ], 
+            "genres": [], 
+            "id": "1302402", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "La position de l'escargot", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "蜗牛做爱的姿势", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2129344/", 
+            "casts": [], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Antoine Dekerle"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Léandre Lagrange"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "2129344", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2551878.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2551878.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2551878.jpg"
+            }, 
+            "original_title": "Vita ex musica", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Vita ex musica", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1437015/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054432/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9938.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9938.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9938.jpg"
+                    }, 
+                    "id": "1054432", 
+                    "name": "凯文·史派西"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34642.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34642.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34642.jpg"
+                    }, 
+                    "id": "1054534", 
+                    "name": "摩根·弗里曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055100/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9101.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9101.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9101.jpg"
+                    }, 
+                    "id": "1055100", 
+                    "name": "LL Cool J"
+                }
+            ], 
+            "collect_count": 1102, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041991/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1041991", 
+                    "name": "大卫·J·伯克"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1437015", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6388493.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6388493.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6388493.jpg"
+            }, 
+            "original_title": "Edison", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "埃迪森", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"爆头\" 的结果", 
+    "total": 8
+}

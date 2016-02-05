@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10767696/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000008/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22847.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22847.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22847.jpg"
+                    }, 
+                    "id": "1000008", 
+                    "name": "马修·古迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342196/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1342196", 
+                    "name": "劳拉·朱利安-博克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342197/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1415853284.16.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1415853284.16.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1415853284.16.jpg"
+                    }, 
+                    "id": "1342197", 
+                    "name": "艾伦·麦肯纳"
+                }
+            ], 
+            "collect_count": 1393, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1306423/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1306423", 
+                    "name": "阿马·阿桑特"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10767696", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2154339915.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2154339915.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2154339915.jpg"
+            }, 
+            "original_title": "Belle", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "佳人蓓尔", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"佳人蓓尔\" 的结果", 
+    "total": 1
+}

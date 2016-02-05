@@ -1,0 +1,179 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1296845/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049930/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17275.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17275.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17275.jpg"
+                    }, 
+                    "id": "1049930", 
+                    "name": "查尔斯·博耶"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049566/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26850.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26850.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26850.jpg"
+                    }, 
+                    "id": "1049566", 
+                    "name": "英格丽·褒曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055438/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4401.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4401.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4401.jpg"
+                    }, 
+                    "id": "1055438", 
+                    "name": "约瑟夫·科顿"
+                }
+            ], 
+            "collect_count": 2569, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010711/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19067.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19067.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19067.jpg"
+                    }, 
+                    "id": "1010711", 
+                    "name": "乔治·库克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1296845", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3404235.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3404235.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3404235.jpg"
+            }, 
+            "original_title": "Gaslight", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "煤气灯下", 
+            "year": "1944"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297355/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anton Walbrook"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Diana Wynyard"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frank Pettingell"
+                }
+            ], 
+            "collect_count": 138, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Thorold Dickinson"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1297355", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3404424.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3404424.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3404424.jpg"
+            }, 
+            "original_title": "Gaslight", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "煤气灯下", 
+            "year": "1940"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3130333/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rodrigo Espina"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042625/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042625", 
+                    "name": "安德列·波当"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rodrigo Espina"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "歌舞"
+            ], 
+            "id": "3130333", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3159975.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3159975.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3159975.jpg"
+            }, 
+            "original_title": "El Día que reventaron las lámparas de Gas", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "煤气灯爆炸的那天", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"煤气灯下\" 的结果", 
+    "total": 3
+}

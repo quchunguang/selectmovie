@@ -1,0 +1,446 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1300992/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016671/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34511.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34511.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34511.jpg"
+                    }, 
+                    "id": "1016671", 
+                    "name": "凯文·科斯特纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006983/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18559.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18559.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18559.jpg"
+                    }, 
+                    "id": "1006983", 
+                    "name": "劳拉·邓恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }
+            ], 
+            "collect_count": 72982, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "1300992", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p792403691.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p792403691.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p792403691.jpg"
+            }, 
+            "original_title": "A Perfect World", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "完美的世界", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4189830/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018576/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359800856.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359800856.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359800856.3.jpg"
+                    }, 
+                    "id": "1018576", 
+                    "name": "宫野真守"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033302/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5782.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5782.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5782.jpg"
+                    }, 
+                    "id": "1033302", 
+                    "name": "森久保祥太郎"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028815/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/861.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/861.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/861.jpg"
+                    }, 
+                    "id": "1028815", 
+                    "name": "杉田智和"
+                }
+            ], 
+            "collect_count": 381, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001127/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3725.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3725.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3725.jpg"
+                    }, 
+                    "id": "1001127", 
+                    "name": "浪川大辅"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "悬疑"
+            ], 
+            "id": "4189830", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4405066.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4405066.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4405066.jpg"
+            }, 
+            "original_title": "ワンダフル ワールド", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "完美世界", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5041033/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山崎勝之"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "南条弘二"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "正岡邦夫"
+                }
+            ], 
+            "collect_count": 56, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小原直樹"
+                }
+            ], 
+            "genres": [], 
+            "id": "5041033", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4445247.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4445247.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4445247.jpg"
+            }, 
+            "original_title": "ウルトラセブン EVOLUTION EPISODE：2 パーフェクト・ワールド", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "赛文奥特曼 EVOLUTION EPISODE：2 完美的世界", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3291185/", 
+            "casts": [], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1289143/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1289143", 
+                    "name": "Rik Kuypers"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1015802/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1015802", 
+                    "name": "Ivo Michiels"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3291185", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3845379.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3845379.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3845379.jpg"
+            }, 
+            "original_title": "Meeuwen sterven in de haven", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "完美的世界", 
+            "year": "1955"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3223659/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Herman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lucy"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Coco Schrijber"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "3223659", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3268297.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3268297.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3268297.jpg"
+            }, 
+            "original_title": "Mooie Wereld", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "完美的世界", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26358615/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26358615", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "멋장이 세상", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "完美世界", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3743052/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012532/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2896.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2896.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2896.jpg"
+                    }, 
+                    "id": "1012532", 
+                    "name": "伊万·麦克格雷格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025155/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25343.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25343.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25343.jpg"
+                    }, 
+                    "id": "1025155", 
+                    "name": "伊娃·格林"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009298/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1416109882.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1416109882.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1416109882.48.jpg"
+                    }, 
+                    "id": "1009298", 
+                    "name": "康妮·尼尔森"
+                }
+            ], 
+            "collect_count": 19383, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045234/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26143.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26143.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26143.jpg"
+                    }, 
+                    "id": "1045234", 
+                    "name": "大卫·马肯兹"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3743052", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1708029562.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1708029562.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1708029562.jpg"
+            }, 
+            "original_title": "Perfect Sense", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "完美感觉", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25967447/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275733/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19712.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19712.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19712.jpg"
+                    }, 
+                    "id": "1275733", 
+                    "name": "桥本爱"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1343618/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/rPYk7aQ27i0cel_avatar_uploaded1412832538.77.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/rPYk7aQ27i0cel_avatar_uploaded1412832538.77.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/rPYk7aQ27i0cel_avatar_uploaded1412832538.77.jpg"
+                    }, 
+                    "id": "1343618", 
+                    "name": "苍波纯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314701/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26327.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26327.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26327.jpg"
+                    }, 
+                    "id": "1314701", 
+                    "name": "稻叶友"
+                }
+            ], 
+            "collect_count": 855, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322346/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359444737.63.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359444737.63.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359444737.63.jpg"
+                    }, 
+                    "id": "1322346", 
+                    "name": "松居大悟"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻", 
+                "同性"
+            ], 
+            "id": "25967447", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2207316911.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2207316911.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2207316911.jpg"
+            }, 
+            "original_title": "ワンダフルワールドエンド", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "美好世界终结时", 
+            "year": "2015"
+        }
+    ], 
+    "title": "搜索 \"完美世界\" 的结果", 
+    "total": 8
+}

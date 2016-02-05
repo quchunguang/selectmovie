@@ -1,0 +1,170 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/24719177/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044954/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371299120.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371299120.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371299120.02.jpg"
+                    }, 
+                    "id": "1044954", 
+                    "name": "凯特琳·斯塔西"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325349/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382260286.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382260286.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382260286.37.jpg"
+                    }, 
+                    "id": "1325349", 
+                    "name": "肖奥纳·斯米特-麦克费"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brooke Butler"
+                }
+            ], 
+            "collect_count": 987, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040859/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28966.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28966.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28966.jpg"
+                    }, 
+                    "id": "1040859", 
+                    "name": "路克·马克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1302638/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1353996942.72.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1353996942.72.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1353996942.72.jpg"
+                    }, 
+                    "id": "1302638", 
+                    "name": "Chris Sivertson"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "奇幻"
+            ], 
+            "id": "24719177", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2178560386.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2178560386.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2178560386.jpg"
+            }, 
+            "original_title": "All Cheerleaders Die", 
+            "rating": {
+                "average": 4.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "拉拉队员都死了", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26595396/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "CH2"
+                }
+            ], 
+            "genres": [], 
+            "id": "26595396", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2263535584.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2263535584.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2263535584.jpg"
+            }, 
+            "original_title": "When You Make A Half Court Shot And Nobody Sees", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "看到的人都死了", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25662098/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "白濱亜嵐"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275551/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40968.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40968.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40968.jpg"
+                    }, 
+                    "id": "1275551", 
+                    "name": "广濑爱丽丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275357/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366105538.19.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366105538.19.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366105538.19.jpg"
+                    }, 
+                    "id": "1275357", 
+                    "name": "未来穂香"
+                }
+            ], 
+            "collect_count": 74, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "今井夏木"
+                }
+            ], 
+            "genres": [], 
+            "id": "25662098", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2155303693.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2155303693.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2155303693.jpg"
+            }, 
+            "original_title": "僕らはみんな死んでいる♪", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "我们都是死人", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"拉拉队员都死了\" 的结果", 
+    "total": 3
+}

@@ -1,0 +1,1047 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6390823/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017885/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359877729.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359877729.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359877729.49.jpg"
+                    }, 
+                    "id": "1017885", 
+                    "name": "克里斯·埃文斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054453/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37050.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37050.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37050.jpg"
+                    }, 
+                    "id": "1054453", 
+                    "name": "斯嘉丽·约翰逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021985/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2270.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2270.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2270.jpg"
+                    }, 
+                    "id": "1021985", 
+                    "name": "塞巴斯蒂安·斯坦"
+                }
+            ], 
+            "collect_count": 197830, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321812/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51466.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51466.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51466.jpg"
+                    }, 
+                    "id": "1321812", 
+                    "name": "安东尼·卢素"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320870/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49855.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49855.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49855.jpg"
+                    }, 
+                    "id": "1320870", 
+                    "name": "乔·卢素"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "6390823", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2174824694.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2174824694.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2174824694.jpg"
+            }, 
+            "original_title": "Captain America: The Winter Soldier", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "美国队长2", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25820460/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017885/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359877729.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359877729.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359877729.49.jpg"
+                    }, 
+                    "id": "1017885", 
+                    "name": "克里斯·埃文斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016681/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4938.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4938.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4938.jpg"
+                    }, 
+                    "id": "1016681", 
+                    "name": "小罗伯特·唐尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054453/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37050.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37050.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37050.jpg"
+                    }, 
+                    "id": "1054453", 
+                    "name": "斯嘉丽·约翰逊"
+                }
+            ], 
+            "collect_count": 325, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320870/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49855.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49855.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49855.jpg"
+                    }, 
+                    "id": "1320870", 
+                    "name": "乔·卢素"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321812/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51466.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51466.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51466.jpg"
+                    }, 
+                    "id": "1321812", 
+                    "name": "安东尼·卢素"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "惊悚"
+            ], 
+            "id": "25820460", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2288300231.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2288300231.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2288300231.jpg"
+            }, 
+            "original_title": "Captain America: Civil War", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美国队长3：内战", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2138838/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017885/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359877729.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359877729.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359877729.49.jpg"
+                    }, 
+                    "id": "1017885", 
+                    "name": "克里斯·埃文斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000051/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37606.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37606.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37606.jpg"
+                    }, 
+                    "id": "1000051", 
+                    "name": "海莉·阿特维尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021985/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2270.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2270.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2270.jpg"
+                    }, 
+                    "id": "1021985", 
+                    "name": "塞巴斯蒂安·斯坦"
+                }
+            ], 
+            "collect_count": 134859, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044945/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24563.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24563.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24563.jpg"
+                    }, 
+                    "id": "1044945", 
+                    "name": "乔·庄斯顿"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "2138838", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1182659238.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1182659238.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1182659238.jpg"
+            }, 
+            "original_title": "Captain America: The First Avenger", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "美国队长", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25942186/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044919/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5907.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5907.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5907.jpg"
+                    }, 
+                    "id": "1044919", 
+                    "name": "亚德里安·帕斯达"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1185863/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47304.jpg"
+                    }, 
+                    "id": "1185863", 
+                    "name": "罗杰·克莱格·史密斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320585/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320585", 
+                    "name": "弗莱德·塔他斯西奥"
+                }
+            ], 
+            "collect_count": 1440, 
+            "directors": [], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "动画"
+            ], 
+            "id": "25942186", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2193490904.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2193490904.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2193490904.jpg"
+            }, 
+            "original_title": "Iron Man & Captain America: Heroes United", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "钢铁侠与美国队长：英雄集结", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3925072/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Matt Salinger"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ronny Cox"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ned Beatty"
+                }
+            ], 
+            "collect_count": 874, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Albert Pyun"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3925072", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4369235.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4369235.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4369235.jpg"
+            }, 
+            "original_title": "Captain America", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "美国队长", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4089909/", 
+            "casts": [], 
+            "collect_count": 24, 
+            "directors": [], 
+            "genres": [
+                "动画", 
+                "动作"
+            ], 
+            "id": "4089909", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4018711.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4018711.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4018711.jpg"
+            }, 
+            "original_title": "Captain America", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "美国队长", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3853877/", 
+            "casts": [], 
+            "collect_count": 28, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elmer Clifton"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John English"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "科幻"
+            ], 
+            "id": "3853877", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3880368.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3880368.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3880368.jpg"
+            }, 
+            "original_title": "Captain America", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美国队长", 
+            "year": "1944"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25853915/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeremy Long"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Curt Lear"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "短片"
+            ], 
+            "id": "25853915", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Comic Book Origins: Captain America - Winter Soldier", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "漫话美国队长：冬日战士", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26694467/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Evans"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hayley Atwell"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeph Loeb"
+                }
+            ], 
+            "collect_count": 86, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Zak Knutson"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26694467", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2311811844.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2311811844.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2311811844.jpg"
+            }, 
+            "original_title": "Marvel’s Captain America: 75 Heroic Years", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "美国队长：75周年英雄史", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25927446/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小林稔侍"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小泉孝太郎"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "国分佐智子"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "伊藤寿浩"
+                }
+            ], 
+            "genres": [], 
+            "id": "25927446", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "炎の警備隊長・五十嵐杜夫2 ダイヤモンドはゆがんだ欲望の輝き侵入者は密室で時を待つ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "炎の警備隊長・五十嵐杜夫2 ダイヤモンドはゆがんだ欲望の輝き侵入者は密室で時を待つ", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305068/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044878/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57599.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57599.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57599.jpg"
+                    }, 
+                    "id": "1044878", 
+                    "name": "贾森·比格斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009314/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6458.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6458.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6458.jpg"
+                    }, 
+                    "id": "1009314", 
+                    "name": "托马斯·伊恩·尼古拉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000009/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368537723.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368537723.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368537723.29.jpg"
+                    }, 
+                    "id": "1000009", 
+                    "name": "艾丽森·汉妮根"
+                }
+            ], 
+            "collect_count": 48789, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319569/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47478.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47478.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47478.jpg"
+                    }, 
+                    "id": "1319569", 
+                    "name": "詹姆斯·B·罗杰斯"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1305068", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1615623617.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1615623617.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1615623617.jpg"
+            }, 
+            "original_title": "American Pie 2", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "美国派2", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1420017/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mila Kunis"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "William Shatner"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Geraint Wyn Davies"
+                }
+            ], 
+            "collect_count": 631, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Morgan J. Freeman"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1420017", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1662936.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1662936.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1662936.jpg"
+            }, 
+            "original_title": "American Psycho 2: All American Girl", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "美国杀人魔2", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294081/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Charlie Sheen"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tom Berenger"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Corbin Bernsen"
+                }
+            ], 
+            "collect_count": 204, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041426/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26084.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26084.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26084.jpg"
+                    }, 
+                    "id": "1041426", 
+                    "name": "大卫·S·瓦德"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "运动"
+            ], 
+            "id": "1294081", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2676246.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2676246.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2676246.jpg"
+            }, 
+            "original_title": "Major League II", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "美国职棒大联盟2", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296133/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Phillip Glasser"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Stewart"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Erica Yohn"
+                }
+            ], 
+            "collect_count": 88, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Phil Nibbelink"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Simon Wells"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "冒险", 
+                "家庭"
+            ], 
+            "id": "1296133", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1461010.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1461010.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1461010.jpg"
+            }, 
+            "original_title": "An American Tail: Fievel Goes West", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "美国鼠谭2：西部历险记", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5169560/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nino Cimino"
+                }
+            ], 
+            "collect_count": 89, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marcus Dreeke"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "5169560", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8968139.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8968139.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8968139.jpg"
+            }, 
+            "original_title": "This Is Who I Am", 
+            "rating": {
+                "average": 2.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "15"
+            }, 
+            "subtype": "movie", 
+            "title": "美国黑帮2：迈阿密大劫案", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1773024/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sam Hennings"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eric Johnson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alexander Carroll"
+                }
+            ], 
+            "collect_count": 35, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sterling Van Wagenen"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1773024", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2199523891.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2199523891.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2199523891.jpg"
+            }, 
+            "original_title": "The Work and the Glory: American Zion", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "事业与荣誉2：美国天堂", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299657/", 
+            "casts": [], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sam Firstenberg"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情"
+            ], 
+            "id": "1299657", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2373194.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2373194.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2373194.jpg"
+            }, 
+            "original_title": "American Ninja 2: The Confrontation", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美国忍者2：战斗人", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2243845/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1094959/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18212.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18212.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18212.jpg"
+                    }, 
+                    "id": "1094959", 
+                    "name": "夏娜·格兰特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1083343/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17229.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17229.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17229.jpg"
+                    }, 
+                    "id": "1083343", 
+                    "name": "黛比·戴蒙德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1157108/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1353086378.75.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1353086378.75.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1353086378.75.jpg"
+                    }, 
+                    "id": "1157108", 
+                    "name": "劳瑞·史密斯"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025916/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1025916", 
+                    "name": "Bill Mills"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "情色"
+            ], 
+            "id": "2243845", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2195668485.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2195668485.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2195668485.jpg"
+            }, 
+            "original_title": "All-American Girls 2: In Heat", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美国女孩2：发情", 
+            "year": "1983"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25832609/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55047.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55047.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55047.jpg"
+                    }, 
+                    "id": "1041436", 
+                    "name": "菲尔·乔安诺"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25832609", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "14 Up in America", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美国人生七年2", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26663417/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marcus Koch"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "26663417", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2312969227.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2312969227.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2312969227.jpg"
+            }, 
+            "original_title": "American Guinea Pig: Bloodshock", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美国豚鼠2:血腥冲击", 
+            "year": "2015"
+        }
+    ], 
+    "title": "搜索 \"美国队长2\" 的结果", 
+    "total": 40
+}

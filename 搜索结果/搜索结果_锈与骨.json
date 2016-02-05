@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6843843/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1148622/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/42226.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/42226.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/42226.jpg"
+                    }, 
+                    "id": "1148622", 
+                    "name": "马提亚斯·修奈尔 "
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006955/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36117.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36117.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36117.jpg"
+                    }, 
+                    "id": "1006955", 
+                    "name": "玛丽昂·歌迪亚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048406/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18741.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18741.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18741.jpg"
+                    }, 
+                    "id": "1048406", 
+                    "name": "伯利·兰内尔"
+                }
+            ], 
+            "collect_count": 18351, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045070/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19416.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19416.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19416.jpg"
+                    }, 
+                    "id": "1045070", 
+                    "name": "雅克·欧迪亚"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6843843", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1766507291.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1766507291.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1766507291.jpg"
+            }, 
+            "original_title": "De rouille et d'os", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "锈与骨", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"锈与骨\" 的结果", 
+    "total": 1
+}

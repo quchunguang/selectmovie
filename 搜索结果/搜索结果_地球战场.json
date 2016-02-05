@@ -1,0 +1,171 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1299610/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054426/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10640.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10640.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10640.jpg"
+                    }, 
+                    "id": "1054426", 
+                    "name": "约翰·特拉沃尔塔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000075/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5095.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5095.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5095.jpg"
+                    }, 
+                    "id": "1000075", 
+                    "name": "巴里·佩珀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053567/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40097.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40097.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40097.jpg"
+                    }, 
+                    "id": "1053567", 
+                    "name": "福里斯特·惠特克"
+                }
+            ], 
+            "collect_count": 1841, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Roger Christian"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻"
+            ], 
+            "id": "1299610", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1441702.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1441702.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1441702.jpg"
+            }, 
+            "original_title": "Battlefield Earth: A Saga of the Year 3000", 
+            "rating": {
+                "average": 4.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "地球战场", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1997689/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "藤敏也"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "信達谷圭"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "早瀬恵子"
+                }
+            ], 
+            "collect_count": 25, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "長石多可男"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蓑輪雅夫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "1997689", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9056420.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9056420.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9056420.jpg"
+            }, 
+            "original_title": "地球戦隊ファイブマン", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "地球战队五人组", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1917732/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Edward Furlong"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Wilson"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "科幻"
+            ], 
+            "id": "1917732", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1964340.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1964340.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1964340.jpg"
+            }, 
+            "original_title": "Warriors of Terra", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "异形浩劫", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"地球战场\" 的结果", 
+    "total": 3
+}

@@ -1,0 +1,892 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2338058/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041001/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/437.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/437.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/437.jpg"
+                    }, 
+                    "id": "1041001", 
+                    "name": "艾拉·菲舍尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017931/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7970.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7970.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7970.jpg"
+                    }, 
+                    "id": "1017931", 
+                    "name": "休·丹西"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036308/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34289.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34289.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34289.jpg"
+                    }, 
+                    "id": "1036308", 
+                    "name": "克里斯滕·里特"
+                }
+            ], 
+            "collect_count": 58292, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1286770/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1405091847.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1405091847.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1405091847.3.jpg"
+                    }, 
+                    "id": "1286770", 
+                    "name": "P·J·霍根"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "2338058", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3479629.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3479629.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3479629.jpg"
+            }, 
+            "original_title": "Confessions of a Shopaholic", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "一个购物狂的自白", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2367868/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Farley Granger"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sylva Koscina"
+                }
+            ], 
+            "collect_count": 19, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Roberto Bianchi Montero"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "恐怖"
+            ], 
+            "id": "2367868", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3905551.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3905551.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3905551.jpg"
+            }, 
+            "original_title": "Rivelazioni di un maniaco sessuale al capo della squadra mobile", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个性欲狂的自白", 
+            "year": "1972"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4705154/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robin Askwith"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sheila White"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Katya Wyeth"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Val Guest"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4705154", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2227371346.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2227371346.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2227371346.jpg"
+            }, 
+            "original_title": "Confessions of a Window Cleaner", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个偷窥狂的自白", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1432234/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036400/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1396202197.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1396202197.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1396202197.65.jpg"
+                    }, 
+                    "id": "1036400", 
+                    "name": "弗兰科·尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041188/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427201867.36.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427201867.36.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427201867.36.jpg"
+                    }, 
+                    "id": "1041188", 
+                    "name": "马丁·鲍尔萨姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016804/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48582.jpg"
+                    }, 
+                    "id": "1016804", 
+                    "name": "玛丽卢·托洛"
+                }
+            ], 
+            "collect_count": 334, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025428/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/58340.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/58340.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/58340.jpg"
+                    }, 
+                    "id": "1025428", 
+                    "name": "达米亚诺·达米亚尼"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1432234", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3120499.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3120499.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3120499.jpg"
+            }, 
+            "original_title": "Confessione di un commissario di polizia al procuratore della repubblica", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "一个警察局长对共和国检察官的自白", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6006566/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Raven Adamson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Katie Coseni"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Madeleine Bisson"
+                }
+            ], 
+            "collect_count": 111, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018406/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27944.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27944.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27944.jpg"
+                    }, 
+                    "id": "1018406", 
+                    "name": "劳伦·冈泰"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6006566", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11373270.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11373270.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11373270.jpg"
+            }, 
+            "original_title": "Foxfire, confessions d'un gang de filles", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "狐火：一个女生帮的自白", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3394825/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1201674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16182.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16182.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16182.jpg"
+                    }, 
+                    "id": "1201674", 
+                    "name": "乔安娜•利维斯克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044712/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1361363798.86.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1361363798.86.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1361363798.86.jpg"
+                    }, 
+                    "id": "1044712", 
+                    "name": "瓦莱丽·伯提内莉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055965/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1431001039.57.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1431001039.57.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1431001039.57.jpg"
+                    }, 
+                    "id": "1055965", 
+                    "name": "Lynda Boyd"
+                }
+            ], 
+            "collect_count": 44, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013872/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14359.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14359.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14359.jpg"
+                    }, 
+                    "id": "1013872", 
+                    "name": "提姆·麦锡森"
+                }
+            ], 
+            "genres": [], 
+            "id": "3394825", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3758783.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3758783.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3758783.jpg"
+            }, 
+            "original_title": "True Confessions of a Hollywood Starlet", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "好莱坞真情告白/一个好莱坞明星的真实供述/好莱坞女新人的自白", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5150717/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041013/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367250434.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367250434.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367250434.9.jpg"
+                    }, 
+                    "id": "1041013", 
+                    "name": "约翰·马尔科维奇"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Sturminger"
+                }
+            ], 
+            "genres": [
+                "音乐", 
+                "舞台艺术"
+            ], 
+            "id": "5150717", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6564331.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6564331.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6564331.jpg"
+            }, 
+            "original_title": "The Infernal Comedy: Confessions of a Serial Killer", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "地狱喜剧：一个连环杀手的自白", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3306970/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016780/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/41010.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/41010.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/41010.jpg"
+                    }, 
+                    "id": "1016780", 
+                    "name": "理查德·波林热"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010858/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1010858", 
+                    "name": "Jérôme Boivin"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "3306970", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6788206.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6788206.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6788206.jpg"
+            }, 
+            "original_title": "Confessions d'un Barjo", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个废物艺术家的自白", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2246507/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rebecca Brooke"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jennifer Welles"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Jordan"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joseph W. Sarno"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2246507", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3192591.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3192591.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3192591.jpg"
+            }, 
+            "original_title": "Confessions of a Young American Housewife", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个年轻家庭主妇的自白", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3284116/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036586/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7015.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7015.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7015.jpg"
+                    }, 
+                    "id": "1036586", 
+                    "name": "爱德华·罗宾逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1112718/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1369633849.31.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1369633849.31.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1369633849.31.jpg"
+                    }, 
+                    "id": "1112718", 
+                    "name": "Francis Lederer"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056113/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1427200432.89.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1427200432.89.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1427200432.89.jpg"
+                    }, 
+                    "id": "1056113", 
+                    "name": "乔治·桑德斯"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048326/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52348.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52348.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52348.jpg"
+                    }, 
+                    "id": "1048326", 
+                    "name": "安纳托尔·李维克"
+                }
+            ], 
+            "genres": [], 
+            "id": "3284116", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3344270.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3344270.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3344270.jpg"
+            }, 
+            "original_title": "Confessions of a Nazi Spy", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个纳粹间谍的自白", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5981348/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Brown"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Hunter"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paul Watson"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Brown"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "5981348", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4638856.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4638856.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4638856.jpg"
+            }, 
+            "original_title": "Confessions of an Eco-Terrorist", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个生态恐怖分子的自白", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3753228/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tony Ali"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Zeus Ghadban"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Babak Haleky"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Paperny"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "传记"
+            ], 
+            "id": "3753228", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3800347.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3800347.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3800347.jpg"
+            }, 
+            "original_title": "Confessions Of An Innocent Man", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个无辜者的自白", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3925295/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robin Askwith"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anthony Booth"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Norman Cohen"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3925295", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3935532.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3935532.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3935532.jpg"
+            }, 
+            "original_title": "Confessions of a Driving Instructor", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个驾校教练的自白", 
+            "year": "1976"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4705165/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robin Askwith ...  Timothy Lea"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anthony Booth ...  Sidney Noggett"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill Maynard ...  Mr. Lea"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Norman Cohen"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4705165", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4218843.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4218843.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4218843.jpg"
+            }, 
+            "original_title": "Confessions of a Pop Performer", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个流行歌手的自白", 
+            "year": "1975"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1304239/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eberhard Auriga"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Natja Brunckhorst"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013850/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1907.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1907.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1907.jpg"
+                    }, 
+                    "id": "1013850", 
+                    "name": "大卫·鲍伊"
+                }
+            ], 
+            "collect_count": 2031, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Uli Edel"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情"
+            ], 
+            "id": "1304239", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1646587825.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1646587825.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1646587825.jpg"
+            }, 
+            "original_title": "Christiane F. - Wir Kinder vom Bahnhof Zoo", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "堕落街", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1855282/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019061/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9103.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9103.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9103.jpg"
+                    }, 
+                    "id": "1019061", 
+                    "name": "文森特·普莱斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1120102/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/55605.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/55605.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/55605.jpg"
+                    }, 
+                    "id": "1120102", 
+                    "name": "理查德·洛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002857/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24615.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24615.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24615.jpg"
+                    }, 
+                    "id": "1002857", 
+                    "name": "菲利普·韩"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048529/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1048529", 
+                    "name": "Albert Zugsmith"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1855282", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2677550.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2677550.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2677550.jpg"
+            }, 
+            "original_title": "Confessions of an Opium Eater", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "鸦片吸食者的自白", 
+            "year": "1962"
+        }
+    ], 
+    "title": "搜索 \"一个购物狂的自白\" 的结果", 
+    "total": 16
+}

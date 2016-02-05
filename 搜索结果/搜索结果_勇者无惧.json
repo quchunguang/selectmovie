@@ -1,0 +1,869 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1295802/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34642.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34642.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34642.jpg"
+                    }, 
+                    "id": "1054534", 
+                    "name": "摩根·弗里曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000316/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21484.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21484.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21484.jpg"
+                    }, 
+                    "id": "1000316", 
+                    "name": "奈杰尔·霍桑"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054434/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19182.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19182.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19182.jpg"
+                    }, 
+                    "id": "1054434", 
+                    "name": "安东尼·霍普金斯"
+                }
+            ], 
+            "collect_count": 3418, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054440/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34602.jpg"
+                    }, 
+                    "id": "1054440", 
+                    "name": "史蒂文·斯皮尔伯格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "悬疑"
+            ], 
+            "id": "1295802", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2368324.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2368324.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2368324.jpg"
+            }, 
+            "original_title": "Amistad", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "勇者无惧", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1830573/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曹国辉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "范文芳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "许美珍"
+                }
+            ], 
+            "collect_count": 784, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石铭泉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "冒险", 
+                "动作"
+            ], 
+            "id": "1830573", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2555393.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2555393.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2555393.jpg"
+            }, 
+            "original_title": "勇者无惧", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "勇者无惧", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2130143/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1163752/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2006.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2006.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2006.jpg"
+                    }, 
+                    "id": "1163752", 
+                    "name": "元彪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008125/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3482.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3482.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3482.jpg"
+                    }, 
+                    "id": "1008125", 
+                    "name": "梁家仁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "关德兴"
+                }
+            ], 
+            "collect_count": 388, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "袁和平"
+                }
+            ], 
+            "genres": [], 
+            "id": "2130143", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10293089.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10293089.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10293089.jpg"
+            }, 
+            "original_title": "勇者無懼", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "勇者无惧", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10728463/", 
+            "casts": [], 
+            "collect_count": 38, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王巍"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "动画"
+            ], 
+            "id": "10728463", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11173926.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11173926.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11173926.jpg"
+            }, 
+            "original_title": "超兽武装之勇者无惧", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "超兽武装之勇者无惧", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26387705/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "淼森"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨俊宁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王鸿飞"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318540/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43231.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43231.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43231.jpg"
+                    }, 
+                    "id": "1318540", 
+                    "name": "陶明喜"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "运动"
+            ], 
+            "id": "26387705", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2261865980.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2261865980.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2261865980.jpg"
+            }, 
+            "original_title": "勇者无惧", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "勇者无惧", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5907542/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315650/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33087.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33087.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33087.jpg"
+                    }, 
+                    "id": "1315650", 
+                    "name": "维杰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tamanna Bhatia"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dev Gill"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "S.P. Rajkumar"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "5907542", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6998788.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6998788.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6998788.jpg"
+            }, 
+            "original_title": "Sura", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "勇者无惧之苏拉", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3066293/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041907/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375108245.79.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375108245.79.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375108245.79.jpg"
+                    }, 
+                    "id": "1041907", 
+                    "name": "三桥达也"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019752/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/27056.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/27056.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/27056.jpg"
+                    }, 
+                    "id": "1019752", 
+                    "name": "加藤武"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036413/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1385639211.89.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1385639211.89.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1385639211.89.jpg"
+                    }, 
+                    "id": "1036413", 
+                    "name": "弗兰克·辛纳特拉"
+                }
+            ], 
+            "genres": [], 
+            "id": "3066293", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3078207.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3078207.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3078207.jpg"
+            }, 
+            "original_title": "None But the Brave", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "勇者无惧", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3217169/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5110.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5110.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5110.jpg"
+                    }, 
+                    "id": "1049489", 
+                    "name": "汤姆·哈迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010631/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393134707.77.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393134707.77.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393134707.77.jpg"
+                    }, 
+                    "id": "1010631", 
+                    "name": "乔尔·埃哲顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006989/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22372.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22372.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22372.jpg"
+                    }, 
+                    "id": "1006989", 
+                    "name": "尼克·诺特"
+                }
+            ], 
+            "collect_count": 83260, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1293387/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38749.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38749.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38749.jpg"
+                    }, 
+                    "id": "1293387", 
+                    "name": "加文·欧康诺"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "运动", 
+                "家庭"
+            ], 
+            "id": "3217169", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1145536386.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1145536386.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1145536386.jpg"
+            }, 
+            "original_title": "Warrior", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "勇士", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1578475/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047996/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/262.jpg"
+                    }, 
+                    "id": "1047996", 
+                    "name": "西尔维斯特·史泰龙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048180/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12470.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12470.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12470.jpg"
+                    }, 
+                    "id": "1048180", 
+                    "name": "波特·杨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1183359/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1183359", 
+                    "name": "Antonio Tarver"
+                }
+            ], 
+            "collect_count": 6382, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047996/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/262.jpg"
+                    }, 
+                    "id": "1047996", 
+                    "name": "西尔维斯特·史泰龙"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "运动"
+            ], 
+            "id": "1578475", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1868254.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1868254.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1868254.jpg"
+            }, 
+            "original_title": "Rocky Balboa", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "洛奇6：永远的拳王", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303738/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "温迪·舒玛切尔Alexander Keith"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "萨纳·奥布瑞恩Shauna O'Brien"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杰·理查森Jay Richardson"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "弗莱德·奥伦·雷伊Fred Olen Ray"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "1303738", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2119021339.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2119021339.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2119021339.jpg"
+            }, 
+            "original_title": "Fugitive Rage (V)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "执法精英", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3794322/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈宝国"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王海燕"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "韩童生"
+                }
+            ], 
+            "collect_count": 452, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙文学"
+                }
+            ], 
+            "genres": [
+                "历史", 
+                "战争"
+            ], 
+            "id": "3794322", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2183888407.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2183888407.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2183888407.jpg"
+            }, 
+            "original_title": "勇者无敌", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "勇者无敌", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20254366/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1085455/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20281.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20281.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20281.jpg"
+                    }, 
+                    "id": "1085455", 
+                    "name": "阿贾耶·德乌干"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1182849/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1360479516.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1360479516.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1360479516.97.jpg"
+                    }, 
+                    "id": "1182849", 
+                    "name": "特曼娜·芭蒂亚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1138139/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1354957937.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1354957937.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1354957937.51.jpg"
+                    }, 
+                    "id": "1138139", 
+                    "name": "帕莱什·拉瓦尔"
+                }
+            ], 
+            "collect_count": 33, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014569/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1014569", 
+                    "name": "Sajid Khan"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "20254366", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s22996576.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s22996576.jpg", 
+                "small": "https://img3.doubanio.com/spic/s22996576.jpg"
+            }, 
+            "original_title": "Himmatwala", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "勇者无敌", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10728462/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeff Delany"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill Murray"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Matthias Woelfl"
+                }
+            ], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1203521/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1203521", 
+                    "name": "Justin R. Smith"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "10728462", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9083295.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9083295.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9083295.jpg"
+            }, 
+            "original_title": "Relentless", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "勇者无畏", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5398990/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shô Kosugi"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Booth"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Donna Kei Benz"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gordon Hessler"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作"
+            ], 
+            "id": "5398990", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4566534.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4566534.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4566534.jpg"
+            }, 
+            "original_title": "Pray for Death", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "死亡的祈祷", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1301413/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027851/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23654.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23654.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23654.jpg"
+                    }, 
+                    "id": "1027851", 
+                    "name": "乔治·C·斯科特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025207/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427204447.46.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427204447.46.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427204447.46.jpg"
+                    }, 
+                    "id": "1025207", 
+                    "name": "蒂莫西·赫顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025265/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14286.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14286.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14286.jpg"
+                    }, 
+                    "id": "1025265", 
+                    "name": "罗尼·考克斯"
+                }
+            ], 
+            "collect_count": 224, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027587/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1027587", 
+                    "name": "哈诺德·贝克"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1301413", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8203118.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8203118.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8203118.jpg"
+            }, 
+            "original_title": "Taps", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "熄灯号", 
+            "year": "1981"
+        }
+    ], 
+    "title": "搜索 \"勇者无惧\" 的结果", 
+    "total": 15
+}

@@ -1,0 +1,704 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1300267/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006997/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5290.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5290.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5290.jpg"
+                    }, 
+                    "id": "1006997", 
+                    "name": "克拉克·盖博"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010506/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3151.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3151.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3151.jpg"
+                    }, 
+                    "id": "1010506", 
+                    "name": "费雯·丽"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000293/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3806.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3806.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3806.jpg"
+                    }, 
+                    "id": "1000293", 
+                    "name": "莱斯利·霍华德"
+                }
+            ], 
+            "collect_count": 311998, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032275/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11303.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11303.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11303.jpg"
+                    }, 
+                    "id": "1032275", 
+                    "name": "维克多·弗莱明"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010711/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19067.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19067.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19067.jpg"
+                    }, 
+                    "id": "1010711", 
+                    "name": "乔治·库克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012588/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/54831.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/54831.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/54831.jpg"
+                    }, 
+                    "id": "1012588", 
+                    "name": "山姆·伍德"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "1300267", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1963126880.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1963126880.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
+            }, 
+            "original_title": "Gone with the Wind", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "乱世佳人", 
+            "year": "1939"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6869384/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274479/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48044.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48044.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48044.jpg"
+                    }, 
+                    "id": "1274479", 
+                    "name": "唐嫣"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047528/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4302.jpg"
+                    }, 
+                    "id": "1047528", 
+                    "name": "陈键锋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1276171/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39928.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39928.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39928.jpg"
+                    }, 
+                    "id": "1276171", 
+                    "name": "罗晋"
+                }
+            ], 
+            "collect_count": 1444, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318119/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42287.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42287.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42287.jpg"
+                    }, 
+                    "id": "1318119", 
+                    "name": "吴锦源"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1348949/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1348949", 
+                    "name": "陈国华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1337213/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1441701732.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1441701732.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1441701732.34.jpg"
+                    }, 
+                    "id": "1337213", 
+                    "name": "朱少杰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "6869384", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2160155256.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2160155256.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2160155256.jpg"
+            }, 
+            "original_title": "乱世佳人", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "乱世佳人", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3642291/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274764/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46557.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46557.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46557.jpg"
+                    }, 
+                    "id": "1274764", 
+                    "name": "吴卓羲"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1043040/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/54945.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/54945.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/54945.jpg"
+                    }, 
+                    "id": "1043040", 
+                    "name": "胡杏儿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275332/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11832.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11832.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11832.jpg"
+                    }, 
+                    "id": "1275332", 
+                    "name": "陈锦鸿"
+                }
+            ], 
+            "collect_count": 1221, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320095/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50512.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50512.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50512.jpg"
+                    }, 
+                    "id": "1320095", 
+                    "name": "庄伟建"
+                }
+            ], 
+            "genres": [
+                "历史", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "3642291", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2396390.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2396390.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2396390.jpg"
+            }, 
+            "original_title": "亂世佳人", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "乱世佳人", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2296657/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006142/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1352719240.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1352719240.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1352719240.17.jpg"
+                    }, 
+                    "id": "1006142", 
+                    "name": "恬妞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028943/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2333.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2333.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2333.jpg"
+                    }, 
+                    "id": "1028943", 
+                    "name": "汤镇业"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315503/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1362444747.46.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1362444747.46.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1362444747.46.jpg"
+                    }, 
+                    "id": "1315503", 
+                    "name": "杨旻娜"
+                }
+            ], 
+            "collect_count": 1434, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318406/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45487.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45487.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45487.jpg"
+                    }, 
+                    "id": "1318406", 
+                    "name": "杨文军"
+                }
+            ], 
+            "genres": [], 
+            "id": "2296657", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7055452.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7055452.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7055452.jpg"
+            }, 
+            "original_title": "新乱世佳人", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "新乱世佳人", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26666117/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郑孟霞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张活游"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱普泉"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "梅凌霄"
+                }
+            ], 
+            "genres": [], 
+            "id": "26666117", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "乱世佳人", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "乱世佳人", 
+            "year": "1941"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26426011/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317484/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40009.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40009.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40009.jpg"
+                    }, 
+                    "id": "1317484", 
+                    "name": "王献斋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318665/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43903.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43903.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43903.jpg"
+                    }, 
+                    "id": "1318665", 
+                    "name": "陈云裳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1030875/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38646.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38646.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38646.jpg"
+                    }, 
+                    "id": "1030875", 
+                    "name": "刘琼"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319400/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46896.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46896.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46896.jpg"
+                    }, 
+                    "id": "1319400", 
+                    "name": "张善琨 "
+                }
+            ], 
+            "genres": [], 
+            "id": "26426011", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "乱世佳人", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "乱世佳人", 
+            "year": "1941"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1793122/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049618/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28951.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28951.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28951.jpg"
+                    }, 
+                    "id": "1049618", 
+                    "name": "琼妮·威利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002699/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23796.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23796.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23796.jpg"
+                    }, 
+                    "id": "1002699", 
+                    "name": "提摩西·道尔顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002683/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53.jpg"
+                    }, 
+                    "id": "1002683", 
+                    "name": "肖恩·宾"
+                }
+            ], 
+            "collect_count": 391, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025552/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1025552", 
+                    "name": "约翰·厄曼"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1793122", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1663553.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1663553.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1663553.jpg"
+            }, 
+            "original_title": "Scarlett", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "斯佳丽", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26555978/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1059553/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2941.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2941.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2941.jpg"
+                    }, 
+                    "id": "1059553", 
+                    "name": "天海祐希"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "麻乃佳世"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "真琴つばさ"
+                }
+            ], 
+            "collect_count": 27, 
+            "directors": [], 
+            "genres": [
+                "爱情", 
+                "歌舞"
+            ], 
+            "id": "26555978", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2256610543.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2256610543.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2256610543.jpg"
+            }, 
+            "original_title": "風と共に去りぬ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "飄", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26357395/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322293/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368421580.22.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368421580.22.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368421580.22.jpg"
+                    }, 
+                    "id": "1322293", 
+                    "name": "王菁华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1290393/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38670.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38670.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38670.jpg"
+                    }, 
+                    "id": "1290393", 
+                    "name": "吕晓禾"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1034896/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3022.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3022.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3022.jpg"
+                    }, 
+                    "id": "1034896", 
+                    "name": "李明启"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26357395", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "边关丽人陈圆圆", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "边关丽人陈圆圆", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1521917/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002697/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24734.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24734.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24734.jpg"
+                    }, 
+                    "id": "1002697", 
+                    "name": "莎侬·多赫提"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055057/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40843.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40843.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40843.jpg"
+                    }, 
+                    "id": "1055057", 
+                    "name": "戴尔·米德基夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009616/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8791.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8791.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8791.jpg"
+                    }, 
+                    "id": "1009616", 
+                    "name": "马特·穆尔赫恩"
+                }
+            ], 
+            "collect_count": 141, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002972/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1002972", 
+                    "name": "拉里·皮尔斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记"
+            ], 
+            "id": "1521917", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4461243.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4461243.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4461243.jpg"
+            }, 
+            "original_title": "A Burning Passion: The Margaret Mitchell Story", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "玛格里特·米切尔传", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1440212/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frigyes Godros"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1440212", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1457417.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1457417.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1457417.jpg"
+            }, 
+            "original_title": "glamour/乱世家人", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "glamour/乱世家人", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"乱世佳人\" 的结果", 
+    "total": 11
+}

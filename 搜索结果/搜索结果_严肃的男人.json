@@ -1,0 +1,1210 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3135483/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009409/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26670.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26670.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26670.jpg"
+                    }, 
+                    "id": "1009409", 
+                    "name": "迈克尔·斯图巴"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041144/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24463.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24463.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24463.jpg"
+                    }, 
+                    "id": "1041144", 
+                    "name": "理查德·坎德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045154/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390527960.57.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390527960.57.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390527960.57.jpg"
+                    }, 
+                    "id": "1045154", 
+                    "name": "弗雷德·迈拉麦德"
+                }
+            ], 
+            "collect_count": 19012, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054401/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378003599.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378003599.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378003599.02.jpg"
+                    }, 
+                    "id": "1054401", 
+                    "name": "伊桑·科恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054517/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378003189.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378003189.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378003189.3.jpg"
+                    }, 
+                    "id": "1054517", 
+                    "name": "乔尔·科恩"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3135483", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3922380.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3922380.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3922380.jpg"
+            }, 
+            "original_title": "A Serious Man", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "严肃的男人", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25864161/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1208399/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37596.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37596.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37596.jpg"
+                    }, 
+                    "id": "1208399", 
+                    "name": "刘恺威"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317113/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46584.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46584.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46584.jpg"
+                    }, 
+                    "id": "1317113", 
+                    "name": "李东学"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275765/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1419496666.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1419496666.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1419496666.49.jpg"
+                    }, 
+                    "id": "1275765", 
+                    "name": "郑爽"
+                }
+            ], 
+            "collect_count": 1598, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴锦源"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "25864161", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2235542762.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2235542762.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2235542762.jpg"
+            }, 
+            "original_title": "抓住彩虹的男人", 
+            "rating": {
+                "average": 4.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "tv", 
+            "title": "抓住彩虹的男人", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10561898/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314862/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1414853758.06.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1414853758.06.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1414853758.06.jpg"
+                    }, 
+                    "id": "1314862", 
+                    "name": "刘仁娜"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312695/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48666.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48666.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48666.jpg"
+                    }, 
+                    "id": "1312695", 
+                    "name": "池贤宇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321389/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50562.jpg"
+                    }, 
+                    "id": "1321389", 
+                    "name": "金镇宇"
+                }
+            ], 
+            "collect_count": 43542, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320671/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1394097388.64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1394097388.64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1394097388.64.jpg"
+                    }, 
+                    "id": "1320671", 
+                    "name": "金秉洙 "
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "10561898", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1606696394.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1606696394.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1606696394.jpg"
+            }, 
+            "original_title": "인현왕후의 남자", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "仁显王后的男人", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10744808/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274931/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11121.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11121.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11121.jpg"
+                    }, 
+                    "id": "1274931", 
+                    "name": "宋仲基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275775/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11647.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11647.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11647.jpg"
+                    }, 
+                    "id": "1275775", 
+                    "name": "文彩元"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1236364/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43865.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43865.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43865.jpg"
+                    }, 
+                    "id": "1236364", 
+                    "name": "朴诗妍"
+                }
+            ], 
+            "collect_count": 19382, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金震源"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10744808", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1697130352.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1697130352.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1697130352.jpg"
+            }, 
+            "original_title": "세상 어디에도 없는 착한남자", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "善良的男人", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2335724/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1095317/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1095317", 
+                    "name": "László Gálffi"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1111963/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1111963", 
+                    "name": "Éva Kerekes"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1215676/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1215676", 
+                    "name": "Dávid Szabó"
+                }
+            ], 
+            "collect_count": 598, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048827/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1048827", 
+                    "name": "Károly Esztergályos"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "2335724", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3847723.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3847723.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3847723.jpg"
+            }, 
+            "original_title": "Férfiakt", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "裸体的男人", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2160933/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012581/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1551.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1551.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1551.jpg"
+                    }, 
+                    "id": "1012581", 
+                    "name": "阿部宽"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018741/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10548.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10548.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10548.jpg"
+                    }, 
+                    "id": "1018741", 
+                    "name": "夏川结衣"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1220791/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51410.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51410.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51410.jpg"
+                    }, 
+                    "id": "1220791", 
+                    "name": "国仲凉子"
+                }
+            ], 
+            "collect_count": 17630, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "三宅喜重"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275377/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1275377", 
+                    "name": "小松隆志"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "植田尚"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "2160933", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4166140.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4166140.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4166140.jpg"
+            }, 
+            "original_title": "結婚できない男", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "不能结婚的男人", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25698722/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1306206/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40888.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40888.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40888.jpg"
+                    }, 
+                    "id": "1306206", 
+                    "name": "金秀贤"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035649/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1355672020.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1355672020.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1355672020.61.jpg"
+                    }, 
+                    "id": "1035649", 
+                    "name": "全智贤"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275146/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38893.jpg"
+                    }, 
+                    "id": "1275146", 
+                    "name": "朴海镇"
+                }
+            ], 
+            "collect_count": 114716, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324449/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1388897453.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1388897453.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1388897453.26.jpg"
+                    }, 
+                    "id": "1324449", 
+                    "name": "张太维"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "25698722", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2163020178.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2163020178.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2163020178.jpg"
+            }, 
+            "original_title": "별에서 온 그대", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "来自星星的你", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2300586/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1149041/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7931.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7931.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7931.jpg"
+                    }, 
+                    "id": "1149041", 
+                    "name": "大卫·李·史密斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036498/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1351888948.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1351888948.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1351888948.42.jpg"
+                    }, 
+                    "id": "1036498", 
+                    "name": "托尼·托德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048182/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6186.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6186.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6186.jpg"
+                    }, 
+                    "id": "1048182", 
+                    "name": "约翰·比灵斯列"
+                }
+            ], 
+            "collect_count": 160334, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032461/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22324.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22324.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22324.jpg"
+                    }, 
+                    "id": "1032461", 
+                    "name": "理查德·沙因克曼"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "2300586", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p513303986.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p513303986.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513303986.jpg"
+            }, 
+            "original_title": "The Man from Earth", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "这个男人来自地球", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6845529/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315458/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/59187.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/59187.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/59187.jpg"
+                    }, 
+                    "id": "1315458", 
+                    "name": "维卡·克里克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1290629/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/59298.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/59298.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/59298.jpg"
+                    }, 
+                    "id": "1290629", 
+                    "name": "伊里·马哈塞克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025488/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27118.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27118.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27118.jpg"
+                    }, 
+                    "id": "1025488", 
+                    "name": "波莱克·波利夫卡"
+                }
+            ], 
+            "collect_count": 14589, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1046174/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24803.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24803.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24803.jpg"
+                    }, 
+                    "id": "1046174", 
+                    "name": "伊力·维伊德雷克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "6845529", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1292086639.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1292086639.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1292086639.jpg"
+            }, 
+            "original_title": "Muži v naději", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "有希望的男人", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2978184/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016679/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/159.jpg"
+                    }, 
+                    "id": "1016679", 
+                    "name": "梅格·瑞恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025207/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427204447.46.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427204447.46.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427204447.46.jpg"
+                    }, 
+                    "id": "1025207", 
+                    "name": "蒂莫西·赫顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017904/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3804.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3804.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3804.jpg"
+                    }, 
+                    "id": "1017904", 
+                    "name": "贾斯汀·朗"
+                }
+            ], 
+            "collect_count": 5358, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049597/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14304.jpg"
+                    }, 
+                    "id": "1049597", 
+                    "name": "切瑞·海恩斯"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪", 
+                "爱情"
+            ], 
+            "id": "2978184", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4101676.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4101676.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4101676.jpg"
+            }, 
+            "original_title": "Serious Moonlight", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "严肃的月光", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3628791/", 
+            "casts": [], 
+            "collect_count": 27, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jacinto Esteva"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1109744/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1109744", 
+                    "name": "约奎姆·约达"
+                }
+            ], 
+            "genres": [], 
+            "id": "3628791", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3689625.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3689625.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3689625.jpg"
+            }, 
+            "original_title": "Dante no es únicamente severo", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "但丁不只是严肃的", 
+            "year": "1967"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21767208/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036630/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32309.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32309.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32309.jpg"
+                    }, 
+                    "id": "1036630", 
+                    "name": "浅野忠信"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315736/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34727.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34727.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34727.jpg"
+                    }, 
+                    "id": "1315736", 
+                    "name": "二阶堂富美"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312756/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33410.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33410.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33410.jpg"
+                    }, 
+                    "id": "1312756", 
+                    "name": "茂吕师冈"
+                }
+            ], 
+            "collect_count": 3425, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050733/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18961.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18961.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18961.jpg"
+                    }, 
+                    "id": "1050733", 
+                    "name": "熊切和嘉"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "21767208", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2179692402.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2179692402.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2179692402.jpg"
+            }, 
+            "original_title": "私の男", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "我的男人", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1466394/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1209336/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14148.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14148.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14148.jpg"
+                    }, 
+                    "id": "1209336", 
+                    "name": "甘宇成"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1205325/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11407.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11407.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11407.jpg"
+                    }, 
+                    "id": "1205325", 
+                    "name": "李准基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029108/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1373797495.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1373797495.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1373797495.97.jpg"
+                    }, 
+                    "id": "1029108", 
+                    "name": "郑镇荣"
+                }
+            ], 
+            "collect_count": 71012, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028844/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1451911358.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1451911358.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1451911358.49.jpg"
+                    }, 
+                    "id": "1028844", 
+                    "name": "李濬益"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "惊悚"
+            ], 
+            "id": "1466394", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1215210537.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1215210537.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1215210537.jpg"
+            }, 
+            "original_title": "왕의남자", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "王的男人", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4172534/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "侯耀文"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王馥荔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316688/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37138.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37138.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37138.jpg"
+                    }, 
+                    "id": "1316688", 
+                    "name": "郭冬临"
+                }
+            ], 
+            "collect_count": 865, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323848/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/57351.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/57351.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/57351.jpg"
+                    }, 
+                    "id": "1323848", 
+                    "name": "王为一"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "科幻"
+            ], 
+            "id": "4172534", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9067130.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9067130.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9067130.jpg"
+            }, 
+            "original_title": "男人的世界", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "男人的世界", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1440529/", 
+            "casts": [], 
+            "collect_count": 51, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037203/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11958.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11958.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11958.jpg"
+                    }, 
+                    "id": "1037203", 
+                    "name": "奥图罗·利普斯坦"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1440529", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1457788.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1457788.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1457788.jpg"
+            }, 
+            "original_title": "男人的毁灭", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "男人的毁灭", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2272249/", 
+            "casts": [], 
+            "collect_count": 46, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1329738/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1374930702.96.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1374930702.96.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1374930702.96.jpg"
+                    }, 
+                    "id": "1329738", 
+                    "name": "刘呐鸥"
+                }
+            ], 
+            "genres": [], 
+            "id": "2272249", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2732172.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2732172.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2732172.jpg"
+            }, 
+            "original_title": "持摄影机的男人", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "持摄影机的男人", 
+            "year": "1933"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25707490/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "韩木墩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴阳欣蔚"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周星星"
+                }
+            ], 
+            "collect_count": 136, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周星星"
+                }
+            ], 
+            "genres": [], 
+            "id": "25707490", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2102620335.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2102620335.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2102620335.jpg"
+            }, 
+            "original_title": "男人的秘密", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "男人的秘密", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25851818/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "翟强"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱胜建"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "叶肖"
+                }
+            ], 
+            "collect_count": 25, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周文"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "情色"
+            ], 
+            "id": "25851818", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2175645011.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2175645011.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2175645011.jpg"
+            }, 
+            "original_title": "男人的房事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "男人的房事", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3546105/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林強"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蘇慧倫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蕭淑慎"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林正盛"
+                }
+            ], 
+            "genres": [], 
+            "id": "3546105", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3606995.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3606995.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3606995.jpg"
+            }, 
+            "original_title": "一個住飯店的男人", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一個住飯店的男人", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6527297/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "应采儿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胡健"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于和伟"
+                }
+            ], 
+            "collect_count": 26, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨小雄"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6527297", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9066784.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9066784.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9066784.jpg"
+            }, 
+            "original_title": "男人的战争", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "男人的战争", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"严肃的男人\" 的结果", 
+    "total": 389
+}

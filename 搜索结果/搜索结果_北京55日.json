@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1477284/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027817/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14387.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14387.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14387.jpg"
+                    }, 
+                    "id": "1027817", 
+                    "name": "查尔登·海斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013886/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58599.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58599.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58599.jpg"
+                    }, 
+                    "id": "1013886", 
+                    "name": "艾娃·加德纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032024/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6714.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6714.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6714.jpg"
+                    }, 
+                    "id": "1032024", 
+                    "name": "大卫·尼文"
+                }
+            ], 
+            "collect_count": 584, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022811/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5413.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5413.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5413.jpg"
+                    }, 
+                    "id": "1022811", 
+                    "name": "尼古拉斯·雷"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "1477284", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2170564680.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2170564680.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2170564680.jpg"
+            }, 
+            "original_title": "55 Days at Peking", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "北京55日", 
+            "year": "1963"
+        }
+    ], 
+    "title": "搜索 \"北京55日\" 的结果", 
+    "total": 1
+}

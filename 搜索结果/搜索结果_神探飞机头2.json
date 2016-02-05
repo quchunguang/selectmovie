@@ -1,0 +1,1227 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292829/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054438/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/615.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/615.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/615.jpg"
+                    }, 
+                    "id": "1054438", 
+                    "name": "金·凯瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25081.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25081.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25081.jpg"
+                    }, 
+                    "id": "1040995", 
+                    "name": "柯特妮·考克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041118/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36109.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36109.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36109.jpg"
+                    }, 
+                    "id": "1041118", 
+                    "name": "肖恩·杨"
+                }
+            ], 
+            "collect_count": 28094, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036781/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25071.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25071.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25071.jpg"
+                    }, 
+                    "id": "1036781", 
+                    "name": "汤姆·沙迪亚克"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "悬疑"
+            ], 
+            "id": "1292829", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2134987523.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2134987523.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2134987523.jpg"
+            }, 
+            "original_title": "Ace Ventura: Pet Detective", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "神探飞机头", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292977/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054438/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/615.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/615.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/615.jpg"
+                    }, 
+                    "id": "1054438", 
+                    "name": "金·凯瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027908/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25196.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25196.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25196.jpg"
+                    }, 
+                    "id": "1027908", 
+                    "name": "伊恩·麦克尼奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32826.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32826.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32826.jpg"
+                    }, 
+                    "id": "1019096", 
+                    "name": "西蒙·卡洛"
+                }
+            ], 
+            "collect_count": 12791, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036613/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25072.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25072.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25072.jpg"
+                    }, 
+                    "id": "1036613", 
+                    "name": "史蒂夫·欧德科克"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "喜剧"
+            ], 
+            "id": "1292977", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1434432.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1434432.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1434432.jpg"
+            }, 
+            "original_title": "Ace Ventura: When Nature Calls", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "神探飞机头2", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2133289/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049971/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46732.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46732.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46732.jpg"
+                    }, 
+                    "id": "1049971", 
+                    "name": "乔什·佛雷特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036887/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1372143686.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1372143686.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1372143686.99.jpg"
+                    }, 
+                    "id": "1036887", 
+                    "name": "艾玛·洛克哈特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1197101/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1197101", 
+                    "name": "Austin Rogers"
+                }
+            ], 
+            "collect_count": 1131, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027554/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55943.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55943.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55943.jpg"
+                    }, 
+                    "id": "1027554", 
+                    "name": "大卫·M·埃文斯"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "2133289", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10279753.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10279753.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10279753.jpg"
+            }, 
+            "original_title": "Ace Ventura: Pet Detective Jr.", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "神探飞机头3", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4306486/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵炜林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "古嘉露"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胡大为"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赖建国"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4306486", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4259934.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4259934.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4259934.jpg"
+            }, 
+            "original_title": "涼茶馬尾飛機頭", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "凉茶马尾飞机头", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1900475/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1284881/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1284881", 
+                    "name": "Eric Gilliland"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036448/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6115.jpg"
+                    }, 
+                    "id": "1036448", 
+                    "name": "萨拉·西尔弗曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1258.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1258.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1258.jpg"
+                    }, 
+                    "id": "1040534", 
+                    "name": "德蒙特·莫罗尼"
+                }
+            ], 
+            "collect_count": 79, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048350/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43722.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43722.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43722.jpg"
+                    }, 
+                    "id": "1048350", 
+                    "name": "比尔·普莱姆顿"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "1900475", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2165154265.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2165154265.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2165154265.jpg"
+            }, 
+            "original_title": "Hair High", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "飞机头", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6522269/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009405/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41072.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41072.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41072.jpg"
+                    }, 
+                    "id": "1009405", 
+                    "name": "本尼迪克特·康伯巴奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049612/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35443.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35443.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35443.jpg"
+                    }, 
+                    "id": "1049612", 
+                    "name": "马丁·弗瑞曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009379/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29228.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29228.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29228.jpg"
+                    }, 
+                    "id": "1009379", 
+                    "name": "鲁珀特·格雷夫斯"
+                }
+            ], 
+            "collect_count": 183358, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055546/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33482.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33482.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33482.jpg"
+                    }, 
+                    "id": "1055546", 
+                    "name": "保罗·麦奎根"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1307741/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1435589208.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1435589208.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1435589208.97.jpg"
+                    }, 
+                    "id": "1307741", 
+                    "name": "托比·海恩斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "犯罪"
+            ], 
+            "id": "6522269", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2153367599.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2153367599.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2153367599.jpg"
+            }, 
+            "original_title": "Sherlock ", 
+            "rating": {
+                "average": 9.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "tv", 
+            "title": "神探夏洛克  第二季", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24827612/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031819/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54463.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54463.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54463.jpg"
+                    }, 
+                    "id": "1031819", 
+                    "name": "朱丽·鲍温"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031863/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2089.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2089.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2089.jpg"
+                    }, 
+                    "id": "1031863", 
+                    "name": "戴恩·库克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048024/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/277.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/277.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/277.jpg"
+                    }, 
+                    "id": "1048024", 
+                    "name": "艾德·哈里斯"
+                }
+            ], 
+            "collect_count": 2873, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1284475/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1284475", 
+                    "name": "罗伯茨·甘纳韦"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "动画"
+            ], 
+            "id": "24827612", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2206343261.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2206343261.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2206343261.jpg"
+            }, 
+            "original_title": "Planes: Fire and Rescue", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "飞机总动员2：火线救援", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3264324/", 
+            "casts": [], 
+            "collect_count": 1015, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "富永恒雄"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "动画"
+            ], 
+            "id": "3264324", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3322079.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3322079.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3322079.jpg"
+            }, 
+            "original_title": "頭文字D Extra Stage 2", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "头文字D 新OVA 启程之绿", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1758363/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028544/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1452157890.22.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1452157890.22.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1452157890.22.jpg"
+                    }, 
+                    "id": "1028544", 
+                    "name": "郑俊浩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郑云宅"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郑雄仁"
+                }
+            ], 
+            "collect_count": 2886, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金东元"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧"
+            ], 
+            "id": "1758363", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p797041012.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p797041012.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p797041012.jpg"
+            }, 
+            "original_title": "투사부일체", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "头师父一体2", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25884461/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1260279/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1260279", 
+                    "name": "杰森·王"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1341986/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1341986", 
+                    "name": "阿姆尔·艾尔-贝尤明"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1267680/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1267680", 
+                    "name": "杰西·加西亚"
+                }
+            ], 
+            "collect_count": 2899, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000599/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1353748871.01.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1353748871.01.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1353748871.01.jpg"
+                    }, 
+                    "id": "1000599", 
+                    "name": "唐·迈克尔·保罗"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "25884461", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2191101554.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2191101554.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2191101554.jpg"
+            }, 
+            "original_title": "Jarhead 2: Field of Fire", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "锅盖头2", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2377277/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275492/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11268.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11268.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11268.jpg"
+                    }, 
+                    "id": "1275492", 
+                    "name": "梁冠华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275912/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19971.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19971.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19971.jpg"
+                    }, 
+                    "id": "1275912", 
+                    "name": "张子健"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274711/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1416386104.88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1416386104.88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1416386104.88.jpg"
+                    }, 
+                    "id": "1274711", 
+                    "name": "吕中"
+                }
+            ], 
+            "collect_count": 5991, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314561/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24996.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24996.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24996.jpg"
+                    }, 
+                    "id": "1314561", 
+                    "name": "钱雁秋"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "悬疑"
+            ], 
+            "id": "2377277", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2242225308.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2242225308.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2242225308.jpg"
+            }, 
+            "original_title": "神探狄仁杰2", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "神探狄仁杰2", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25708544/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275537/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1417873574.38.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1417873574.38.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1417873574.38.jpg"
+                    }, 
+                    "id": "1275537", 
+                    "name": "张铎"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王凯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胡宇威"
+                }
+            ], 
+            "collect_count": 16, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林合隆"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胡储玺"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蓝海瀚"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "25708544", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2220791431.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2220791431.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2220791431.jpg"
+            }, 
+            "original_title": "新神探联盟2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "新神探联盟2", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25932425/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "包星星"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘雪莲"
+                }
+            ], 
+            "genres": [], 
+            "id": "25932425", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2227581493.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2227581493.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2227581493.jpg"
+            }, 
+            "original_title": "神探包星星 第2季", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "神探包星星 第2季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4051753/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016681/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4938.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4938.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4938.jpg"
+                    }, 
+                    "id": "1016681", 
+                    "name": "小罗伯特·唐尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010510/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/107.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/107.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/107.jpg"
+                    }, 
+                    "id": "1010510", 
+                    "name": "裘德·洛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/538.jpg"
+                    }, 
+                    "id": "1053587", 
+                    "name": "瑞秋·麦克亚当斯"
+                }
+            ], 
+            "collect_count": 161278, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025148/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38048.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38048.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38048.jpg"
+                    }, 
+                    "id": "1025148", 
+                    "name": "盖·里奇"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "4051753", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1327387815.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1327387815.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1327387815.jpg"
+            }, 
+            "original_title": "Sherlock Holmes: A Game of Shadows", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大侦探福尔摩斯2：诡影游戏", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305096/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054223/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6685.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6685.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6685.jpg"
+                    }, 
+                    "id": "1054223", 
+                    "name": "莱斯利·尼尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018048/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36907.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36907.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36907.jpg"
+                    }, 
+                    "id": "1018048", 
+                    "name": "普瑞希拉·普雷斯利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007031/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16503.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16503.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16503.jpg"
+                    }, 
+                    "id": "1007031", 
+                    "name": "乔治·肯尼迪"
+                }
+            ], 
+            "collect_count": 5186, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027924/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21832.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21832.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21832.jpg"
+                    }, 
+                    "id": "1027924", 
+                    "name": "大卫·扎克"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "1305096", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1036751766.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1036751766.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1036751766.jpg"
+            }, 
+            "original_title": "The Naked Gun 2½: The Smell of Fear", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "白头神探2½：恐怖的气味", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3011370/", 
+            "casts": [], 
+            "collect_count": 686, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "奇幻"
+            ], 
+            "id": "3011370", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9126775.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9126775.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9126775.jpg"
+            }, 
+            "original_title": "Constantine 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "地狱神探2", 
+            "year": "2020"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308937/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1152858/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25055.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25055.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25055.jpg"
+                    }, 
+                    "id": "1152858", 
+                    "name": "弗伦奇·斯图尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013892/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27128.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27128.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27128.jpg"
+                    }, 
+                    "id": "1013892", 
+                    "name": "伊莲·亨德里克斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tony Martin"
+                }
+            ], 
+            "collect_count": 622, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "亚历克斯 赞姆 (Alex Zamm)"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "1308937", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1671838.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1671838.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1671838.jpg"
+            }, 
+            "original_title": "Inspector Gadget 2", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "神探加吉特2", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6557017/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄子华"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蔡少芬"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈豪"
+                }
+            ], 
+            "collect_count": 27, 
+            "directors": [], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6557017", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "棟篤神探II", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "栋笃神探2", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10555288/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049632/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12426.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12426.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12426.jpg"
+                    }, 
+                    "id": "1049632", 
+                    "name": "彼得·法尔克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041192/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16108.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16108.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16108.jpg"
+                    }, 
+                    "id": "1041192", 
+                    "name": "李·格兰特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1083786/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1083786", 
+                    "name": "John Fink"
+                }
+            ], 
+            "collect_count": 53, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008290/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1008290", 
+                    "name": "理查德·欧文"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "10555288", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s8985365.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s8985365.jpg", 
+                "small": "https://img3.doubanio.com/spic/s8985365.jpg"
+            }, 
+            "original_title": "Columbo: Ransom for a Dead Man", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "神探可伦坡(试播集2)：杀夫奇谋", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4061061/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000845/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2021.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2021.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2021.jpg"
+                    }, 
+                    "id": "1000845", 
+                    "name": "山下智久"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018562/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1747.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1747.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1747.jpg"
+                    }, 
+                    "id": "1018562", 
+                    "name": "新垣结衣"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023151/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1949.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1949.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1949.jpg"
+                    }, 
+                    "id": "1023151", 
+                    "name": "户田惠梨香"
+                }
+            ], 
+            "collect_count": 14055, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320369/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320369", 
+                    "name": "西浦正记 "
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "葉山浩樹"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4061061", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2171733008.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2171733008.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2171733008.jpg"
+            }, 
+            "original_title": "コード・ブルー～ドクターヘリ緊急救命 2nd season", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "紧急救命2", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"神探飞机头2\" 的结果", 
+    "total": 39
+}

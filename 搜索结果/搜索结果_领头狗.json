@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1484218/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040512/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2150.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2150.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2150.jpg"
+                    }, 
+                    "id": "1040512", 
+                    "name": "本·福斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040998/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13595.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13595.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13595.jpg"
+                    }, 
+                    "id": "1040998", 
+                    "name": "埃米尔·赫斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013815/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1438703546.25.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1438703546.25.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1438703546.25.jpg"
+                    }, 
+                    "id": "1013815", 
+                    "name": "肖恩·海托西"
+                }
+            ], 
+            "collect_count": 5093, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017986/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4985.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4985.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4985.jpg"
+                    }, 
+                    "id": "1017986", 
+                    "name": "尼克·卡索维茨"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1484218", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2632501.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2632501.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2632501.jpg"
+            }, 
+            "original_title": "Alpha Dog", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "阿尔法狗", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"领头狗\" 的结果", 
+    "total": 1
+}

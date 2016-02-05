@@ -1,0 +1,519 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/20453772/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013760/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18772.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18772.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18772.jpg"
+                    }, 
+                    "id": "1013760", 
+                    "name": "杰森·贝特曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022649/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36102.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36102.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36102.jpg"
+                    }, 
+                    "id": "1022649", 
+                    "name": "凯瑟琳·哈恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1331237/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1413647441.35.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1413647441.35.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1413647441.35.jpg"
+                    }, 
+                    "id": "1331237", 
+                    "name": "阿曼达·安卡"
+                }
+            ], 
+            "collect_count": 4118, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013760/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18772.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18772.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18772.jpg"
+                    }, 
+                    "id": "1013760", 
+                    "name": "杰森·贝特曼"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "20453772", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2167578948.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2167578948.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2167578948.jpg"
+            }, 
+            "original_title": "Bad Words", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "脏话", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4821379/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002704/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1094.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1094.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1094.jpg"
+                    }, 
+                    "id": "1002704", 
+                    "name": "威廉·夏特纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055665/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5496.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5496.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5496.jpg"
+                    }, 
+                    "id": "1055665", 
+                    "name": "妮可·沙利文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1202232/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20611.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20611.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20611.jpg"
+                    }, 
+                    "id": "1202232", 
+                    "name": "乔纳森·萨多斯基"
+                }
+            ], 
+            "collect_count": 7265, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1074159/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7590.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7590.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7590.jpg"
+                    }, 
+                    "id": "1074159", 
+                    "name": "詹姆斯·伯罗斯"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4821379", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p640180338.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p640180338.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p640180338.jpg"
+            }, 
+            "original_title": "$#*! My Dad Says", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "老爸说脏话", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2127511/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gordon Ramsay"
+                }
+            ], 
+            "collect_count": 131, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Bond"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Natalie Burke"
+                }
+            ], 
+            "genres": [], 
+            "id": "2127511", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2771315.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2771315.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2771315.jpg"
+            }, 
+            "original_title": "Gordon Ramsay's F Word", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "地狱大厨之脏话连篇", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308875/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016680/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19519.jpg"
+                    }, 
+                    "id": "1016680", 
+                    "name": "海伦娜·伯翰·卡特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gina McKee"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eileen Atkins"
+                }
+            ], 
+            "collect_count": 19, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Coky Giedroyc"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1308875", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1746967.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1746967.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1746967.jpg"
+            }, 
+            "original_title": "Women Talking Dirty", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "女人讲脏话", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2080387/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tania Emery"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ricci Harnett"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1115889/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1407408072.78.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1407408072.78.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1407408072.78.jpg"
+                    }, 
+                    "id": "1115889", 
+                    "name": "凯莉·马塞尔"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Simon Rumley"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "2080387", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6644449.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6644449.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6644449.jpg"
+            }, 
+            "original_title": "Strong Language", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "脏话连篇", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3228352/", 
+            "casts": [], 
+            "collect_count": 1768, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christy Karacas"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aaron Augenblick"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "3228352", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4705917.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4705917.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4705917.jpg"
+            }, 
+            "original_title": "Superjail!", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "暴力监狱 第一季", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3474211/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dougray Scott"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sophie Okonedo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ian Hart"
+                }
+            ], 
+            "collect_count": 52, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brian Kirk"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "3474211", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4436654.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4436654.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4436654.jpg"
+            }, 
+            "original_title": "Father & Son", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "父与子", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2030535/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Unknown Hinson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Daniel McDevitt"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Charles Napier"
+                }
+            ], 
+            "collect_count": 92, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jim Fortier"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Matt Maiellaro"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "2030535", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2631568.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2631568.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2631568.jpg"
+            }, 
+            "original_title": "Squidbillies", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "鱿鱼仔的乡土生活 第一季", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2286490/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Strange"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nathan Lewis"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joey Ansa"
+                }
+            ], 
+            "collect_count": 140, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chee Keong Cheung"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "2286490", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2747926.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2747926.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2747926.jpg"
+            }, 
+            "original_title": "Underground", 
+            "rating": {
+                "average": 4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "地下决战", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20326430/", 
+            "casts": [], 
+            "collect_count": 11, 
+            "directors": [], 
+            "genres": [], 
+            "id": "20326430", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s25798767.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s25798767.jpg", 
+                "small": "https://img1.doubanio.com/spic/s25798767.jpg"
+            }, 
+            "original_title": "Witness", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "证人 第一季", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"脏话\" 的结果", 
+    "total": 10
+}

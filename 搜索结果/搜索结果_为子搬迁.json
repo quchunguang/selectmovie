@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3006327/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027146/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1436252988.54.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1436252988.54.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1436252988.54.jpg"
+                    }, 
+                    "id": "1027146", 
+                    "name": "约翰·卡拉辛斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025183/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7974.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7974.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7974.jpg"
+                    }, 
+                    "id": "1025183", 
+                    "name": "玛娅·鲁道夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014022/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361009986.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361009986.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361009986.02.jpg"
+                    }, 
+                    "id": "1014022", 
+                    "name": "卡门·艾乔戈"
+                }
+            ], 
+            "collect_count": 7816, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048021/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/271.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/271.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/271.jpg"
+                    }, 
+                    "id": "1048021", 
+                    "name": "萨姆·门德斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "3006327", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1054013994.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1054013994.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1054013994.jpg"
+            }, 
+            "original_title": "Away We Go", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "为子搬迁", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"为子搬迁\" 的结果", 
+    "total": 1
+}

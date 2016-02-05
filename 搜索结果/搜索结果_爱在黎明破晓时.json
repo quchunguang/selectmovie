@@ -1,0 +1,1186 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1296339/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1262.jpg"
+                    }, 
+                    "id": "1036420", 
+                    "name": "朱莉·德尔佩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051117/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376866203.18.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376866203.18.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376866203.18.jpg"
+                    }, 
+                    "id": "1051117", 
+                    "name": "安德莉亚·埃克特"
+                }
+            ], 
+            "collect_count": 219804, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025246/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/304.jpg"
+                    }, 
+                    "id": "1025246", 
+                    "name": "理查德·林克莱特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1296339", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1486234122.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1486234122.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1486234122.jpg"
+            }, 
+            "original_title": "Before Sunrise", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在黎明破晓前", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1291990/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1262.jpg"
+                    }, 
+                    "id": "1036420", 
+                    "name": "朱莉·德尔佩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022603/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13395.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13395.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13395.jpg"
+                    }, 
+                    "id": "1022603", 
+                    "name": "弗农·多布切夫"
+                }
+            ], 
+            "collect_count": 207118, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025246/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/304.jpg"
+                    }, 
+                    "id": "1025246", 
+                    "name": "理查德·林克莱特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1291990", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1910924055.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1910924055.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910924055.jpg"
+            }, 
+            "original_title": "Before Sunset", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在日落黄昏时", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10808442/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1262.jpg"
+                    }, 
+                    "id": "1036420", 
+                    "name": "朱莉·德尔佩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1252122/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39376.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39376.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39376.jpg"
+                    }, 
+                    "id": "1252122", 
+                    "name": "肖姆斯·戴维-菲茨帕特里克"
+                }
+            ], 
+            "collect_count": 100817, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025246/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/304.jpg"
+                    }, 
+                    "id": "1025246", 
+                    "name": "理查德·林克莱特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "10808442", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1969040547.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1969040547.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1969040547.jpg"
+            }, 
+            "original_title": "Before Midnight", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在午夜降临前", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1972732/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010539/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9206.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9206.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9206.jpg"
+                    }, 
+                    "id": "1010539", 
+                    "name": "威廉·达福"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054221/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18526.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18526.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18526.jpg"
+                    }, 
+                    "id": "1054221", 
+                    "name": "伊莎贝尔·卢卡斯"
+                }
+            ], 
+            "collect_count": 28976, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305543/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48692.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48692.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48692.jpg"
+                    }, 
+                    "id": "1305543", 
+                    "name": "迈克尔·斯派瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305544/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48693.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48693.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48693.jpg"
+                    }, 
+                    "id": "1305544", 
+                    "name": "彼得·斯派瑞"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "1972732", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1174429818.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1174429818.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1174429818.jpg"
+            }, 
+            "original_title": "Daybreakers", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "嗜血破晓", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26271075/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275744/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55062.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55062.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55062.jpg"
+                    }, 
+                    "id": "1275744", 
+                    "name": "于震"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316006/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34648.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34648.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34648.jpg"
+                    }, 
+                    "id": "1316006", 
+                    "name": "范雨林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王维维"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317980/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41942.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41942.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41942.jpg"
+                    }, 
+                    "id": "1317980", 
+                    "name": "于立清"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "动作"
+            ], 
+            "id": "26271075", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2233141808.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2233141808.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2233141808.jpg"
+            }, 
+            "original_title": "黎明破晓前", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "黎明破晓前", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6024430/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316843/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54872.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54872.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54872.jpg"
+                    }, 
+                    "id": "1316843", 
+                    "name": "汤姆·库伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315256/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/30557.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/30557.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/30557.jpg"
+                    }, 
+                    "id": "1315256", 
+                    "name": "克里斯·钮"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laura Freeman"
+                }
+            ], 
+            "collect_count": 17665, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316844/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37777.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37777.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37777.jpg"
+                    }, 
+                    "id": "1316844", 
+                    "name": "安德鲁·海格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "同性"
+            ], 
+            "id": "6024430", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1398423664.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1398423664.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1398423664.jpg"
+            }, 
+            "original_title": "Weekend", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "周末时光", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3320993/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049676/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1424969021.07.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1424969021.07.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1424969021.07.jpg"
+                    }, 
+                    "id": "1049676", 
+                    "name": "凯莉·欧沃顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045024/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56242.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56242.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56242.jpg"
+                    }, 
+                    "id": "1045024", 
+                    "name": "詹姆斯·哈文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055204/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27618.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27618.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27618.jpg"
+                    }, 
+                    "id": "1055204", 
+                    "name": "Sarah-Jane Potts"
+                }
+            ], 
+            "collect_count": 47, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042065/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042065", 
+                    "name": "Mark Edwin Robinson"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "3320993", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3387507.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3387507.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3387507.jpg"
+            }, 
+            "original_title": "Breaking Dawn", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "破晓黎明", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5374357/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016668/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2617.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2617.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2617.jpg"
+                    }, 
+                    "id": "1016668", 
+                    "name": "张静初"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274391/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1414576457.0.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1414576457.0.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1414576457.0.jpg"
+                    }, 
+                    "id": "1274391", 
+                    "name": "朱雨辰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林宥嘉"
+                }
+            ], 
+            "collect_count": 6491, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1189801/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369639357.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369639357.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369639357.39.jpg"
+                    }, 
+                    "id": "1189801", 
+                    "name": "陈正道"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "短片"
+            ], 
+            "id": "5374357", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4545199.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4545199.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4545199.jpg"
+            }, 
+            "original_title": "爱在微博蔓延时", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在微博蔓延时", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2326526/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1076796/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10519.jpg"
+                    }, 
+                    "id": "1076796", 
+                    "name": "车仁表"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051051/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4581.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4581.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4581.jpg"
+                    }, 
+                    "id": "1051051", 
+                    "name": "黄奕"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312939/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1360337576.76.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1360337576.76.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1360337576.76.jpg"
+                    }, 
+                    "id": "1312939", 
+                    "name": "黄海冰"
+                }
+            ], 
+            "collect_count": 1713, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318117/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/42285.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/42285.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/42285.jpg"
+                    }, 
+                    "id": "1318117", 
+                    "name": "周德华"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "2326526", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2781948.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2781948.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2781948.jpg"
+            }, 
+            "original_title": "爱在离别时", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "爱在离别时", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2295999/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315324/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38643.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38643.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38643.jpg"
+                    }, 
+                    "id": "1315324", 
+                    "name": "曾少宗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314566/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24874.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24874.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24874.jpg"
+                    }, 
+                    "id": "1314566", 
+                    "name": "王传一"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321002/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58537.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58537.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58537.jpg"
+                    }, 
+                    "id": "1321002", 
+                    "name": "申东靖"
+                }
+            ], 
+            "collect_count": 306, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280582/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1280582", 
+                    "name": "陈世杰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1283918/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/55756.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/55756.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/55756.jpg"
+                    }, 
+                    "id": "1283918", 
+                    "name": "霍耀良"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320770/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320770", 
+                    "name": "林清芳"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "2295999", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2808995.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2808995.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2808995.jpg"
+            }, 
+            "original_title": "爱在星光灿烂时", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "爱在星光灿烂时", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2399274/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈坤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李小冉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "廖凡"
+                }
+            ], 
+            "collect_count": 195, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵宝刚"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2399274", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2863284.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2863284.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2863284.jpg"
+            }, 
+            "original_title": "爱在阳光灿烂时", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "爱在阳光灿烂时", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6439444/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "修杰楷"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈怡蓉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "许慧欣"
+                }
+            ], 
+            "collect_count": 64, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "張家政"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6439444", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6393230.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6393230.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6393230.jpg"
+            }, 
+            "original_title": "爱在桐花纷飞时", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "爱在桐花纷飞时", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3147520/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "温兆伦"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "付瑶"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王洛勇"
+                }
+            ], 
+            "collect_count": 50, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "董亚春"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3147520", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3186335.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3186335.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3186335.jpg"
+            }, 
+            "original_title": "爱在战火纷飞时", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "爱在战火纷飞时", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3993407/", 
+            "casts": [], 
+            "collect_count": 8, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3993407", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "爱在冰雪纷飞时", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "爱在冰雪纷飞时", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3703202/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "安龙"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "苏瀚"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于滨滨"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小敏"
+                }
+            ], 
+            "genres": [], 
+            "id": "3703202", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3764366.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3764366.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3764366.jpg"
+            }, 
+            "original_title": "爱在烂漫时", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在烂漫时", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25794318/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴慷仁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张静之"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张佳贤"
+                }
+            ], 
+            "genres": [
+                "传记"
+            ], 
+            "id": "25794318", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2163151519.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2163151519.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2163151519.jpg"
+            }, 
+            "original_title": "愛在旭日升起時", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "爱在旭日升起时", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26164846/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曹国辉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "潘玲玲"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高健国"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胡鹤译"
+                }
+            ], 
+            "genres": [], 
+            "id": "26164846", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "爱在漫天烽火时", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在漫天烽火时", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26384040/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王丹凤 Danfeng Wan"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘冬"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李诚洁"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "狄杰"
+                }
+            ], 
+            "genres": [], 
+            "id": "26384040", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "爱在分手时", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在分手时", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4252579/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Akshaye Khanna"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Manisha Koirala"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shrikant Sharma"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "4252579", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4149809.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4149809.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4149809.jpg"
+            }, 
+            "original_title": "Laawaris", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在黎明", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1468030/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048359/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13074.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13074.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13074.jpg"
+                    }, 
+                    "id": "1048359", 
+                    "name": "丹尼尔·吉梅内斯·卡乔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1144884/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367580078.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367580078.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367580078.3.jpg"
+                    }, 
+                    "id": "1144884", 
+                    "name": "克劳迪娅 拉米莱斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luis de Icaza"
+                }
+            ], 
+            "collect_count": 1369, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036409/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1362388356.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1362388356.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1362388356.65.jpg"
+                    }, 
+                    "id": "1036409", 
+                    "name": "阿方索·卡隆"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1468030", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1930588.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1930588.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1930588.jpg"
+            }, 
+            "original_title": "Sólo con tu pareja", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在歇斯底里时", 
+            "year": "1991"
+        }
+    ], 
+    "title": "搜索 \"爱在黎明破晓时\" 的结果", 
+    "total": 52
+}

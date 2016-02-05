@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6874415/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1080650/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24906.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24906.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24906.jpg"
+                    }, 
+                    "id": "1080650", 
+                    "name": "安东尼奥·德拉·托雷"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1338866/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1395126473.77.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1395126473.77.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1395126473.77.jpg"
+                    }, 
+                    "id": "1338866", 
+                    "name": "奥林匹娅·梅林特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1337992/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1395126424.62.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1395126424.62.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1395126424.62.jpg"
+                    }, 
+                    "id": "1337992", 
+                    "name": "玛利亚·阿尔方萨·罗索"
+                }
+            ], 
+            "collect_count": 1210, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037783/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393835667.4.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393835667.4.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393835667.4.jpg"
+                    }, 
+                    "id": "1037783", 
+                    "name": "曼纽尔·马丁·昆卡"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "惊悚"
+            ], 
+            "id": "6874415", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2130620672.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2130620672.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2130620672.jpg"
+            }, 
+            "original_title": "Caníbal", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "食人恋", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"食人恋\" 的结果", 
+    "total": 1
+}

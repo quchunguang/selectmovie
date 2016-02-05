@@ -1,0 +1,825 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1308290/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031793/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/712.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/712.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/712.jpg"
+                    }, 
+                    "id": "1031793", 
+                    "name": "郑伊健"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1138320/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1268.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1268.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1268.jpg"
+                    }, 
+                    "id": "1138320", 
+                    "name": "舒淇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028605/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35159.jpg"
+                    }, 
+                    "id": "1028605", 
+                    "name": "郑浩南"
+                }
+            ], 
+            "collect_count": 36581, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1106979/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1403267018.07.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1403267018.07.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1403267018.07.jpg"
+                    }, 
+                    "id": "1106979", 
+                    "name": "刘伟强"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "1308290", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1856107146.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1856107146.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1856107146.jpg"
+            }, 
+            "original_title": "98古惑仔之龍爭虎鬥", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "98古惑仔之龙争虎斗", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293118/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036369/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20412.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20412.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20412.jpg"
+                    }, 
+                    "id": "1036369", 
+                    "name": "李小龙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1140701/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3247.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3247.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3247.jpg"
+                    }, 
+                    "id": "1140701", 
+                    "name": "石坚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050373/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14665.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14665.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14665.jpg"
+                    }, 
+                    "id": "1050373", 
+                    "name": "茅瑛"
+                }
+            ], 
+            "collect_count": 9954, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032599/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1032599", 
+                    "name": "罗伯特·高洛斯"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1293118", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3086887.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3086887.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3086887.jpg"
+            }, 
+            "original_title": "Enter the Dragon", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "龙争虎斗", 
+            "year": "1973"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1829033/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jason Isaacs"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jason Clarke"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Annabeth Gish"
+                }
+            ], 
+            "collect_count": 31, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nick Gomez"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brian Kirk"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1829033", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3028917.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3028917.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3028917.jpg"
+            }, 
+            "original_title": "Brotherhood", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "龙争虎斗 第一季", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3143915/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028605/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35159.jpg"
+                    }, 
+                    "id": "1028605", 
+                    "name": "郑浩南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1330540/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1426365450.15.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1426365450.15.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1426365450.15.jpg"
+                    }, 
+                    "id": "1330540", 
+                    "name": "梁思敏"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郭少云"
+                }
+            ], 
+            "collect_count": 150, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "钟继昌"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "3143915", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3178576.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3178576.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3178576.jpg"
+            }, 
+            "original_title": "摩登龍爭虎鬥", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "摩登龙争虎斗", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4212211/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李赛凤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "大岛由加利"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郑浩南"
+                }
+            ], 
+            "collect_count": 103, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "沈达威"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "4212211", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4112543.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4112543.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4112543.jpg"
+            }, 
+            "original_title": "新龙争虎斗", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "新龙争虎斗", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3914540/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ron Van Clief"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "白彪"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "元秋"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "魯俊谷"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情"
+            ], 
+            "id": "3914540", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3926795.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3926795.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3926795.jpg"
+            }, 
+            "original_title": "龍爭虎鬥精武魂", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "龍爭虎鬥精武魂", 
+            "year": "1975"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7015515/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017916/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1824.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1824.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1824.jpg"
+                    }, 
+                    "id": "1017916", 
+                    "name": "詹森·艾萨克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305193/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374579985.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374579985.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374579985.48.jpg"
+                    }, 
+                    "id": "1305193", 
+                    "name": "杰森·克拉科"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lucia Noyce"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "7015515", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7007705.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7007705.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7007705.jpg"
+            }, 
+            "original_title": "Brotherhood ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "龙争虎斗 第二季", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7015517/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017916/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1824.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1824.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1824.jpg"
+                    }, 
+                    "id": "1017916", 
+                    "name": "詹森·艾萨克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305193/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374579985.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374579985.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374579985.48.jpg"
+                    }, 
+                    "id": "1305193", 
+                    "name": "杰森·克拉科"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Henry Bromell"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "7015517", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7007710.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7007710.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7007710.jpg"
+            }, 
+            "original_title": "Brotherhood ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "龙争虎斗  第三季", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10001415/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "关德兴  曹达华  任燕  石坚"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胡鹏"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "10001415", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7028850.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7028850.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7028850.jpg"
+            }, 
+            "original_title": "黃飛鴻龍爭虎鬥", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黄飞鸿龙争虎斗", 
+            "year": "1958"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23605394/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈小春"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "莫少聪"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "汤镇业"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008125/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3482.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3482.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3482.jpg"
+                    }, 
+                    "id": "1008125", 
+                    "name": "梁家仁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317917/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/56050.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/56050.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/56050.jpg"
+                    }, 
+                    "id": "1317917", 
+                    "name": "罗长安"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "武侠"
+            ], 
+            "id": "23605394", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2168197491.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2168197491.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2168197491.jpg"
+            }, 
+            "original_title": "新龙争虎斗", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "新龙争虎斗", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20433439/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "白玫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "徐聪"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "肖大昌"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "水江龙一"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "20433439", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "龙争虎斗", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "龙争虎斗", 
+            "year": "1941"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305639/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041141/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4665.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4665.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4665.jpg"
+                    }, 
+                    "id": "1041141", 
+                    "name": "伯特·兰卡斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022892/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1389432827.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1389432827.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1389432827.33.jpg"
+                    }, 
+                    "id": "1022892", 
+                    "name": "朗达·弗莱明"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036372/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4477.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4477.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4477.jpg"
+                    }, 
+                    "id": "1036372", 
+                    "name": "柯克·道格拉斯"
+                }
+            ], 
+            "collect_count": 114, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016714/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22086.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22086.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22086.jpg"
+                    }, 
+                    "id": "1016714", 
+                    "name": "约翰·斯特奇斯"
+                }
+            ], 
+            "genres": [
+                "西部"
+            ], 
+            "id": "1305639", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2172897404.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2172897404.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2172897404.jpg"
+            }, 
+            "original_title": "Gunfight at the O.K. Corral", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "龙虎双侠", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303304/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007080/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1378885433.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1378885433.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1378885433.65.jpg"
+                    }, 
+                    "id": "1007080", 
+                    "name": "维克多·迈彻"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007141/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1396678502.82.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1396678502.82.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1396678502.82.jpg"
+                    }, 
+                    "id": "1007141", 
+                    "name": "布莱恩·唐莱维"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027983/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1388571485.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1388571485.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1388571485.02.jpg"
+                    }, 
+                    "id": "1027983", 
+                    "name": "柯琳·格蕾"
+                }
+            ], 
+            "collect_count": 124, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032387/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21612.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21612.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21612.jpg"
+                    }, 
+                    "id": "1032387", 
+                    "name": "亨利·哈撒韦"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "黑色电影"
+            ], 
+            "id": "1303304", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2204759646.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2204759646.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2204759646.jpg"
+            }, 
+            "original_title": "Kiss of Death", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "死吻", 
+            "year": "1947"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3532958/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032379/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11968.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11968.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11968.jpg"
+                    }, 
+                    "id": "1032379", 
+                    "name": "仓田保昭"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031194/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32971.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32971.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32971.jpg"
+                    }, 
+                    "id": "1031194", 
+                    "name": "任达华"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林建明 Ken-Ming Lum"
+                }
+            ], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shuji Goto"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "3532958", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3592732.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3592732.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3592732.jpg"
+            }, 
+            "original_title": "Bloodfight", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "血腥格斗", 
+            "year": "1989"
+        }
+    ], 
+    "title": "搜索 \"龙争虎斗\" 的结果", 
+    "total": 14
+}

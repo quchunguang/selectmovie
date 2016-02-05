@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/20503269/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016671/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34511.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34511.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34511.jpg"
+                    }, 
+                    "id": "1016671", 
+                    "name": "凯文·科斯特纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044702/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34697.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34697.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34697.jpg"
+                    }, 
+                    "id": "1044702", 
+                    "name": "艾梅柏·希尔德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312964/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20419.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20419.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20419.jpg"
+                    }, 
+                    "id": "1312964", 
+                    "name": "海莉·斯坦菲尔德"
+                }
+            ], 
+            "collect_count": 8105, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022703/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14637.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14637.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14637.jpg"
+                    }, 
+                    "id": "1022703", 
+                    "name": "约瑟夫·麦克金提·尼彻"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "20503269", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2165984702.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2165984702.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2165984702.jpg"
+            }, 
+            "original_title": "3 Days to Kill", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "三日刺杀", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"三日刺杀\" 的结果", 
+    "total": 1
+}

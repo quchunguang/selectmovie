@@ -1,0 +1,657 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10577869/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313116/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361026097.22.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361026097.22.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361026097.22.jpg"
+                    }, 
+                    "id": "1313116", 
+                    "name": "多姆纳尔·格里森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/538.jpg"
+                    }, 
+                    "id": "1053587", 
+                    "name": "瑞秋·麦克亚当斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041002/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2821.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2821.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2821.jpg"
+                    }, 
+                    "id": "1041002", 
+                    "name": "比尔·奈伊"
+                }
+            ], 
+            "collect_count": 150848, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040673/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2835.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2835.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2835.jpg"
+                    }, 
+                    "id": "1040673", 
+                    "name": "理查德·柯蒂斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "奇幻"
+            ], 
+            "id": "10577869", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2070153774.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2070153774.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2070153774.jpg"
+            }, 
+            "original_title": "About Time", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "时空恋旅人", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1885124/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/538.jpg"
+                    }, 
+                    "id": "1053587", 
+                    "name": "瑞秋·麦克亚当斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016693/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9228.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9228.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9228.jpg"
+                    }, 
+                    "id": "1016693", 
+                    "name": "艾瑞克·巴纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045061/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14834.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14834.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14834.jpg"
+                    }, 
+                    "id": "1045061", 
+                    "name": "阿莱克斯·费瑞斯"
+                }
+            ], 
+            "collect_count": 197405, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1297058/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32301.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32301.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32301.jpg"
+                    }, 
+                    "id": "1297058", 
+                    "name": "罗伯特·斯文克 "
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "奇幻", 
+                "悬疑"
+            ], 
+            "id": "1885124", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p480590433.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p480590433.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p480590433.jpg"
+            }, 
+            "original_title": "The Time Traveler's Wife", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "时间旅行者的妻子", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4826284/", 
+            "casts": [], 
+            "collect_count": 69, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "真崎守"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "奇幻"
+            ], 
+            "id": "4826284", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4354848.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4354848.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4354848.jpg"
+            }, 
+            "original_title": "時空の旅人 -Time Stranger-", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "时空的旅人", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6905199/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "島田淳子（浅野真弓）"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "木下清"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "原ひさ子"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "佐藤和哉"
+                }
+            ], 
+            "genres": [
+                "科幻"
+            ], 
+            "id": "6905199", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6977437.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6977437.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6977437.jpg"
+            }, 
+            "original_title": "続 タイムトラベラー", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "续 时空旅人", 
+            "year": "1972"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6905198/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "島田淳子（浅野真弓）"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "木下清"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "テレサ野田"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "佐藤和哉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黛叶"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石川康彦"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "花房実"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "加地通康"
+                }
+            ], 
+            "genres": [
+                "科幻"
+            ], 
+            "id": "6905198", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6977436.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6977436.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6977436.jpg"
+            }, 
+            "original_title": "タイム・トラベラー", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "时空旅人", 
+            "year": "1972"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25898169/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Oleg Filipenko"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25898169", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2185961987.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2185961987.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2185961987.jpg"
+            }, 
+            "original_title": "Ya dumal, ty budesh vsegda", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "时空生死恋", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1918208/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040565/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10061.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10061.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10061.jpg"
+                    }, 
+                    "id": "1040565", 
+                    "name": "派屈克·福吉特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027238/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7599.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7599.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7599.jpg"
+                    }, 
+                    "id": "1027238", 
+                    "name": "亚布拉哈姆·本鲁比"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027162/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2759.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2759.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2759.jpg"
+                    }, 
+                    "id": "1027162", 
+                    "name": "莎妮·索萨蒙"
+                }
+            ], 
+            "collect_count": 13904, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1302960/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48668.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48668.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48668.jpg"
+                    }, 
+                    "id": "1302960", 
+                    "name": "葛兰·杜奇克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "奇幻", 
+                "爱情"
+            ], 
+            "id": "1918208", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2757643.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2757643.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2757643.jpg"
+            }, 
+            "original_title": "Wristcutters: A Love Story", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "割腕者的天堂", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24719054/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈锦鸿 / 彭子晴 / 袁文杰 / 王渝文 / 吴廷烨 / 王薇"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李建武"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "24719054", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2129727043.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2129727043.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2129727043.jpg"
+            }, 
+            "original_title": "異世驚情夢", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "异世惊情梦", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26596722/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "奇幻"
+            ], 
+            "id": "26596722", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Sands", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "沙时空恋爱", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292911/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053580/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24625.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24625.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24625.jpg"
+                    }, 
+                    "id": "1053580", 
+                    "name": "布兰登·费舍"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031789/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4664.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4664.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4664.jpg"
+                    }, 
+                    "id": "1031789", 
+                    "name": "艾丽西亚·希尔维斯通"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053574/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/519.jpg"
+                    }, 
+                    "id": "1053574", 
+                    "name": "克里斯托弗·沃肯"
+                }
+            ], 
+            "collect_count": 695, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023083/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1023083", 
+                    "name": "休·威尔逊"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1292911", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1400831.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1400831.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1400831.jpg"
+            }, 
+            "original_title": "Blast from the Past", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "超时空宠爱", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20395435/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1188532/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35223.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35223.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35223.jpg"
+                    }, 
+                    "id": "1188532", 
+                    "name": "玛丽亚·艾维克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001129/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1356862566.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1356862566.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1356862566.97.jpg"
+                    }, 
+                    "id": "1001129", 
+                    "name": "杰尼斯·纽沃纳"
+                }
+            ], 
+            "collect_count": 782, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1306368/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1306368", 
+                    "name": "Felix Fuchssteiner"
+                }
+            ], 
+            "genres": [
+                "奇幻"
+            ], 
+            "id": "20395435", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24562193.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24562193.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24562193.jpg"
+            }, 
+            "original_title": "Rubinrot", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "红宝石", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25761258/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018404/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21846.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21846.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21846.jpg"
+                    }, 
+                    "id": "1018404", 
+                    "name": "维罗尼卡·费瑞尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1188532/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35223.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35223.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35223.jpg"
+                    }, 
+                    "id": "1188532", 
+                    "name": "玛丽亚·艾维克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001129/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1356862566.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1356862566.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1356862566.97.jpg"
+                    }, 
+                    "id": "1001129", 
+                    "name": "杰尼斯·纽沃纳"
+                }
+            ], 
+            "collect_count": 224, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "奇幻"
+            ], 
+            "id": "25761258", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2178366053.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2178366053.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2178366053.jpg"
+            }, 
+            "original_title": "Saphirblau", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "F调的宝石蓝", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"时空恋旅人\" 的结果", 
+    "total": 12
+}

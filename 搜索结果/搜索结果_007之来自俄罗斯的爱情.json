@@ -1,0 +1,480 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293446/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/193.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/193.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/193.jpg"
+                    }, 
+                    "id": "1018982", 
+                    "name": "肖恩·康纳利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004929/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374933399.98.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374933399.98.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374933399.98.jpg"
+                    }, 
+                    "id": "1004929", 
+                    "name": "丹妮拉·碧安琪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048252/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31915.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31915.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31915.jpg"
+                    }, 
+                    "id": "1048252", 
+                    "name": "比德洛·阿门德里兹"
+                }
+            ], 
+            "collect_count": 6505, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018322/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44933.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44933.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44933.jpg"
+                    }, 
+                    "id": "1018322", 
+                    "name": "特伦斯·杨"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "爱情"
+            ], 
+            "id": "1293446", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1430728.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1430728.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1430728.jpg"
+            }, 
+            "original_title": "From Russia with Love", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "007之俄罗斯之恋", 
+            "year": "1963"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20450734/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pedro Armendáriz Jr."
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000627/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1000627", 
+                    "name": "艾伯特·R·布洛柯里"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/193.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/193.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/193.jpg"
+                    }, 
+                    "id": "1018982", 
+                    "name": "肖恩·康纳利"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1281282/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1281282", 
+                    "name": "约翰·科克"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "20450734", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24513800.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24513800.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24513800.jpg"
+            }, 
+            "original_title": "Inside 'From Russia with Love'", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "《来自俄罗斯的爱情》幕后纪录片", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25777619/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050981/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4372.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4372.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4372.jpg"
+                    }, 
+                    "id": "1050981", 
+                    "name": "关智一"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018687/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4971.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4971.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4971.jpg"
+                    }, 
+                    "id": "1018687", 
+                    "name": "钉宫理惠"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "藤本让"
+                }
+            ], 
+            "collect_count": 46, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石踊宏"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315111/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1315111", 
+                    "name": "松江名俊"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "动画"
+            ], 
+            "id": "25777619", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2160062795.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2160062795.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2160062795.jpg"
+            }, 
+            "original_title": "史上最強の弟子ケンイチ ロシアから来た戦士", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "史上最强弟子兼一：来自俄罗斯的战士", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2223490/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032015/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1366534456.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1366534456.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1366534456.26.jpg"
+                    }, 
+                    "id": "1032015", 
+                    "name": "布莱特·迈可斯"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Cronin"
+                }
+            ], 
+            "genres": [], 
+            "id": "2223490", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3085954.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3085954.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3085954.jpg"
+            }, 
+            "original_title": "Rock of Love with Bret Michaels", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "MTV之摇滚歌星的爱情", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295560/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/193.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/193.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/193.jpg"
+                    }, 
+                    "id": "1018982", 
+                    "name": "肖恩·康纳利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025255/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31008.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31008.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31008.jpg"
+                    }, 
+                    "id": "1025255", 
+                    "name": "吉尔·圣约翰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049976/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2139.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2139.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2139.jpg"
+                    }, 
+                    "id": "1049976", 
+                    "name": "查尔斯·格雷"
+                }
+            ], 
+            "collect_count": 6029, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050116/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18033.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18033.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18033.jpg"
+                    }, 
+                    "id": "1050116", 
+                    "name": "盖伊·汉弥尔顿"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "科幻"
+            ], 
+            "id": "1295560", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1430739.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1430739.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1430739.jpg"
+            }, 
+            "original_title": "Diamonds Are Forever", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "007之金刚钻", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5265166/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274923/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7924.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7924.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7924.jpg"
+                    }, 
+                    "id": "1274923", 
+                    "name": "徐韬"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "冯丹滢"
+                }
+            ], 
+            "collect_count": 16323, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274239/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4306.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4306.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4306.jpg"
+                    }, 
+                    "id": "1274239", 
+                    "name": "尹丽川 "
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "5265166", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7015308.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7015308.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7015308.jpg"
+            }, 
+            "original_title": "11度青春之《哎》", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "11度青春之《哎》", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3273496/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040990/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12063.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12063.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12063.jpg"
+                    }, 
+                    "id": "1040990", 
+                    "name": "李冰冰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1075760/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1414403507.54.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1414403507.54.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1414403507.54.jpg"
+                    }, 
+                    "id": "1075760", 
+                    "name": "陈小春"
+                }
+            ], 
+            "collect_count": 18, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3273496", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3332167.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3332167.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3332167.jpg"
+            }, 
+            "original_title": "爱情急转弯", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱情急转弯", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25779792/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336519/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1407319171.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1407319171.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1407319171.61.jpg"
+                    }, 
+                    "id": "1336519", 
+                    "name": "王婉中"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李胜洋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314349/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371321278.68.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371321278.68.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371321278.68.jpg"
+                    }, 
+                    "id": "1314349", 
+                    "name": "张雷雨"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1328718/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368072175.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368072175.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368072175.02.jpg"
+                    }, 
+                    "id": "1328718", 
+                    "name": "张一墨"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25779792", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "青春的季节", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "青春的季节", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"007之来自俄罗斯的爱情\" 的结果", 
+    "total": 8
+}

@@ -1,0 +1,287 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1295348/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048163/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2481.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2481.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2481.jpg"
+                    }, 
+                    "id": "1048163", 
+                    "name": "弗雷德·阿斯泰尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054449/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4157.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4157.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4157.jpg"
+                    }, 
+                    "id": "1054449", 
+                    "name": "奥黛丽·赫本"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041582/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359183264.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359183264.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359183264.33.jpg"
+                    }, 
+                    "id": "1041582", 
+                    "name": "凯·汤普森"
+                }
+            ], 
+            "collect_count": 7857, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002835/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19860.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19860.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19860.jpg"
+                    }, 
+                    "id": "1002835", 
+                    "name": "斯坦利·多南"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "喜剧", 
+                "歌舞"
+            ], 
+            "id": "1295348", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2929429.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2929429.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2929429.jpg"
+            }, 
+            "original_title": "Funny Face", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "甜姐儿", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7062554/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张瑛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "文兰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "梁醒波"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴回"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "7062554", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s23130169.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s23130169.jpg", 
+                "small": "https://img1.doubanio.com/spic/s23130169.jpg"
+            }, 
+            "original_title": "甜姐兒", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "甜姐儿", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4901604/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "谭玉兰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "靓少凤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "廖梦觉"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨工良"
+                }
+            ], 
+            "genres": [], 
+            "id": "4901604", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "甜姐兒", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "甜姐儿", 
+            "year": "1937"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25980441/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1329604/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1369888775.75.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1369888775.75.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1369888775.75.jpg"
+                    }, 
+                    "id": "1329604", 
+                    "name": "庄文清"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028689/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11251.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11251.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11251.jpg"
+                    }, 
+                    "id": "1028689", 
+                    "name": "刘松仁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1337808/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1337808", 
+                    "name": "林良蕙"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [], 
+            "id": "25980441", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2253467465.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2253467465.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2253467465.jpg"
+            }, 
+            "original_title": "甜姐兒", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "甜姐儿", 
+            "year": "1976"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298736/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Geneviève Lemon"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Karen Colston"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tom Lycos"
+                }
+            ], 
+            "collect_count": 529, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045008/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1380771419.11.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1380771419.11.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1380771419.11.jpg"
+                    }, 
+                    "id": "1045008", 
+                    "name": "简·坎皮恩"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1298736", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1688497.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1688497.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1688497.jpg"
+            }, 
+            "original_title": "Sweetie", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "甜妹妹", 
+            "year": "1989"
+        }
+    ], 
+    "title": "搜索 \"甜姐儿\" 的结果", 
+    "total": 5
+}

@@ -1,0 +1,1233 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1422055/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1109614/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1109614", 
+                    "name": "Vali Kerekes"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1068547/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1068547", 
+                    "name": "György Cserhalmi"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035779/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1035779", 
+                    "name": "Gyula Pauer"
+                }
+            ], 
+            "collect_count": 742, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1152034/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2803.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2803.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2803.jpg"
+                    }, 
+                    "id": "1152034", 
+                    "name": "贝拉·塔尔"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1422055", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3328472.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3328472.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3328472.jpg"
+            }, 
+            "original_title": "Kárhozat", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "诅咒", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1459323/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037098/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1603.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1603.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1603.jpg"
+                    }, 
+                    "id": "1037098", 
+                    "name": "吴镇宇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004530/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20914.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20914.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20914.jpg"
+                    }, 
+                    "id": "1004530", 
+                    "name": "田原"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郁俊波"
+                }
+            ], 
+            "collect_count": 2413, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李虹"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "1459323", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2400960.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2400960.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2400960.jpg"
+            }, 
+            "original_title": "诅咒", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "诅咒", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308984/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004597/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10392.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10392.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10392.jpg"
+                    }, 
+                    "id": "1004597", 
+                    "name": "波西亚·德·罗西"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1422239277.64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1422239277.64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1422239277.64.jpg"
+                    }, 
+                    "id": "1049524", 
+                    "name": "莎诺·伊丽莎白"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009262/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1370509297.54.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1370509297.54.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1370509297.54.jpg"
+                    }, 
+                    "id": "1009262", 
+                    "name": "米洛·文堤米利亚"
+                }
+            ], 
+            "collect_count": 1110, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025221/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5234.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5234.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5234.jpg"
+                    }, 
+                    "id": "1025221", 
+                    "name": "韦斯·克雷文"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻", 
+                "恐怖"
+            ], 
+            "id": "1308984", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1326135.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1326135.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1326135.jpg"
+            }, 
+            "original_title": "Cursed", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "诅咒", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1421883/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jonathan Caouette"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Cox"
+                }
+            ], 
+            "collect_count": 349, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jonathan Caouette"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1421883", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1498336.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1498336.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1498336.jpg"
+            }, 
+            "original_title": "Tarnation", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "诅咒", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3988767/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022512/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49448.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49448.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49448.jpg"
+                    }, 
+                    "id": "1022512", 
+                    "name": "斯蒂尼·斯特嘉德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1231550/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1362453628.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1362453628.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1362453628.97.jpg"
+                    }, 
+                    "id": "1231550", 
+                    "name": "乔纳斯·温施耐德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1204454/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1420099835.68.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1420099835.68.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1420099835.68.jpg"
+                    }, 
+                    "id": "1204454", 
+                    "name": "克拉拉·玛丽亚·巴哈蒙德丝"
+                }
+            ], 
+            "collect_count": 140, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280741/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1420100288.16.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1420100288.16.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1420100288.16.jpg"
+                    }, 
+                    "id": "1280741", 
+                    "name": "摩根斯·哈格多恩"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "家庭"
+            ], 
+            "id": "3988767", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2219558706.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2219558706.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2219558706.jpg"
+            }, 
+            "original_title": "Vølvens forbandelse", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "诅咒", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26715465/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李钰婕"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1352885/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1352885", 
+                    "name": "柴浩伟"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "苏娜"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李仁凯"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "恐怖"
+            ], 
+            "id": "26715465", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2313513252.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2313513252.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2313513252.jpg"
+            }, 
+            "original_title": "网络惊魂之激情视频の诅咒", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "网络惊魂之激情视频の诅咒", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10781865/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1229519/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22718.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22718.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22718.jpg"
+                    }, 
+                    "id": "1229519", 
+                    "name": "连姆·麦肯泰尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1309518/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19545.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19545.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19545.jpg"
+                    }, 
+                    "id": "1309518", 
+                    "name": "达斯汀·克莱尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314303/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23393.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23393.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23393.jpg"
+                    }, 
+                    "id": "1314303", 
+                    "name": "丹尼尔·弗雷里格尔"
+                }
+            ], 
+            "collect_count": 12484, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steven S. DeKnight"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "动作"
+            ], 
+            "id": "10781865", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1628803131.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1628803131.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1628803131.jpg"
+            }, 
+            "original_title": "Spartacus: War of the Damned", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "斯巴达克斯：诅咒者之战 第三季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5346468/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1242230/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56864.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56864.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56864.jpg"
+                    }, 
+                    "id": "1242230", 
+                    "name": "马修·默瑟"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1192728/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1192728", 
+                    "name": "Dave Wittenberg"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1185556/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57194.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57194.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57194.jpg"
+                    }, 
+                    "id": "1185556", 
+                    "name": "柯特奈·泰勒"
+                }
+            ], 
+            "collect_count": 23503, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1288059/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1360335675.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1360335675.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1360335675.03.jpg"
+                    }, 
+                    "id": "1288059", 
+                    "name": "神谷诚"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "动画"
+            ], 
+            "id": "5346468", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1713599926.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1713599926.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1713599926.jpg"
+            }, 
+            "original_title": "バイオハザード ダムネーション", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "生化危机：诅咒", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298070/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010543/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1243.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1243.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1243.jpg"
+                    }, 
+                    "id": "1010543", 
+                    "name": "杰弗里·拉什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008069/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32582.jpg"
+                    }, 
+                    "id": "1008069", 
+                    "name": "奥兰多·布鲁姆"
+                }
+            ], 
+            "collect_count": 372293, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031987/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4299.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4299.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4299.jpg"
+                    }, 
+                    "id": "1031987", 
+                    "name": "戈尔·维宾斯基"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "1298070", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1596085504.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1596085504.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1596085504.jpg"
+            }, 
+            "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "加勒比海盗", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6383547/", 
+            "casts": [], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yves Geleyn--Remy Tornior"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "战争", 
+                "奇幻"
+            ], 
+            "id": "6383547", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6330403.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6330403.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6330403.jpg"
+            }, 
+            "original_title": "PIRATES!  邪恶眼睛的诅咒!", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "邪恶眼睛的诅咒!", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3126341/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Costas Mandylor"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Louis Mandylor"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brad Thornton"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joel Bender"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "3126341", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3154928.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3154928.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3154928.jpg"
+            }, 
+            "original_title": "诅咒", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "诅咒", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26614190/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "魏鹏飞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "康讯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "潘芷晴"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱启凡"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈敏锐"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "26614190", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2267516630.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2267516630.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2267516630.jpg"
+            }, 
+            "original_title": "诅咒娃娃", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "诅咒娃娃", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26681540/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "美女导演张帆"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "26681540", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "部部惊心之血衣诅咒", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "部部惊心之血衣诅咒", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1997679/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053580/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24625.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24625.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24625.jpg"
+                    }, 
+                    "id": "1053580", 
+                    "name": "布兰登·费舍"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025146/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369201135.38.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369201135.38.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369201135.38.jpg"
+                    }, 
+                    "id": "1025146", 
+                    "name": "李连杰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1388903099.27.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1388903099.27.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1388903099.27.jpg"
+                    }, 
+                    "id": "1002674", 
+                    "name": "玛丽亚·贝罗"
+                }
+            ], 
+            "collect_count": 73407, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032129/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13155.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13155.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13155.jpg"
+                    }, 
+                    "id": "1032129", 
+                    "name": "罗伯·科恩"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "1997679", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p457161680.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p457161680.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457161680.jpg"
+            }, 
+            "original_title": "The Mummy: Tomb of the Dragon Emperor", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "木乃伊3", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1419901/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007132/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22098.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22098.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22098.jpg"
+                    }, 
+                    "id": "1007132", 
+                    "name": "彼得·萨利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006956/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28941.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28941.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28941.jpg"
+                    }, 
+                    "id": "1006956", 
+                    "name": "拉尔夫·费因斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016680/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19519.jpg"
+                    }, 
+                    "id": "1016680", 
+                    "name": "海伦娜·伯翰·卡特"
+                }
+            ], 
+            "collect_count": 25804, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005535/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1401545118.16.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1401545118.16.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1401545118.16.jpg"
+                    }, 
+                    "id": "1005535", 
+                    "name": "斯蒂夫·博克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036894/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3653.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3653.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3653.jpg"
+                    }, 
+                    "id": "1036894", 
+                    "name": "尼克·帕克"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画"
+            ], 
+            "id": "1419901", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p449654474.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p449654474.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p449654474.jpg"
+            }, 
+            "original_title": "Wallace & Gromit: The Curse of the Were-Rabbit", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "超级无敌掌门狗：人兔的诅咒", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2280004/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016801/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4978.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4978.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4978.jpg"
+                    }, 
+                    "id": "1016801", 
+                    "name": "田中真弓"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037337/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10219.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10219.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10219.jpg"
+                    }, 
+                    "id": "1037337", 
+                    "name": "中井和哉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033344/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/15181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/15181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/15181.jpg"
+                    }, 
+                    "id": "1033344", 
+                    "name": "冈村明美"
+                }
+            ], 
+            "collect_count": 6849, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "竹之内和久"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "2280004", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6328425.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6328425.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6328425.jpg"
+            }, 
+            "original_title": "ONE PIECE 呪われた聖剣", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "海贼王剧场版5：被诅咒的圣剑", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6038071/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313036/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40415.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40415.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40415.jpg"
+                    }, 
+                    "id": "1313036", 
+                    "name": "咸恩静"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Maydoni"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Choi Ah-ra"
+                }
+            ], 
+            "collect_count": 4746, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1263583/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47185.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47185.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47185.jpg"
+                    }, 
+                    "id": "1263583", 
+                    "name": "金曲"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274070/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47184.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47184.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47184.jpg"
+                    }, 
+                    "id": "1274070", 
+                    "name": "金宣"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "6038071", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1688740057.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1688740057.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1688740057.jpg"
+            }, 
+            "original_title": "화이트: 저주의 멜로디", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "白色：诅咒的旋律", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4296871/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002671/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52629.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52629.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52629.jpg"
+                    }, 
+                    "id": "1002671", 
+                    "name": "大卫·田纳特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017974/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1433672216.2.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1433672216.2.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1433672216.2.jpg"
+                    }, 
+                    "id": "1017974", 
+                    "name": "凯莉·米洛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1134599/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47979.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47979.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47979.jpg"
+                    }, 
+                    "id": "1134599", 
+                    "name": "杰弗里·帕尔默"
+                }
+            ], 
+            "collect_count": 3198, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Strong"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "4296871", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4513352.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4513352.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4513352.jpg"
+            }, 
+            "original_title": "Doctor Who: Voyage of the Damned", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "神秘博士：诅咒之旅", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3008677/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010630/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12473.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12473.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12473.jpg"
+                    }, 
+                    "id": "1010630", 
+                    "name": "布鲁斯·戴维森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044731/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366941647.62.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366941647.62.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366941647.62.jpg"
+                    }, 
+                    "id": "1044731", 
+                    "name": "斯坦娜·卡蒂克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017956/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3611.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3611.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3611.jpg"
+                    }, 
+                    "id": "1017956", 
+                    "name": "诺亚·怀尔"
+                }
+            ], 
+            "collect_count": 2367, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025217/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14266.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14266.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14266.jpg"
+                    }, 
+                    "id": "1025217", 
+                    "name": "乔纳森·弗雷克斯"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "奇幻", 
+                "冒险"
+            ], 
+            "id": "3008677", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4454254.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4454254.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4454254.jpg"
+            }, 
+            "original_title": "The Librarian: The Curse of the Judas Chalice", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "图书馆员：圣杯的诅咒", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23766551/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1175844/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26322.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26322.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26322.jpg"
+                    }, 
+                    "id": "1175844", 
+                    "name": "Fiona Dourif"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031866/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6260.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6260.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6260.jpg"
+                    }, 
+                    "id": "1031866", 
+                    "name": "布拉德·道里夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325403/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354506461.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354506461.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354506461.59.jpg"
+                    }, 
+                    "id": "1325403", 
+                    "name": "布伦南·埃利奥特"
+                }
+            ], 
+            "collect_count": 2260, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005077/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1005077", 
+                    "name": "唐·曼西尼"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "23766551", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2030098562.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2030098562.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2030098562.jpg"
+            }, 
+            "original_title": "Curse of Chucky", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼娃的诅咒", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"诅咒\" 的结果", 
+    "total": 191
+}

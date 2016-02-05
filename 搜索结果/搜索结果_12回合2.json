@@ -1,0 +1,821 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/24695575/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323970/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57724.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57724.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57724.jpg"
+                    }, 
+                    "id": "1323970", 
+                    "name": "汤姆·斯蒂文斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000255/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50729.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50729.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50729.jpg"
+                    }, 
+                    "id": "1000255", 
+                    "name": "兰迪·奥尔顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036608/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9339.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9339.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9339.jpg"
+                    }, 
+                    "id": "1036608", 
+                    "name": "塞巴斯蒂安·斯宾赛"
+                }
+            ], 
+            "collect_count": 1096, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1276459/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1276459", 
+                    "name": "罗伊·雷内"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "24695575", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1981980875.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1981980875.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1981980875.jpg"
+            }, 
+            "original_title": "12 Rounds: Reloaded", 
+            "rating": {
+                "average": 5.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "12回合2：重装上阵", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26374776/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004660/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/53830.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/53830.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/53830.jpg"
+                    }, 
+                    "id": "1004660", 
+                    "name": "丹尼尔·库德摩尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1127899/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1433487153.6.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1433487153.6.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1433487153.6.jpg"
+                    }, 
+                    "id": "1127899", 
+                    "name": "洛奇林·莫罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055522/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49070.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49070.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49070.jpg"
+                    }, 
+                    "id": "1055522", 
+                    "name": "罗杰·R.克劳斯"
+                }
+            ], 
+            "collect_count": 699, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stephen Reynolds"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "26374776", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2254613905.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2254613905.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2254613905.jpg"
+            }, 
+            "original_title": "12 Rounds 3: Lockdown", 
+            "rating": {
+                "average": 4.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "12回合3：致命禁闭", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3642843/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053621/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/545.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/545.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/545.jpg"
+                    }, 
+                    "id": "1053621", 
+                    "name": "克里斯·派恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041010/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1364569064.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1364569064.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1364569064.71.jpg"
+                    }, 
+                    "id": "1041010", 
+                    "name": "扎克瑞·昆图"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047985/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361267503.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361267503.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361267503.33.jpg"
+                    }, 
+                    "id": "1047985", 
+                    "name": "佐伊·索尔达娜"
+                }
+            ], 
+            "collect_count": 152261, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010542/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1779.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1779.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1779.jpg"
+                    }, 
+                    "id": "1010542", 
+                    "name": "J·J·艾布拉姆斯"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "3642843", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1907669506.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1907669506.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1907669506.jpg"
+            }, 
+            "original_title": "Star Trek Into Darkness", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "星际迷航：暗黑无界", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6530955/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "William Shatner"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Leonard Nimoy"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "DeForest Kelley"
+                }
+            ], 
+            "collect_count": 40, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joseph Pevney"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "6530955", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6518355.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6518355.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6518355.jpg"
+            }, 
+            "original_title": "Star Trek - The Deadly Years", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "星际旅行-原初-第2季第12集", 
+            "year": "1967"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26588853/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "加隈亜衣"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "春野ななみ"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1341567/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/WOjcvzMEgtccel_avatar_uploaded1405708042.92.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/WOjcvzMEgtccel_avatar_uploaded1405708042.92.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/WOjcvzMEgtccel_avatar_uploaded1405708042.92.jpg"
+                    }, 
+                    "id": "1341567", 
+                    "name": "齐藤壮马"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "大宙征基"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "动画"
+            ], 
+            "id": "26588853", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2261845509.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2261845509.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2261845509.jpg"
+            }, 
+            "original_title": "12歳。OVA 第2期", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "12岁OVA 第2季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292344/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054433/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/552.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/552.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/552.jpg"
+                    }, 
+                    "id": "1054433", 
+                    "name": "乔治·克鲁尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054452/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1604.jpg"
+                    }, 
+                    "id": "1054452", 
+                    "name": "布拉德·皮特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056058/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33682.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33682.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33682.jpg"
+                    }, 
+                    "id": "1056058", 
+                    "name": "凯瑟琳·泽塔-琼斯"
+                }
+            ], 
+            "collect_count": 81500, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054400/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3577.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3577.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3577.jpg"
+                    }, 
+                    "id": "1054400", 
+                    "name": "史蒂文·索德伯格"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1292344", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p677446893.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p677446893.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p677446893.jpg"
+            }, 
+            "original_title": "Ocean's Twelve", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "十二罗汉", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2997243/", 
+            "casts": [], 
+            "collect_count": 36, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rob Bowman"
+                }
+            ], 
+            "genres": [], 
+            "id": "2997243", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2984213.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2984213.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2984213.jpg"
+            }, 
+            "original_title": "\"The X Files\"  Season 2, Episode 12: Aubrey", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "\"The X Files\"  Season 2, Episode 12: Aubrey", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3011355/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044883/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23477.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23477.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23477.jpg"
+                    }, 
+                    "id": "1044883", 
+                    "name": "约翰·塞纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044961/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28202.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28202.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28202.jpg"
+                    }, 
+                    "id": "1044961", 
+                    "name": "艾丹·吉伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010595/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7968.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7968.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7968.jpg"
+                    }, 
+                    "id": "1010595", 
+                    "name": "艾什丽·斯科特"
+                }
+            ], 
+            "collect_count": 3954, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032052/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21181.jpg"
+                    }, 
+                    "id": "1032052", 
+                    "name": "雷尼·哈林"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "3011355", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3539741.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3539741.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3539741.jpg"
+            }, 
+            "original_title": "12 Rounds", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "十二回合", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4217516/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274730/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382588608.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382588608.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382588608.74.jpg"
+                    }, 
+                    "id": "1274730", 
+                    "name": "陈怡蓉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314202/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23683.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23683.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23683.jpg"
+                    }, 
+                    "id": "1314202", 
+                    "name": "王宥胜"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "樊光耀"
+                }
+            ], 
+            "collect_count": 381, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王明台"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "徐辅军"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "科幻"
+            ], 
+            "id": "4217516", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4127307.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4127307.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4127307.jpg"
+            }, 
+            "original_title": "第二回合我愛你", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "第二回合我爱你", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4111360/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048421/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11214.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11214.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11214.jpg"
+                    }, 
+                    "id": "1048421", 
+                    "name": "高山南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003697/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23348.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23348.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23348.jpg"
+                    }, 
+                    "id": "1003697", 
+                    "name": "山崎和佳奈"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018954/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4981.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4981.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4981.jpg"
+                    }, 
+                    "id": "1018954", 
+                    "name": "山口胜平"
+                }
+            ], 
+            "collect_count": 3406, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山本泰一郎"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "4111360", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4346469.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4346469.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4346469.jpg"
+            }, 
+            "original_title": "名探偵コナン MAGIC FILE2 工藤新一 謎の壁と黒ラブ事件", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "名侦探柯南特典：工藤新一 迷之墙和黑色拉布犬事件", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1464814/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054424/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1378956633.91.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1378956633.91.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1378956633.91.jpg"
+                    }, 
+                    "id": "1054424", 
+                    "name": "刘德华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050648/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19891.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19891.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19891.jpg"
+                    }, 
+                    "id": "1050648", 
+                    "name": "谭咏麟"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1070608/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/796.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/796.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/796.jpg"
+                    }, 
+                    "id": "1070608", 
+                    "name": "陈百祥"
+                }
+            ], 
+            "collect_count": 1023, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274331/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3237.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3237.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3237.jpg"
+                    }, 
+                    "id": "1274331", 
+                    "name": "王晶"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧"
+            ], 
+            "id": "1464814", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3046229.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3046229.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3046229.jpg"
+            }, 
+            "original_title": "驚天12小時", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "惊天12小时", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26253595/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050053/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27804.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27804.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27804.jpg"
+                    }, 
+                    "id": "1050053", 
+                    "name": "谢霆锋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275970/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1409055274.95.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1409055274.95.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1409055274.95.jpg"
+                    }, 
+                    "id": "1275970", 
+                    "name": "陈伟霆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275459/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376103579.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376103579.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376103579.93.jpg"
+                    }, 
+                    "id": "1275459", 
+                    "name": "马苏"
+                }
+            ], 
+            "collect_count": 1215, 
+            "directors": [], 
+            "genres": [
+                "真人秀"
+            ], 
+            "id": "26253595", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2260019503.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2260019503.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2260019503.jpg"
+            }, 
+            "original_title": "十二道锋味2", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "十二道锋味2", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2129284/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049636/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7893.jpg"
+                    }, 
+                    "id": "1049636", 
+                    "name": "乔纳森·斯卡奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1150596/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/53981.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/53981.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/53981.jpg"
+                    }, 
+                    "id": "1150596", 
+                    "name": "Venus Terzo"
+                }
+            ], 
+            "collect_count": 541, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016756/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17288.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17288.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17288.jpg"
+                    }, 
+                    "id": "1016756", 
+                    "name": "彼得·梅达克"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "2129284", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2756283.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2756283.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2756283.jpg"
+            }, 
+            "original_title": "The Washingtonians", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "华盛顿食人族", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26342537/", 
+            "casts": [], 
+            "collect_count": 5, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "悬疑"
+            ], 
+            "id": "26342537", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "12 Monkeys", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "十二猴子 第二季", 
+            "year": "2016"
+        }
+    ], 
+    "title": "搜索 \"12回合2\" 的结果", 
+    "total": 14
+}

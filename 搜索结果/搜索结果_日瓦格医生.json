@@ -1,0 +1,177 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1389949/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002711/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18052.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18052.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18052.jpg"
+                    }, 
+                    "id": "1002711", 
+                    "name": "奥马尔·沙里夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000086/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382356881.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382356881.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382356881.29.jpg"
+                    }, 
+                    "id": "1000086", 
+                    "name": "朱莉·克里斯蒂"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002747/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1425116304.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1425116304.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1425116304.08.jpg"
+                    }, 
+                    "id": "1002747", 
+                    "name": "罗德·斯泰格尔"
+                }
+            ], 
+            "collect_count": 11456, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002783/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3331.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3331.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3331.jpg"
+                    }, 
+                    "id": "1002783", 
+                    "name": "大卫·里恩"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "1389949", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2201838879.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2201838879.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2201838879.jpg"
+            }, 
+            "original_title": "Doctor Zhivago", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "日瓦戈医生", 
+            "year": "1965"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1418780/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hans Matheson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Keira Knightley"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sam Neill"
+                }
+            ], 
+            "collect_count": 1410, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Giacomo Campiotti"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "1418780", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2761252.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2761252.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2761252.jpg"
+            }, 
+            "original_title": "Doctor Zhivago", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "日瓦戈医生", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1900195/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Oleg Menshikov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chulpan Khamatova"
+                }
+            ], 
+            "collect_count": 239, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksandr Proshkin"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "1900195", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1878569.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1878569.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1878569.jpg"
+            }, 
+            "original_title": "Doctor Zhivago", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "日瓦戈医生", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"日瓦格医生\" 的结果", 
+    "total": 3
+}

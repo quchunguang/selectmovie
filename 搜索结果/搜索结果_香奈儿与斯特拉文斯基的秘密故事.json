@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3172300/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045023/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26151.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26151.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26151.jpg"
+                    }, 
+                    "id": "1045023", 
+                    "name": "安娜·莫格拉莉丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040529/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57893.jpg"
+                    }, 
+                    "id": "1040529", 
+                    "name": "麦斯·米科尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045312/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1045312", 
+                    "name": "伊莲娜·莫罗佐娃"
+                }
+            ], 
+            "collect_count": 20337, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045214/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8560.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8560.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8560.jpg"
+                    }, 
+                    "id": "1045214", 
+                    "name": "扬·高能"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3172300", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p509624485.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p509624485.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p509624485.jpg"
+            }, 
+            "original_title": "Coco Chanel & Igor Stravinsky", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "香奈儿秘密情史", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"香奈儿与斯特拉文斯基的秘密故事\" 的结果", 
+    "total": 1
+}

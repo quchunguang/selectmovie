@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1299556/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054437/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/614.jpg"
+                    }, 
+                    "id": "1054437", 
+                    "name": "梅丽尔·斯特里普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010509/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/106.jpg"
+                    }, 
+                    "id": "1010509", 
+                    "name": "布鲁斯·威利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041107/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1142.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1142.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1142.jpg"
+                    }, 
+                    "id": "1041107", 
+                    "name": "歌蒂·韩"
+                }
+            ], 
+            "collect_count": 2838, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053564/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/505.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/505.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/505.jpg"
+                    }, 
+                    "id": "1053564", 
+                    "name": "罗伯特·泽米吉斯"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1299556", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1050068695.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1050068695.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1050068695.jpg"
+            }, 
+            "original_title": "Death Becomes Her", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "飞越长生", 
+            "year": "1992"
+        }
+    ], 
+    "title": "搜索 \"飞越长生\" 的结果", 
+    "total": 1
+}

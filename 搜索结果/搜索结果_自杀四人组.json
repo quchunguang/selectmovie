@@ -1,0 +1,559 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/11620863/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314334/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/55040.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/55040.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/55040.jpg"
+                    }, 
+                    "id": "1314334", 
+                    "name": "安娜·麦克西维尔·马丁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1099626/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55974.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55974.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55974.jpg"
+                    }, 
+                    "id": "1099626", 
+                    "name": "朱莉·格雷厄姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323042/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1356006098.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1356006098.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1356006098.03.jpg"
+                    }, 
+                    "id": "1323042", 
+                    "name": "苏菲·兰朵"
+                }
+            ], 
+            "collect_count": 9050, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andy De Emmony"
+                }
+            ], 
+            "genres": [
+                "犯罪"
+            ], 
+            "id": "11620863", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2151404668.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2151404668.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2151404668.jpg"
+            }, 
+            "original_title": "The Bletchley Circle", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "布莱切利四人组 第一季", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1820138/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031219/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50837.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50837.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50837.jpg"
+                    }, 
+                    "id": "1031219", 
+                    "name": "皮尔斯·布鲁斯南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041108/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8262.jpg"
+                    }, 
+                    "id": "1041108", 
+                    "name": "托妮·科莱特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274510/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37263.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37263.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37263.jpg"
+                    }, 
+                    "id": "1274510", 
+                    "name": "伊莫琴·普茨"
+                }
+            ], 
+            "collect_count": 4297, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315647/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57149.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57149.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57149.jpg"
+                    }, 
+                    "id": "1315647", 
+                    "name": "帕斯卡尔·舒梅"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "1820138", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4642423.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4642423.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4642423.jpg"
+            }, 
+            "original_title": "A Long Way Down", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "自杀四人组", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10733360/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "碧琪（Birch Small）"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黎安（Liam Coll）"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "拉菲（Raffi Rodriguez）"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "JC LittCindy Filipenco，Svetlana Chmakova"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "10733360", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9089489.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9089489.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9089489.jpg"
+            }, 
+            "original_title": "青春四人组/My Life Me", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "青春四人组", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24745449/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314334/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/55040.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/55040.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/55040.jpg"
+                    }, 
+                    "id": "1314334", 
+                    "name": "安娜·麦克西维尔·马丁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323042/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1356006098.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1356006098.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1356006098.03.jpg"
+                    }, 
+                    "id": "1323042", 
+                    "name": "苏菲·兰朵"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1099626/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55974.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55974.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55974.jpg"
+                    }, 
+                    "id": "1099626", 
+                    "name": "朱莉·格雷厄姆"
+                }
+            ], 
+            "collect_count": 3796, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jamie Payne"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "24745449", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2162034000.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2162034000.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2162034000.jpg"
+            }, 
+            "original_title": "The Bletchley Circle", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "布莱切利四人组 第二季", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4099520/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jillian Murray"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ashley Parker Angel"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jessie Nickson"
+                }
+            ], 
+            "collect_count": 1727, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andy Hurst"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "4099520", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s5852215.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s5852215.jpg", 
+                "small": "https://img3.doubanio.com/spic/s5852215.jpg"
+            }, 
+            "original_title": "Wild Things: Foursome", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "玩尽杀绝4:四人组", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25710214/", 
+            "casts": [], 
+            "collect_count": 41, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alice Nellis"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "音乐"
+            ], 
+            "id": "25710214", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2104406214.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2104406214.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2104406214.jpg"
+            }, 
+            "original_title": "Revival", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "复活四人组", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5908485/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "太田貴子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "冨永みーな"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小幡洋子"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "奇幻"
+            ], 
+            "id": "5908485", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4592652.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4592652.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4592652.jpg"
+            }, 
+            "original_title": "魔女っ子クラブ4人組 A空間からのエイリアンX", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "魔女俱乐部四人组 来自亚空间的外星人X", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25869945/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王昆峰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "江青燕"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1339273/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1440315018.55.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1440315018.55.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1440315018.55.jpg"
+                    }, 
+                    "id": "1339273", 
+                    "name": "陈淑芳"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨喆"
+                }
+            ], 
+            "genres": [], 
+            "id": "25869945", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2264054998.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2264054998.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2264054998.jpg"
+            }, 
+            "original_title": "飞女四人组", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "飞女四人组", 
+            "year": "1984"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1306297/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013775/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27792.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27792.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27792.jpg"
+                    }, 
+                    "id": "1013775", 
+                    "name": "阿曼达·皮特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010596/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12093.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12093.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12093.jpg"
+                    }, 
+                    "id": "1010596", 
+                    "name": "布莱恩·范·霍尔特"
+                }
+            ], 
+            "collect_count": 30, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter M. Cohen"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1306297", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1441864.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1441864.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1441864.jpg"
+            }, 
+            "original_title": "Whipped", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "泡妞四人组", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5975151/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "くじら"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033302/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5782.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5782.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5782.jpg"
+                    }, 
+                    "id": "1033302", 
+                    "name": "森久保祥太郎"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033407/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9053.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9053.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9053.jpg"
+                    }, 
+                    "id": "1033407", 
+                    "name": "田村由加莉"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "ワタナベシンイチ"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "安田ケンジ"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "5975151", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4632520.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4632520.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4632520.jpg"
+            }, 
+            "original_title": "ドッとKONIちゃん", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "爆笑四人组", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"自杀四人组\" 的结果", 
+    "total": 10
+}

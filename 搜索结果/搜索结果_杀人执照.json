@@ -1,0 +1,150 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292754/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002699/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23796.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23796.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23796.jpg"
+                    }, 
+                    "id": "1002699", 
+                    "name": "提摩西·道尔顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004625/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/29151.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/29151.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/29151.jpg"
+                    }, 
+                    "id": "1004625", 
+                    "name": "凯莉·洛维"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010551/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20333.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20333.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20333.jpg"
+                    }, 
+                    "id": "1010551", 
+                    "name": "罗伯特·戴维"
+                }
+            ], 
+            "collect_count": 5288, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045308/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1438156482.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1438156482.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1438156482.08.jpg"
+                    }, 
+                    "id": "1045308", 
+                    "name": "约翰·格兰"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "惊悚"
+            ], 
+            "id": "1292754", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1430730.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1430730.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1430730.jpg"
+            }, 
+            "original_title": "Licence to Kill", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "007之杀人执照", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5058377/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Henri Decoin"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "5058377", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9062835.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9062835.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9062835.jpg"
+            }, 
+            "original_title": "License to Kill", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "杀人执照", 
+            "year": "1964"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4218864/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Denzel Washington"
+                }
+            ], 
+            "collect_count": 21, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jud Taylor"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4218864", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4118816.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4118816.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4118816.jpg"
+            }, 
+            "original_title": "License To Kill", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "杀戮证书", 
+            "year": "1984"
+        }
+    ], 
+    "title": "搜索 \"杀人执照\" 的结果", 
+    "total": 3
+}

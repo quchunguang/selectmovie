@@ -1,0 +1,521 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293656/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047972/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1358812490.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1358812490.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1358812490.58.jpg"
+                    }, 
+                    "id": "1047972", 
+                    "name": "山姆·洛克威尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017911/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6409.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6409.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6409.jpg"
+                    }, 
+                    "id": "1017911", 
+                    "name": "蒂姆·艾伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053569/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/513.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/513.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/513.jpg"
+                    }, 
+                    "id": "1053569", 
+                    "name": "西格妮·韦弗"
+                }
+            ], 
+            "collect_count": 4342, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1293954/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374043154.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374043154.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374043154.58.jpg"
+                    }, 
+                    "id": "1293954", 
+                    "name": "迪恩·帕里索特"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "喜剧"
+            ], 
+            "id": "1293656", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1929128940.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1929128940.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1929128940.jpg"
+            }, 
+            "original_title": "Galaxy Quest", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "惊爆银河系", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292267/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047972/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1358812490.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1358812490.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1358812490.58.jpg"
+                    }, 
+                    "id": "1047972", 
+                    "name": "山姆·洛克威尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013758/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3139.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3139.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3139.jpg"
+                    }, 
+                    "id": "1013758", 
+                    "name": "佐伊·丹斯切尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036449/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9991.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9991.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9991.jpg"
+                    }, 
+                    "id": "1036449", 
+                    "name": "茅斯·达夫"
+                }
+            ], 
+            "collect_count": 70440, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1303814/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21808.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21808.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21808.jpg"
+                    }, 
+                    "id": "1303814", 
+                    "name": "加斯·詹宁斯"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "喜剧", 
+                "科幻"
+            ], 
+            "id": "1292267", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1985335323.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1985335323.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1985335323.jpg"
+            }, 
+            "original_title": "The Hitchhiker's Guide to the Galaxy", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "银河系漫游指南", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2070452/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032163/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14288.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14288.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14288.jpg"
+                    }, 
+                    "id": "1032163", 
+                    "name": "爱德华·艾伯特"
+                }
+            ], 
+            "collect_count": 230, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bruce D. Clark"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "恐怖", 
+                "科幻"
+            ], 
+            "id": "2070452", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3316695.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3316695.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3316695.jpg"
+            }, 
+            "original_title": "Galaxy of Terror", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "杀出银河系", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1309180/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041114/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1436864538.86.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1436864538.86.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1436864538.86.jpg"
+                    }, 
+                    "id": "1041114", 
+                    "name": "理查德·德莱弗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031804/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1821.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1821.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1821.jpg"
+                    }, 
+                    "id": "1031804", 
+                    "name": "索拉·伯奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009288/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2378.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2378.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2378.jpg"
+                    }, 
+                    "id": "1009288", 
+                    "name": "克里斯·库珀"
+                }
+            ], 
+            "collect_count": 23, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027929/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26672.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26672.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26672.jpg"
+                    }, 
+                    "id": "1027929", 
+                    "name": "约翰·塞尔斯"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "1309180", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3560262.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3560262.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3560262.jpg"
+            }, 
+            "original_title": "Silver City", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "惊爆银色选战", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6017293/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "花上晃"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "竹邑類"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "真野三種"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "足立正生"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6017293", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4668526.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4668526.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4668526.jpg"
+            }, 
+            "original_title": "銀河系", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "银河系", 
+            "year": "1967"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5967221/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "柴田由美子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "岡本麻弥"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山本百合子"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "奥田誠治"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "5967221", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4627684.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4627684.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4627684.jpg"
+            }, 
+            "original_title": "トゥインクルハート 銀河系までとどかない", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "トゥインクルハート 銀河系までとどかない", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1756809/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1105193/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44095.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44095.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44095.jpg"
+                    }, 
+                    "id": "1105193", 
+                    "name": "西蒙·琼斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1082463/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50784.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50784.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50784.jpg"
+                    }, 
+                    "id": "1082463", 
+                    "name": "大卫·迪克森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1090104/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1090104", 
+                    "name": "Sandra Dickinson"
+                }
+            ], 
+            "collect_count": 2514, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1278252/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1278252", 
+                    "name": "Alan J.W. Bell"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "1756809", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2198375606.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2198375606.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2198375606.jpg"
+            }, 
+            "original_title": "The Hitchhiker's Guide to the Galaxy", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "银河系漫游指南", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3066526/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Zarko Potocnjak"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1167729/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1167729", 
+                    "name": "Lucie Zulová"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ksenia Prohaska"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008202/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19983.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19983.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19983.jpg"
+                    }, 
+                    "id": "1008202", 
+                    "name": "杜桑·伍寇提"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "科幻"
+            ], 
+            "id": "3066526", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10444677.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10444677.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10444677.jpg"
+            }, 
+            "original_title": "Gosti iz galaksije", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "入住银河系", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5200835/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Antoine Charreyron"
+                }
+            ], 
+            "genres": [], 
+            "id": "5200835", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Galactik Football", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "银河系足球世界杯", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"惊爆银河系\" 的结果", 
+    "total": 9
+}

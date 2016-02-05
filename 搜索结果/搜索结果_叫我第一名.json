@@ -1,0 +1,614 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4798888/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1241367/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14262.jpg"
+                    }, 
+                    "id": "1241367", 
+                    "name": "詹姆斯·沃克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036434/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33422.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33422.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33422.jpg"
+                    }, 
+                    "id": "1036434", 
+                    "name": "特里特·威廉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045080/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12537.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12537.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12537.jpg"
+                    }, 
+                    "id": "1045080", 
+                    "name": "多米尼克·斯科特·凯伊"
+                }
+            ], 
+            "collect_count": 114530, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1185815/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1185815", 
+                    "name": "彼得·沃纳"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记"
+            ], 
+            "id": "4798888", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p628364149.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p628364149.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p628364149.jpg"
+            }, 
+            "original_title": "Front of the Class", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "叫我第一名", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3016022/", 
+            "casts": [], 
+            "collect_count": 23, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023185/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1023185", 
+                    "name": "Adam Yauch"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "3016022", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2974735.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2974735.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2974735.jpg"
+            }, 
+            "original_title": "Gunnin' for That #1 Spot", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "叫我第一名", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299062/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029660/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8558.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8558.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8558.jpg"
+                    }, 
+                    "id": "1029660", 
+                    "name": "金子贤"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045426/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53248.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53248.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53248.jpg"
+                    }, 
+                    "id": "1045426", 
+                    "name": "安藤政信"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009702/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6190.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6190.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6190.jpg"
+                    }, 
+                    "id": "1009702", 
+                    "name": "石桥凌"
+                }
+            ], 
+            "collect_count": 43966, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054423/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39452.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39452.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39452.jpg"
+                    }, 
+                    "id": "1054423", 
+                    "name": "北野武"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1299062", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2197513152.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2197513152.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2197513152.jpg"
+            }, 
+            "original_title": "キッズ・リターン", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "坏孩子的天空", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24875547/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1128081/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1128081", 
+                    "name": "Boris Nevzorov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Svetlana Ryabov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vsevolod Sanaev"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031447/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1031447", 
+                    "name": "阿卡迪·锡仁科"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "24875547", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2057742284.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2057742284.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2057742284.jpg"
+            }, 
+            "original_title": "Первый парень", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "第一名", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299913/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017911/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6409.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6409.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6409.jpg"
+                    }, 
+                    "id": "1017911", 
+                    "name": "蒂姆·艾伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031819/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54463.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54463.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54463.jpg"
+                    }, 
+                    "id": "1031819", 
+                    "name": "朱丽·鲍温"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055683/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20951.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20951.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20951.jpg"
+                    }, 
+                    "id": "1055683", 
+                    "name": "凯莉·林奇"
+                }
+            ], 
+            "collect_count": 5785, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1294057/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1294057", 
+                    "name": "John Pasquin"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "剧情"
+            ], 
+            "id": "1299913", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1499613983.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1499613983.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1499613983.jpg"
+            }, 
+            "original_title": "Joe Somebody", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大人物乔", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4082132/", 
+            "casts": [], 
+            "collect_count": 49, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1290958/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20524.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20524.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20524.jpg"
+                    }, 
+                    "id": "1290958", 
+                    "name": "宝拉·马克维奇"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4082132", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4672016.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4672016.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4672016.jpg"
+            }, 
+            "original_title": "El premio", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "第一名的烦恼", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308709/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004861/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37927.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37927.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37927.jpg"
+                    }, 
+                    "id": "1004861", 
+                    "name": "杰西卡·阿尔芭"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Romeo"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013836/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6654.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6654.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6654.jpg"
+                    }, 
+                    "id": "1013836", 
+                    "name": "梅奇·费法"
+                }
+            ], 
+            "collect_count": 19329, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1301138/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1301138", 
+                    "name": "比勒·沃道夫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "音乐", 
+                "爱情"
+            ], 
+            "id": "1308709", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1327729.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1327729.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1327729.jpg"
+            }, 
+            "original_title": "Honey", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "热舞甜心", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297481/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Natalie Portman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ashley Judd"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stockard Channing"
+                }
+            ], 
+            "collect_count": 1984, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Matt Williams"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1297481", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3838208.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3838208.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3838208.jpg"
+            }, 
+            "original_title": "Where the Heart Is", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "芳心何处", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1480854/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045787/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1566.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1566.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1566.jpg"
+                    }, 
+                    "id": "1045787", 
+                    "name": "常盘贵子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014844/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16385.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16385.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16385.jpg"
+                    }, 
+                    "id": "1014844", 
+                    "name": "深津绘里"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000845/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2021.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2021.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2021.jpg"
+                    }, 
+                    "id": "1000845", 
+                    "name": "山下智久"
+                }
+            ], 
+            "collect_count": 1509, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316913/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48267.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48267.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48267.jpg"
+                    }, 
+                    "id": "1316913", 
+                    "name": "武内英树"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1480854", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3856443.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3856443.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3856443.jpg"
+            }, 
+            "original_title": "カバチタレ!", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "正义代书战士", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302810/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004699/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31134.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31134.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31134.jpg"
+                    }, 
+                    "id": "1004699", 
+                    "name": "格列塔·斯卡奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007018/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9055.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9055.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9055.jpg"
+                    }, 
+                    "id": "1007018", 
+                    "name": "安东尼·拉帕格利亚"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elena Cotta"
+                }
+            ], 
+            "collect_count": 186, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kate Woods"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1302810", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3354225.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3354225.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3354225.jpg"
+            }, 
+            "original_title": "Looking for Alibrandi", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "寻找阿拉布兰蒂", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26614180/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "科幻", 
+                "惊悚"
+            ], 
+            "id": "26614180", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Untitled The Mist Series", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "未定名迷雾剧集 第一季", 
+            "year": "2018"
+        }
+    ], 
+    "title": "搜索 \"叫我第一名\" 的结果", 
+    "total": 11
+}

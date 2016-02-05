@@ -1,0 +1,222 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/11598669/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1326203/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1361863697.11.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1361863697.11.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1361863697.11.jpg"
+                    }, 
+                    "id": "1326203", 
+                    "name": "法提玛·普塔塞克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321506/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1362494030.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1362494030.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1362494030.83.jpg"
+                    }, 
+                    "id": "1321506", 
+                    "name": "肖恩·克里斯汀森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1227067/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1364372097.25.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1364372097.25.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1364372097.25.jpg"
+                    }, 
+                    "id": "1227067", 
+                    "name": "金·艾伦"
+                }
+            ], 
+            "collect_count": 19726, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321506/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1362494030.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1362494030.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1362494030.83.jpg"
+                    }, 
+                    "id": "1321506", 
+                    "name": "肖恩·克里斯汀森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "短片"
+            ], 
+            "id": "11598669", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1884036688.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1884036688.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1884036688.jpg"
+            }, 
+            "original_title": "Curfew", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "宵禁", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5115323/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gary Winick"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "恐怖"
+            ], 
+            "id": "5115323", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9065676.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9065676.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9065676.jpg"
+            }, 
+            "original_title": "Curfew", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "宵禁", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5132209/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rajmonda Bullku"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Llazi Sërbo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Thimi Filipi"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "动作"
+            ], 
+            "id": "5132209", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10286212.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10286212.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10286212.jpg"
+            }, 
+            "original_title": "Nusja dhe shtetërrethimi", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "新娘与宵禁", 
+            "year": "1978"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295357/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010620/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18642.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18642.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18642.jpg"
+                    }, 
+                    "id": "1010620", 
+                    "name": "芭芭拉·斯坦威克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000590/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43326.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43326.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43326.jpg"
+                    }, 
+                    "id": "1000590", 
+                    "name": "保罗·道格拉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1146105/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25237.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25237.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25237.jpg"
+                    }, 
+                    "id": "1146105", 
+                    "name": "罗伯特·瑞安"
+                }
+            ], 
+            "collect_count": 120, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036593/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1135.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1135.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1135.jpg"
+                    }, 
+                    "id": "1036593", 
+                    "name": "弗里茨·朗"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "黑色电影"
+            ], 
+            "id": "1295357", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1029895535.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1029895535.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1029895535.jpg"
+            }, 
+            "original_title": "Clash by Night", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "夜间冲突", 
+            "year": "1952"
+        }
+    ], 
+    "title": "搜索 \"宵禁\" 的结果", 
+    "total": 4
+}

@@ -1,0 +1,824 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1304579/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004589/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1436867272.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1436867272.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1436867272.48.jpg"
+                    }, 
+                    "id": "1004589", 
+                    "name": "吉恩·哈克曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050140/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17266.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17266.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17266.jpg"
+                    }, 
+                    "id": "1050140", 
+                    "name": "费尔南多·雷依"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019315/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42538.jpg"
+                    }, 
+                    "id": "1019315", 
+                    "name": "贝尔纳·弗雷松"
+                }
+            ], 
+            "collect_count": 1761, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007071/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21124.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21124.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21124.jpg"
+                    }, 
+                    "id": "1007071", 
+                    "name": "约翰·弗兰克海默"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1304579", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1436040.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1436040.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1436040.jpg"
+            }, 
+            "original_title": "French Connection II", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "法国贩毒网2", 
+            "year": "1975"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3013046/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004589/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1436867272.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1436867272.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1436867272.48.jpg"
+                    }, 
+                    "id": "1004589", 
+                    "name": "吉恩·哈克曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050140/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17266.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17266.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17266.jpg"
+                    }, 
+                    "id": "1050140", 
+                    "name": "费尔南多·雷依"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041132/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12414.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12414.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12414.jpg"
+                    }, 
+                    "id": "1041132", 
+                    "name": "罗伊·沙伊德尔"
+                }
+            ], 
+            "collect_count": 5808, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049822/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32340.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32340.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32340.jpg"
+                    }, 
+                    "id": "1049822", 
+                    "name": "威廉·弗莱德金"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "3013046", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2171987.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2171987.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2171987.jpg"
+            }, 
+            "original_title": "The French Connection", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "法国贩毒网", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5047684/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027896/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9297.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9297.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9297.jpg"
+                    }, 
+                    "id": "1027896", 
+                    "name": "玛丽贝尔·贝尔杜"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1118006/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1118006", 
+                    "name": "Sergi Mateu"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Miguel Iglesias"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5047684", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8988903.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8988903.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8988903.jpg"
+            }, 
+            "original_title": "Barcelona Connection", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "巴塞罗那贩毒网", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299235/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053620/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4023.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4023.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4023.jpg"
+                    }, 
+                    "id": "1053620", 
+                    "name": "迈克尔·道格拉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041005/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1395662512.69.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1395662512.69.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1395662512.69.jpg"
+                    }, 
+                    "id": "1041005", 
+                    "name": "本尼西奥·德尔·托罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053573/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5062.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5062.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5062.jpg"
+                    }, 
+                    "id": "1053573", 
+                    "name": "唐·钱德尔"
+                }
+            ], 
+            "collect_count": 10004, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054400/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3577.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3577.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3577.jpg"
+                    }, 
+                    "id": "1054400", 
+                    "name": "史蒂文·索德伯格"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1299235", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2211600613.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2211600613.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2211600613.jpg"
+            }, 
+            "original_title": "Traffic", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "毒品网络", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26301531/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mélanie"
+                }
+            ], 
+            "collect_count": 24, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈佳欣"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "26301531", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2221731936.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2221731936.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2221731936.jpg"
+            }, 
+            "original_title": "法国女孩在重庆2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "法国女孩在重庆2", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1829654/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040996/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40158.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40158.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40158.jpg"
+                    }, 
+                    "id": "1040996", 
+                    "name": "罗温·艾金森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014224/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1374046530.41.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1374046530.41.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1374046530.41.jpg"
+                    }, 
+                    "id": "1014224", 
+                    "name": "马克思·鲍德里"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050029/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18750.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18750.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18750.jpg"
+                    }, 
+                    "id": "1050029", 
+                    "name": "艾玛·德考尼斯"
+                }
+            ], 
+            "collect_count": 87688, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1278324/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49497.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49497.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49497.jpg"
+                    }, 
+                    "id": "1278324", 
+                    "name": "史蒂夫·班德莱克"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "1829654", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p886541907.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p886541907.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p886541907.jpg"
+            }, 
+            "original_title": "Mr. Bean's Holiday", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "憨豆的黄金周", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5413813/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1262.jpg"
+                    }, 
+                    "id": "1036420", 
+                    "name": "朱莉·德尔佩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004578/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32616.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32616.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32616.jpg"
+                    }, 
+                    "id": "1004578", 
+                    "name": "克里斯·洛克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027874/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7225.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7225.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7225.jpg"
+                    }, 
+                    "id": "1027874", 
+                    "name": "迪伦·贝克"
+                }
+            ], 
+            "collect_count": 4946, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1262.jpg"
+                    }, 
+                    "id": "1036420", 
+                    "name": "朱莉·德尔佩"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "5413813", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8869207.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8869207.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8869207.jpg"
+            }, 
+            "original_title": "2 Days in New York", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "纽约两日情", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5992885/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gorden Kaye"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carmen Silvera"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Guy Siner"
+                }
+            ], 
+            "collect_count": 599, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050596/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393198157.09.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393198157.09.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393198157.09.jpg"
+                    }, 
+                    "id": "1050596", 
+                    "name": "David Croft"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "战争"
+            ], 
+            "id": "5992885", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4646816.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4646816.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4646816.jpg"
+            }, 
+            "original_title": "'Allo 'Allo!", 
+            "rating": {
+                "average": 9.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "tv", 
+            "title": "法国小馆儿 第二季", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1401591/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/730.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/730.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/730.jpg"
+                    }, 
+                    "id": "1055489", 
+                    "name": "让-吕克·戈达尔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dominique Jacquet"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016618/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376830929.12.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376830929.12.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376830929.12.jpg"
+                    }, 
+                    "id": "1016618", 
+                    "name": "米歇尔·皮寇利"
+                }
+            ], 
+            "collect_count": 157, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/730.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/730.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/730.jpg"
+                    }, 
+                    "id": "1055489", 
+                    "name": "让-吕克·戈达尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041846/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2945.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2945.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2945.jpg"
+                    }, 
+                    "id": "1041846", 
+                    "name": "安-玛莉·米耶维勒"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1401591", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2188565935.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2188565935.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2188565935.jpg"
+            }, 
+            "original_title": "Deux fois cinquante ans de cinéma français", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "法国电影两个五十年", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21331002/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1079545/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21320.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21320.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21320.jpg"
+                    }, 
+                    "id": "1079545", 
+                    "name": "约翰·道曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1328595/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/TmHvM6nt2scel_avatar_uploaded1367695605.06.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/TmHvM6nt2scel_avatar_uploaded1367695605.06.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/TmHvM6nt2scel_avatar_uploaded1367695605.06.jpg"
+                    }, 
+                    "id": "1328595", 
+                    "name": "马克·赖德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1247129/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365751281.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365751281.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365751281.3.jpg"
+                    }, 
+                    "id": "1247129", 
+                    "name": "伊索尔达·戴查克"
+                }
+            ], 
+            "collect_count": 158, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tom Fontana"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "21331002", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1945716695.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1945716695.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1945716695.jpg"
+            }, 
+            "original_title": "Borgia", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "波吉亚家族(法国版) 第二季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4161918/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003698/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/41375.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/41375.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/41375.jpg"
+                    }, 
+                    "id": "1003698", 
+                    "name": "约翰·哈拉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1020766/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/41381.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/41381.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/41381.jpg"
+                    }, 
+                    "id": "1020766", 
+                    "name": "乔伊·巴彻勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1300793/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41382.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41382.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41382.jpg"
+                    }, 
+                    "id": "1300793", 
+                    "name": "哈罗德·威特克"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003698/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/41375.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/41375.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/41375.jpg"
+                    }, 
+                    "id": "1003698", 
+                    "name": "约翰·哈拉斯"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "纪录片"
+            ], 
+            "id": "4161918", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4072726.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4072726.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4072726.jpg"
+            }, 
+            "original_title": "Masters of Animation", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "动画大师 第二季", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23707359/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010481/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28455.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28455.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28455.jpg"
+                    }, 
+                    "id": "1010481", 
+                    "name": "加劳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1223705/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1389663469.28.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1389663469.28.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1389663469.28.jpg"
+                    }, 
+                    "id": "1223705", 
+                    "name": "Jenifer Bartoli"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1128775/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1128775", 
+                    "name": "Florent Pagny"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1046181/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1046181", 
+                    "name": "John de Mol"
+                }
+            ], 
+            "genres": [
+                "音乐"
+            ], 
+            "id": "23707359", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1929486702.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1929486702.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1929486702.jpg"
+            }, 
+            "original_title": "The Voice: La plus belle voix Season 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "法国之声 第二季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25722786/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "羅銳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eugene Thomas"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "易原"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "何誌強"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "25722786", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "忍者兵團", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "忍者大战", 
+            "year": "1987"
+        }
+    ], 
+    "title": "搜索 \"法国贩毒网2\" 的结果", 
+    "total": 13
+}

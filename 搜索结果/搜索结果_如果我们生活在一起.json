@@ -1,0 +1,999 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/25876730/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016866/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1405156561.35.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1405156561.35.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1405156561.35.jpg"
+                    }, 
+                    "id": "1016866", 
+                    "name": "杨恭如"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1043564/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1424333777.25.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1424333777.25.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1424333777.25.jpg"
+                    }, 
+                    "id": "1043564", 
+                    "name": "唐文龙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274879/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7381.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7381.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7381.jpg"
+                    }, 
+                    "id": "1274879", 
+                    "name": "迟帅"
+                }
+            ], 
+            "collect_count": 473, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1346053/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1422342994.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1422342994.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1422342994.52.jpg"
+                    }, 
+                    "id": "1346053", 
+                    "name": "晏菲"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "25876730", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2225366587.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2225366587.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2225366587.jpg"
+            }, 
+            "original_title": "我只要我们在一起", 
+            "rating": {
+                "average": 3.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "我只要我们在一起", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4995724/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Guy Bedos"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053566/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10117.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10117.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10117.jpg"
+                    }, 
+                    "id": "1053566", 
+                    "name": "丹尼尔·布鲁赫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Philippe Chaine"
+                }
+            ], 
+            "collect_count": 886, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stéphane Robelin"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4995724", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7025781.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7025781.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7025781.jpg"
+            }, 
+            "original_title": "Et si on vivait tous ensemble?", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "如果我们生活在一起", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25945295/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "伍继组"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王艨贤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "雷英"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "樊弘"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "短片"
+            ], 
+            "id": "25945295", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2194064097.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2194064097.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2194064097.jpg"
+            }, 
+            "original_title": "如果我们在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "如果我们在一起", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26101231/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "瑞奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1333349/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/u8ulXOK4HrMcel_avatar_uploaded1376939991.47.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/u8ulXOK4HrMcel_avatar_uploaded1376939991.47.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/u8ulXOK4HrMcel_avatar_uploaded1376939991.47.jpg"
+                    }, 
+                    "id": "1333349", 
+                    "name": "石咏维"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1343118/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1415128527.95.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1415128527.95.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1415128527.95.jpg"
+                    }, 
+                    "id": "1343118", 
+                    "name": "蔡裴琳"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林大晋"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "短片"
+            ], 
+            "id": "26101231", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2204461311.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2204461311.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2204461311.jpg"
+            }, 
+            "original_title": "两个人如果在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "两个人如果在一起", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6041205/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵骏亚"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "叶家妤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周孝安"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "谢准良"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "6041205", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4679775.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4679775.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4679775.jpg"
+            }, 
+            "original_title": "愛讓我們在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "爱让我们在一起", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25929741/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038569/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/45015.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/45015.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/45015.jpg"
+                    }, 
+                    "id": "1038569", 
+                    "name": "黄宗泽"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275882/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12002.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12002.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12002.jpg"
+                    }, 
+                    "id": "1275882", 
+                    "name": "黄明"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312835/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1408117253.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1408117253.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1408117253.33.jpg"
+                    }, 
+                    "id": "1312835", 
+                    "name": "李呈媛"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280377/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37829.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37829.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37829.jpg"
+                    }, 
+                    "id": "1280377", 
+                    "name": "查传谊"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "25929741", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2232307960.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2232307960.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2232307960.jpg"
+            }, 
+            "original_title": "爱让我们在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "爱让我们在一起", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25749952/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1333869/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378277457.79.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378277457.79.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378277457.79.jpg"
+                    }, 
+                    "id": "1333869", 
+                    "name": "马永霖"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006142/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1352719240.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1352719240.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1352719240.17.jpg"
+                    }, 
+                    "id": "1006142", 
+                    "name": "恬妞"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321159/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1385001440.95.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1385001440.95.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1385001440.95.jpg"
+                    }, 
+                    "id": "1321159", 
+                    "name": "徐进良"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "25749952", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2155910457.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2155910457.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2155910457.jpg"
+            }, 
+            "original_title": "我們永遠在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我们永远在一起", 
+            "year": "1978"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25715116/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "邓迎海"
+                }
+            ], 
+            "genres": [], 
+            "id": "25715116", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "我们在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我们在一起", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26604627/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "中央新闻纪录电影制片厂"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26604627", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2265476218.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2265476218.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2265476218.jpg"
+            }, 
+            "original_title": "周总理和我们在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "周总理和我们在一起", 
+            "year": "1979"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26372933/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "潘林生"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "潘长江"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "冯海涛"
+                }
+            ], 
+            "genres": [], 
+            "id": "26372933", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "今年夏天我们在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "今年夏天我们在一起", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26389339/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "车永莉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金巧巧"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王今心"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323016/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1323016", 
+                    "name": "龚朝"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曾杨"
+                }
+            ], 
+            "genres": [], 
+            "id": "26389339", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "我们在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我们在一起", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25716093/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "贺鑫龙"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "翟小兴"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "洪源"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张忠华"
+                }
+            ], 
+            "genres": [
+                "儿童"
+            ], 
+            "id": "25716093", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "我们永远在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我们永远在一起", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26631955/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈伟栋"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵圆圆"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "任珊珊"
+                }
+            ], 
+            "genres": [], 
+            "id": "26631955", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "只要我们在一起", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "只要我们在一起", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26284955/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033094/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1522.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1522.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1522.jpg"
+                    }, 
+                    "id": "1033094", 
+                    "name": "吉永小百合"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018351/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24152.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24152.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24152.jpg"
+                    }, 
+                    "id": "1018351", 
+                    "name": "二宫和也"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327137/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367243985.68.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367243985.68.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367243985.68.jpg"
+                    }, 
+                    "id": "1327137", 
+                    "name": "黑木华"
+                }
+            ], 
+            "collect_count": 217, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1162794/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369063333.78.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369063333.78.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369063333.78.jpg"
+                    }, 
+                    "id": "1162794", 
+                    "name": "山田洋次"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26284955", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2275202714.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2275202714.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2275202714.jpg"
+            }, 
+            "original_title": "母と暮せば", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "如果和母亲一起生活", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6101822/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kim Ryong Hwa"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Go Sung Ryong"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jang Yong Bok"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6101822", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "我们生活在这里", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我们生活在这里", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26676485/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26676485", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "我们生活在天山南北", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我们生活在天山南北", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4751577/", 
+            "casts": [], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David MacDougall"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Judith MacDougall"
+                }
+            ], 
+            "genres": [], 
+            "id": "4751577", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "To Live with Herds: A Dry Season among Jie", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "与牧群生活在一起：杰伊人的旱季", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10600989/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Martin Højmark"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1119108/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1119108", 
+                    "name": "Ole Meyer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jens Wagn Rasmussen"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ernst Johansen"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lasse Nielsen"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10600989", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9047803.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9047803.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9047803.jpg"
+            }, 
+            "original_title": "La' os være", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "让我们在一起", 
+            "year": "1975"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3034030/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Blain-Rozgay"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stacey J. Aswad"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kate Leahey"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028971/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1028971", 
+                    "name": "Dave Christiano"
+                }
+            ], 
+            "genres": [], 
+            "id": "3034030", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3015251.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3015251.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3015251.jpg"
+            }, 
+            "original_title": "Me & You, Us, Forever", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我们永远在一起", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26362435/", 
+            "casts": [], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Cameron Macgowan"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "恐怖", 
+                "短片"
+            ], 
+            "id": "26362435", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2240250205.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2240250205.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2240250205.jpg"
+            }, 
+            "original_title": "Liebe", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我要我们在一起", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"如果我们生活在一起\" 的结果", 
+    "total": 24
+}

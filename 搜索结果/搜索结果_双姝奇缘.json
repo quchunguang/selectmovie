@@ -1,0 +1,143 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1421309/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joëlle Miquel"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033351/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57354.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57354.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57354.jpg"
+                    }, 
+                    "id": "1033351", 
+                    "name": "杰西卡·福德"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mr. Housseau"
+                }
+            ], 
+            "collect_count": 1237, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054406/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/573.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/573.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/573.jpg"
+                    }, 
+                    "id": "1054406", 
+                    "name": "埃里克·侯麦"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1421309", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1785610.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1785610.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1785610.jpg"
+            }, 
+            "original_title": "4 aventures de Reinette et Mirabelle", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "双姝奇缘", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3066146/", 
+            "casts": [], 
+            "collect_count": 40, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "科幻"
+            ], 
+            "id": "3066146", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3078003.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3078003.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3078003.jpg"
+            }, 
+            "original_title": "\"The X Files\"Season 3, Episode 13: Syzygy", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "双姝奇缘", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307136/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laurel Holloman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nicole Parker"
+                }
+            ], 
+            "collect_count": 2761, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Maria Maggenti"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1307136", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2556540.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2556540.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2556540.jpg"
+            }, 
+            "original_title": "The Incredibly True Adventure of Two Girls in Love", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "双姝奇恋", 
+            "year": "1995"
+        }
+    ], 
+    "title": "搜索 \"双姝奇缘\" 的结果", 
+    "total": 3
+}

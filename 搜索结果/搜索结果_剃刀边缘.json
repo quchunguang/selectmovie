@@ -1,0 +1,538 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1299967/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054509/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56212.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56212.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56212.jpg"
+                    }, 
+                    "id": "1054509", 
+                    "name": "迈克尔·凯恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031750/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1392037340.8.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1392037340.8.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1392037340.8.jpg"
+                    }, 
+                    "id": "1031750", 
+                    "name": "安吉·迪金森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009358/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37506.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37506.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37506.jpg"
+                    }, 
+                    "id": "1009358", 
+                    "name": "南茜·艾伦"
+                }
+            ], 
+            "collect_count": 5499, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012516/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54132.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54132.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54132.jpg"
+                    }, 
+                    "id": "1012516", 
+                    "name": "布莱恩·德·帕尔玛"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1299967", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1956850.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1956850.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1956850.jpg"
+            }, 
+            "original_title": "Dressed to Kill", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "剃刀边缘", 
+            "year": "1980"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1304612/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Edmund Lowe"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mary Astor"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ben Bard"
+                }
+            ], 
+            "collect_count": 1221, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028721/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31738.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31738.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31738.jpg"
+                    }, 
+                    "id": "1028721", 
+                    "name": "埃文·坎明斯"
+                }
+            ], 
+            "genres": [
+                "犯罪"
+            ], 
+            "id": "1304612", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2175722839.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2175722839.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2175722839.jpg"
+            }, 
+            "original_title": "Dressed to Kill", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "剃刀边缘", 
+            "year": "1928"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1807067/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "巴兹尔·拉思伯恩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "奈杰尔·布鲁斯"
+                }
+            ], 
+            "collect_count": 66, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗伊·威廉姆·内尔"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "1807067", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2202887872.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2202887872.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2202887872.jpg"
+            }, 
+            "original_title": "Dressed to Kill", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "剃刀边缘", 
+            "year": "1946"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296214/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007132/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22098.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22098.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22098.jpg"
+                    }, 
+                    "id": "1007132", 
+                    "name": "彼得·萨利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1142609/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45327.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45327.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45327.jpg"
+                    }, 
+                    "id": "1142609", 
+                    "name": "安妮·雷德"
+                }
+            ], 
+            "collect_count": 9722, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036894/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3653.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3653.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3653.jpg"
+                    }, 
+                    "id": "1036894", 
+                    "name": "尼克·帕克"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "短片"
+            ], 
+            "id": "1296214", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1314987.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1314987.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1314987.jpg"
+            }, 
+            "original_title": "Wallace & Gromit: A Close Shave", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "超级无敌掌门狗：剃刀边缘", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296644/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025336/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24613.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24613.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24613.jpg"
+                    }, 
+                    "id": "1025336", 
+                    "name": "劳伊德·诺兰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041751/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1414823713.78.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1414823713.78.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1414823713.78.jpg"
+                    }, 
+                    "id": "1041751", 
+                    "name": "玛丽·贝丝·休斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1087199/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51230.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51230.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51230.jpg"
+                    }, 
+                    "id": "1087199", 
+                    "name": "威廉·德马雷斯特"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eugene Forde"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "1296644", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2305421362.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2305421362.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2305421362.jpg"
+            }, 
+            "original_title": "Dressed to Kill", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "剃刀边缘", 
+            "year": "1941"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297992/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lorenzo Benedick"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "悬疑"
+            ], 
+            "id": "1297992", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Razor's Edge", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "剃刀边缘", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297508/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048197/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4447.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4447.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4447.jpg"
+                    }, 
+                    "id": "1048197", 
+                    "name": "泰隆·鲍华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040650/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6343.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6343.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6343.jpg"
+                    }, 
+                    "id": "1040650", 
+                    "name": "吉恩·蒂尔尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048212/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23839.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23839.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23839.jpg"
+                    }, 
+                    "id": "1048212", 
+                    "name": "安妮·巴克斯特"
+                }
+            ], 
+            "collect_count": 144, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032841/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1377861836.55.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1377861836.55.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1377861836.55.jpg"
+                    }, 
+                    "id": "1032841", 
+                    "name": "爱德芒德·古尔丁"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1297508", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1665521.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1665521.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1665521.jpg"
+            }, 
+            "original_title": "The Razor's Edge", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "刀锋", 
+            "year": "1946"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296870/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054508/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/651.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/651.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/651.jpg"
+                    }, 
+                    "id": "1054508", 
+                    "name": "比尔·默瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032016/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1427624017.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1427624017.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1427624017.17.jpg"
+                    }, 
+                    "id": "1032016", 
+                    "name": "泰莉莎·拉塞尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022689/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49315.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49315.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49315.jpg"
+                    }, 
+                    "id": "1022689", 
+                    "name": "凯瑟琳·海克丝"
+                }
+            ], 
+            "collect_count": 26, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032630/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1032630", 
+                    "name": "John Byrum"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "1296870", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2232290.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2232290.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2232290.jpg"
+            }, 
+            "original_title": "The Razor's Edge", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "刀锋走险", 
+            "year": "1984"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1482106/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017944/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22248.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22248.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22248.jpg"
+                    }, 
+                    "id": "1017944", 
+                    "name": "安妮特·贝宁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018985/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34877.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34877.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34877.jpg"
+                    }, 
+                    "id": "1018985", 
+                    "name": "格温妮斯·帕特洛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019027/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1213.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1213.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1213.jpg"
+                    }, 
+                    "id": "1019027", 
+                    "name": "布莱恩·考克斯"
+                }
+            ], 
+            "collect_count": 2086, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275184/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20075.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20075.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20075.jpg"
+                    }, 
+                    "id": "1275184", 
+                    "name": "瑞恩·墨菲"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1482106", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1686126.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1686126.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1686126.jpg"
+            }, 
+            "original_title": "Running With Scissors", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "夹缝求生", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"剃刀边缘\" 的结果", 
+    "total": 9
+}

@@ -1,0 +1,495 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293590/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010506/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3151.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3151.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3151.jpg"
+                    }, 
+                    "id": "1010506", 
+                    "name": "费雯·丽"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041025/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/465.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/465.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/465.jpg"
+                    }, 
+                    "id": "1041025", 
+                    "name": "马龙·白兰度"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041206/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1409039010.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1409039010.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1409039010.93.jpg"
+                    }, 
+                    "id": "1041206", 
+                    "name": "金·亨特"
+                }
+            ], 
+            "collect_count": 24586, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049771/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8067.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8067.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8067.jpg"
+                    }, 
+                    "id": "1049771", 
+                    "name": "伊利亚·卡赞"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1293590", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2177784348.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2177784348.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2177784348.jpg"
+            }, 
+            "original_title": "A Streetcar Named Desire", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "欲望号街车", 
+            "year": "1951"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297843/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ann-Margret"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Treat Williams"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Beverly D'Angelo"
+                }
+            ], 
+            "collect_count": 225, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "约翰 厄曼 (John Erman)"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1297843", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3268177.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3268177.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3268177.jpg"
+            }, 
+            "original_title": "A Streetcar Named Desire (TV)", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "欲望号街车", 
+            "year": "1984"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3058628/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alec Baldwin"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jessica Lange"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Goodman"
+                }
+            ], 
+            "collect_count": 89, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Glenn Jordan"
+                }
+            ], 
+            "genres": [], 
+            "id": "3058628", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3055687.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3055687.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3055687.jpg"
+            }, 
+            "original_title": "A Streetcar Named Desire", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "欲望号街车", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21334283/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054441/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1593.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1593.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1593.jpg"
+                    }, 
+                    "id": "1054441", 
+                    "name": "凯特·布兰切特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010631/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393134707.77.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393134707.77.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393134707.77.jpg"
+                    }, 
+                    "id": "1010631", 
+                    "name": "乔尔·埃哲顿"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036619/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1355.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1355.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1355.jpg"
+                    }, 
+                    "id": "1036619", 
+                    "name": "丽芙·乌曼"
+                }
+            ], 
+            "genres": [], 
+            "id": "21334283", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "A Streetcar Named Desire", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "欲望号街车", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25981128/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022623/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1376114751.16.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1376114751.16.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1376114751.16.jpg"
+                    }, 
+                    "id": "1022623", 
+                    "name": "吉莲·安德森"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clare Burt"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lachele Carl"
+                }
+            ], 
+            "collect_count": 58, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Benedict Andrews"
+                }
+            ], 
+            "genres": [], 
+            "id": "25981128", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2199378174.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2199378174.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2199378174.jpg"
+            }, 
+            "original_title": "National Theatre Live: A Streetcar Named Desire", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "欲望号街车", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1949648/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "关宝慧 黎耀祥 马德锺 夏萍 姚乐怡"
+                }
+            ], 
+            "collect_count": 38, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李玉珍"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1949648", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1958625.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1958625.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1958625.jpg"
+            }, 
+            "original_title": "欲望号列车", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "欲望号列车", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292682/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006968/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2369.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2369.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2369.jpg"
+                    }, 
+                    "id": "1006968", 
+                    "name": "詹姆斯·斯派德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031838/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48614.jpg"
+                    }, 
+                    "id": "1031838", 
+                    "name": "霍利·亨特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002738/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23892.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23892.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23892.jpg"
+                    }, 
+                    "id": "1002738", 
+                    "name": "黛博拉·卡拉·安格"
+                }
+            ], 
+            "collect_count": 8782, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054396/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28359.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28359.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28359.jpg"
+                    }, 
+                    "id": "1054396", 
+                    "name": "大卫·柯南伯格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚", 
+                "情色"
+            ], 
+            "id": "1292682", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2846379.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2846379.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2846379.jpg"
+            }, 
+            "original_title": "Crash", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "欲望号快车", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299099/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Renee Fleming"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elizabeth Futral"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rodney Gilfry"
+                }
+            ], 
+            "collect_count": 64, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kirk Browning"
+                }
+            ], 
+            "genres": [
+                "歌舞", 
+                "剧情"
+            ], 
+            "id": "1299099", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1743556.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1743556.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1743556.jpg"
+            }, 
+            "original_title": "A Streetcar Named Desire (TV)", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "A Streetcar Named Desire (TV)", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3127115/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴启华"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "符钰晶"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王玮"
+                }
+            ], 
+            "collect_count": 66, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张键"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3127115", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4417911.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4417911.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4417911.jpg"
+            }, 
+            "original_title": "日落卡門", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "日落卡门", 
+            "year": "1993"
+        }
+    ], 
+    "title": "搜索 \"欲望号街车\" 的结果", 
+    "total": 9
+}

@@ -1,0 +1,306 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298320/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036607/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7208.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7208.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7208.jpg"
+                    }, 
+                    "id": "1036607", 
+                    "name": "布莱恩·奥哈罗兰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045019/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7209.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7209.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7209.jpg"
+                    }, 
+                    "id": "1045019", 
+                    "name": "杰夫·安德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023025/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13838.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13838.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13838.jpg"
+                    }, 
+                    "id": "1023025", 
+                    "name": "玛丽琳·吉格洛尔蒂"
+                }
+            ], 
+            "collect_count": 17240, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1704.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1704.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1704.jpg"
+                    }, 
+                    "id": "1022587", 
+                    "name": "凯文·史密斯"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1298320", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1203262182.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1203262182.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1203262182.jpg"
+            }, 
+            "original_title": "Clerks", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "疯狂店员", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1793671/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036607/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7208.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7208.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7208.jpg"
+                    }, 
+                    "id": "1036607", 
+                    "name": "布莱恩·奥哈罗兰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045019/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7209.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7209.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7209.jpg"
+                    }, 
+                    "id": "1045019", 
+                    "name": "杰夫·安德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017921/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2153.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2153.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2153.jpg"
+                    }, 
+                    "id": "1017921", 
+                    "name": "杰森·缪斯"
+                }
+            ], 
+            "collect_count": 8403, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1704.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1704.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1704.jpg"
+                    }, 
+                    "id": "1022587", 
+                    "name": "凯文·史密斯"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1793671", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1924198.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1924198.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1924198.jpg"
+            }, 
+            "original_title": "Clerks II", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "疯狂店员2", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21817618/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044717/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1433831951.79.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1433831951.79.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1433831951.79.jpg"
+                    }, 
+                    "id": "1044717", 
+                    "name": "罗莎里奥·道森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1704.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1704.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1704.jpg"
+                    }, 
+                    "id": "1022587", 
+                    "name": "凯文·史密斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017921/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2153.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2153.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2153.jpg"
+                    }, 
+                    "id": "1017921", 
+                    "name": "杰森·缪斯"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1704.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1704.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1704.jpg"
+                    }, 
+                    "id": "1022587", 
+                    "name": "凯文·史密斯"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "21817618", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Clerks III", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "疯狂店员3", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3226106/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ragnhildur Steinunn Jónsdóttir"
+                }
+            ], 
+            "collect_count": 31, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gunnar B. Gudmundsson"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻"
+            ], 
+            "id": "3226106", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3270897.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3270897.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3270897.jpg"
+            }, 
+            "original_title": "Astrópía", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "冰岛疯狂店员", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1963190/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeff Anderson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jason Mewes"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brian O'Halloran"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nicholas Filippi"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steve Loter"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1963190", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1992046.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1992046.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1992046.jpg"
+            }, 
+            "original_title": "clerks:uncensodre", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "疯狂店员", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"疯狂店员\" 的结果", 
+    "total": 5
+}

@@ -1,0 +1,51 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4319017/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "班克斯等街头画家"
+                }
+            ], 
+            "collect_count": 5207, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314030/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21394.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21394.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21394.jpg"
+                    }, 
+                    "id": "1314030", 
+                    "name": "班克斯"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "4319017", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4271952.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4271952.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4271952.jpg"
+            }, 
+            "original_title": "Exit Through the Gift Shop", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "画廊外的天赋", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"画廊外的天赋\" 的结果", 
+    "total": 1
+}

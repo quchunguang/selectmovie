@@ -1,0 +1,107 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1309015/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041009/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6731.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6731.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6731.jpg"
+                    }, 
+                    "id": "1041009", 
+                    "name": "盖尔·加西亚·贝纳尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000585/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58637.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58637.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58637.jpg"
+                    }, 
+                    "id": "1000585", 
+                    "name": "罗德里格·德拉·塞纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050731/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050731", 
+                    "name": "梅赛黛斯·莫朗"
+                }
+            ], 
+            "collect_count": 39175, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000292/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3107.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3107.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3107.jpg"
+                    }, 
+                    "id": "1000292", 
+                    "name": "沃尔特·塞勒斯"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "传记", 
+                "剧情"
+            ], 
+            "id": "1309015", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1806669.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1806669.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1806669.jpg"
+            }, 
+            "original_title": "Diarios de motocicleta", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "摩托日记", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6537956/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Sloper"
+                }
+            ], 
+            "genres": [], 
+            "id": "6537956", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6523788.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6523788.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6523788.jpg"
+            }, 
+            "original_title": "I Superbiker", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "超级摩托车手", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"摩托日记\" 的结果", 
+    "total": 2
+}

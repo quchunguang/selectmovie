@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/20390185/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1334502/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/BChtpNn1K84cel_avatar_uploaded1378981224.45.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/BChtpNn1K84cel_avatar_uploaded1378981224.45.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/BChtpNn1K84cel_avatar_uploaded1378981224.45.jpg"
+                    }, 
+                    "id": "1334502", 
+                    "name": "安东尼娅·坎贝尔·休斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324699/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1352476162.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1352476162.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1352476162.26.jpg"
+                    }, 
+                    "id": "1324699", 
+                    "name": "杰米斯·巴特勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014098/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35886.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35886.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35886.jpg"
+                    }, 
+                    "id": "1014098", 
+                    "name": "托尔·林德哈特"
+                }
+            ], 
+            "collect_count": 4342, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1286916/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1429361001.13.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1429361001.13.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1429361001.13.jpg"
+                    }, 
+                    "id": "1286916", 
+                    "name": "雪瑞·霍尔曼"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "20390185", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1880934665.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1880934665.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1880934665.jpg"
+            }, 
+            "original_title": "3096 Tage", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "3096天", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"3096天\" 的结果", 
+    "total": 1
+}

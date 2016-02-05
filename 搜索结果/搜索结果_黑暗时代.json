@@ -1,0 +1,540 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1297548/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022861/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25495.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25495.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25495.jpg"
+                    }, 
+                    "id": "1022861", 
+                    "name": "尼吉尔·特瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054390/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21169.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21169.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21169.jpg"
+                    }, 
+                    "id": "1054390", 
+                    "name": "海伦·米伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1388365761.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1388365761.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1388365761.51.jpg"
+                    }, 
+                    "id": "1049995", 
+                    "name": "尼古拉斯·克莱"
+                }
+            ], 
+            "collect_count": 349, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055353/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23682.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23682.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23682.jpg"
+                    }, 
+                    "id": "1055353", 
+                    "name": "约翰·保曼"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情", 
+                "奇幻"
+            ], 
+            "id": "1297548", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4139793.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4139793.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4139793.jpg"
+            }, 
+            "original_title": "Excalibur", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗时代", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4217396/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈颖妍"
+                }
+            ], 
+            "collect_count": 19, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈耀明"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4217396", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4117237.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4117237.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4117237.jpg"
+            }, 
+            "original_title": "黑暗时代之无证妓女", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗时代之无证妓女", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4217397/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈颖妍"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "唐文龙"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林华勋"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4217397", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4117242.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4117242.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4117242.jpg"
+            }, 
+            "original_title": "黑暗时代II：夜星", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗时代II：夜星", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2977762/", 
+            "casts": [], 
+            "collect_count": 23, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Cassel"
+                }
+            ], 
+            "genres": [
+                "历史", 
+                "纪录片"
+            ], 
+            "id": "2977762", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2882964.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2882964.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2882964.jpg"
+            }, 
+            "original_title": "The Dark Ages", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗时代", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25852228/", 
+            "casts": [], 
+            "collect_count": 11, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25852228", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2231713473.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2231713473.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2231713473.jpg"
+            }, 
+            "original_title": "The Dark Ages: An Age of Light", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗时代：一个光明的时代", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1309160/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005773/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/88.jpg"
+                    }, 
+                    "id": "1005773", 
+                    "name": "克里斯蒂安·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004588/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1424.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1424.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1424.jpg"
+                    }, 
+                    "id": "1004588", 
+                    "name": "詹妮弗·杰森·李"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1156331/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27563.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27563.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27563.jpg"
+                    }, 
+                    "id": "1156331", 
+                    "name": "埃塔娜·桑切斯-吉永"
+                }
+            ], 
+            "collect_count": 80857, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274486/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4445.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4445.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4445.jpg"
+                    }, 
+                    "id": "1274486", 
+                    "name": "布拉德·安德森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1309160", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p453944400.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p453944400.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p453944400.jpg"
+            }, 
+            "original_title": "The Machinist", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "机械师", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3401684/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040998/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13595.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13595.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13595.jpg"
+                    }, 
+                    "id": "1040998", 
+                    "name": "埃米尔·赫斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027210/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39997.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39997.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39997.jpg"
+                    }, 
+                    "id": "1027210", 
+                    "name": "奥莉薇·瑟尔比"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049577/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8925.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8925.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8925.jpg"
+                    }, 
+                    "id": "1049577", 
+                    "name": "麦克思·明格拉"
+                }
+            ], 
+            "collect_count": 7207, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1285166/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1285166", 
+                    "name": "Chris Gorak"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3401684", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1354958367.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1354958367.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1354958367.jpg"
+            }, 
+            "original_title": "The Darkest Hour", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "至暗之时", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2075368/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jorge Casalduero"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Julio Perillán"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Omar Muñoz"
+                }
+            ], 
+            "collect_count": 259, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elio Quiroga"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "悬疑", 
+                "科幻"
+            ], 
+            "id": "2075368", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2398803.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2398803.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2398803.jpg"
+            }, 
+            "original_title": "La hora fría", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗时刻", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3729497/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nikolai Kochegarov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Victor Repnikov"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007046/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20539.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20539.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20539.jpg"
+                    }, 
+                    "id": "1007046", 
+                    "name": "乔治·席格"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1011161/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1011161", 
+                    "name": "弗拉迪米尔·阿伦利科夫"
+                }
+            ], 
+            "genres": [
+                "历史", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "3729497", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Fiofaniya, risuyushchaya smert", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗时日", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2002691/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025151/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/292.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/292.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/292.jpg"
+                    }, 
+                    "id": "1025151", 
+                    "name": "黛安·克鲁格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050029/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18750.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18750.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18750.jpg"
+                    }, 
+                    "id": "1050029", 
+                    "name": "艾玛·德考尼斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009668/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4522.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4522.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4522.jpg"
+                    }, 
+                    "id": "1009668", 
+                    "name": "洛福斯·温莱特"
+                }
+            ], 
+            "collect_count": 232, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012543/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26556.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26556.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26556.jpg"
+                    }, 
+                    "id": "1012543", 
+                    "name": "丹尼斯·阿康特"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "奇幻"
+            ], 
+            "id": "2002691", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3207270.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3207270.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3207270.jpg"
+            }, 
+            "original_title": "L'âge des ténèbres", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "夜色无边", 
+            "year": "2007"
+        }
+    ], 
+    "title": "搜索 \"黑暗时代\" 的结果", 
+    "total": 10
+}

@@ -1,0 +1,435 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/11599239/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/626.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/626.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/626.jpg"
+                    }, 
+                    "id": "1021995", 
+                    "name": "凯丽·拉塞尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1098942/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1383536048.87.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1383536048.87.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1383536048.87.jpg"
+                    }, 
+                    "id": "1098942", 
+                    "name": "约什·汉密尔顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1233393/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37010.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37010.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37010.jpg"
+                    }, 
+                    "id": "1233393", 
+                    "name": "达科塔·高尤"
+                }
+            ], 
+            "collect_count": 4679, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327068/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390177710.53.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390177710.53.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390177710.53.jpg"
+                    }, 
+                    "id": "1327068", 
+                    "name": "斯科特·查尔斯·斯图瓦特"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "11599239", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1872382389.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1872382389.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1872382389.jpg"
+            }, 
+            "original_title": "Dark Skies", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗天际", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305588/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Maria Karlsen"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1094346/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1094346", 
+                    "name": "Mette Louise Holland"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002948/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22084.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22084.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22084.jpg"
+                    }, 
+                    "id": "1002948", 
+                    "name": "托马斯·维尔姆·詹森"
+                }
+            ], 
+            "collect_count": 54, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028906/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1392570555.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1392570555.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1392570555.97.jpg"
+                    }, 
+                    "id": "1028906", 
+                    "name": "沙基·康泽勒"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "1305588", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2017718.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2017718.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2017718.jpg"
+            }, 
+            "original_title": "Nattens engel", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗天使", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1753551/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paige Richards  .....Bettie Page"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frederick Bald .... Photographer #1"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Boller  .....FBI Agent #2"
+                }
+            ], 
+            "collect_count": 31, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nico B."
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情"
+            ], 
+            "id": "1753551", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1538452.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1538452.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1538452.jpg"
+            }, 
+            "original_title": "Bettie Page: Dark Angel", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗天使", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298295/", 
+            "casts": [], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Linda Hassani"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "爱情"
+            ], 
+            "id": "1298295", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3274381.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3274381.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3274381.jpg"
+            }, 
+            "original_title": "Dark Angel: The Ascent", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗天使：升华", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5334357/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeff Bateman / Chad Bernhard / Curtis Bush and Rick Clark"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Haycox"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mardy South"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "5334357", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2153248686.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2153248686.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2153248686.jpg"
+            }, 
+            "original_title": "The Dark Angel: Psycho Kickboxer", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗天使", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1494705/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004861/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37927.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37927.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37927.jpg"
+                    }, 
+                    "id": "1004861", 
+                    "name": "杰西卡·阿尔芭"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009266/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31583.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31583.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31583.jpg"
+                    }, 
+                    "id": "1009266", 
+                    "name": "迈克尔·韦瑟利"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Gunn"
+                }
+            ], 
+            "collect_count": 1563, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1350070/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1350070", 
+                    "name": "Terrence O'Hara"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "1494705", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2608836.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2608836.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2608836.jpg"
+            }, 
+            "original_title": "Dark Angel", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "末世黑天使 第一季", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6753190/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004861/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37927.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37927.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37927.jpg"
+                    }, 
+                    "id": "1004861", 
+                    "name": "杰西卡·阿尔芭"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009266/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31583.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31583.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31583.jpg"
+                    }, 
+                    "id": "1009266", 
+                    "name": "迈克尔·韦瑟利"
+                }
+            ], 
+            "collect_count": 412, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022571/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33715.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33715.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33715.jpg"
+                    }, 
+                    "id": "1022571", 
+                    "name": "詹姆斯·卡梅隆"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "6753190", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6808220.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6808220.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6808220.jpg"
+            }, 
+            "original_title": "Dark Angel ", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "末世黑天使  第二季", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1950677/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杜夫·朗格 Dolph Lundgren"
+                }
+            ], 
+            "collect_count": 87, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "克雷格·巴克斯利 Craig R. Baxley"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1950677", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2081028454.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2081028454.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2081028454.jpg"
+            }, 
+            "original_title": "I Come in Peace", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "我为和平而来", 
+            "year": "1990"
+        }
+    ], 
+    "title": "搜索 \"黑暗天际\" 的结果", 
+    "total": 8
+}

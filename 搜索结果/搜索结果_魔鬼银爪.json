@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1306942/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032480/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16034.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16034.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16034.jpg"
+                    }, 
+                    "id": "1032480", 
+                    "name": "费德里科·路皮"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002688/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3148.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3148.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3148.jpg"
+                    }, 
+                    "id": "1002688", 
+                    "name": "朗·普尔曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1076587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28237.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28237.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28237.jpg"
+                    }, 
+                    "id": "1076587", 
+                    "name": "Claudio Brook"
+                }
+            ], 
+            "collect_count": 988, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027182/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4294.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4294.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4294.jpg"
+                    }, 
+                    "id": "1027182", 
+                    "name": "吉尔莫·德尔·托罗"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "恐怖"
+            ], 
+            "id": "1306942", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4479354.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4479354.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4479354.jpg"
+            }, 
+            "original_title": "Cronos", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "魔鬼银爪", 
+            "year": "1993"
+        }
+    ], 
+    "title": "搜索 \"魔鬼银爪\" 的结果", 
+    "total": 1
+}

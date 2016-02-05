@@ -1,0 +1,553 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10520357/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1060757/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26017.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26017.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26017.jpg"
+                    }, 
+                    "id": "1060757", 
+                    "name": "阿德沃尔·阿吉纽依-艾格拜吉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025229/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7770.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7770.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7770.jpg"
+                    }, 
+                    "id": "1025229", 
+                    "name": "斯蒂芬·格拉汉姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1131482/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10013.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10013.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10013.jpg"
+                    }, 
+                    "id": "1131482", 
+                    "name": "大卫·奥哈拉"
+                }
+            ], 
+            "collect_count": 854, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1276496/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1276496", 
+                    "name": "戴维·布莱尔"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10520357", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1478152467.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1478152467.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1478152467.jpg"
+            }, 
+            "original_title": "Best Laid Plans", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "完美计划", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2083897/", 
+            "casts": [], 
+            "collect_count": 37, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1291797/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1291797", 
+                    "name": "弗兰基斯卡·梅莱茨齐"
+                }
+            ], 
+            "genres": [], 
+            "id": "2083897", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3514774.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3514774.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3514774.jpg"
+            }, 
+            "original_title": "Frei nach Plan", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "完美计划", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3769668/", 
+            "casts": [], 
+            "collect_count": 6, 
+            "directors": [], 
+            "genres": [
+                "Reality-TV"
+            ], 
+            "id": "3769668", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Perfect Proposal", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "完美求婚计划", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10463991/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025151/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/292.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/292.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/292.jpg"
+                    }, 
+                    "id": "1025151", 
+                    "name": "黛安·克鲁格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009442/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3315.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3315.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3315.jpg"
+                    }, 
+                    "id": "1009442", 
+                    "name": "丹尼·伯恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1332589/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382943224.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382943224.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382943224.42.jpg"
+                    }, 
+                    "id": "1332589", 
+                    "name": "爱丽丝·波尔"
+                }
+            ], 
+            "collect_count": 18006, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315647/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57149.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57149.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57149.jpg"
+                    }, 
+                    "id": "1315647", 
+                    "name": "帕斯卡尔·舒梅"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "冒险"
+            ], 
+            "id": "10463991", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2153192509.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2153192509.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2153192509.jpg"
+            }, 
+            "original_title": "Un plan parfait", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "私奔B计划", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3567857/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016678/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1034.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1034.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1034.jpg"
+                    }, 
+                    "id": "1016678", 
+                    "name": "詹妮弗·安妮斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013760/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18772.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18772.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18772.jpg"
+                    }, 
+                    "id": "1013760", 
+                    "name": "杰森·贝特曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006919/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1384038922.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1384038922.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1384038922.44.jpg"
+                    }, 
+                    "id": "1006919", 
+                    "name": "帕特里克·威尔森"
+                }
+            ], 
+            "collect_count": 13849, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Josh Gordon"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Will Speck"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "3567857", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4225747.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4225747.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4225747.jpg"
+            }, 
+            "original_title": "The Switch", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "换精计划", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307250/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019151/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28485.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28485.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28485.jpg"
+                    }, 
+                    "id": "1019151", 
+                    "name": "加里·思韦特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Helen Buday"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1104884/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1104884", 
+                    "name": "Bogdan Koca"
+                }
+            ], 
+            "collect_count": 109, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045375/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25828.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25828.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25828.jpg"
+                    }, 
+                    "id": "1045375", 
+                    "name": "洛夫·德·希尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1307250", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2341091.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2341091.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2341091.jpg"
+            }, 
+            "original_title": "Alexandra's Project", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "超完美复仇", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296126/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alessandro Nivola"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Reese Witherspoon"
+                }
+            ], 
+            "collect_count": 45, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mike Barker (I)"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1296126", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1744588.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1744588.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1744588.jpg"
+            }, 
+            "original_title": "Best Laid Plans", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "各怀鬼胎", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1484653/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036342/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43581.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43581.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43581.jpg"
+                    }, 
+                    "id": "1036342", 
+                    "name": "肯尼思·布拉纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002676/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51737.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51737.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51737.jpg"
+                    }, 
+                    "id": "1002676", 
+                    "name": "罗宾·怀特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1100701/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1100701", 
+                    "name": "Suzi Hofrichter"
+                }
+            ], 
+            "collect_count": 30, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Kalesniko"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1484653", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2555859.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2555859.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2555859.jpg"
+            }, 
+            "original_title": "How to Kill Your Neighbor's Dog", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "怎么杀死你邻居家的狗", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26309293/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1162504/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1406305171.82.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1406305171.82.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1406305171.82.jpg"
+                    }, 
+                    "id": "1162504", 
+                    "name": "亚历山大·卡里姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1106631/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1439125467.12.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1439125467.12.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1439125467.12.jpg"
+                    }, 
+                    "id": "1106631", 
+                    "name": "延斯·赫尔腾"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1349704/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1349704", 
+                    "name": "苏珊娜·托尔松"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1349698/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1349698", 
+                    "name": "阿兰·达尔堡"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "26309293", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2223393184.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2223393184.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2223393184.jpg"
+            }, 
+            "original_title": "Jönssonligan - Den perfekta stöten", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "琼森帮：完美盗窃", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5164715/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Catherine Oyster"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "5164715", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Best Laid Plans", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Best Laid Plans", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"完美计划\" 的结果", 
+    "total": 10
+}

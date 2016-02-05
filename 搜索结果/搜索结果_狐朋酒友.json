@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/20002750/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013789/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31847.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31847.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31847.jpg"
+                    }, 
+                    "id": "1013789", 
+                    "name": "安娜·肯德里克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316713/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1449582908.84.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1449582908.84.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1449582908.84.jpg"
+                    }, 
+                    "id": "1316713", 
+                    "name": "杰克·约翰逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031795/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25599.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25599.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25599.jpg"
+                    }, 
+                    "id": "1031795", 
+                    "name": "奥利维亚·王尔德"
+                }
+            ], 
+            "collect_count": 1821, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050208/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1450947112.46.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1450947112.46.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1450947112.46.jpg"
+                    }, 
+                    "id": "1050208", 
+                    "name": "乔·斯万博格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "20002750", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1974502285.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1974502285.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1974502285.jpg"
+            }, 
+            "original_title": "Drinking Buddies", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "酒肉朋友", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"狐朋酒友\" 的结果", 
+    "total": 1
+}

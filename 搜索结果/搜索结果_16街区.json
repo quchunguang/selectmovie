@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1428177/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010509/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/106.jpg"
+                    }, 
+                    "id": "1010509", 
+                    "name": "布鲁斯·威利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036449/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9991.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9991.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9991.jpg"
+                    }, 
+                    "id": "1036449", 
+                    "name": "茅斯·达夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027810/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6365.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6365.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6365.jpg"
+                    }, 
+                    "id": "1027810", 
+                    "name": "大卫·摩斯"
+                }
+            ], 
+            "collect_count": 21432, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048190/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10712.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10712.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10712.jpg"
+                    }, 
+                    "id": "1048190", 
+                    "name": "理查德·唐纳"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1428177", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p624025911.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p624025911.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p624025911.jpg"
+            }, 
+            "original_title": "16 Blocks", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "勇闯16街区", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"16街区\" 的结果", 
+    "total": 1
+}

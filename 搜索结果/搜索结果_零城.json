@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3113973/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1015025/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1370457938.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1370457938.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1370457938.65.jpg"
+                    }, 
+                    "id": "1015025", 
+                    "name": "里奥尼德·费拉托夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029019/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1351826276.91.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1351826276.91.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1351826276.91.jpg"
+                    }, 
+                    "id": "1029019", 
+                    "name": "奥列格·巴希拉什维利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050532/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22176.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22176.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22176.jpg"
+                    }, 
+                    "id": "1050532", 
+                    "name": "弗拉基米尔·缅绍夫"
+                }
+            ], 
+            "collect_count": 375, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012631/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29007.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29007.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29007.jpg"
+                    }, 
+                    "id": "1012631", 
+                    "name": "卡伦·沙赫纳扎罗夫"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3113973", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3215990.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3215990.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3215990.jpg"
+            }, 
+            "original_title": "Город Зеро", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "零城", 
+            "year": "1988"
+        }
+    ], 
+    "title": "搜索 \"零城\" 的结果", 
+    "total": 1
+}

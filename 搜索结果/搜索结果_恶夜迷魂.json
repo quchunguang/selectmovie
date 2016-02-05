@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1305305/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019084/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1227.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1227.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1227.jpg"
+                    }, 
+                    "id": "1019084", 
+                    "name": "彼得·库欣"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1146439/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1367584436.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1367584436.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1367584436.26.jpg"
+                    }, 
+                    "id": "1146439", 
+                    "name": "伊冯·罗曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1057173/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1057173", 
+                    "name": "Patrick Allen"
+                }
+            ], 
+            "collect_count": 143, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042619/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1371396929.16.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1371396929.16.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1371396929.16.jpg"
+                    }, 
+                    "id": "1042619", 
+                    "name": "Peter Graham Scott"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "冒险", 
+                "恐怖"
+            ], 
+            "id": "1305305", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3621530.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3621530.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3621530.jpg"
+            }, 
+            "original_title": "Captain Clegg", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "恶夜迷魂", 
+            "year": "1962"
+        }
+    ], 
+    "title": "搜索 \"恶夜迷魂\" 的结果", 
+    "total": 1
+}

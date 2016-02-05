@@ -1,0 +1,1099 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1851857/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005773/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/88.jpg"
+                    }, 
+                    "id": "1005773", 
+                    "name": "克里斯蒂安·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006957/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13801.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13801.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13801.jpg"
+                    }, 
+                    "id": "1006957", 
+                    "name": "希斯·莱杰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053577/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/522.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/522.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/522.jpg"
+                    }, 
+                    "id": "1053577", 
+                    "name": "艾伦·艾克哈特"
+                }
+            ], 
+            "collect_count": 310014, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/673.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/673.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/673.jpg"
+                    }, 
+                    "id": "1054524", 
+                    "name": "克里斯托弗·诺兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "1851857", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p462657443.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p462657443.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p462657443.jpg"
+            }, 
+            "original_title": "The Dark Knight", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：黑暗骑士", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3395373/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005773/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/88.jpg"
+                    }, 
+                    "id": "1005773", 
+                    "name": "克里斯蒂安·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5110.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5110.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5110.jpg"
+                    }, 
+                    "id": "1049489", 
+                    "name": "汤姆·哈迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048027/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10467.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10467.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10467.jpg"
+                    }, 
+                    "id": "1048027", 
+                    "name": "安妮·海瑟薇"
+                }
+            ], 
+            "collect_count": 288589, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/673.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/673.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/673.jpg"
+                    }, 
+                    "id": "1054524", 
+                    "name": "克里斯托弗·诺兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3395373", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1706428744.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1706428744.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1706428744.jpg"
+            }, 
+            "original_title": "The Dark Knight Rises", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：黑暗骑士崛起", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1309069/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005773/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/88.jpg"
+                    }, 
+                    "id": "1005773", 
+                    "name": "克里斯蒂安·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054509/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56212.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56212.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56212.jpg"
+                    }, 
+                    "id": "1054509", 
+                    "name": "迈克尔·凯恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031220/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44906.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44906.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44906.jpg"
+                    }, 
+                    "id": "1031220", 
+                    "name": "连姆·尼森"
+                }
+            ], 
+            "collect_count": 132816, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/673.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/673.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/673.jpg"
+                    }, 
+                    "id": "1054524", 
+                    "name": "克里斯托弗·诺兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "1309069", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1208920728.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1208920728.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1208920728.jpg"
+            }, 
+            "original_title": "Batman Begins", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：侠影之谜", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5211787/", 
+            "casts": [], 
+            "collect_count": 168, 
+            "directors": [], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "5211787", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6937171.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6937171.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6937171.jpg"
+            }, 
+            "original_title": "Batman Begins: Path to Discovery", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠前传：未来之路", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/22507437/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032297/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43863.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43863.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43863.jpg"
+                    }, 
+                    "id": "1032297", 
+                    "name": "肖恩·埃文斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041283/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48218.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48218.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48218.jpg"
+                    }, 
+                    "id": "1041283", 
+                    "name": "罗杰·阿拉姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1328884/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1398428508.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1398428508.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1398428508.37.jpg"
+                    }, 
+                    "id": "1328884", 
+                    "name": "西恩·里格比"
+                }
+            ], 
+            "collect_count": 4010, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1278135/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1278135", 
+                    "name": "爱德华·巴瑟杰特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1155733/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49027.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49027.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49027.jpg"
+                    }, 
+                    "id": "1155733", 
+                    "name": "汤姆·沃恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327885/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/NVl0SchsuMccel_avatar_uploaded1365492940.45.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/NVl0SchsuMccel_avatar_uploaded1365492940.45.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/NVl0SchsuMccel_avatar_uploaded1365492940.45.jpg"
+                    }, 
+                    "id": "1327885", 
+                    "name": "克雷格·比贝洛斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005497/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1005497", 
+                    "name": "柯尔姆·麦卡锡"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "犯罪"
+            ], 
+            "id": "22507437", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1920626035.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1920626035.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1920626035.jpg"
+            }, 
+            "original_title": "Endeavour", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "摩斯探长前传 第一季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11443807/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010564/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10029.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10029.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10029.jpg"
+                    }, 
+                    "id": "1010564", 
+                    "name": "彼得·威勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004620/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1381161073.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1381161073.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1381161073.42.jpg"
+                    }, 
+                    "id": "1004620", 
+                    "name": "阿芮尔·温特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049520/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31090.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31090.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31090.jpg"
+                    }, 
+                    "id": "1049520", 
+                    "name": "迈克尔·爱默生"
+                }
+            ], 
+            "collect_count": 12978, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322088/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1361805483.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1361805483.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1361805483.61.jpg"
+                    }, 
+                    "id": "1322088", 
+                    "name": "杰伊·欧力瓦"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "动画"
+            ], 
+            "id": "11443807", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s22794533.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s22794533.jpg", 
+                "small": "https://img1.doubanio.com/spic/s22794533.jpg"
+            }, 
+            "original_title": "Batman: The Dark Knight Returns, Part 1", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：黑暗骑士归来(上)", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2272384/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036566/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367089061.19.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367089061.19.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367089061.19.jpg"
+                    }, 
+                    "id": "1036566", 
+                    "name": "凯文·康瑞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Loren Lester"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clive Revill"
+                }
+            ], 
+            "collect_count": 1868, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kevin Altieri"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Boyd Kirkland"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frank Paur"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dan Riba"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dick Sebast"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill Finger"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "2272384", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3602989.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3602989.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3602989.jpg"
+            }, 
+            "original_title": "Batman: The Animated Series", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "蝙蝠侠：动画版 第一季", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10600145/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kurtwood Smith"
+                }
+            ], 
+            "collect_count": 214, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "TBA"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "10600145", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2282173802.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2282173802.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2282173802.jpg"
+            }, 
+            "original_title": "Beware the Batman", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "当心蝙蝠侠 第一季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3603592/", 
+            "casts": [], 
+            "collect_count": 203, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Chang"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "3603592", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6909413.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6909413.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6909413.jpg"
+            }, 
+            "original_title": "Batman: The Brave and the Bold", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "蝙蝠侠：英勇无畏 第一季", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3688942/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Will Friedle"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kevin Conroy"
+                }
+            ], 
+            "collect_count": 112, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Curt Geda"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dan Riba"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "动画", 
+                "动作"
+            ], 
+            "id": "3688942", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6881667.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6881667.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6881667.jpg"
+            }, 
+            "original_title": "Batman Beyond", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "未来蝙蝠侠 第一季", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3220631/", 
+            "casts": [], 
+            "collect_count": 182, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3220631", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s23012087.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s23012087.jpg", 
+                "small": "https://img1.doubanio.com/spic/s23012087.jpg"
+            }, 
+            "original_title": "The Batman", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "新蝙蝠侠 第一季", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2279029/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036566/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367089061.19.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367089061.19.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367089061.19.jpg"
+                    }, 
+                    "id": "1036566", 
+                    "name": "凯文·康瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1078960/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7729.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7729.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7729.jpg"
+                    }, 
+                    "id": "1078960", 
+                    "name": "塔拉·斯特朗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027809/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1452759480.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1452759480.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1452759480.3.jpg"
+                    }, 
+                    "id": "1027809", 
+                    "name": "马克·哈米尔"
+                }
+            ], 
+            "collect_count": 104, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1295546/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1295546", 
+                    "name": "Dan Riba"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1284657/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1284657", 
+                    "name": "Curt Geda"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kenji Hachizaki"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041905/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6764.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6764.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6764.jpg"
+                    }, 
+                    "id": "1041905", 
+                    "name": "田中敦子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hiroyuki Aoyama"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321072/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1321072", 
+                    "name": "矢野雄一郎"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Butch Lukic"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "2279029", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2738007.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2738007.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2738007.jpg"
+            }, 
+            "original_title": "The New Batman Adventures", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "蝙蝠侠新冒险 第一季", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3259453/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bob Kane"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lorenzo Semple Jr."
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Burt Ward"
+                }
+            ], 
+            "collect_count": 94, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Butler"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3259453", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6884444.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6884444.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6884444.jpg"
+            }, 
+            "original_title": "Batman", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "蝙蝠侠 第一季", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26678858/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26678858", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Batman Unlimited", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "蝙蝠侠无极限 第一季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6082517/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1128436/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1357926883.25.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1357926883.25.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1357926883.25.jpg"
+                    }, 
+                    "id": "1128436", 
+                    "name": "詹妮弗·皮达维克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322924/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/54771.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/54771.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/54771.jpg"
+                    }, 
+                    "id": "1322924", 
+                    "name": "泰妮卡 戴维斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1059737/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25003.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25003.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25003.jpg"
+                    }, 
+                    "id": "1059737", 
+                    "name": "迪恩·阿姆斯特朗"
+                }
+            ], 
+            "collect_count": 8898, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314301/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1314301", 
+                    "name": "德克兰·奥布莱恩"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "6082517", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6520245.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6520245.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6520245.jpg"
+            }, 
+            "original_title": "Wrong Turn 4: Bloody Beginnings", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "致命弯道4：血腥起源", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1401376/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048118/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4803.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4803.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4803.jpg"
+                    }, 
+                    "id": "1048118", 
+                    "name": "汤姆·威灵"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012479/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22035.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22035.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22035.jpg"
+                    }, 
+                    "id": "1012479", 
+                    "name": "克斯汀·克鲁克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009299/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1420554644.54.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1420554644.54.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1420554644.54.jpg"
+                    }, 
+                    "id": "1009299", 
+                    "name": "迈克尔·罗森巴姆"
+                }
+            ], 
+            "collect_count": 2752, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023078/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1023078", 
+                    "name": "Alfred Gough"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "1401376", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2191267471.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2191267471.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2191267471.jpg"
+            }, 
+            "original_title": "Smallville", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "超人前传 第一季", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3449418/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005286/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8480.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8480.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8480.jpg"
+                    }, 
+                    "id": "1005286", 
+                    "name": "大森南朋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1159045/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1159045", 
+                    "name": "Teah"
+                }
+            ], 
+            "collect_count": 36, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Masato Tanno"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "3449418", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3579161.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3579161.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3579161.jpg"
+            }, 
+            "original_title": "1-Ichi", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "杀手阿一前传", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2146364/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004904/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1371649735.5.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1371649735.5.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1371649735.5.jpg"
+                    }, 
+                    "id": "1004904", 
+                    "name": "托马斯·卡拉布罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027837/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15617.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15617.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15617.jpg"
+                    }, 
+                    "id": "1027837", 
+                    "name": "海瑟·洛克莱尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027324/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359627012.4.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359627012.4.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359627012.4.jpg"
+                    }, 
+                    "id": "1027324", 
+                    "name": "朱茜·比赛特"
+                }
+            ], 
+            "collect_count": 38, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1347776/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1347776", 
+                    "name": "Jefferson Kibbee"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2146364", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2293820323.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2293820323.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2293820323.jpg"
+            }, 
+            "original_title": "Melrose Place", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "飞越情海 第一季", 
+            "year": "1992"
+        }
+    ], 
+    "title": "搜索 \"蝙蝠侠前传1\" 的结果", 
+    "total": 18
+}

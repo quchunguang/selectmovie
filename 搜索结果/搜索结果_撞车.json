@@ -1,0 +1,642 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1388216/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022003/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54019.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54019.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54019.jpg"
+                    }, 
+                    "id": "1022003", 
+                    "name": "桑德拉·布洛克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053573/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5062.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5062.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5062.jpg"
+                    }, 
+                    "id": "1053573", 
+                    "name": "唐·钱德尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004583/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43032.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43032.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43032.jpg"
+                    }, 
+                    "id": "1004583", 
+                    "name": "马特·狄龙"
+                }
+            ], 
+            "collect_count": 189120, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032048/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8247.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8247.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8247.jpg"
+                    }, 
+                    "id": "1032048", 
+                    "name": "保罗·哈吉斯"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1388216", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2075132390.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2075132390.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2075132390.jpg"
+            }, 
+            "original_title": "Crash", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "撞车", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3066421/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044720/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2991.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2991.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2991.jpg"
+                    }, 
+                    "id": "1044720", 
+                    "name": "丹尼斯·霍珀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000310/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1435438772.55.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1435438772.55.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1435438772.55.jpg"
+                    }, 
+                    "id": "1000310", 
+                    "name": "莫兰·阿提艾斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013921/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2467.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2467.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2467.jpg"
+                    }, 
+                    "id": "1013921", 
+                    "name": "罗斯·麦克科尔"
+                }
+            ], 
+            "collect_count": 822, 
+            "directors": [], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3066421", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4186798.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4186798.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4186798.jpg"
+            }, 
+            "original_title": "Crash", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "撞车 第一季", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3339374/", 
+            "casts": [], 
+            "collect_count": 30, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3339374", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3407958.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3407958.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3407958.jpg"
+            }, 
+            "original_title": "撞车", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "撞车", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25865655/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李芳瑶"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "皇甫宜川"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张煜"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李芳瑶"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "短片", 
+                "家庭"
+            ], 
+            "id": "25865655", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "撞车", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "撞车", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1467001/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003506/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1335.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1335.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1335.jpg"
+                    }, 
+                    "id": "1003506", 
+                    "name": "高峰秀子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025579/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/30226.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/30226.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/30226.jpg"
+                    }, 
+                    "id": "1025579", 
+                    "name": "司叶子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小沢栄太郎"
+                }
+            ], 
+            "collect_count": 48, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025418/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1439.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1439.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1439.jpg"
+                    }, 
+                    "id": "1025418", 
+                    "name": "成濑巳喜男"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1467001", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6892952.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6892952.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6892952.jpg"
+            }, 
+            "original_title": "ひき逃げ", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "撞车逃逸", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3122055/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014129/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6814.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6814.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6814.jpg"
+                    }, 
+                    "id": "1014129", 
+                    "name": "卡罗琳·莫罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033606/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1033606", 
+                    "name": "Judd Hamilton"
+                }
+            ], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luigi Cozzi"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "3122055", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1938367490.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1938367490.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1938367490.jpg"
+            }, 
+            "original_title": "Starcrash", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "星际撞车", 
+            "year": "1978"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3233115/", 
+            "casts": [], 
+            "collect_count": 20, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石踊宏"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "福島宏之"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "动画", 
+                "科幻"
+            ], 
+            "id": "3233115", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4035636.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4035636.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4035636.jpg"
+            }, 
+            "original_title": "Bubblegum Crash!", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "泡泡糖撞车", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4043823/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Caterina Scorsone"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clare Carey"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andrew Bernstein"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4043823", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3985205.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3985205.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3985205.jpg"
+            }, 
+            "original_title": "Crash Season 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "撞车 第二季", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3690851/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rade Serbedzija"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ana Karic"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Zvonimir Berkovic"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3690851", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3745181.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3745181.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3745181.jpg"
+            }, 
+            "original_title": "Putovanje na mjesto nesrece", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "撞车事件", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292682/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006968/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2369.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2369.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2369.jpg"
+                    }, 
+                    "id": "1006968", 
+                    "name": "詹姆斯·斯派德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031838/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48614.jpg"
+                    }, 
+                    "id": "1031838", 
+                    "name": "霍利·亨特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002738/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23892.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23892.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23892.jpg"
+                    }, 
+                    "id": "1002738", 
+                    "name": "黛博拉·卡拉·安格"
+                }
+            ], 
+            "collect_count": 8785, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054396/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28359.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28359.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28359.jpg"
+                    }, 
+                    "id": "1054396", 
+                    "name": "大卫·柯南伯格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚", 
+                "情色"
+            ], 
+            "id": "1292682", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2846379.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2846379.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2846379.jpg"
+            }, 
+            "original_title": "Crash", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "欲望号快车", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25823473/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040520/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31667.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31667.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31667.jpg"
+                    }, 
+                    "id": "1040520", 
+                    "name": "莱丝莉·比伯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317472/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40031.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40031.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40031.jpg"
+                    }, 
+                    "id": "1317472", 
+                    "name": "马琳·爱尔兰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016718/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1016718", 
+                    "name": "纳迪雅·达珍妮"
+                }
+            ], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Liz Tuccillo"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "25823473", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2216054210.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2216054210.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2216054210.jpg"
+            }, 
+            "original_title": "Take Care", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "没人愿意照顾她？", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1424466/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marie Popistasu"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bogdan Dumitrache"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Simon Schwarz"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jörg Kalt"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1424466", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1441286.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1441286.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1441286.jpg"
+            }, 
+            "original_title": "Crash Test Dummies", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "撞散罷就", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"撞车\" 的结果", 
+    "total": 12
+}

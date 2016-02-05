@@ -1,0 +1,583 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292268/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036326/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1313.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1313.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1313.jpg"
+                    }, 
+                    "id": "1036326", 
+                    "name": "雷·利奥塔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004598/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427205662.96.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427205662.96.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427205662.96.jpg"
+                    }, 
+                    "id": "1004598", 
+                    "name": "乔·佩西"
+                }
+            ], 
+            "collect_count": 56531, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054425/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/601.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/601.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/601.jpg"
+                    }, 
+                    "id": "1054425", 
+                    "name": "马丁·斯科塞斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "传记"
+            ], 
+            "id": "1292268", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1403069323.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1403069323.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1403069323.jpg"
+            }, 
+            "original_title": "Goodfellas", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "好家伙", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3205548/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049795/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31774.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31774.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31774.jpg"
+                    }, 
+                    "id": "1049795", 
+                    "name": "玛莉安娜·帕卡"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004626/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5156.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5156.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5156.jpg"
+                    }, 
+                    "id": "1004626", 
+                    "name": "杰森·雷特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1223276/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390370435.92.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390370435.92.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390370435.92.jpg"
+                    }, 
+                    "id": "1223276", 
+                    "name": "埃里克·埃德尔斯坦"
+                }
+            ], 
+            "collect_count": 2903, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049795/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31774.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31774.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31774.jpg"
+                    }, 
+                    "id": "1049795", 
+                    "name": "玛莉安娜·帕卡"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3205548", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3260166.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3260166.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3260166.jpg"
+            }, 
+            "original_title": "Good Dick", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "好家伙", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10726963/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张译"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李晨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275510/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11184.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11184.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11184.jpg"
+                    }, 
+                    "id": "1275510", 
+                    "name": "杨新鸣"
+                }
+            ], 
+            "collect_count": 73, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "简川訸"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "10726963", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2274833776.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2274833776.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2274833776.jpg"
+            }, 
+            "original_title": "好家伙", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "好家伙", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1401118/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036385/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11376.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11376.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11376.jpg"
+                    }, 
+                    "id": "1036385", 
+                    "name": "埃里·瓦拉赫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013853/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10014.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10014.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10014.jpg"
+                    }, 
+                    "id": "1013853", 
+                    "name": "李·范·克里夫"
+                }
+            ], 
+            "collect_count": 46060, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013894/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/137.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/137.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/137.jpg"
+                    }, 
+                    "id": "1013894", 
+                    "name": "赛尔乔·莱翁内"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "西部"
+            ], 
+            "id": "1401118", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2101693489.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2101693489.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2101693489.jpg"
+            }, 
+            "original_title": "Il buono, il brutto, il cattivo.", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "黄金三镖客", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294753/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031818/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11727.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11727.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11727.jpg"
+                    }, 
+                    "id": "1031818", 
+                    "name": "西恩·奥斯汀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027164/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6058.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6058.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6058.jpg"
+                    }, 
+                    "id": "1027164", 
+                    "name": "乔恩·费儒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010558/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23553.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23553.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23553.jpg"
+                    }, 
+                    "id": "1010558", 
+                    "name": "尼德·巴蒂"
+                }
+            ], 
+            "collect_count": 19047, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027599/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52638.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52638.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52638.jpg"
+                    }, 
+                    "id": "1027599", 
+                    "name": "大卫·安斯鲍夫"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "运动"
+            ], 
+            "id": "1294753", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p452578349.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p452578349.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p452578349.jpg"
+            }, 
+            "original_title": "Rudy", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "追梦赤子心", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2041876/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031238/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/345.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/345.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/345.jpg"
+                    }, 
+                    "id": "1031238", 
+                    "name": "宋康昊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1105108/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1383705218.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1383705218.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1383705218.17.jpg"
+                    }, 
+                    "id": "1105108", 
+                    "name": "李秉宪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032365/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44214.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44214.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44214.jpg"
+                    }, 
+                    "id": "1032365", 
+                    "name": "郑雨盛"
+                }
+            ], 
+            "collect_count": 9616, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018200/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3821.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3821.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3821.jpg"
+                    }, 
+                    "id": "1018200", 
+                    "name": "金知云"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "西部"
+            ], 
+            "id": "2041876", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p617163244.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p617163244.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p617163244.jpg"
+            }, 
+            "original_title": "좋은 놈, 나쁜 놈, 이상한 놈", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "好家伙、坏家伙、怪家伙", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5056528/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Mitchum, George Kennedy, Martin Balsam"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Burt Kennedy"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "西部"
+            ], 
+            "id": "5056528", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8946458.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8946458.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8946458.jpg"
+            }, 
+            "original_title": "The Good Guys and the Bad Guys", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "无好家伙与坏家伙", 
+            "year": "1969"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10744987/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022622/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382882466.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382882466.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382882466.42.jpg"
+                    }, 
+                    "id": "1022622", 
+                    "name": "罗德里格·桑托罗"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Débora Falabella"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1205084/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1205084", 
+                    "name": "Luis Miranda"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019321/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26705.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26705.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26705.jpg"
+                    }, 
+                    "id": "1019321", 
+                    "name": "若热·费塔多"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "10744987", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9107715.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9107715.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9107715.jpg"
+            }, 
+            "original_title": "Homens de Bem", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "好家伙", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25917787/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012531/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/938.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/938.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/938.jpg"
+                    }, 
+                    "id": "1012531", 
+                    "name": "瑞恩·高斯林"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17524.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17524.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17524.jpg"
+                    }, 
+                    "id": "1016674", 
+                    "name": "罗素·克劳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025059/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33442.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33442.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33442.jpg"
+                    }, 
+                    "id": "1025059", 
+                    "name": "马特·波莫"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036569/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21117.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21117.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21117.jpg"
+                    }, 
+                    "id": "1036569", 
+                    "name": "沙恩·布莱克"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "25917787", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2291360190.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2291360190.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2291360190.jpg"
+            }, 
+            "original_title": "The Nice Guys", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "好好侦探", 
+            "year": "2016"
+        }
+    ], 
+    "title": "搜索 \"好家伙\" 的结果", 
+    "total": 9
+}

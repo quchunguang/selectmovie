@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2134897/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049563/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6146.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6146.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6146.jpg"
+                    }, 
+                    "id": "1049563", 
+                    "name": "盖瑞·科尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000025/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38896.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38896.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38896.jpg"
+                    }, 
+                    "id": "1000025", 
+                    "name": "肖恩·法瑞斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031878/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6305.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6305.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6305.jpg"
+                    }, 
+                    "id": "1031878", 
+                    "name": "尼尔·麦克唐纳"
+                }
+            ], 
+            "collect_count": 1747, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000639/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1000639", 
+                    "name": "瑞恩·雷特尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "运动"
+            ], 
+            "id": "2134897", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2167375758.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2167375758.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2167375758.jpg"
+            }, 
+            "original_title": "Forever Strong", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "永远强大", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"永远强大\" 的结果", 
+    "total": 1
+}

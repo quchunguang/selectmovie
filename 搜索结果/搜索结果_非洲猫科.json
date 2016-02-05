@@ -1,0 +1,66 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3054150/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054408/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31870.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31870.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31870.jpg"
+                    }, 
+                    "id": "1054408", 
+                    "name": "塞缪尔·杰克逊"
+                }
+            ], 
+            "collect_count": 3125, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001063/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17179.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17179.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17179.jpg"
+                    }, 
+                    "id": "1001063", 
+                    "name": "艾雷斯泰·法瑟吉尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342006/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1342006", 
+                    "name": "基思·肖利"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "纪录片"
+            ], 
+            "id": "3054150", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4529414.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4529414.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4529414.jpg"
+            }, 
+            "original_title": "African Cats", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "非洲猫科", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"非洲猫科\" 的结果", 
+    "total": 1
+}

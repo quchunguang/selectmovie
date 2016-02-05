@@ -1,0 +1,335 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292829/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054438/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/615.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/615.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/615.jpg"
+                    }, 
+                    "id": "1054438", 
+                    "name": "金·凯瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25081.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25081.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25081.jpg"
+                    }, 
+                    "id": "1040995", 
+                    "name": "柯特妮·考克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041118/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36109.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36109.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36109.jpg"
+                    }, 
+                    "id": "1041118", 
+                    "name": "肖恩·杨"
+                }
+            ], 
+            "collect_count": 28094, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036781/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25071.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25071.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25071.jpg"
+                    }, 
+                    "id": "1036781", 
+                    "name": "汤姆·沙迪亚克"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "悬疑"
+            ], 
+            "id": "1292829", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2134987523.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2134987523.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2134987523.jpg"
+            }, 
+            "original_title": "Ace Ventura: Pet Detective", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "神探飞机头", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292977/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054438/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/615.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/615.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/615.jpg"
+                    }, 
+                    "id": "1054438", 
+                    "name": "金·凯瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027908/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25196.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25196.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25196.jpg"
+                    }, 
+                    "id": "1027908", 
+                    "name": "伊恩·麦克尼奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32826.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32826.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32826.jpg"
+                    }, 
+                    "id": "1019096", 
+                    "name": "西蒙·卡洛"
+                }
+            ], 
+            "collect_count": 12791, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036613/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25072.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25072.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25072.jpg"
+                    }, 
+                    "id": "1036613", 
+                    "name": "史蒂夫·欧德科克"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "喜剧"
+            ], 
+            "id": "1292977", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1434432.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1434432.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1434432.jpg"
+            }, 
+            "original_title": "Ace Ventura: When Nature Calls", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "神探飞机头2", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2133289/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049971/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46732.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46732.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46732.jpg"
+                    }, 
+                    "id": "1049971", 
+                    "name": "乔什·佛雷特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036887/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1372143686.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1372143686.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1372143686.99.jpg"
+                    }, 
+                    "id": "1036887", 
+                    "name": "艾玛·洛克哈特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1197101/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1197101", 
+                    "name": "Austin Rogers"
+                }
+            ], 
+            "collect_count": 1131, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027554/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55943.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55943.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55943.jpg"
+                    }, 
+                    "id": "1027554", 
+                    "name": "大卫·M·埃文斯"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "2133289", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10279753.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10279753.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10279753.jpg"
+            }, 
+            "original_title": "Ace Ventura: Pet Detective Jr.", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "神探飞机头3", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4306486/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵炜林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "古嘉露"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胡大为"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赖建国"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4306486", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4259934.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4259934.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4259934.jpg"
+            }, 
+            "original_title": "涼茶馬尾飛機頭", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "凉茶马尾飞机头", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1900475/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1284881/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1284881", 
+                    "name": "Eric Gilliland"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036448/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6115.jpg"
+                    }, 
+                    "id": "1036448", 
+                    "name": "萨拉·西尔弗曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1258.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1258.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1258.jpg"
+                    }, 
+                    "id": "1040534", 
+                    "name": "德蒙特·莫罗尼"
+                }
+            ], 
+            "collect_count": 79, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048350/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43722.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43722.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43722.jpg"
+                    }, 
+                    "id": "1048350", 
+                    "name": "比尔·普莱姆顿"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "1900475", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2165154265.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2165154265.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2165154265.jpg"
+            }, 
+            "original_title": "Hair High", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "飞机头", 
+            "year": "2004"
+        }
+    ], 
+    "title": "搜索 \"神探飞机头\" 的结果", 
+    "total": 5
+}

@@ -1,0 +1,343 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2148257/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004860/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1973.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1973.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1973.jpg"
+                    }, 
+                    "id": "1004860", 
+                    "name": "奥黛丽·塔图"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050088/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2194.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2194.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2194.jpg"
+                    }, 
+                    "id": "1050088", 
+                    "name": "贝诺特·波尔沃尔德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009310/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10569.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10569.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10569.jpg"
+                    }, 
+                    "id": "1009310", 
+                    "name": "亚历桑德罗·尼沃拉"
+                }
+            ], 
+            "collect_count": 71249, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009639/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25544.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25544.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25544.jpg"
+                    }, 
+                    "id": "1009639", 
+                    "name": "安妮·芳婷"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情"
+            ], 
+            "id": "2148257", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3656959.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3656959.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3656959.jpg"
+            }, 
+            "original_title": "Coco avant Chanel", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "时尚先锋香奈儿", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3236520/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048130/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25449.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25449.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25449.jpg"
+                    }, 
+                    "id": "1048130", 
+                    "name": "雪莉·麦克雷恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045258/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11087.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11087.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11087.jpg"
+                    }, 
+                    "id": "1045258", 
+                    "name": "巴博拉·伯布洛瓦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1062030/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1062030", 
+                    "name": "Brigitte Boucher"
+                }
+            ], 
+            "collect_count": 30304, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christian Duguay"
+                }
+            ], 
+            "genres": [
+                "传记"
+            ], 
+            "id": "3236520", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3372469.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3372469.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3372469.jpg"
+            }, 
+            "original_title": "Coco Chanel", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "香奈儿", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3172300/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045023/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26151.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26151.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26151.jpg"
+                    }, 
+                    "id": "1045023", 
+                    "name": "安娜·莫格拉莉丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040529/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57893.jpg"
+                    }, 
+                    "id": "1040529", 
+                    "name": "麦斯·米科尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045312/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1045312", 
+                    "name": "伊莲娜·莫罗佐娃"
+                }
+            ], 
+            "collect_count": 20336, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045214/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8560.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8560.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8560.jpg"
+                    }, 
+                    "id": "1045214", 
+                    "name": "扬·高能"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3172300", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p509624485.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p509624485.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p509624485.jpg"
+            }, 
+            "original_title": "Coco Chanel & Igor Stravinsky", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "香奈儿秘密情史", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2042437/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054442/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/619.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/619.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/619.jpg"
+                    }, 
+                    "id": "1054442", 
+                    "name": "妮可·基德曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050357/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22332.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22332.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22332.jpg"
+                    }, 
+                    "id": "1050357", 
+                    "name": "卡尔·拉格菲尔德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1127661/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25169.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25169.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25169.jpg"
+                    }, 
+                    "id": "1127661", 
+                    "name": "摩纳哥卡罗琳公主"
+                }
+            ], 
+            "collect_count": 7882, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051106/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32517.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32517.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32517.jpg"
+                    }, 
+                    "id": "1051106", 
+                    "name": "鲁多夫·马康尼"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "2042437", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4141490.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4141490.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4141490.jpg"
+            }, 
+            "original_title": "Lagerfeld Confidential", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "时尚大帝", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303699/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045333/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14538.jpg"
+                    }, 
+                    "id": "1045333", 
+                    "name": "玛丽-弗朗丝·皮西尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002699/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23796.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23796.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23796.jpg"
+                    }, 
+                    "id": "1002699", 
+                    "name": "提摩西·道尔顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006991/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11709.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11709.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11709.jpg"
+                    }, 
+                    "id": "1006991", 
+                    "name": "鲁特格尔·哈尔"
+                }
+            ], 
+            "collect_count": 67, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1326414/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/eg1V8Hii5DMcel_avatar_uploaded1358764698.45.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/eg1V8Hii5DMcel_avatar_uploaded1358764698.45.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/eg1V8Hii5DMcel_avatar_uploaded1358764698.45.jpg"
+                    }, 
+                    "id": "1326414", 
+                    "name": "George Kaczender"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1303699", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4352384.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4352384.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4352384.jpg"
+            }, 
+            "original_title": "Chanel Solitaire", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "香水女王", 
+            "year": "1981"
+        }
+    ], 
+    "title": "搜索 \"时尚先锋香奈儿\" 的结果", 
+    "total": 5
+}

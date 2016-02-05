@@ -1,0 +1,72 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2980609/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000367/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1399196220.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1399196220.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1399196220.52.jpg"
+                    }, 
+                    "id": "1000367", 
+                    "name": "杰佳·亚宁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012581/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1551.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1551.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1551.jpg"
+                    }, 
+                    "id": "1012581", 
+                    "name": "阿部宽"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pongpat Wachirabunjong"
+                }
+            ], 
+            "collect_count": 5412, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050206/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4869.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4869.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4869.jpg"
+                    }, 
+                    "id": "1050206", 
+                    "name": "普拉奇亚·平克尧"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情"
+            ], 
+            "id": "2980609", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2888210.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2888210.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2888210.jpg"
+            }, 
+            "original_title": "ช็อคโกแลต", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "女拳霸", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"女拳霸\" 的结果", 
+    "total": 1
+}

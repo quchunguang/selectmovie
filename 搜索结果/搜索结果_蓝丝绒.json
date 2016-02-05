@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298697/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019046/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378205359.04.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378205359.04.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378205359.04.jpg"
+                    }, 
+                    "id": "1019046", 
+                    "name": "伊莎贝拉·罗西里尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031874/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17612.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17612.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17612.jpg"
+                    }, 
+                    "id": "1031874", 
+                    "name": "凯尔·麦克拉克伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044720/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2991.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2991.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2991.jpg"
+                    }, 
+                    "id": "1044720", 
+                    "name": "丹尼斯·霍珀"
+                }
+            ], 
+            "collect_count": 29124, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054578/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23582.jpg"
+                    }, 
+                    "id": "1054578", 
+                    "name": "大卫·林奇"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1298697", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1740156.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1740156.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1740156.jpg"
+            }, 
+            "original_title": "Blue Velvet", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "蓝丝绒", 
+            "year": "1986"
+        }
+    ], 
+    "title": "搜索 \"蓝丝绒\" 的结果", 
+    "total": 1
+}

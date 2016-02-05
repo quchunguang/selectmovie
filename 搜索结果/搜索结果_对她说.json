@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292211/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016749/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1377693470.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1377693470.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1377693470.08.jpg"
+                    }, 
+                    "id": "1016749", 
+                    "name": "哈维尔·卡马拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032655/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11600.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11600.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11600.jpg"
+                    }, 
+                    "id": "1032655", 
+                    "name": "达里奥·葛兰帝内提"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025302/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51839.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51839.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51839.jpg"
+                    }, 
+                    "id": "1025302", 
+                    "name": "蕾欧诺·瓦特林"
+                }
+            ], 
+            "collect_count": 65362, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056071/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/719.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/719.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/719.jpg"
+                    }, 
+                    "id": "1056071", 
+                    "name": "佩德罗·阿莫多瓦"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1292211", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1108397218.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1108397218.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1108397218.jpg"
+            }, 
+            "original_title": "Hable con ella", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "对她说", 
+            "year": "2002"
+        }
+    ], 
+    "title": "搜索 \"对她说\" 的结果", 
+    "total": 1
+}

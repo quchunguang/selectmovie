@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1304646/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006957/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13801.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13801.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13801.jpg"
+                    }, 
+                    "id": "1006957", 
+                    "name": "希斯·莱杰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041126/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6422.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6422.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6422.jpg"
+                    }, 
+                    "id": "1041126", 
+                    "name": "卢夫斯·塞维尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027162/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2759.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2759.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2759.jpg"
+                    }, 
+                    "id": "1027162", 
+                    "name": "莎妮·索萨蒙"
+                }
+            ], 
+            "collect_count": 7183, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013980/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/56731.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/56731.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/56731.jpg"
+                    }, 
+                    "id": "1013980", 
+                    "name": "布莱恩·海尔格兰德"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "爱情"
+            ], 
+            "id": "1304646", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2362230.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2362230.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2362230.jpg"
+            }, 
+            "original_title": "A Knight's Tale", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "圣战骑士", 
+            "year": "2001"
+        }
+    ], 
+    "title": "搜索 \"圣战骑士\" 的结果", 
+    "total": 1
+}

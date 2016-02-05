@@ -1,0 +1,897 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10801417/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047993/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366096144.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366096144.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366096144.58.jpg"
+                    }, 
+                    "id": "1047993", 
+                    "name": "赛琳娜·戈麦斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013838/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57444.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57444.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57444.jpg"
+                    }, 
+                    "id": "1013838", 
+                    "name": "强·沃特"
+                }
+            ], 
+            "collect_count": 1483, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054159/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1054159", 
+                    "name": "科特尼·所罗门"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "10801417", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2101444739.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2101444739.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2101444739.jpg"
+            }, 
+            "original_title": "Getaway", 
+            "rating": {
+                "average": 5.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "逃脱", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10432325/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013777/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7195.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7195.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7195.jpg"
+                    }, 
+                    "id": "1013777", 
+                    "name": "戴克斯·夏普德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031240/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1395152016.01.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1395152016.01.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1395152016.01.jpg"
+                    }, 
+                    "id": "1031240", 
+                    "name": "克里斯汀·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013757/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12956.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12956.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12956.jpg"
+                    }, 
+                    "id": "1013757", 
+                    "name": "布莱德利·库珀"
+                }
+            ], 
+            "collect_count": 1274, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1203127/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1203127", 
+                    "name": "大卫·帕尔莫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013777/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7195.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7195.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7195.jpg"
+                    }, 
+                    "id": "1013777", 
+                    "name": "戴克斯·夏普德"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "爱情"
+            ], 
+            "id": "10432325", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11159970.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11159970.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11159970.jpg"
+            }, 
+            "original_title": "Hit and Run", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "逃脱", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24751834/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317664/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1432233498.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1432233498.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1432233498.71.jpg"
+                    }, 
+                    "id": "1317664", 
+                    "name": "李威"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314763/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28162.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28162.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28162.jpg"
+                    }, 
+                    "id": "1314763", 
+                    "name": "蓝燕"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325536/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369992644.78.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369992644.78.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369992644.78.jpg"
+                    }, 
+                    "id": "1325536", 
+                    "name": "赵楚仑"
+                }
+            ], 
+            "collect_count": 1503, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323752/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1373285609.75.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1373285609.75.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1373285609.75.jpg"
+                    }, 
+                    "id": "1323752", 
+                    "name": "张帆"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "24751834", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2163883558.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2163883558.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2163883558.jpg"
+            }, 
+            "original_title": "迷魂之密室逃脱", 
+            "rating": {
+                "average": 3.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "迷魂之密室逃脱", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26312891/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王挺 / 李颖 / 陈娜 / 王建国 / 戈治均"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26312891", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "无法逃脱", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "无法逃脱", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21334996/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002671/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52629.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52629.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52629.jpg"
+                    }, 
+                    "id": "1002671", 
+                    "name": "大卫·田纳特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1105399/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1113.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1113.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1113.jpg"
+                    }, 
+                    "id": "1105399", 
+                    "name": "阿什利·詹森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010533/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1920.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1920.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1920.jpg"
+                    }, 
+                    "id": "1010533", 
+                    "name": "托比·凯贝尔"
+                }
+            ], 
+            "collect_count": 3855, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336706/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1336706", 
+                    "name": "布莱恩·威尔许"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "21334996", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2133088699.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2133088699.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2133088699.jpg"
+            }, 
+            "original_title": "The Escape Artist", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "逃脱大师", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24752287/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "水谷果穂"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "荒井萌"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小山莉奈"
+                }
+            ], 
+            "collect_count": 237, 
+            "directors": [], 
+            "genres": [], 
+            "id": "24752287", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2201969403.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2201969403.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2201969403.jpg"
+            }, 
+            "original_title": "リアル脱出ゲーム 密室美少女", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "现实版密室逃脱游戏：密室美少女", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24891487/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山里亮太"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "田村亮"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "关西杰尼斯8"
+                }
+            ], 
+            "collect_count": 77, 
+            "directors": [], 
+            "genres": [
+                "冒险"
+            ], 
+            "id": "24891487", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2225526590.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2225526590.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2225526590.jpg"
+            }, 
+            "original_title": "密室謎解きバラエティ 脱出ゲーム DERO！", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "DERO密室游戏大逃脱", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2377835/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008294/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1370507795.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1370507795.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1370507795.58.jpg"
+                    }, 
+                    "id": "1008294", 
+                    "name": "池部良"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005494/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2994.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2994.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2994.jpg"
+                    }, 
+                    "id": "1005494", 
+                    "name": "李香兰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003650/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39303.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39303.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39303.jpg"
+                    }, 
+                    "id": "1003650", 
+                    "name": "小泽荣太郎"
+                }
+            ], 
+            "collect_count": 24, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008257/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36748.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36748.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36748.jpg"
+                    }, 
+                    "id": "1008257", 
+                    "name": "谷口千吉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "2377835", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2847467.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2847467.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2847467.jpg"
+            }, 
+            "original_title": "暁の脱走", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "拂晓的逃脱", 
+            "year": "1950"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1963097/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Giovanna Ralli"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Renato Salvatori"
+                }
+            ], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Roberto Rossellini"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "1963097", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2659071.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2659071.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2659071.jpg"
+            }, 
+            "original_title": "Era Notte a Roma", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "夜色朦胧逃脱时", 
+            "year": "1960"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2354074/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hardy Krüger"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Goodliffe"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Colin Gordon"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Roy Ward Baker"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "2354074", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3078201.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3078201.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3078201.jpg"
+            }, 
+            "original_title": "THE ONE THAT GOT AWAY", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "逃脱者", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25884780/", 
+            "casts": [], 
+            "collect_count": 6, 
+            "directors": [], 
+            "genres": [], 
+            "id": "25884780", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Mayday: Miracle Escape", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "空中浩劫：奇迹般的逃脱", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24754849/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Josh Horvath"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jason Pinto"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Baldesarra"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brian Rice"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alexander Dunlop"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "24754849", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2044059833.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2044059833.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2044059833.jpg"
+            }, 
+            "original_title": "I Escaped: Real Prison Breaks", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "终极逃脱：真实的越狱 第一季", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25722900/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1136926/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1355813086.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1355813086.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1355813086.49.jpg"
+                    }, 
+                    "id": "1136926", 
+                    "name": "珍妮·罗克斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Édouard Mathé"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004878/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21126.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21126.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21126.jpg"
+                    }, 
+                    "id": "1004878", 
+                    "name": "路易斯·菲拉德"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "短片"
+            ], 
+            "id": "25722900", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Les vampires: L'évasion du mort", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "吸血鬼：第五集  死人的逃脱", 
+            "year": "1916"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25905977/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "真人秀"
+            ], 
+            "id": "25905977", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2187359960.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2187359960.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2187359960.jpg"
+            }, 
+            "original_title": "Escape Club", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "逃脱俱乐部 第一季", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5096031/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ljubisa Samardzic"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Miomir 'Miki' Stamenkovic"
+                }
+            ], 
+            "genres": [
+                "战争"
+            ], 
+            "id": "5096031", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2172475585.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2172475585.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2172475585.jpg"
+            }, 
+            "original_title": "Lager Nis", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "集中营大逃脱", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1860742/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010502/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2256.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2256.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2256.jpg"
+                    }, 
+                    "id": "1010502", 
+                    "name": "斯科特·麦克洛维茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018069/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1380874843.6.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1380874843.6.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1380874843.6.jpg"
+                    }, 
+                    "id": "1018069", 
+                    "name": "阿梅丽娅·华纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032297/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43863.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43863.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43863.jpg"
+                    }, 
+                    "id": "1032297", 
+                    "name": "肖恩·埃文斯"
+                }
+            ], 
+            "collect_count": 471, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019737/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1019737", 
+                    "name": "林根·路德维奇"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1860742", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1793015.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1793015.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1793015.jpg"
+            }, 
+            "original_title": "Gone", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "迷失方向", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4850434/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jacob Matschenz"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009962/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36108.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36108.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36108.jpg"
+                    }, 
+                    "id": "1009962", 
+                    "name": "伯娜德·黑尔沃根"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014166/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1434483290.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1434483290.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1434483290.83.jpg"
+                    }, 
+                    "id": "1014166", 
+                    "name": "马克思·雷迈特"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Urs Egger"
+                }
+            ], 
+            "genres": [], 
+            "id": "4850434", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4374575.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4374575.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4374575.jpg"
+            }, 
+            "original_title": "An die Grenze", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "An die Grenze", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"逃脱\" 的结果", 
+    "total": 17
+}

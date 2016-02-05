@@ -1,0 +1,124 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10537891/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031851/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9746.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9746.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9746.jpg"
+                    }, 
+                    "id": "1031851", 
+                    "name": "约翰·特托罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054430/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/607.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/607.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/607.jpg"
+                    }, 
+                    "id": "1054430", 
+                    "name": "伍迪·艾伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036447/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7329.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7329.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7329.jpg"
+                    }, 
+                    "id": "1036447", 
+                    "name": "凡妮莎·帕拉迪丝"
+                }
+            ], 
+            "collect_count": 3495, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031851/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9746.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9746.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9746.jpg"
+                    }, 
+                    "id": "1031851", 
+                    "name": "约翰·特托罗"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "10537891", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2165855846.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2165855846.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2165855846.jpg"
+            }, 
+            "original_title": "Fading Gigolo", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "色衰应召男", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24882577/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nick Hawk"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vin Armani"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brace"
+                }
+            ], 
+            "collect_count": 16, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Downer"
+                }
+            ], 
+            "genres": [], 
+            "id": "24882577", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2070128220.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2070128220.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2070128220.jpg"
+            }, 
+            "original_title": "Gigilos", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "应召男郎 第四季", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"色衰应招男\" 的结果", 
+    "total": 2
+}

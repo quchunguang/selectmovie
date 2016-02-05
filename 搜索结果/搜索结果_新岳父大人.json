@@ -1,0 +1,664 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1294829/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/585.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/585.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/585.jpg"
+                    }, 
+                    "id": "1054412", 
+                    "name": "本·斯蒂勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019032/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5699.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5699.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5699.jpg"
+                    }, 
+                    "id": "1019032", 
+                    "name": "特莉·保罗"
+                }
+            ], 
+            "collect_count": 51211, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018081/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/58271.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/58271.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/58271.jpg"
+                    }, 
+                    "id": "1018081", 
+                    "name": "杰伊·罗奇"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1294829", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1435970119.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1435970119.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1435970119.jpg"
+            }, 
+            "original_title": "Meet the Parents", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "拜见岳父大人", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297202/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022595/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51331.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51331.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51331.jpg"
+                    }, 
+                    "id": "1022595", 
+                    "name": "史蒂夫·马丁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053568/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31540.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31540.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31540.jpg"
+                    }, 
+                    "id": "1053568", 
+                    "name": "黛安·基顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049539/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5729.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5729.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5729.jpg"
+                    }, 
+                    "id": "1049539", 
+                    "name": "金柏莱·威廉姆斯"
+                }
+            ], 
+            "collect_count": 2321, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028044/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33841.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33841.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33841.jpg"
+                    }, 
+                    "id": "1028044", 
+                    "name": "查尔斯·谢尔"
+                }
+            ], 
+            "genres": [
+                "家庭", 
+                "喜剧"
+            ], 
+            "id": "1297202", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3911934.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3911934.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3911934.jpg"
+            }, 
+            "original_title": "Father of the Bride", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "新岳父大人", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296890/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022595/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51331.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51331.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51331.jpg"
+                    }, 
+                    "id": "1022595", 
+                    "name": "史蒂夫·马丁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053568/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31540.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31540.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31540.jpg"
+                    }, 
+                    "id": "1053568", 
+                    "name": "黛安·基顿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Martin Short"
+                }
+            ], 
+            "collect_count": 1159, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028044/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33841.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33841.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33841.jpg"
+                    }, 
+                    "id": "1028044", 
+                    "name": "查尔斯·谢尔"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "家庭", 
+                "爱情"
+            ], 
+            "id": "1296890", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3911939.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3911939.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3911939.jpg"
+            }, 
+            "original_title": "Father of the Bride Part II", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "新岳父大人之三喜临门", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10831449/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274297/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43738.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43738.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43738.jpg"
+                    }, 
+                    "id": "1274297", 
+                    "name": "徐峥"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274449/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4303.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4303.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4303.jpg"
+                    }, 
+                    "id": "1274449", 
+                    "name": "许绍雄"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275739/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11632.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11632.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11632.jpg"
+                    }, 
+                    "id": "1275739", 
+                    "name": "林鹏"
+                }
+            ], 
+            "collect_count": 43992, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321164/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50186.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50186.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50186.jpg"
+                    }, 
+                    "id": "1321164", 
+                    "name": "李海蜀"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "家庭"
+            ], 
+            "id": "10831449", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1650860828.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1650860828.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1650860828.jpg"
+            }, 
+            "original_title": "搞定岳父大人", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "搞定岳父大人", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308987/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/585.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/585.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/585.jpg"
+                    }, 
+                    "id": "1054412", 
+                    "name": "本·斯蒂勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054427/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/604.jpg"
+                    }, 
+                    "id": "1054427", 
+                    "name": "达斯汀·霍夫曼"
+                }
+            ], 
+            "collect_count": 28227, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018081/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/58271.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/58271.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/58271.jpg"
+                    }, 
+                    "id": "1018081", 
+                    "name": "杰伊·罗奇"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1308987", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p635968845.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p635968845.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p635968845.jpg"
+            }, 
+            "original_title": "Meet the Fockers", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "拜见岳父大人2", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3078753/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/585.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/585.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/585.jpg"
+                    }, 
+                    "id": "1054412", 
+                    "name": "本·斯蒂勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006964/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2059.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2059.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2059.jpg"
+                    }, 
+                    "id": "1006964", 
+                    "name": "欧文·威尔逊"
+                }
+            ], 
+            "collect_count": 17108, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1300655/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27127.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27127.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27127.jpg"
+                    }, 
+                    "id": "1300655", 
+                    "name": "保罗·韦兹"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3078753", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4430210.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4430210.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4430210.jpg"
+            }, 
+            "original_title": "Little Fockers", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "拜见岳父大人3", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295301/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002743/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4601.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4601.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4601.jpg"
+                    }, 
+                    "id": "1002743", 
+                    "name": "斯宾塞·屈塞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032234/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1391953074.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1391953074.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1391953074.39.jpg"
+                    }, 
+                    "id": "1032234", 
+                    "name": "琼·贝内特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031841/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4099.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4099.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4099.jpg"
+                    }, 
+                    "id": "1031841", 
+                    "name": "伊丽莎白·泰勒"
+                }
+            ], 
+            "collect_count": 411, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032168/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21910.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21910.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21910.jpg"
+                    }, 
+                    "id": "1032168", 
+                    "name": "文森特·明奈利"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1295301", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24430013.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24430013.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24430013.jpg"
+            }, 
+            "original_title": "Father of the Bride", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "岳父大人", 
+            "year": "1950"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25822412/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018143/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1402744446.01.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1402744446.01.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1402744446.01.jpg"
+                    }, 
+                    "id": "1018143", 
+                    "name": "索娜姆·卡普尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327903/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/NVl0SchsuMccel_avatar_uploaded1365562083.68.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/NVl0SchsuMccel_avatar_uploaded1365562083.68.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/NVl0SchsuMccel_avatar_uploaded1365562083.68.jpg"
+                    }, 
+                    "id": "1327903", 
+                    "name": "阿尤斯曼·库拉纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050067/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27629.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27629.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27629.jpg"
+                    }, 
+                    "id": "1050067", 
+                    "name": "里希·卡普尔"
+                }
+            ], 
+            "collect_count": 156, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nupur Asthana"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "25822412", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2170607385.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2170607385.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2170607385.jpg"
+            }, 
+            "original_title": "Bewakoofiyaan", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "搞定岳父大人", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4188543/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002671/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52629.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52629.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52629.jpg"
+                    }, 
+                    "id": "1002671", 
+                    "name": "大卫·田纳特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1081439/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3364.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3364.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3364.jpg"
+                    }, 
+                    "id": "1081439", 
+                    "name": "彼得·戴维森"
+                }
+            ], 
+            "collect_count": 2061, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Graeme Harper"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "4188543", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6788929.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6788929.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6788929.jpg"
+            }, 
+            "original_title": "Doctor Who: Time Crash", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "神秘博士：时间冲撞", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21264321/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274722/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6026.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6026.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6026.jpg"
+                    }, 
+                    "id": "1274722", 
+                    "name": "韩童生"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315101/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368673891.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368673891.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368673891.37.jpg"
+                    }, 
+                    "id": "1315101", 
+                    "name": "张桐"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1292855/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25156.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25156.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25156.jpg"
+                    }, 
+                    "id": "1292855", 
+                    "name": "娜仁花"
+                }
+            ], 
+            "collect_count": 21, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "安占军"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "21264321", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2232968088.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2232968088.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2232968088.jpg"
+            }, 
+            "original_title": "家事也是事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "家事也是事", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"新岳父大人\" 的结果", 
+    "total": 10
+}

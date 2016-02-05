@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1295820/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1086170/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361935408.92.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361935408.92.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361935408.92.jpg"
+                    }, 
+                    "id": "1086170", 
+                    "name": "乔·芬奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025397/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33733.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33733.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33733.jpg"
+                    }, 
+                    "id": "1025397", 
+                    "name": "巴里·福斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1118932/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1365487049.06.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1365487049.06.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1365487049.06.jpg"
+                    }, 
+                    "id": "1118932", 
+                    "name": "Barbara Leigh-Hunt"
+                }
+            ], 
+            "collect_count": 2629, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025185/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/302.jpg"
+                    }, 
+                    "id": "1025185", 
+                    "name": "阿尔弗雷德·希区柯克"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1295820", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6807358.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6807358.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6807358.jpg"
+            }, 
+            "original_title": "Frenzy", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "狂凶记", 
+            "year": "1972"
+        }
+    ], 
+    "title": "搜索 \"狂凶记\" 的结果", 
+    "total": 1
+}

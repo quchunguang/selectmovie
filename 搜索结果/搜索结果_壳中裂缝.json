@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6528112/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280748/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56928.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56928.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56928.jpg"
+                    }, 
+                    "id": "1280748", 
+                    "name": "斯坦因·费舍尔·克里斯滕森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041698/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21601.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21601.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21601.jpg"
+                    }, 
+                    "id": "1041698", 
+                    "name": "乌尔里希·诺登"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051134/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361193636.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361193636.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361193636.34.jpg"
+                    }, 
+                    "id": "1051134", 
+                    "name": "达格玛·曼泽尔"
+                }
+            ], 
+            "collect_count": 1437, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1310524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55527.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55527.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55527.jpg"
+                    }, 
+                    "id": "1310524", 
+                    "name": "克利斯蒂安·施沃乔夫"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6528112", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2242613376.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2242613376.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2242613376.jpg"
+            }, 
+            "original_title": "Die Unsichtbare", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "壳中裂缝", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"壳中裂缝\" 的结果", 
+    "total": 1
+}

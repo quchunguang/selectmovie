@@ -1,0 +1,167 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/25722116/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "范玲"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "运动"
+            ], 
+            "id": "25722116", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "八月八日", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "八月八日", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10555084/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1311021/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1368685046.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1368685046.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1368685046.81.jpg"
+                    }, 
+                    "id": "1311021", 
+                    "name": "斯维塔兰娜·伊万诺娃"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023442/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368685365.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368685365.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368685365.9.jpg"
+                    }, 
+                    "id": "1023442", 
+                    "name": "弗拉季米尔·弗多维琴科夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319220/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1372227321.43.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1372227321.43.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1372227321.43.jpg"
+                    }, 
+                    "id": "1319220", 
+                    "name": "尤里·库琴科"
+                }
+            ], 
+            "collect_count": 7809, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1024314/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368684629.62.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368684629.62.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368684629.62.jpg"
+                    }, 
+                    "id": "1024314", 
+                    "name": "贾尼克·法伊济耶夫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "战争"
+            ], 
+            "id": "10555084", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2119349476.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2119349476.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2119349476.jpg"
+            }, 
+            "original_title": "Август. Восьмого", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "穿越火线", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1306929/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033481/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3429.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3429.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3429.jpg"
+                    }, 
+                    "id": "1033481", 
+                    "name": "叶童"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "徐忻辰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林泉"
+                }
+            ], 
+            "collect_count": 2243, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杜国威"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭", 
+                "战争"
+            ], 
+            "id": "1306929", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1399665.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1399665.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1399665.jpg"
+            }, 
+            "original_title": "五月八月", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "五月八月", 
+            "year": "2002"
+        }
+    ], 
+    "title": "搜索 \"八月八日\" 的结果", 
+    "total": 3
+}

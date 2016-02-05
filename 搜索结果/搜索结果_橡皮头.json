@@ -1,0 +1,125 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293925/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036651/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33157.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33157.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33157.jpg"
+                    }, 
+                    "id": "1036651", 
+                    "name": "杰克·南斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1160227/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1417273264.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1417273264.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1417273264.39.jpg"
+                    }, 
+                    "id": "1160227", 
+                    "name": "夏洛特·斯图尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1105898/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1105898", 
+                    "name": "Allen Joseph"
+                }
+            ], 
+            "collect_count": 9188, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054578/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23582.jpg"
+                    }, 
+                    "id": "1054578", 
+                    "name": "大卫·林奇"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "恐怖"
+            ], 
+            "id": "1293925", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1334208717.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1334208717.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1334208717.jpg"
+            }, 
+            "original_title": "Eraserhead", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "橡皮头", 
+            "year": "1977"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294459/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036332/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5499.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5499.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5499.jpg"
+                    }, 
+                    "id": "1036332", 
+                    "name": "乔治·梅里爱"
+                }
+            ], 
+            "collect_count": 865, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036332/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5499.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5499.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5499.jpg"
+                    }, 
+                    "id": "1036332", 
+                    "name": "乔治·梅里爱"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "喜剧", 
+                "奇幻"
+            ], 
+            "id": "1294459", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1806419.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1806419.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1806419.jpg"
+            }, 
+            "original_title": "L'homme à la tête en caoutchouc", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "橡皮头", 
+            "year": "1901"
+        }
+    ], 
+    "title": "搜索 \"橡皮头\" 的结果", 
+    "total": 2
+}

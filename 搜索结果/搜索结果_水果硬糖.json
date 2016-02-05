@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1484091/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012520/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/118.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/118.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/118.jpg"
+                    }, 
+                    "id": "1012520", 
+                    "name": "艾伦·佩吉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006919/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1384038922.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1384038922.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1384038922.44.jpg"
+                    }, 
+                    "id": "1006919", 
+                    "name": "帕特里克·威尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010565/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10245.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10245.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10245.jpg"
+                    }, 
+                    "id": "1010565", 
+                    "name": "吴珊卓"
+                }
+            ], 
+            "collect_count": 159395, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027213/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10950.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10950.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10950.jpg"
+                    }, 
+                    "id": "1027213", 
+                    "name": "大卫·斯雷德"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1484091", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1501905.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1501905.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1501905.jpg"
+            }, 
+            "original_title": "Hard Candy", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "水果硬糖", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"水果硬糖\" 的结果", 
+    "total": 1
+}

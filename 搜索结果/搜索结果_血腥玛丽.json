@@ -1,0 +1,441 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1966065/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1143433/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1143433", 
+                    "name": "Jaason Simmons"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1065107/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1065107", 
+                    "name": "Matthew Borlenghi"
+                }
+            ], 
+            "collect_count": 796, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Valentine"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "1966065", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3309400.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3309400.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3309400.jpg"
+            }, 
+            "original_title": "Bloody Mary", 
+            "rating": {
+                "average": 5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "血腥玛丽", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3190807/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1259088/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24222.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24222.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24222.jpg"
+                    }, 
+                    "id": "1259088", 
+                    "name": "Paul Preiss"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert J. Locke"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032076/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7425.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7425.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7425.jpg"
+                    }, 
+                    "id": "1032076", 
+                    "name": "卡特琳·瓦克斯"
+                }
+            ], 
+            "collect_count": 300, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029790/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1029790", 
+                    "name": "John Stecenko"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "3190807", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3232989.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3232989.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3232989.jpg"
+            }, 
+            "original_title": "The Legend of Bloody Mary", 
+            "rating": {
+                "average": 4.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "血腥玛丽的传说", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25810821/", 
+            "casts": [], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Gallagher"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "短片"
+            ], 
+            "id": "25810821", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2166257040.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2166257040.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2166257040.jpg"
+            }, 
+            "original_title": "Bloody Mary", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "血腥玛丽", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4005781/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1078937/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1078937", 
+                    "name": "肯·克拉克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1121537/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37866.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37866.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37866.jpg"
+                    }, 
+                    "id": "1121537", 
+                    "name": "赫尔佳·丽列"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1095730/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1095730", 
+                    "name": "Philippe Hersent"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017002/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1356575258.25.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1356575258.25.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1356575258.25.jpg"
+                    }, 
+                    "id": "1017002", 
+                    "name": "塞尔吉奥·格里彦可"
+                }
+            ], 
+            "genres": [
+                "冒险"
+            ], 
+            "id": "4005781", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3957651.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3957651.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3957651.jpg"
+            }, 
+            "original_title": "Agente 077 missione Bloody Mary", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "特工077之血腥玛丽行动", 
+            "year": "1965"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20389691/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041142/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361196375.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361196375.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361196375.33.jpg"
+                    }, 
+                    "id": "1041142", 
+                    "name": "凯瑟琳·伊莎贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014291/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25528.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25528.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25528.jpg"
+                    }, 
+                    "id": "1014291", 
+                    "name": "安东尼奥·库普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1258761/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1361256392.45.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1361256392.45.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1361256392.45.jpg"
+                    }, 
+                    "id": "1258761", 
+                    "name": "Tristan Risk"
+                }
+            ], 
+            "collect_count": 2279, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jen Soska"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sylvia Soska"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "20389691", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1886295306.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1886295306.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1886295306.jpg"
+            }, 
+            "original_title": "American Mary", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "美国玛丽", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1460564/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "凯特·玛拉 Kate Mara"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "William Michael"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brandon Sachs"
+                }
+            ], 
+            "collect_count": 731, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "玛丽·莱姆伯特 Mary Lambert"
+                }
+            ], 
+            "genres": [], 
+            "id": "1460564", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2313323506.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2313323506.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2313323506.jpg"
+            }, 
+            "original_title": "Urban Legends: Bloody Mary", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "下一个就是你3", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3130619/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kevin G. Schmidt"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sally Kirkland"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sean Michael Beyer"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "惊悚"
+            ], 
+            "id": "3130619", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3160470.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3160470.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3160470.jpg"
+            }, 
+            "original_title": "Resurrection Mary", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "复活玛丽", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2026932/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ludovic Berthillot"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Olivia Bonamy"
+                }
+            ], 
+            "collect_count": 23, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324050/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1352693117.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1352693117.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1352693117.94.jpg"
+                    }, 
+                    "id": "1324050", 
+                    "name": "朱利安·麦格奈"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "2026932", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2334980.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2334980.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2334980.jpg"
+            }, 
+            "original_title": "Bloody Mallory", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "血腥玛罗琳", 
+            "year": "2002"
+        }
+    ], 
+    "title": "搜索 \"血腥玛丽\" 的结果", 
+    "total": 8
+}

@@ -1,0 +1,72 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3078506/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027219/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43753.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43753.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43753.jpg"
+                    }, 
+                    "id": "1027219", 
+                    "name": "布莱德利·詹姆斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009379/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29228.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29228.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29228.jpg"
+                    }, 
+                    "id": "1009379", 
+                    "name": "鲁珀特·格雷夫斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313506/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/27490.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/27490.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/27490.jpg"
+                    }, 
+                    "id": "1313506", 
+                    "name": "勒诺拉·克里奇洛"
+                }
+            ], 
+            "collect_count": 260, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Regan Hall"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "运动"
+            ], 
+            "id": "3078506", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24468572.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24468572.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24468572.jpg"
+            }, 
+            "original_title": "Fast Girls", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "女飞人", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"女飞人\" 的结果", 
+    "total": 1
+}

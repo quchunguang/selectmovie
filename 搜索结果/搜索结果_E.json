@@ -1,0 +1,1400 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1294638/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055549/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1406475057.28.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1406475057.28.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1406475057.28.jpg"
+                    }, 
+                    "id": "1055549", 
+                    "name": "亨利·托马斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1168883/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26574.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26574.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26574.jpg"
+                    }, 
+                    "id": "1168883", 
+                    "name": "迪·沃伦斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036671/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1431094676.32.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1431094676.32.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1431094676.32.jpg"
+                    }, 
+                    "id": "1036671", 
+                    "name": "罗伯特·麦克纳夫顿"
+                }
+            ], 
+            "collect_count": 176323, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054440/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34602.jpg"
+                    }, 
+                    "id": "1054440", 
+                    "name": "史蒂文·斯皮尔伯格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "奇幻"
+            ], 
+            "id": "1294638", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p984732992.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p984732992.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p984732992.jpg"
+            }, 
+            "original_title": "E.T.: The Extra-Terrestrial", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "E.T. 外星人", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2364051/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049492/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35722.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35722.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35722.jpg"
+                    }, 
+                    "id": "1049492", 
+                    "name": "杰克·布莱克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1171930/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25979.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25979.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25979.jpg"
+                    }, 
+                    "id": "1171930", 
+                    "name": "迪兰·明奈特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325214/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1410851175.5.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1410851175.5.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1410851175.5.jpg"
+                    }, 
+                    "id": "1325214", 
+                    "name": "奥德娅·拉什"
+                }
+            ], 
+            "collect_count": 7434, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1304840/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1446386865.82.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1446386865.82.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1446386865.82.jpg"
+                    }, 
+                    "id": "1304840", 
+                    "name": "罗伯·莱特曼"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻", 
+                "冒险"
+            ], 
+            "id": "2364051", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2254745692.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2254745692.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2254745692.jpg"
+            }, 
+            "original_title": "Goosebumps", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "鸡皮疙瘩", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25926834/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027502/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2429.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2429.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2429.jpg"
+                    }, 
+                    "id": "1027502", 
+                    "name": "吴彦祖"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316324/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380889677.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380889677.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380889677.52.jpg"
+                    }, 
+                    "id": "1316324", 
+                    "name": "艾米丽·比查姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031910/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19758.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19758.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19758.jpg"
+                    }, 
+                    "id": "1031910", 
+                    "name": "莎拉·伯格"
+                }
+            ], 
+            "collect_count": 2532, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009599/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9079.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9079.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9079.jpg"
+                    }, 
+                    "id": "1009599", 
+                    "name": "大卫·道金"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险"
+            ], 
+            "id": "25926834", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2253400518.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2253400518.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2253400518.jpg"
+            }, 
+            "original_title": "Into the Badlands", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "荒原 第一季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3012013/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054431/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/608.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/608.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/608.jpg"
+                    }, 
+                    "id": "1054431", 
+                    "name": "丹泽尔·华盛顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009284/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12798.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12798.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12798.jpg"
+                    }, 
+                    "id": "1009284", 
+                    "name": "马尔顿·索克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018981/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20201.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20201.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20201.jpg"
+                    }, 
+                    "id": "1018981", 
+                    "name": "科洛·莫瑞兹"
+                }
+            ], 
+            "collect_count": 31315, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013907/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4108.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4108.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4108.jpg"
+                    }, 
+                    "id": "1013907", 
+                    "name": "安东尼·福奎阿"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "3012013", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2201052935.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2201052935.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2201052935.jpg"
+            }, 
+            "original_title": "The Equalizer", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "伸冤人", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25889465/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044708/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6531.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6531.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6531.jpg"
+                    }, 
+                    "id": "1044708", 
+                    "name": "杰弗里·迪恩·摩根"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004855/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/73.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/73.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/73.jpg"
+                    }, 
+                    "id": "1004855", 
+                    "name": "凯特·波茨沃斯"
+                }
+            ], 
+            "collect_count": 2274, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1352945/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1352945", 
+                    "name": "斯科特·曼"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "25889465", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2267966441.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2267966441.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2267966441.jpg"
+            }, 
+            "original_title": "Heist", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "抢劫", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292063/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041004/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26764.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26764.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26764.jpg"
+                    }, 
+                    "id": "1041004", 
+                    "name": "罗伯托·贝尼尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000375/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9548.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9548.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9548.jpg"
+                    }, 
+                    "id": "1000375", 
+                    "name": "尼可莱塔·布拉斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000368/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/45590.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/45590.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/45590.jpg"
+                    }, 
+                    "id": "1000368", 
+                    "name": "乔治·坎塔里尼"
+                }
+            ], 
+            "collect_count": 420424, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041004/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26764.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26764.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26764.jpg"
+                    }, 
+                    "id": "1041004", 
+                    "name": "罗伯托·贝尼尼"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1292063", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p510861873.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p510861873.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
+            }, 
+            "original_title": "La vita è bella", 
+            "rating": {
+                "average": 9.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "美丽人生", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6845667/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044713/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1371934661.95.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1371934661.95.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1371934661.95.jpg"
+                    }, 
+                    "id": "1044713", 
+                    "name": "亨利·卡维尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049997/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48701.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48701.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48701.jpg"
+                    }, 
+                    "id": "1049997", 
+                    "name": "阿米·汉莫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1233154/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427204716.36.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427204716.36.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427204716.36.jpg"
+                    }, 
+                    "id": "1233154", 
+                    "name": "艾丽西亚·维坎德"
+                }
+            ], 
+            "collect_count": 53010, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025148/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38048.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38048.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38048.jpg"
+                    }, 
+                    "id": "1025148", 
+                    "name": "盖·里奇"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "6845667", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2257174963.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2257174963.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2257174963.jpg"
+            }, 
+            "original_title": "The Man from U.N.C.L.E.", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "秘密特工", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4014396/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313408/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1412746295.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1412746295.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1412746295.33.jpg"
+                    }, 
+                    "id": "1313408", 
+                    "name": "迈尔斯·特勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031801/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33522.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33522.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33522.jpg"
+                    }, 
+                    "id": "1031801", 
+                    "name": "凯特·玛拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1107320/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1398492835.92.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1398492835.92.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1398492835.92.jpg"
+                    }, 
+                    "id": "1107320", 
+                    "name": "迈克尔·B·乔丹"
+                }
+            ], 
+            "collect_count": 17324, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1245020/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46619.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46619.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46619.jpg"
+                    }, 
+                    "id": "1245020", 
+                    "name": "乔什·特兰克"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "4014396", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2239463272.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2239463272.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2239463272.jpg"
+            }, 
+            "original_title": "Fantastic Four", 
+            "rating": {
+                "average": 4.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "神奇四侠2015", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2131459/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009535/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13028.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13028.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13028.jpg"
+                    }, 
+                    "id": "1009535", 
+                    "name": "本·贝尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000389/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1365856130.16.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1365856130.16.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1365856130.16.jpg"
+                    }, 
+                    "id": "1000389", 
+                    "name": "艾丽莎·奈特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018022/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31068.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31068.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31068.jpg"
+                    }, 
+                    "id": "1018022", 
+                    "name": "杰夫·格尔林"
+                }
+            ], 
+            "collect_count": 518293, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036450/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1302.jpg"
+                    }, 
+                    "id": "1036450", 
+                    "name": "安德鲁·斯坦顿"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "科幻"
+            ], 
+            "id": "2131459", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p449665982.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p449665982.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
+            }, 
+            "original_title": "WALL·E", 
+            "rating": {
+                "average": 9.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "机器人总动员", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24840488/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045101/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25695.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25695.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25695.jpg"
+                    }, 
+                    "id": "1045101", 
+                    "name": "詹米·多南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027325/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33773.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33773.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33773.jpg"
+                    }, 
+                    "id": "1027325", 
+                    "name": "达科塔·约翰逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012506/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2927.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2927.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2927.jpg"
+                    }, 
+                    "id": "1012506", 
+                    "name": "詹妮弗·艾莉"
+                }
+            ], 
+            "collect_count": 82090, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031915/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1372056921.62.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1372056921.62.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1372056921.62.jpg"
+                    }, 
+                    "id": "1031915", 
+                    "name": "萨姆·泰勒·约翰逊"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "情色"
+            ], 
+            "id": "24840488", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2211821461.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2211821461.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2211821461.jpg"
+            }, 
+            "original_title": "Fifty Shades of Grey", 
+            "rating": {
+                "average": 5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "五十度灰", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293964/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010506/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3151.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3151.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3151.jpg"
+                    }, 
+                    "id": "1010506", 
+                    "name": "费雯·丽"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022708/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4491.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4491.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4491.jpg"
+                    }, 
+                    "id": "1022708", 
+                    "name": "罗伯特·泰勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018243/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376828513.77.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376828513.77.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376828513.77.jpg"
+                    }, 
+                    "id": "1018243", 
+                    "name": "露塞尔·沃特森"
+                }
+            ], 
+            "collect_count": 158422, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028033/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16201.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16201.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16201.jpg"
+                    }, 
+                    "id": "1028033", 
+                    "name": "茂文·勒鲁瓦"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争", 
+                "爱情"
+            ], 
+            "id": "1293964", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2180990078.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2180990078.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2180990078.jpg"
+            }, 
+            "original_title": "Waterloo Bridge", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "魂断蓝桥", 
+            "year": "1940"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25810585/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317777/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41168.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41168.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41168.jpg"
+                    }, 
+                    "id": "1317777", 
+                    "name": "扎克·麦克格温"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luke Arnold"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319212/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46106.jpg"
+                    }, 
+                    "id": "1319212", 
+                    "name": "杰西卡·帕克·肯尼迪"
+                }
+            ], 
+            "collect_count": 1264, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018056/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13285.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13285.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13285.jpg"
+                    }, 
+                    "id": "1018056", 
+                    "name": "尼尔·马歇尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028836/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1028836", 
+                    "name": "萨姆·米勒"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "冒险"
+            ], 
+            "id": "25810585", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2220748941.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2220748941.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2220748941.jpg"
+            }, 
+            "original_title": "Black Sails", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "黑帆 第二季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293824/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027882/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28053.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28053.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28053.jpg"
+                    }, 
+                    "id": "1027882", 
+                    "name": "琼·芳登"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053557/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/30403.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/30403.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/30403.jpg"
+                    }, 
+                    "id": "1053557", 
+                    "name": "劳伦斯·奥利弗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056113/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1427200432.89.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1427200432.89.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1427200432.89.jpg"
+                    }, 
+                    "id": "1056113", 
+                    "name": "乔治·桑德斯"
+                }
+            ], 
+            "collect_count": 38186, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025185/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/302.jpg"
+                    }, 
+                    "id": "1025185", 
+                    "name": "阿尔弗雷德·希区柯克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "1293824", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p840829693.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p840829693.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p840829693.jpg"
+            }, 
+            "original_title": "Rebecca", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝴蝶梦", 
+            "year": "1940"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26323031/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045101/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25695.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25695.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25695.jpg"
+                    }, 
+                    "id": "1045101", 
+                    "name": "詹米·多南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027325/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33773.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33773.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33773.jpg"
+                    }, 
+                    "id": "1027325", 
+                    "name": "达科塔·约翰逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1088351/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375432368.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375432368.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375432368.17.jpg"
+                    }, 
+                    "id": "1088351", 
+                    "name": "马克斯·马蒂尼"
+                }
+            ], 
+            "collect_count": 801, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014153/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45584.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45584.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45584.jpg"
+                    }, 
+                    "id": "1014153", 
+                    "name": "詹姆斯·弗雷"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "情色"
+            ], 
+            "id": "26323031", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2302847562.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2302847562.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2302847562.jpg"
+            }, 
+            "original_title": "Fifty Shades Darker", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "五十度黑", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3011022/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054391/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/15731.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/15731.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/15731.jpg"
+                    }, 
+                    "id": "1054391", 
+                    "name": "史蒂夫·卡瑞尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031224/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47662.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47662.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47662.jpg"
+                    }, 
+                    "id": "1031224", 
+                    "name": "查宁·塔图姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040505/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/15885.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/15885.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/15885.jpg"
+                    }, 
+                    "id": "1040505", 
+                    "name": "马克·鲁弗洛"
+                }
+            ], 
+            "collect_count": 18026, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014110/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37652.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37652.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37652.jpg"
+                    }, 
+                    "id": "1014110", 
+                    "name": "贝尼特·米勒"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "运动"
+            ], 
+            "id": "3011022", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2208497877.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2208497877.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2208497877.jpg"
+            }, 
+            "original_title": "Foxcatcher", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "狐狸猎手", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26343766/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031818/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11727.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11727.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11727.jpg"
+                    }, 
+                    "id": "1031818", 
+                    "name": "西恩·奥斯汀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050125/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24643.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24643.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24643.jpg"
+                    }, 
+                    "id": "1050125", 
+                    "name": "尼克·毕肖普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1352605/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1446372618.76.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1446372618.76.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1446372618.76.jpg"
+                    }, 
+                    "id": "1352605", 
+                    "name": "迦勒·卡斯提尔"
+                }
+            ], 
+            "collect_count": 309, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342412/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1446373131.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1446373131.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1446373131.08.jpg"
+                    }, 
+                    "id": "1342412", 
+                    "name": "安德鲁·欧文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342413/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1446373056.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1446373056.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1446373056.39.jpg"
+                    }, 
+                    "id": "1342413", 
+                    "name": "乔恩·欧文"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "运动"
+            ], 
+            "id": "26343766", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2279487387.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2279487387.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2279487387.jpg"
+            }, 
+            "original_title": "Woodlawn", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "橄榄球传奇", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26035297/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031801/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33522.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33522.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33522.jpg"
+                    }, 
+                    "id": "1031801", 
+                    "name": "凯特·玛拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000231/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4773.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4773.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4773.jpg"
+                    }, 
+                    "id": "1000231", 
+                    "name": "大卫·奥伊罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036428/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35413.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35413.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35413.jpg"
+                    }, 
+                    "id": "1036428", 
+                    "name": "迈克尔·威廉姆斯"
+                }
+            ], 
+            "collect_count": 491, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1335058/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1443364471.31.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1443364471.31.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1443364471.31.jpg"
+                    }, 
+                    "id": "1335058", 
+                    "name": "杰瑞·詹姆森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "26035297", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2250578800.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2250578800.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2250578800.jpg"
+            }, 
+            "original_title": "Captive", 
+            "rating": {
+                "average": 5.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "人质", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26384798/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000083/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1398762158.38.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1398762158.38.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1398762158.38.jpg"
+                    }, 
+                    "id": "1000083", 
+                    "name": "克拉克·格雷格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041128/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1394642097.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1394642097.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1394642097.08.jpg"
+                    }, 
+                    "id": "1041128", 
+                    "name": "温明娜"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1334870/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1380276802.86.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1380276802.86.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1380276802.86.jpg"
+                    }, 
+                    "id": "1334870", 
+                    "name": "布雷特·道顿"
+                }
+            ], 
+            "collect_count": 3006, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010552/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/908.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/908.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/908.jpg"
+                    }, 
+                    "id": "1010552", 
+                    "name": "乔斯·韦登"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "26384798", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2267559189.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2267559189.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2267559189.jpg"
+            }, 
+            "original_title": "Agents of S.H.I.E.L.D.", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "神盾局特工 第三季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4304402/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009708/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22255.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22255.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22255.jpg"
+                    }, 
+                    "id": "1009708", 
+                    "name": "瓦格纳·马拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1310864/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36637.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36637.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36637.jpg"
+                    }, 
+                    "id": "1310864", 
+                    "name": "安德烈·拉米罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037469/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40582.jpg"
+                    }, 
+                    "id": "1037469", 
+                    "name": "米尔黑·考塔兹"
+                }
+            ], 
+            "collect_count": 47713, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023090/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22300.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22300.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22300.jpg"
+                    }, 
+                    "id": "1023090", 
+                    "name": "若泽·帕迪里亚"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "4304402", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p858211193.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p858211193.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p858211193.jpg"
+            }, 
+            "original_title": "Tropa de Elite 2 - O Inimigo Agora É Outro", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "精英部队2：大敌当前", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/19938222/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000083/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1398762158.38.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1398762158.38.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1398762158.38.jpg"
+                    }, 
+                    "id": "1000083", 
+                    "name": "克拉克·格雷格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041128/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1394642097.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1394642097.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1394642097.08.jpg"
+                    }, 
+                    "id": "1041128", 
+                    "name": "温明娜"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1334870/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1380276802.86.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1380276802.86.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1380276802.86.jpg"
+                    }, 
+                    "id": "1334870", 
+                    "name": "布雷特·道顿"
+                }
+            ], 
+            "collect_count": 33435, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010552/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/908.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/908.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/908.jpg"
+                    }, 
+                    "id": "1010552", 
+                    "name": "乔斯·韦登"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "19938222", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2100730527.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2100730527.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2100730527.jpg"
+            }, 
+            "original_title": "Agents of S.H.I.E.L.D.", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "神盾局特工 第一季", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"E\" 的结果", 
+    "total": 4545
+}

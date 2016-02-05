@@ -1,0 +1,397 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1299591/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049817/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367385259.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367385259.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367385259.33.jpg"
+                    }, 
+                    "id": "1049817", 
+                    "name": "贾斯廷·威林"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1141660/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1434098616.92.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1434098616.92.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1434098616.92.jpg"
+                    }, 
+                    "id": "1141660", 
+                    "name": "佩瑞·里维斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeremy Sylvers"
+                }
+            ], 
+            "collect_count": 2412, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1278334/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1384503478.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1384503478.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1384503478.26.jpg"
+                    }, 
+                    "id": "1278334", 
+                    "name": "杰克·本德"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1299591", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3846484.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3846484.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3846484.jpg"
+            }, 
+            "original_title": "Child's Play 3", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼娃回魂3", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300077/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022689/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49315.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49315.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49315.jpg"
+                    }, 
+                    "id": "1022689", 
+                    "name": "凯瑟琳·海克丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025203/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11840.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11840.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11840.jpg"
+                    }, 
+                    "id": "1025203", 
+                    "name": "克里斯·萨兰登"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045143/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380426867.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380426867.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380426867.74.jpg"
+                    }, 
+                    "id": "1045143", 
+                    "name": "艾力克斯·文森特"
+                }
+            ], 
+            "collect_count": 10512, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009463/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49316.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49316.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49316.jpg"
+                    }, 
+                    "id": "1009463", 
+                    "name": "汤姆·霍兰德"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1300077", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1302801606.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1302801606.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1302801606.jpg"
+            }, 
+            "original_title": "Child's Play", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼娃回魂", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293798/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045143/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380426867.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380426867.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380426867.74.jpg"
+                    }, 
+                    "id": "1045143", 
+                    "name": "艾力克斯·文森特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036466/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397125483.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397125483.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397125483.33.jpg"
+                    }, 
+                    "id": "1036466", 
+                    "name": "珍妮·艾加特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036883/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1036883", 
+                    "name": "格里特·格雷厄姆"
+                }
+            ], 
+            "collect_count": 4809, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1289247/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1289247", 
+                    "name": "John Lafia"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1293798", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2210573820.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2210573820.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2210573820.jpg"
+            }, 
+            "original_title": "Child's Play 2", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼娃回魂2", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26381819/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [
+                "犯罪", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "26381819", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Chucky 7", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼娃回魂7", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293035/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049519/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7660.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7660.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7660.jpg"
+                    }, 
+                    "id": "1049519", 
+                    "name": "詹妮弗·提莉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031866/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6260.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6260.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6260.jpg"
+                    }, 
+                    "id": "1031866", 
+                    "name": "布拉德·道里夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008068/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2685.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2685.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2685.jpg"
+                    }, 
+                    "id": "1008068", 
+                    "name": "凯瑟琳·海格尔"
+                }
+            ], 
+            "collect_count": 8503, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于仁泰"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1293035", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3128173.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3128173.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3128173.jpg"
+            }, 
+            "original_title": "Bride of Chucky", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼娃新娘", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23766551/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1175844/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26322.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26322.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26322.jpg"
+                    }, 
+                    "id": "1175844", 
+                    "name": "Fiona Dourif"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031866/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6260.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6260.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6260.jpg"
+                    }, 
+                    "id": "1031866", 
+                    "name": "布拉德·道里夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325403/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354506461.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354506461.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354506461.59.jpg"
+                    }, 
+                    "id": "1325403", 
+                    "name": "布伦南·埃利奥特"
+                }
+            ], 
+            "collect_count": 2260, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005077/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1005077", 
+                    "name": "唐·曼西尼"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "23766551", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2030098562.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2030098562.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2030098562.jpg"
+            }, 
+            "original_title": "Curse of Chucky", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼娃的诅咒", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3008325/", 
+            "casts": [], 
+            "collect_count": 27, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "科幻"
+            ], 
+            "id": "3008325", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2964172.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2964172.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2964172.jpg"
+            }, 
+            "original_title": "\"The X Files\"Season 3, Episode 5: The List", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "回魂复仇者", 
+            "year": "1995"
+        }
+    ], 
+    "title": "搜索 \"鬼娃回魂3\" 的结果", 
+    "total": 7
+}

@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/11601132/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047996/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/262.jpg"
+                    }, 
+                    "id": "1047996", 
+                    "name": "西尔维斯特·史泰龙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1286162/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25517.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25517.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25517.jpg"
+                    }, 
+                    "id": "1286162", 
+                    "name": "凯文·哈特"
+                }
+            ], 
+            "collect_count": 3419, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315762/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42683.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42683.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42683.jpg"
+                    }, 
+                    "id": "1315762", 
+                    "name": "彼得·西格尔"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "运动"
+            ], 
+            "id": "11601132", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2154445374.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2154445374.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2154445374.jpg"
+            }, 
+            "original_title": "Grudge Match", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "旗鼓相当", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"旗鼓相当\" 的结果", 
+    "total": 1
+}

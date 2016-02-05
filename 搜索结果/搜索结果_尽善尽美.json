@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293917/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054528/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26019.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26019.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26019.jpg"
+                    }, 
+                    "id": "1054528", 
+                    "name": "杰克·尼科尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019017/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39678.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39678.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39678.jpg"
+                    }, 
+                    "id": "1019017", 
+                    "name": "海伦·亨特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019040/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375096815.7.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375096815.7.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375096815.7.jpg"
+                    }, 
+                    "id": "1019040", 
+                    "name": "格雷戈·金尼尔"
+                }
+            ], 
+            "collect_count": 14786, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045001/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17297.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17297.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17297.jpg"
+                    }, 
+                    "id": "1045001", 
+                    "name": "詹姆斯·L·布鲁克斯"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1293917", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2803693.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2803693.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2803693.jpg"
+            }, 
+            "original_title": "As Good as It Gets", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "尽善尽美", 
+            "year": "1997"
+        }
+    ], 
+    "title": "搜索 \"尽善尽美\" 的结果", 
+    "total": 1
+}

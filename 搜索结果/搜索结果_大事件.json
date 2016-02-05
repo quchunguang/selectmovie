@@ -1,0 +1,1038 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1308855/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050335/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1007.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1007.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1007.jpg"
+                    }, 
+                    "id": "1050335", 
+                    "name": "陈慧琳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037273/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382184082.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382184082.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382184082.17.jpg"
+                    }, 
+                    "id": "1037273", 
+                    "name": "张家辉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009888/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1549.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1549.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1549.jpg"
+                    }, 
+                    "id": "1009888", 
+                    "name": "任贤齐"
+                }
+            ], 
+            "collect_count": 37512, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1160186/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/851.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/851.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/851.jpg"
+                    }, 
+                    "id": "1160186", 
+                    "name": "杜琪峰"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1308855", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2792514.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2792514.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2792514.jpg"
+            }, 
+            "original_title": "大事件", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "大事件", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3158435/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032922/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36452.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36452.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36452.jpg"
+                    }, 
+                    "id": "1032922", 
+                    "name": "叶甫盖尼·茨冈诺夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1101813/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1406299075.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1406299075.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1406299075.37.jpg"
+                    }, 
+                    "id": "1101813", 
+                    "name": "谢尔盖·加尔马什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000916/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1000916", 
+                    "name": "玛莉亚·马斯高娃"
+                }
+            ], 
+            "collect_count": 1203, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anders Banke"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "3158435", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3284761.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3284761.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3284761.jpg"
+            }, 
+            "original_title": "Горячие новости", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "大事件", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3612296/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Attenborough"
+                }
+            ], 
+            "collect_count": 1799, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brian Leith"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "3612296", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3672869.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3672869.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3672869.jpg"
+            }, 
+            "original_title": "Nature's Great Events", 
+            "rating": {
+                "average": 9.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "tv", 
+            "title": "自然界大事件", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25931272/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王尼玛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王蜜桃"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "唐马儒"
+                }
+            ], 
+            "collect_count": 1974, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王蜜桃"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "脱口秀"
+            ], 
+            "id": "25931272", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2192139332.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2192139332.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2192139332.jpg"
+            }, 
+            "original_title": "暴走大事件第三季", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "暴走大事件第三季", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25931270/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王尼玛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王蜜桃"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "唐马儒"
+                }
+            ], 
+            "collect_count": 1609, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王蜜桃"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "脱口秀"
+            ], 
+            "id": "25931270", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2192139083.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2192139083.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2192139083.jpg"
+            }, 
+            "original_title": "暴走大事件第一季", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "暴走大事件第一季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25931271/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王尼玛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "唐马儒"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王蜜桃"
+                }
+            ], 
+            "collect_count": 1638, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王蜜桃"
+                }
+            ], 
+            "genres": [
+                "脱口秀"
+            ], 
+            "id": "25931271", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2192139229.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2192139229.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2192139229.jpg"
+            }, 
+            "original_title": "暴走大事件第二季", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "暴走大事件第二季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3733898/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014087/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4749.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4749.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4749.jpg"
+                    }, 
+                    "id": "1014087", 
+                    "name": "伊万·阿达勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018387/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47834.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47834.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47834.jpg"
+                    }, 
+                    "id": "1018387", 
+                    "name": "安妮·康斯金尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048370/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8021.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8021.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8021.jpg"
+                    }, 
+                    "id": "1048370", 
+                    "name": "弗兰西丝·法比安"
+                }
+            ], 
+            "collect_count": 83, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041649/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29854.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29854.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29854.jpg"
+                    }, 
+                    "id": "1041649", 
+                    "name": "卢卡斯·贝尔沃克斯"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3733898", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4083889.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4083889.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4083889.jpg"
+            }, 
+            "original_title": "Rapt", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "绑票大事件", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2084828/", 
+            "casts": [], 
+            "collect_count": 38, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Stoten"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tim Watts"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片", 
+                "喜剧"
+            ], 
+            "id": "2084828", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2412796.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2412796.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2412796.jpg"
+            }, 
+            "original_title": "The Big Story", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大事件", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25731370/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Harry Lloyd"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Krista Kosonen"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sylvia Grace Crim"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bryan Reisberg"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25731370", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2175408201.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2175408201.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2175408201.jpg"
+            }, 
+            "original_title": "Big Significant Things", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大事件", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3040014/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3040014", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3028974.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3028974.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3028974.jpg"
+            }, 
+            "original_title": "Big Time", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "大事件", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26470003/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1343523/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/nM9ypT0FKs4cel_avatar_uploaded1412494108.24.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/nM9ypT0FKs4cel_avatar_uploaded1412494108.24.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/nM9ypT0FKs4cel_avatar_uploaded1412494108.24.jpg"
+                    }, 
+                    "id": "1343523", 
+                    "name": "王尼玛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1350283/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/NX2nfRXDRbgcel_avatar_uploaded1436002250.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/NX2nfRXDRbgcel_avatar_uploaded1436002250.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/NX2nfRXDRbgcel_avatar_uploaded1436002250.39.jpg"
+                    }, 
+                    "id": "1350283", 
+                    "name": "张全蛋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342367/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1408510466.56.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1408510466.56.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1408510466.56.jpg"
+                    }, 
+                    "id": "1342367", 
+                    "name": "唐马儒"
+                }
+            ], 
+            "collect_count": 622, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王蜜桃"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "脱口秀"
+            ], 
+            "id": "26470003", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2255178427.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2255178427.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2255178427.jpg"
+            }, 
+            "original_title": "暴走大事件第四季", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "暴走大事件第四季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26425438/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1349288/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/z578k0Tiso0cel_avatar_uploaded1430219136.05.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/z578k0Tiso0cel_avatar_uploaded1430219136.05.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/z578k0Tiso0cel_avatar_uploaded1430219136.05.jpg"
+                    }, 
+                    "id": "1349288", 
+                    "name": "陈晓楠"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26425438", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "凤凰大视野 国家的秘密——斯诺登事件背后", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "凤凰大视野 国家的秘密——斯诺登事件背后", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26698333/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "鲍磊"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李宁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨丹"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李宏业"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "26698333", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2302731035.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2302731035.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2302731035.jpg"
+            }, 
+            "original_title": "惊魂夜大事件", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "惊魂夜大事件", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293715/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054427/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/604.jpg"
+                    }, 
+                    "id": "1054427", 
+                    "name": "达斯汀·霍夫曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053617/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/543.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/543.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/543.jpg"
+                    }, 
+                    "id": "1053617", 
+                    "name": "罗伯特·雷德福"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049751/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14325.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14325.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14325.jpg"
+                    }, 
+                    "id": "1049751", 
+                    "name": "杰克·瓦尔登"
+                }
+            ], 
+            "collect_count": 4014, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000394/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24345.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24345.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24345.jpg"
+                    }, 
+                    "id": "1000394", 
+                    "name": "艾伦·J·帕库拉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "惊悚"
+            ], 
+            "id": "1293715", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1376946644.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1376946644.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1376946644.jpg"
+            }, 
+            "original_title": "All the President's Men", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "总统班底", 
+            "year": "1976"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300718/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017911/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6409.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6409.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6409.jpg"
+                    }, 
+                    "id": "1017911", 
+                    "name": "蒂姆·艾伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004610/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1437981470.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1437981470.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1437981470.39.jpg"
+                    }, 
+                    "id": "1004610", 
+                    "name": "蕾妮·罗素"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040517/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26071.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26071.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26071.jpg"
+                    }, 
+                    "id": "1040517", 
+                    "name": "斯坦利·图齐"
+                }
+            ], 
+            "collect_count": 1639, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002772/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7221.jpg"
+                    }, 
+                    "id": "1002772", 
+                    "name": "巴里·索南菲尔德"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1300718", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2198506493.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2198506493.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2198506493.jpg"
+            }, 
+            "original_title": "Big Trouble", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大麻烦", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10491639/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037892/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4802.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4802.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4802.jpg"
+                    }, 
+                    "id": "1037892", 
+                    "name": "织田裕二"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017083/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1355493346.45.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1355493346.45.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1355493346.45.jpg"
+                    }, 
+                    "id": "1017083", 
+                    "name": "柳叶敏郎"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014844/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16385.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16385.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16385.jpg"
+                    }, 
+                    "id": "1014844", 
+                    "name": "深津绘里"
+                }
+            ], 
+            "collect_count": 1800, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1137425/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24250.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24250.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24250.jpg"
+                    }, 
+                    "id": "1137425", 
+                    "name": "本广克行"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10491639", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2135058894.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2135058894.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2135058894.jpg"
+            }, 
+            "original_title": "踊る大捜査線 THE LAST TV サラリーマン刑事と最後の難事件", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "跳跃大搜查线 2012夏SP", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3647121/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "江口洋介"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "松雪泰子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "伊藤英明"
+                }
+            ], 
+            "collect_count": 185, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "田岛大辅"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "水田英成"
+                }
+            ], 
+            "genres": [], 
+            "id": "3647121", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24512564.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24512564.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24512564.jpg"
+            }, 
+            "original_title": "救命病棟24時 新春スペシャル 救出タイムリミット", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "救命病栋24小时 2002新春特别篇", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6938805/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050059/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1691.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1691.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1691.jpg"
+                    }, 
+                    "id": "1050059", 
+                    "name": "范冰冰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018759/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13912.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13912.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13912.jpg"
+                    }, 
+                    "id": "1018759", 
+                    "name": "赵文瑄"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于庚庚"
+                }
+            ], 
+            "genres": [], 
+            "id": "6938805", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6978979.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6978979.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6978979.jpg"
+            }, 
+            "original_title": "大爆炸", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "大爆炸", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25960765/", 
+            "casts": [], 
+            "collect_count": 12, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25960765", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2294240806.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2294240806.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2294240806.jpg"
+            }, 
+            "original_title": "折戟沉沙铁未销：9-13事件追踪", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "折戟沉沙铁未销：9-13事件追踪", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26591523/", 
+            "casts": [], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "手塚眞"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "短片"
+            ], 
+            "id": "26591523", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2266230430.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2266230430.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2266230430.jpg"
+            }, 
+            "original_title": "HIGH WAY", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "日本公路灵异事件", 
+            "year": "1987"
+        }
+    ], 
+    "title": "搜索 \"大事件\" 的结果", 
+    "total": 20
+}

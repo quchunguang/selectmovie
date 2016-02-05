@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3150816/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031880/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7469.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7469.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7469.jpg"
+                    }, 
+                    "id": "1031880", 
+                    "name": "卢克·梅伯利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314721/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/27565.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/27565.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/27565.jpg"
+                    }, 
+                    "id": "1314721", 
+                    "name": "科林·萨蒙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314689/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26088.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26088.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26088.jpg"
+                    }, 
+                    "id": "1314689", 
+                    "name": "吉米·米斯特雷"
+                }
+            ], 
+            "collect_count": 62519, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018073/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1018073", 
+                    "name": "斯图尔特·哈泽尔丁"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "3150816", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p508189927.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p508189927.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p508189927.jpg"
+            }, 
+            "original_title": "Exam", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "终极面试", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"终极面试\" 的结果", 
+    "total": 1
+}

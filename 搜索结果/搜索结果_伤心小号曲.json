@@ -1,0 +1,109 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4924799/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010740/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1385718625.18.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1385718625.18.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1385718625.18.jpg"
+                    }, 
+                    "id": "1010740", 
+                    "name": "圣地亚哥·瑟古拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032580/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33478.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33478.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33478.jpg"
+                    }, 
+                    "id": "1032580", 
+                    "name": "费尔南多·古林·库弗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1080650/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24906.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24906.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24906.jpg"
+                    }, 
+                    "id": "1080650", 
+                    "name": "安东尼奥·德拉·托雷"
+                }
+            ], 
+            "collect_count": 6785, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036806/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10991.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10991.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10991.jpg"
+                    }, 
+                    "id": "1036806", 
+                    "name": "阿莱克斯·德拉·伊格莱希亚"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "4924799", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p709363799.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p709363799.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p709363799.jpg"
+            }, 
+            "original_title": "Balada triste de trompeta", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "伤心小号曲", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2134505/", 
+            "casts": [], 
+            "collect_count": 830, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vincent J. Donehue"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "黑色电影"
+            ], 
+            "id": "2134505", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2559308.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2559308.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2559308.jpg"
+            }, 
+            "original_title": "Lonelyhearts", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "寂寞孤心", 
+            "year": "1958"
+        }
+    ], 
+    "title": "搜索 \"伤心小号曲\" 的结果", 
+    "total": 2
+}

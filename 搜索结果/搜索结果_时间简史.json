@@ -1,0 +1,112 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1422895/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014108/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/15290.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/15290.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/15290.jpg"
+                    }, 
+                    "id": "1014108", 
+                    "name": "史蒂芬·霍金"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Isobel Hawking"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Janet Humphrey"
+                }
+            ], 
+            "collect_count": 926, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005011/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19815.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19815.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19815.jpg"
+                    }, 
+                    "id": "1005011", 
+                    "name": "埃罗尔·莫里斯"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "传记"
+            ], 
+            "id": "1422895", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2175377413.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2175377413.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2175377413.jpg"
+            }, 
+            "original_title": "A Brief History of Time", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "时间简史", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3295782/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stephen Hawking"
+                }
+            ], 
+            "collect_count": 302, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1293002/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1293002", 
+                    "name": "Bruce Neibaur"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "剧情"
+            ], 
+            "id": "3295782", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3360196.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3360196.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3360196.jpg"
+            }, 
+            "original_title": "Beyond the Horizon", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "史蒂芬霍金看宇宙: 時间简史", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"时间简史\" 的结果", 
+    "total": 2
+}

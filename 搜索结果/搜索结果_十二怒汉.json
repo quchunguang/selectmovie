@@ -1,0 +1,306 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293182/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048150/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1537.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1537.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1537.jpg"
+                    }, 
+                    "id": "1048150", 
+                    "name": "亨利·方达"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041188/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427201867.36.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427201867.36.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427201867.36.jpg"
+                    }, 
+                    "id": "1041188", 
+                    "name": "马丁·鲍尔萨姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007076/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40857.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40857.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40857.jpg"
+                    }, 
+                    "id": "1007076", 
+                    "name": "约翰·菲尔德"
+                }
+            ], 
+            "collect_count": 161192, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010627/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1309.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1309.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1309.jpg"
+                    }, 
+                    "id": "1010627", 
+                    "name": "西德尼·吕美特"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1293182", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2173577632.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2173577632.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
+            }, 
+            "original_title": "12 Angry Men", 
+            "rating": {
+                "average": 9.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "十二怒汉", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293989/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007006/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1368337641.6.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1368337641.6.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1368337641.6.jpg"
+                    }, 
+                    "id": "1007006", 
+                    "name": "杰克·莱蒙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027851/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23654.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23654.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23654.jpg"
+                    }, 
+                    "id": "1027851", 
+                    "name": "乔治·C·斯科特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010654/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25576.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25576.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25576.jpg"
+                    }, 
+                    "id": "1010654", 
+                    "name": "休姆·克罗宁"
+                }
+            ], 
+            "collect_count": 6519, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049822/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32340.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32340.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32340.jpg"
+                    }, 
+                    "id": "1049822", 
+                    "name": "威廉·弗莱德金"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "1293989", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6978651.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6978651.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6978651.jpg"
+            }, 
+            "original_title": "12 Angry Men", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "十二怒汉", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2027899/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1119619/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376402536.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376402536.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376402536.52.jpg"
+                    }, 
+                    "id": "1119619", 
+                    "name": "谢尔盖·马科韦茨基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027946/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43492.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43492.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43492.jpg"
+                    }, 
+                    "id": "1027946", 
+                    "name": "尼基塔·米哈尔科夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1101813/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1406299075.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1406299075.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1406299075.37.jpg"
+                    }, 
+                    "id": "1101813", 
+                    "name": "谢尔盖·加尔马什"
+                }
+            ], 
+            "collect_count": 25420, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027946/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43492.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43492.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43492.jpg"
+                    }, 
+                    "id": "1027946", 
+                    "name": "尼基塔·米哈尔科夫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "2027899", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1296599900.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1296599900.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1296599900.jpg"
+            }, 
+            "original_title": "12", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "12怒汉：大审判", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10583098/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1075738/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/30891.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/30891.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/30891.jpg"
+                    }, 
+                    "id": "1075738", 
+                    "name": "罗伯特·卡明斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032323/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48322.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48322.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48322.jpg"
+                    }, 
+                    "id": "1032323", 
+                    "name": "法兰奇·汤恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007162/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4998.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4998.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4998.jpg"
+                    }, 
+                    "id": "1007162", 
+                    "name": "爱德华·阿诺德"
+                }
+            ], 
+            "collect_count": 338, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018279/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14105.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14105.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14105.jpg"
+                    }, 
+                    "id": "1018279", 
+                    "name": "富兰克林·沙夫纳"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "10583098", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2153875961.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2153875961.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2153875961.jpg"
+            }, 
+            "original_title": "Studio One: Twelve Angry Men", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "十二怒汉", 
+            "year": "1954"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4315647/", 
+            "casts": [], 
+            "collect_count": 105, 
+            "directors": [], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "4315647", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2241971473.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2241971473.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2241971473.jpg"
+            }, 
+            "original_title": "Beyond a Reasonable Doubt: Making '12 Angry Men'", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "超出合理怀疑：十二怒汉的组成", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"十二怒汉\" 的结果", 
+    "total": 5
+}

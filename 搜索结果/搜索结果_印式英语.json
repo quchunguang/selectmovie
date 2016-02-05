@@ -1,0 +1,69 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10876425/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054499/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1352364388.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1352364388.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1352364388.66.jpg"
+                    }, 
+                    "id": "1054499", 
+                    "name": "希里黛玉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322231/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/52686.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/52686.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/52686.jpg"
+                    }, 
+                    "id": "1322231", 
+                    "name": "阿迪勒·侯赛因"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mehdi Nebbou"
+                }
+            ], 
+            "collect_count": 11439, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gauri Shinde"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "10876425", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1829342305.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1829342305.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1829342305.jpg"
+            }, 
+            "original_title": "English Vinglish", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "印式英语", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"印式英语\" 的结果", 
+    "total": 1
+}

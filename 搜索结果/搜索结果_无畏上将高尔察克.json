@@ -1,0 +1,142 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3102174/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1107328/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1352222294.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1352222294.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1352222294.65.jpg"
+                    }, 
+                    "id": "1107328", 
+                    "name": "康斯坦丁·哈宾斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1223418/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33216.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33216.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33216.jpg"
+                    }, 
+                    "id": "1223418", 
+                    "name": "丽扎· 波亚尔斯卡娅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1063266/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26244.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26244.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26244.jpg"
+                    }, 
+                    "id": "1063266", 
+                    "name": "谢尔盖·别兹鲁科夫"
+                }
+            ], 
+            "collect_count": 3578, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1187975/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1187975", 
+                    "name": "安德列·克拉夫丘克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "3102174", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3128427.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3128427.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3128427.jpg"
+            }, 
+            "original_title": "АдмиралЪ", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "无畏上将高尔察克", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5161129/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1107328/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1352222294.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1352222294.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1352222294.65.jpg"
+                    }, 
+                    "id": "1107328", 
+                    "name": "康斯坦丁·哈宾斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1223418/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33216.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33216.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33216.jpg"
+                    }, 
+                    "id": "1223418", 
+                    "name": "丽扎· 波亚尔斯卡娅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1061808/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1368686900.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1368686900.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1368686900.51.jpg"
+                    }, 
+                    "id": "1061808", 
+                    "name": "叶戈尔·别洛耶夫"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andrey Kravchuk"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "爱情"
+            ], 
+            "id": "5161129", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s15932427.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s15932427.jpg", 
+                "small": "https://img1.doubanio.com/spic/s15932427.jpg"
+            }, 
+            "original_title": "Admiral", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "无畏上将高尔察克", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"无畏上将高尔察克\" 的结果", 
+    "total": 2
+}

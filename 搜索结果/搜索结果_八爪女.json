@@ -1,0 +1,145 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1300324/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027840/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9858.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9858.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9858.jpg"
+                    }, 
+                    "id": "1027840", 
+                    "name": "罗杰·摩尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004897/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10049.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10049.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10049.jpg"
+                    }, 
+                    "id": "1004897", 
+                    "name": "莫德·亚当斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019129/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10711.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10711.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10711.jpg"
+                    }, 
+                    "id": "1019129", 
+                    "name": "路易斯·乔丹"
+                }
+            ], 
+            "collect_count": 5244, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045308/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1438156482.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1438156482.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1438156482.08.jpg"
+                    }, 
+                    "id": "1045308", 
+                    "name": "约翰·格兰"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "惊悚"
+            ], 
+            "id": "1300324", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1430733.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1430733.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1430733.jpg"
+            }, 
+            "original_title": "Octopussy", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "007之八爪女", 
+            "year": "1983"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1428455/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048122/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26262.jpg"
+                    }, 
+                    "id": "1048122", 
+                    "name": "娜塔莎·理查德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019063/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11949.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11949.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11949.jpg"
+                    }, 
+                    "id": "1019063", 
+                    "name": "威廉·弗西斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048158/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6204.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6204.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6204.jpg"
+                    }, 
+                    "id": "1048158", 
+                    "name": "弗兰西丝·费舍"
+                }
+            ], 
+            "collect_count": 20, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009525/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12339.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12339.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12339.jpg"
+                    }, 
+                    "id": "1009525", 
+                    "name": "保罗·施拉德"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情"
+            ], 
+            "id": "1428455", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2386613.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2386613.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2386613.jpg"
+            }, 
+            "original_title": "Patty Hearst", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红色八爪女", 
+            "year": "1988"
+        }
+    ], 
+    "title": "搜索 \"八爪女\" 的结果", 
+    "total": 2
+}

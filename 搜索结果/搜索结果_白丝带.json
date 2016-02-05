@@ -1,0 +1,64 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2464346/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christian Friedel"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ernst Jacobi"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Leonie Benesch"
+                }
+            ], 
+            "collect_count": 21884, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040988/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1358542561.12.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1358542561.12.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1358542561.12.jpg"
+                    }, 
+                    "id": "1040988", 
+                    "name": "迈克尔·哈内克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "2464346", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3973189.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3973189.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3973189.jpg"
+            }, 
+            "original_title": "Das weiße Band – Eine deutsche Kindergeschichte", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "白丝带", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"白丝带\" 的结果", 
+    "total": 1
+}

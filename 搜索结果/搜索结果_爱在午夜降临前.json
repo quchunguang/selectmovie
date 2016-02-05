@@ -1,0 +1,559 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10808442/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1262.jpg"
+                    }, 
+                    "id": "1036420", 
+                    "name": "朱莉·德尔佩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1252122/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39376.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39376.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39376.jpg"
+                    }, 
+                    "id": "1252122", 
+                    "name": "肖姆斯·戴维-菲茨帕特里克"
+                }
+            ], 
+            "collect_count": 100817, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025246/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/304.jpg"
+                    }, 
+                    "id": "1025246", 
+                    "name": "理查德·林克莱特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "10808442", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1969040547.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1969040547.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1969040547.jpg"
+            }, 
+            "original_title": "Before Midnight", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在午夜降临前", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296339/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1262.jpg"
+                    }, 
+                    "id": "1036420", 
+                    "name": "朱莉·德尔佩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051117/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376866203.18.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376866203.18.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376866203.18.jpg"
+                    }, 
+                    "id": "1051117", 
+                    "name": "安德莉亚·埃克特"
+                }
+            ], 
+            "collect_count": 219804, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025246/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/304.jpg"
+                    }, 
+                    "id": "1025246", 
+                    "name": "理查德·林克莱特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1296339", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1486234122.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1486234122.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1486234122.jpg"
+            }, 
+            "original_title": "Before Sunrise", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在黎明破晓前", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24883815/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017885/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359877729.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359877729.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359877729.49.jpg"
+                    }, 
+                    "id": "1017885", 
+                    "name": "克里斯·埃文斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004565/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32863.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32863.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32863.jpg"
+                    }, 
+                    "id": "1004565", 
+                    "name": "爱丽丝·伊芙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1350751/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1350751", 
+                    "name": "玛丽亚·布雷曼"
+                }
+            ], 
+            "collect_count": 5983, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017885/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359877729.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359877729.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359877729.49.jpg"
+                    }, 
+                    "id": "1017885", 
+                    "name": "克里斯·埃文斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "24883815", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2258799735.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2258799735.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2258799735.jpg"
+            }, 
+            "original_title": "Before We Go", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "午夜邂逅", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1291990/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1262.jpg"
+                    }, 
+                    "id": "1036420", 
+                    "name": "朱莉·德尔佩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022603/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13395.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13395.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13395.jpg"
+                    }, 
+                    "id": "1022603", 
+                    "name": "弗农·多布切夫"
+                }
+            ], 
+            "collect_count": 207118, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025246/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/304.jpg"
+                    }, 
+                    "id": "1025246", 
+                    "name": "理查德·林克莱特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1291990", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1910924055.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1910924055.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910924055.jpg"
+            }, 
+            "original_title": "Before Sunset", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在日落黄昏时", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7053703/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "宋晓波"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈俞绮"
+                }
+            ], 
+            "collect_count": 27, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "熊皓"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "歌舞"
+            ], 
+            "id": "7053703", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7011557.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7011557.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7011557.jpg"
+            }, 
+            "original_title": "爱在日出前", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在日出前", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26614100/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王余昌"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "惠娟艳"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "盛林"
+                }
+            ], 
+            "genres": [], 
+            "id": "26614100", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "爱在黄昏日落前", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在黄昏日落前", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303273/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054414/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/587.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/587.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/587.jpg"
+                    }, 
+                    "id": "1054414", 
+                    "name": "哈维尔·巴登"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013938/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22179.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22179.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22179.jpg"
+                    }, 
+                    "id": "1013938", 
+                    "name": "奥利维·马丁内兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }
+            ], 
+            "collect_count": 1874, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040777/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1448.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1448.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1448.jpg"
+                    }, 
+                    "id": "1040777", 
+                    "name": "朱利安·施纳贝尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "同性"
+            ], 
+            "id": "1303273", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4183896.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4183896.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4183896.jpg"
+            }, 
+            "original_title": "Before Night Falls", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "当黑夜降临", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305928/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041321/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19640.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19640.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19640.jpg"
+                    }, 
+                    "id": "1041321", 
+                    "name": "斯蒂芬妮·奥德安"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041721/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/59129.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/59129.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/59129.jpg"
+                    }, 
+                    "id": "1041721", 
+                    "name": "米歇尔·布盖"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041805/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28192.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28192.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28192.jpg"
+                    }, 
+                    "id": "1041805", 
+                    "name": "弗兰索斯·皮埃尔"
+                }
+            ], 
+            "collect_count": 68, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054236/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1250.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1250.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1250.jpg"
+                    }, 
+                    "id": "1054236", 
+                    "name": "克劳德·夏布洛尔"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1305928", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1443817.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1443817.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1443817.jpg"
+            }, 
+            "original_title": "Juste avant la nuit", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "夜幕刚降临之前", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308109/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sarah Jessica Parker"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eric Schaeffer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ben Stiller"
+                }
+            ], 
+            "collect_count": 180, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eric Schaeffer"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1308109", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2766082.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2766082.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2766082.jpg"
+            }, 
+            "original_title": "If Lucy Fell", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "爱在布鲁克林桥", 
+            "year": "1996"
+        }
+    ], 
+    "title": "搜索 \"爱在午夜降临前\" 的结果", 
+    "total": 9
+}

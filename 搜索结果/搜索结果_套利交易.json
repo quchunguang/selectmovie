@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6121141/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025176/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6281.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6281.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6281.jpg"
+                    }, 
+                    "id": "1025176", 
+                    "name": "蒂姆·罗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040997/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33013.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33013.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33013.jpg"
+                    }, 
+                    "id": "1040997", 
+                    "name": "理查·基尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054392/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10323.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10323.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10323.jpg"
+                    }, 
+                    "id": "1054392", 
+                    "name": "苏珊·萨兰登"
+                }
+            ], 
+            "collect_count": 7460, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305447/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35206.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35206.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35206.jpg"
+                    }, 
+                    "id": "1305447", 
+                    "name": "安德鲁·杰瑞克奇"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "6121141", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10414502.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10414502.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10414502.jpg"
+            }, 
+            "original_title": "Arbitrage", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "套利交易", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"套利交易\" 的结果", 
+    "total": 1
+}

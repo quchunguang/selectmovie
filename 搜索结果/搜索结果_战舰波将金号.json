@@ -1,0 +1,116 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293492/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006202/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16919.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16919.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16919.jpg"
+                    }, 
+                    "id": "1006202", 
+                    "name": "亚历山大·安东诺夫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vladimir Barsky"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005556/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22864.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22864.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22864.jpg"
+                    }, 
+                    "id": "1005556", 
+                    "name": "格里高利·亚历山德罗夫"
+                }
+            ], 
+            "collect_count": 11594, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004988/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1693.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1693.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1693.jpg"
+                    }, 
+                    "id": "1004988", 
+                    "name": "谢尔盖·爱森斯坦"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "1293492", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2173021177.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2173021177.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2173021177.jpg"
+            }, 
+            "original_title": "Броненосец Потёмкин", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "战舰波将金号", 
+            "year": "1925"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5163129/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004988/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1693.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1693.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1693.jpg"
+                    }, 
+                    "id": "1004988", 
+                    "name": "谢尔盖·爱森斯坦"
+                }
+            ], 
+            "collect_count": 24, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Artem Demenok"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "5163129", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4471342.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4471342.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4471342.jpg"
+            }, 
+            "original_title": "Dem Panzerkreuzer Potemkin auf der Spur", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "跟随战舰波将金号的航行轨迹", 
+            "year": "2007"
+        }
+    ], 
+    "title": "搜索 \"战舰波将金号\" 的结果", 
+    "total": 2
+}

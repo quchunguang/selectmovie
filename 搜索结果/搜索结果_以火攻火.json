@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6875610/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016666/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4166.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4166.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4166.jpg"
+                    }, 
+                    "id": "1016666", 
+                    "name": "乔什·杜哈明"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010509/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/106.jpg"
+                    }, 
+                    "id": "1010509", 
+                    "name": "布鲁斯·威利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044717/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1433831951.79.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1433831951.79.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1433831951.79.jpg"
+                    }, 
+                    "id": "1044717", 
+                    "name": "罗莎里奥·道森"
+                }
+            ], 
+            "collect_count": 5982, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1277966/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1277966", 
+                    "name": "大卫·巴雷特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "6875610", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2213799032.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2213799032.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2213799032.jpg"
+            }, 
+            "original_title": "Fire with Fire", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "火线反攻", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"以火攻火\" 的结果", 
+    "total": 1
+}

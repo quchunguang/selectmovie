@@ -1,0 +1,604 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/7065120/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1327445", 
+                    "name": "Erica Linz"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327449/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1407430249.04.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1407430249.04.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1407430249.04.jpg"
+                    }, 
+                    "id": "1327449", 
+                    "name": "Igor Zaripov"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327450/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1327450", 
+                    "name": "Lutz Halbhubner"
+                }
+            ], 
+            "collect_count": 4436, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036635/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13897.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13897.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13897.jpg"
+                    }, 
+                    "id": "1036635", 
+                    "name": "安德鲁·亚当森"
+                }
+            ], 
+            "genres": [
+                "奇幻"
+            ], 
+            "id": "7065120", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1785646766.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1785646766.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1785646766.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: Worlds Away", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：遥远的世界", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2567944/", 
+            "casts": [], 
+            "collect_count": 6846, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005177/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1118.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1118.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1118.jpg"
+                    }, 
+                    "id": "1005177", 
+                    "name": "新海诚"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "2567944", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2656008.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2656008.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2656008.jpg"
+            }, 
+            "original_title": "遠い世界", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "遥远的世界", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2129433/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Cirque du Soleil"
+                }
+            ], 
+            "collect_count": 240, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Cirque du Soleil"
+                }
+            ], 
+            "genres": [], 
+            "id": "2129433", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2551972.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2551972.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2551972.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: Corteo", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：喜悦之旅", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1771191/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054410/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1453792363.04.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1453792363.04.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1453792363.04.jpg"
+                    }, 
+                    "id": "1054410", 
+                    "name": "伊恩·麦克莱恩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nicky Dewhurst"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brian Dewhurst"
+                }
+            ], 
+            "collect_count": 286, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Keith Melton"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "1771191", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1642394.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1642394.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1642394.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: Journey of Man", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：人生之旅", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308175/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Gilkey"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Franco Dragone"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Lashua"
+                }
+            ], 
+            "collect_count": 198, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "戴维 马利特 (David Mallet)"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "家庭"
+            ], 
+            "id": "1308175", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1633896.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1633896.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1633896.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: Quidam", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：神秘人", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1986434/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1059472/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1059472", 
+                    "name": "Joseph Arias"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alex Castro"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Larry Aberman"
+                }
+            ], 
+            "collect_count": 196, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lewis Cohen"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1986434", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2147959.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2147959.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2147959.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: LoveSick", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：情欲之旅", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1451478/", 
+            "casts": [], 
+            "collect_count": 85, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dominic Champagne / Nick Morris"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1451478", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1463631.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1463631.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1463631.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: Varekai", 
+            "rating": {
+                "average": 9.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：魔幻森林", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1451476/", 
+            "casts": [], 
+            "collect_count": 67, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Guy Caron / David Mallet"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "家庭", 
+                "音乐"
+            ], 
+            "id": "1451476", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1463627.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1463627.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1463627.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: Dralion", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：龙魂", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4919185/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Cirque du Soleil"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jacques Payette"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "家庭"
+            ], 
+            "id": "4919185", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4422549.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4422549.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4422549.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: We Reinvent the Circus", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：我们重塑马戏", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4919184/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean-Philippe Duval"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "家庭", 
+                "奇幻"
+            ], 
+            "id": "4919184", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4422550.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4422550.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4422550.jpg"
+            }, 
+            "original_title": "Cirque du Soleil - Baroque Odyssey", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳马戏团：巴洛克之旅", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26433136/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275478/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13836.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13836.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13836.jpg"
+                    }, 
+                    "id": "1275478", 
+                    "name": "贾一平"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胡可"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曹磊"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "彭军"
+                }
+            ], 
+            "genres": [], 
+            "id": "26433136", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2252479101.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2252479101.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2252479101.jpg"
+            }, 
+            "original_title": "回归爱的世界", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "回归爱的世界", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1304006/", 
+            "casts": [], 
+            "collect_count": 82, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jacques-Yves Cousteau"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1304006", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1448329.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1448329.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1448329.jpg"
+            }, 
+            "original_title": "Le Monde sans soleil", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "漆黑的世界", 
+            "year": "1964"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4919183/", 
+            "casts": [], 
+            "collect_count": 28, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mario Janelle"
+                }
+            ], 
+            "genres": [
+                "音乐"
+            ], 
+            "id": "4919183", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8916337.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8916337.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8916337.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: Kooza", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳剧团：浪迹天涯", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3184011/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Mallet"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "家庭", 
+                "音乐"
+            ], 
+            "id": "3184011", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3227690.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3227690.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3227690.jpg"
+            }, 
+            "original_title": "Cirque du Soleil: Delirium", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "太阳剧团：极度狂热", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"太阳马戏团：遥远的世界\" 的结果", 
+    "total": 14
+}

@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4206167/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327365/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1327365", 
+                    "name": "詹姆斯·罗尔斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327366/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1327366", 
+                    "name": "Te Aho Aho Eketone-Whitu"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1076354/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1423172662.31.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1423172662.31.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1423172662.31.jpg"
+                    }, 
+                    "id": "1076354", 
+                    "name": "塔伊加·维迪提"
+                }
+            ], 
+            "collect_count": 754, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1076354/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1423172662.31.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1423172662.31.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1423172662.31.jpg"
+                    }, 
+                    "id": "1076354", 
+                    "name": "塔伊加·维迪提"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "4206167", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4535532.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4535532.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4535532.jpg"
+            }, 
+            "original_title": "Boy", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "毛利男孩", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"毛利男孩\" 的结果", 
+    "total": 1
+}

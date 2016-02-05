@@ -1,0 +1,264 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292845/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027840/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9858.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9858.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9858.jpg"
+                    }, 
+                    "id": "1027840", 
+                    "name": "罗杰·摩尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053574/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/519.jpg"
+                    }, 
+                    "id": "1053574", 
+                    "name": "克里斯托弗·沃肯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027272/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31116.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31116.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31116.jpg"
+                    }, 
+                    "id": "1027272", 
+                    "name": "坦娅·罗伯茨"
+                }
+            ], 
+            "collect_count": 4654, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045308/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1438156482.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1438156482.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1438156482.08.jpg"
+                    }, 
+                    "id": "1045308", 
+                    "name": "约翰·格兰"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "冒险"
+            ], 
+            "id": "1292845", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1430743.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1430743.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1430743.jpg"
+            }, 
+            "original_title": "A View to a Kill", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "007之雷霆杀机", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26337857/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴毅将 / 邱月清 / 林聪"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26337857", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "雷霆殺手", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "雷霆杀手", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298549/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041066/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/36041.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/36041.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/36041.jpg"
+                    }, 
+                    "id": "1041066", 
+                    "name": "罗伯·劳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "理查德·摩尔 Richard Moll"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019035/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19634.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19634.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19634.jpg"
+                    }, 
+                    "id": "1019035", 
+                    "name": "詹姆斯·贝鲁什"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jack Ersgard"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1298549", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1952375.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1952375.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1952375.jpg"
+            }, 
+            "original_title": "Living in Peril", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "雷霆杀手", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300876/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "雷蒙德 马蒂诺 (Raymond Martino)"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1300876", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "American Born", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "雷霆杀阵", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1316692/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018375/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4688.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4688.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4688.jpg"
+                    }, 
+                    "id": "1018375", 
+                    "name": "萨加莫尔·斯蒂芬南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004777/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7887.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7887.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7887.jpg"
+                    }, 
+                    "id": "1004777", 
+                    "name": "彼德·杨波拉德·希尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025151/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/292.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/292.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/292.jpg"
+                    }, 
+                    "id": "1025151", 
+                    "name": "黛安·克鲁格"
+                }
+            ], 
+            "collect_count": 2851, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Louis-Pascal Couvelaire"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "运动"
+            ], 
+            "id": "1316692", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1802846863.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1802846863.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1802846863.jpg"
+            }, 
+            "original_title": "Michel Vaillant", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "车神", 
+            "year": "2003"
+        }
+    ], 
+    "title": "搜索 \"雷霆杀机\" 的结果", 
+    "total": 5
+}

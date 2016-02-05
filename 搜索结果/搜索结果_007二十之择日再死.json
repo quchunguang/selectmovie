@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1303773/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031219/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50837.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50837.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50837.jpg"
+                    }, 
+                    "id": "1031219", 
+                    "name": "皮尔斯·布鲁斯南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054415/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51174.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51174.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51174.jpg"
+                    }, 
+                    "id": "1054415", 
+                    "name": "哈莉·贝瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044946/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7370.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7370.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7370.jpg"
+                    }, 
+                    "id": "1044946", 
+                    "name": "托比·斯蒂芬斯"
+                }
+            ], 
+            "collect_count": 35611, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018222/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41174.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41174.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41174.jpg"
+                    }, 
+                    "id": "1018222", 
+                    "name": "李·塔玛霍瑞"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "惊悚", 
+                "犯罪"
+            ], 
+            "id": "1303773", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p940105200.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p940105200.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p940105200.jpg"
+            }, 
+            "original_title": "Die Another Day", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "007之择日而亡", 
+            "year": "2002"
+        }
+    ], 
+    "title": "搜索 \"007二十之择日再死\" 的结果", 
+    "total": 1
+}

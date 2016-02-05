@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4020991/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032127/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1429.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1429.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1429.jpg"
+                    }, 
+                    "id": "1032127", 
+                    "name": "马提亚斯·施维赫夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1331220/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5g7TenyTW3Acel_avatar_uploaded1373517023.16.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5g7TenyTW3Acel_avatar_uploaded1373517023.16.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5g7TenyTW3Acel_avatar_uploaded1373517023.16.jpg"
+                    }, 
+                    "id": "1331220", 
+                    "name": "弗莱德里奇·穆克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1060041/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354273341.67.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354273341.67.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354273341.67.jpg"
+                    }, 
+                    "id": "1060041", 
+                    "name": "艾丽卡·巴赫蕾达-库鲁斯"
+                }
+            ], 
+            "collect_count": 3058, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010245/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1010245", 
+                    "name": "Markus Goller"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4020991", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1148966141.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1148966141.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1148966141.jpg"
+            }, 
+            "original_title": "Friendship!", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "共产小子西游记", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"共产小子西游记\" 的结果", 
+    "total": 1
+}

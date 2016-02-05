@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3007809/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018989/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8829.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8829.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8829.jpg"
+                    }, 
+                    "id": "1018989", 
+                    "name": "蕾切尔·薇兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049577/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8925.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8925.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8925.jpg"
+                    }, 
+                    "id": "1049577", 
+                    "name": "麦克思·明格拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012481/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1360746344.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1360746344.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1360746344.59.jpg"
+                    }, 
+                    "id": "1012481", 
+                    "name": "奥斯卡·伊萨克"
+                }
+            ], 
+            "collect_count": 14727, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000176/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1410080389.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1410080389.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1410080389.51.jpg"
+                    }, 
+                    "id": "1000176", 
+                    "name": "亚历杭德罗·阿梅纳瓦尔"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "3007809", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4113447.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4113447.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4113447.jpg"
+            }, 
+            "original_title": "Ágora", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "城市广场", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"城市广场\" 的结果", 
+    "total": 1
+}

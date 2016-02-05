@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293683/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054389/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1720.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1720.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1720.jpg"
+                    }, 
+                    "id": "1054389", 
+                    "name": "莎拉·杰茜卡·帕克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054508/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/651.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/651.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/651.jpg"
+                    }, 
+                    "id": "1054508", 
+                    "name": "比尔·默瑞"
+                }
+            ], 
+            "collect_count": 21877, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019002/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/215.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/215.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/215.jpg"
+                    }, 
+                    "id": "1019002", 
+                    "name": "蒂姆·波顿"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1293683", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1704315869.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1704315869.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1704315869.jpg"
+            }, 
+            "original_title": "Ed Wood", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "艾德·伍德", 
+            "year": "1994"
+        }
+    ], 
+    "title": "搜索 \"艾得伍德\" 的结果", 
+    "total": 1
+}

@@ -1,0 +1,130 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1297050/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/193.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/193.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/193.jpg"
+                    }, 
+                    "id": "1018982", 
+                    "name": "肖恩·康纳利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050347/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1360688968.82.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1360688968.82.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1360688968.82.jpg"
+                    }, 
+                    "id": "1050347", 
+                    "name": "若林映子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041542/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26337.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26337.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26337.jpg"
+                    }, 
+                    "id": "1041542", 
+                    "name": "滨美枝"
+                }
+            ], 
+            "collect_count": 4893, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032473/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22475.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22475.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22475.jpg"
+                    }, 
+                    "id": "1032473", 
+                    "name": "刘易斯·吉尔伯特"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "科幻"
+            ], 
+            "id": "1297050", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3350421.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3350421.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3350421.jpg"
+            }, 
+            "original_title": "You Only Live Twice", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "007之雷霆谷", 
+            "year": "1967"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20469040/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Albert R. Broccoli"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ken Adam"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dana Broccoli"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1281282/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1281282", 
+                    "name": "约翰·科克"
+                }
+            ], 
+            "genres": [], 
+            "id": "20469040", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24520067.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24520067.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24520067.jpg"
+            }, 
+            "original_title": "Inside 'You Only Live Twice'", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "《雷霆谷》幕后纪录片", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"雷霆谷\" 的结果", 
+    "total": 2
+}
