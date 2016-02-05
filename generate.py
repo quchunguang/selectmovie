@@ -3,7 +3,6 @@ import os
 import urllib2
 import json
 import socket
-import time
 
 
 # Pair of your host name and base path.
@@ -79,6 +78,7 @@ def requestJson(url):
     Douban limit 150 access/h without access token and 500 access/h with token.
     '''
     # When the limit is reached, raise exception here
+    print "[INFO] Access", url.encode('utf-8')
     response = urllib2.urlopen(url.encode('utf-8'))
 
     if response.code != 200:
@@ -90,7 +90,16 @@ def requestJson(url):
         return results
 
 
-def genFileList(base_path):
+def genFileList():
+    if socket.gethostname() not in base_path_by_host:
+        print "[WARN] The base path of this host is not found."
+        return
+
+    base_path = base_path_by_host[socket.gethostname()]
+    if base_path == "" or not os.path.exists(base_path):
+        print "[WARN] The target base path not exist."
+        return
+
     exts = [".mkv", ".avi", ".rmvb"]
     filelist = []
 
@@ -103,18 +112,21 @@ def genFileList(base_path):
     writeJson(filelist_file, filelist)
 
 
-def genDelta():
+def genDelta(filelist):
     """
     Generate movie info. Ignore those already in the local library.
     """
     global library
 
-    filelist = readJson(filelist_file)
     for filename in filelist:
         movie_info = genOne(filename)
         if movie_info is not None:
             print "[INFO] New movie:", filename.encode("utf-8")
             library.append(movie_info)
+        else:
+            filelist.remove(filename)
+
+    return filelist
 
 
 def exist(title):
@@ -136,7 +148,7 @@ def genOne(filename):
     # Search movie by title.
     search = requestJson(api_search_base + title)
     if search is None or len(search["subjects"]) == 0:
-        print "[WARN] Can not find this movie,"
+        print "[WARN] Can not find this movie,", title.encode("utf-8")
         return None
     writeJson(ur"搜索结果\搜索结果_" + title + ".json", search)
 
@@ -200,23 +212,19 @@ def genHTML():
 
 
 def main():
-    if socket.gethostname() in base_path_by_host:
-        base_path = base_path_by_host[socket.gethostname()]
-        if base_path != "" and os.path.exists(base_path):
-            genFileList(base_path)
+
+    # genFileList()
 
     global library
     library = readJson(library_file)
+    filelist = readJson(filelist_file)
 
-    while True:
-        try:
-            genDelta()
-            break
-        except Exception:
-            writeJson(library_file, library)
-            print "[WARN] Access limit of Douban reached. Sleep 1 hour ..."
-            time.sleep(3600)
+    try:
+        filelist = genDelta(filelist)
+    except Exception:
+        print "[WARN] Access limit of Douban reached."
 
+    writeJson(filelist_file, filelist)
     writeJson(library_file, library)
     genHTML()
 
