@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3292949/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053567/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40097.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40097.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40097.jpg"
+                    }, 
+                    "id": "1053567", 
+                    "name": "福里斯特·惠特克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004653/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22097.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22097.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22097.jpg"
+                    }, 
+                    "id": "1004653", 
+                    "name": "奥普拉·温弗瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000231/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4773.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4773.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4773.jpg"
+                    }, 
+                    "id": "1000231", 
+                    "name": "大卫·奥伊罗"
+                }
+            ], 
+            "collect_count": 22662, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014037/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4188.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4188.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4188.jpg"
+                    }, 
+                    "id": "1014037", 
+                    "name": "李·丹尼尔斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记"
+            ], 
+            "id": "3292949", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2064208720.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2064208720.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2064208720.jpg"
+            }, 
+            "original_title": "Lee Daniels' The Butler", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "白宫管家", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"白宫管家\" 的结果", 
+    "total": 1
+}

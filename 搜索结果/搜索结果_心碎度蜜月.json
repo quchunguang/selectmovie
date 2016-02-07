@@ -1,0 +1,335 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1994877/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/585.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/585.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/585.jpg"
+                    }, 
+                    "id": "1054412", 
+                    "name": "本·斯蒂勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000015/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2555.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2555.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2555.jpg"
+                    }, 
+                    "id": "1000015", 
+                    "name": "米歇尔·莫纳汉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047990/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1396602706.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1396602706.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1396602706.9.jpg"
+                    }, 
+                    "id": "1047990", 
+                    "name": "伊娃·朗格利亚"
+                }
+            ], 
+            "collect_count": 5616, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018131/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/29611.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/29611.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/29611.jpg"
+                    }, 
+                    "id": "1018131", 
+                    "name": "鲍比·法拉利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036662/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/29610.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/29610.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/29610.jpg"
+                    }, 
+                    "id": "1036662", 
+                    "name": "彼得·法拉利"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1994877", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2677347.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2677347.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2677347.jpg"
+            }, 
+            "original_title": "The Heartbreak Kid", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "心碎度蜜月", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26662346/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高远"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱虹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1289746/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43714.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43714.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43714.jpg"
+                    }, 
+                    "id": "1289746", 
+                    "name": "黎小田"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1335747/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1335747", 
+                    "name": "陈静波"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "26662346", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "八人度蜜月", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "八人度蜜月", 
+            "year": "1963"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3784585/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048197/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4447.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4447.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4447.jpg"
+                    }, 
+                    "id": "1048197", 
+                    "name": "泰隆·鲍华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014031/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7179.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7179.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7179.jpg"
+                    }, 
+                    "id": "1014031", 
+                    "name": "洛丽泰·扬"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Claire Trevor"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Walter Lang"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "3784585", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3827863.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3827863.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3827863.jpg"
+            }, 
+            "original_title": "Second Honeymoon", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "二度蜜月", 
+            "year": "1937"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2132480/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013757/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12956.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12956.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12956.jpg"
+                    }, 
+                    "id": "1013757", 
+                    "name": "布莱德利·库珀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "2132480", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Honeymoon with Harry", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "和哈里共度蜜月", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298363/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "尚 尼古拉斯哥 (Jean Negulesco)"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1298363", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9118414.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9118414.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9118414.jpg"
+            }, 
+            "original_title": "Count Your Blessings", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "两度蜜月", 
+            "year": "1959"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296080/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "洛玛道尼"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "提姆麦瑟森"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002972/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1002972", 
+                    "name": "拉里·皮尔斯"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "喜剧"
+            ], 
+            "id": "1296080", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Second Honeymoon (TV)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "二度蜜月", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"心碎度蜜月\" 的结果", 
+    "total": 6
+}

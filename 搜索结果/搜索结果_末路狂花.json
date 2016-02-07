@@ -1,0 +1,917 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1291992/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006979/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10234.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10234.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10234.jpg"
+                    }, 
+                    "id": "1006979", 
+                    "name": "吉娜·戴维斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054392/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10323.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10323.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10323.jpg"
+                    }, 
+                    "id": "1054392", 
+                    "name": "苏珊·萨兰登"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048131/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28805.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28805.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28805.jpg"
+                    }, 
+                    "id": "1048131", 
+                    "name": "哈威·凯特尔"
+                }
+            ], 
+            "collect_count": 103129, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054416/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/588.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/588.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/588.jpg"
+                    }, 
+                    "id": "1054416", 
+                    "name": "雷德利·斯科特"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1291992", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p794583044.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p794583044.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p794583044.jpg"
+            }, 
+            "original_title": "Thelma & Louise", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂花", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1863699/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002862/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1161.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1161.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1161.jpg"
+                    }, 
+                    "id": "1002862", 
+                    "name": "曾志伟"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005495/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14301.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14301.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14301.jpg"
+                    }, 
+                    "id": "1005495", 
+                    "name": "李赛凤"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037662/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1357290860.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1357290860.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1357290860.44.jpg"
+                    }, 
+                    "id": "1037662", 
+                    "name": "李子雄"
+                }
+            ], 
+            "collect_count": 352, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318758/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1318758", 
+                    "name": "赖建国"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "1863699", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3079192.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3079192.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3079192.jpg"
+            }, 
+            "original_title": "末路狂花", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂花", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4899895/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036641/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31544.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31544.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31544.jpg"
+                    }, 
+                    "id": "1036641", 
+                    "name": "简·伯金"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1078472/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38145.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38145.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38145.jpg"
+                    }, 
+                    "id": "1078472", 
+                    "name": "卡洛琳·塞利耶"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037344/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1394945751.76.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1394945751.76.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1394945751.76.jpg"
+                    }, 
+                    "id": "1037344", 
+                    "name": "卡瑟琳·雅各布"
+                }
+            ], 
+            "collect_count": 63, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Benoît Pétré"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4899895", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4015328.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4015328.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4015328.jpg"
+            }, 
+            "original_title": "Thelma, Louise et Chantal", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "尚塔尔和末路狂花", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303954/", 
+            "casts": [], 
+            "collect_count": 44, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Susan Skoog"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1303954", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2866048.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2866048.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2866048.jpg"
+            }, 
+            "original_title": "Whatever", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "1999末路狂花", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305399/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1182879/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1182879", 
+                    "name": "Everlyn Sampi"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1303209/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1303209", 
+                    "name": "Tianna Sansbury"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009593/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56842.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56842.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56842.jpg"
+                    }, 
+                    "id": "1009593", 
+                    "name": "大卫·古皮利"
+                }
+            ], 
+            "collect_count": 999, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045031/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12095.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12095.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12095.jpg"
+                    }, 
+                    "id": "1045031", 
+                    "name": "菲利普·诺伊斯"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1305399", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p671308654.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p671308654.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p671308654.jpg"
+            }, 
+            "original_title": "Rabbit-Proof Fence", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "漫漫回家路", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1957901/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Phillip Noyce"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Everlyn Sampi"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Thomas"
+                }
+            ], 
+            "collect_count": 72, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Darlene Johnson"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1957901", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1977325.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1977325.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1977325.jpg"
+            }, 
+            "original_title": "Following the Rabbit-Proof Fence", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "防兔篱笆", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5045682/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023681/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26564.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26564.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26564.jpg"
+                    }, 
+                    "id": "1023681", 
+                    "name": "温碧霞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005843/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44656.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44656.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44656.jpg"
+                    }, 
+                    "id": "1005843", 
+                    "name": "张兆辉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274440/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8809.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8809.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8809.jpg"
+                    }, 
+                    "id": "1274440", 
+                    "name": "黎耀祥"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321078/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50087.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50087.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50087.jpg"
+                    }, 
+                    "id": "1321078", 
+                    "name": "邝业生"
+                }
+            ], 
+            "genres": [], 
+            "id": "5045682", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4449338.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4449338.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4449338.jpg"
+            }, 
+            "original_title": "末路狂奔", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂奔", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308472/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025188/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31199.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31199.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31199.jpg"
+                    }, 
+                    "id": "1025188", 
+                    "name": "斯蒂芬·多尔夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022642/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361709226.72.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361709226.72.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361709226.72.jpg"
+                    }, 
+                    "id": "1022642", 
+                    "name": "娜塔莎·亨斯屈奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040727/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31165.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31165.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31165.jpg"
+                    }, 
+                    "id": "1040727", 
+                    "name": "布鲁斯·佩恩"
+                }
+            ], 
+            "collect_count": 1640, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050591/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050591", 
+                    "name": "吉拉尔·皮雷"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1308472", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3792196.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3792196.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3792196.jpg"
+            }, 
+            "original_title": "Riders", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂澜", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295855/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002836/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27863.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27863.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27863.jpg"
+                    }, 
+                    "id": "1002836", 
+                    "name": "金·波德尼亚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045096/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25784.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25784.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25784.jpg"
+                    }, 
+                    "id": "1045096", 
+                    "name": "扎特科·巴瑞克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1080580/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393504945.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393504945.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393504945.34.jpg"
+                    }, 
+                    "id": "1080580", 
+                    "name": "Laura Drasbæk"
+                }
+            ], 
+            "collect_count": 690, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027335/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361889088.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361889088.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361889088.39.jpg"
+                    }, 
+                    "id": "1027335", 
+                    "name": "尼古拉斯·温丁·雷弗恩"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1295855", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3207148.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3207148.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3207148.jpg"
+            }, 
+            "original_title": "Pusher", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂奔", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1812386/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040529/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57893.jpg"
+                    }, 
+                    "id": "1040529", 
+                    "name": "麦斯·米科尔森"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jesper Salomonsen"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001562/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1001562", 
+                    "name": "Leif Sylvester"
+                }
+            ], 
+            "collect_count": 384, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027335/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361889088.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361889088.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361889088.39.jpg"
+                    }, 
+                    "id": "1027335", 
+                    "name": "尼古拉斯·温丁·雷弗恩"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1812386", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2164752812.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2164752812.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2164752812.jpg"
+            }, 
+            "original_title": "Pusher II", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂奔2", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6389479/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031846/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1384362470.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1384362470.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1384362470.66.jpg"
+                    }, 
+                    "id": "1031846", 
+                    "name": "理查德·柯伊尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005000/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7160.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7160.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7160.jpg"
+                    }, 
+                    "id": "1005000", 
+                    "name": "阿格妮丝·迪恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032080/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1378151536.21.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1378151536.21.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1378151536.21.jpg"
+                    }, 
+                    "id": "1032080", 
+                    "name": "布隆森·韦伯"
+                }
+            ], 
+            "collect_count": 339, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luis Prieto"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "惊悚", 
+                "犯罪"
+            ], 
+            "id": "6389479", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s21863706.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s21863706.jpg", 
+                "small": "https://img3.doubanio.com/spic/s21863706.jpg"
+            }, 
+            "original_title": "Pusher", 
+            "rating": {
+                "average": 5.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂奔", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1812388/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045096/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25784.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25784.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25784.jpg"
+                    }, 
+                    "id": "1045096", 
+                    "name": "扎特科·巴瑞克"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marinela Dekic"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ilyas Agac"
+                }
+            ], 
+            "collect_count": 289, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027335/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361889088.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361889088.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361889088.39.jpg"
+                    }, 
+                    "id": "1027335", 
+                    "name": "尼古拉斯·温丁·雷弗恩"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚", 
+                "犯罪"
+            ], 
+            "id": "1812388", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3207151.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3207151.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3207151.jpg"
+            }, 
+            "original_title": "Pusher 3", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂奔3", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1434048/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Julia Hummer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Barbara Auer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richy Müller"
+                }
+            ], 
+            "collect_count": 137, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050431/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40652.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40652.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40652.jpg"
+                    }, 
+                    "id": "1050431", 
+                    "name": "克利斯蒂安·佩措尔德"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1434048", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1448132.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1448132.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1448132.jpg"
+            }, 
+            "original_title": "Die innere Sicherheit", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂奔", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1761080/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1132985/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1132985", 
+                    "name": "Sylvie Moreau"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018610/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1437288521.84.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1437288521.84.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1437288521.84.jpg"
+                    }, 
+                    "id": "1018610", 
+                    "name": "玛莎·格莱农"
+                }
+            ], 
+            "collect_count": 36, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Louise Archambault"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1761080", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1632477.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1632477.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1632477.jpg"
+            }, 
+            "original_title": "Familia", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂妈", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26645993/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chelsey Crisp"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315275/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1315275", 
+                    "name": "Daryl Crittenden"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andi Davis"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "A.K. Hottman"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "短片"
+            ], 
+            "id": "26645993", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2276631278.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2276631278.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2276631278.jpg"
+            }, 
+            "original_title": "Chicken Suit", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "末路狂鸡", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"末路狂花\" 的结果", 
+    "total": 15
+}

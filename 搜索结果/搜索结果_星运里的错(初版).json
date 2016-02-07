@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/22733673/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040526/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42217.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42217.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42217.jpg"
+                    }, 
+                    "id": "1040526", 
+                    "name": "谢琳·伍德蕾"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1335176/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1410576603.62.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1410576603.62.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1410576603.62.jpg"
+                    }, 
+                    "id": "1335176", 
+                    "name": "安塞尔·艾尔高特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010539/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9206.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9206.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9206.jpg"
+                    }, 
+                    "id": "1010539", 
+                    "name": "威廉·达福"
+                }
+            ], 
+            "collect_count": 45909, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1206525/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1387911494.73.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1387911494.73.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1387911494.73.jpg"
+                    }, 
+                    "id": "1206525", 
+                    "name": "约什·布恩"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "22733673", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2197059721.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2197059721.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2197059721.jpg"
+            }, 
+            "original_title": "The Fault in Our Stars", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "星运里的错", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"星运里的错(初版)\" 的结果", 
+    "total": 1
+}

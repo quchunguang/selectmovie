@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10460153/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036354/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4646.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4646.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4646.jpg"
+                    }, 
+                    "id": "1036354", 
+                    "name": "凯瑟琳·温妮克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002664/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/893.jpg"
+                    }, 
+                    "id": "1002664", 
+                    "name": "杰伊·巴鲁切尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031814/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21227.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21227.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21227.jpg"
+                    }, 
+                    "id": "1031814", 
+                    "name": "库尔特·拉塞尔"
+                }
+            ], 
+            "collect_count": 4029, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1334352/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1334352", 
+                    "name": "乔纳森·索博尔"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "10460153", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2125431315.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2125431315.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2125431315.jpg"
+            }, 
+            "original_title": "The Art of the Steal", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "偷盗艺术", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"偷盗艺术\" 的结果", 
+    "total": 1
+}

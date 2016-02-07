@@ -1,0 +1,310 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6021917/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055787/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27973.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27973.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27973.jpg"
+                    }, 
+                    "id": "1055787", 
+                    "name": "克里斯托弗·麦克唐纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004844/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25103.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25103.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25103.jpg"
+                    }, 
+                    "id": "1004844", 
+                    "name": "乔什·斯图沃特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010629/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6523.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6523.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6523.jpg"
+                    }, 
+                    "id": "1010629", 
+                    "name": "李·特格森"
+                }
+            ], 
+            "collect_count": 11893, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314278/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23159.jpg"
+                    }, 
+                    "id": "1314278", 
+                    "name": "马库斯·邓斯坦"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "6021917", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1723185096.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1723185096.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1723185096.jpg"
+            }, 
+            "original_title": "The Collection", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "藏品", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1474920/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036942/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1389320414.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1389320414.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1389320414.9.jpg"
+                    }, 
+                    "id": "1036942", 
+                    "name": "佩吉·阿什克罗福特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032769/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7227.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7227.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7227.jpg"
+                    }, 
+                    "id": "1032769", 
+                    "name": "拉里·派恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055216/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1413706162.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1413706162.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1413706162.39.jpg"
+                    }, 
+                    "id": "1055216", 
+                    "name": "萨伊德·杰弗瑞"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019085/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2050.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2050.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2050.jpg"
+                    }, 
+                    "id": "1019085", 
+                    "name": "詹姆斯·伊沃里"
+                }
+            ], 
+            "genres": [], 
+            "id": "1474920", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1494499.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1494499.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1494499.jpg"
+            }, 
+            "original_title": "Hullabaloo Over Georgie and Bonnie's Pictures", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "藏品世界", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20428956/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "20428956", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24471367.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24471367.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24471367.jpg"
+            }, 
+            "original_title": "BBC Masterpieces of the British Museum", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "大英博物馆的珍藏品 第一季", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2326208/", 
+            "casts": [], 
+            "collect_count": 51, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙立军"
+                }
+            ], 
+            "genres": [], 
+            "id": "2326208", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2781207.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2781207.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2781207.jpg"
+            }, 
+            "original_title": "欢笑满屋", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "欢笑满屋", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1417303/", 
+            "casts": [], 
+            "collect_count": 37, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1020212/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1020212", 
+                    "name": "Ángel de la Cruz"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Manolo Gómez"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "家庭", 
+                "奇幻"
+            ], 
+            "id": "1417303", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2059283.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2059283.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2059283.jpg"
+            }, 
+            "original_title": "El bosque animado", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "老鼠总动员", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1790051/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056219/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35801.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35801.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35801.jpg"
+                    }, 
+                    "id": "1056219", 
+                    "name": "Stefan Pagels Andersen"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041596/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1394942471.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1394942471.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1394942471.93.jpg"
+                    }, 
+                    "id": "1041596", 
+                    "name": "西德斯·巴比特·科努德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014849/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1014849", 
+                    "name": "皮特·弗丁"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019440/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1416467840.96.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1416467840.96.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1416467840.96.jpg"
+                    }, 
+                    "id": "1019440", 
+                    "name": "娜塔莎·雅西"
+                }
+            ], 
+            "genres": [
+                "家庭", 
+                "歌舞", 
+                "剧情"
+            ], 
+            "id": "1790051", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1661513.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1661513.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1661513.jpg"
+            }, 
+            "original_title": "Mirakel", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "淘气天使", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"藏品\" 的结果", 
+    "total": 6
+}

@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3005603/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022000/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13152.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13152.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13152.jpg"
+                    }, 
+                    "id": "1022000", 
+                    "name": "希亚·拉博夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035652/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1770.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1770.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1770.jpg"
+                    }, 
+                    "id": "1035652", 
+                    "name": "埃文·蕾切尔·伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040529/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57893.jpg"
+                    }, 
+                    "id": "1040529", 
+                    "name": "麦斯·米科尔森"
+                }
+            ], 
+            "collect_count": 3699, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1328768/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1328768", 
+                    "name": "弗雷德里克·邦德"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "3005603", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2152168849.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2152168849.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2152168849.jpg"
+            }, 
+            "original_title": "The Necessary Death of Charlie Countryman", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "查理必死", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"查理必死\" 的结果", 
+    "total": 1
+}

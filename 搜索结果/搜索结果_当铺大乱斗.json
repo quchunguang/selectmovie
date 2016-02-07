@@ -1,0 +1,885 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10482421/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1326533/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359526736.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359526736.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359526736.17.jpg"
+                    }, 
+                    "id": "1326533", 
+                    "name": "麦肯兹·戴维斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025139/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/71.jpg"
+                    }, 
+                    "id": "1025139", 
+                    "name": "爱德·维斯特维克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027139/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359461420.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359461420.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359461420.58.jpg"
+                    }, 
+                    "id": "1027139", 
+                    "name": "琼·库萨克"
+                }
+            ], 
+            "collect_count": 618, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1294492/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1390376698.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1390376698.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1390376698.61.jpg"
+                    }, 
+                    "id": "1294492", 
+                    "name": "Robbie Pickering"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "10482421", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2275514959.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2275514959.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2275514959.jpg"
+            }, 
+            "original_title": "Freaks of Nature", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "怪物大乱斗", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5982083/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dave Foley"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Maillet"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Art Hindle"
+                }
+            ], 
+            "collect_count": 98, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jesse T. Cook"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "恐怖"
+            ], 
+            "id": "5982083", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4639694.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4639694.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4639694.jpg"
+            }, 
+            "original_title": "Monster Brawl", 
+            "rating": {
+                "average": 4.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "怪物布劳", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10755598/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031239/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26272.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26272.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26272.jpg"
+                    }, 
+                    "id": "1031239", 
+                    "name": "保罗·沃克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054395/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51597.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51597.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51597.jpg"
+                    }, 
+                    "id": "1054395", 
+                    "name": "伊利亚·伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013802/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2382.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2382.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2382.jpg"
+                    }, 
+                    "id": "1013802", 
+                    "name": "诺曼·瑞杜斯"
+                }
+            ], 
+            "collect_count": 1241, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1046078/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11019.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11019.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11019.jpg"
+                    }, 
+                    "id": "1046078", 
+                    "name": "韦恩·克莱默"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "10755598", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2000489002.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2000489002.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2000489002.jpg"
+            }, 
+            "original_title": "Pawn Shop Chronicles", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "当铺大乱斗", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3151388/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18377.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18377.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18377.jpg"
+                    }, 
+                    "id": "1044982", 
+                    "name": "朱莉娅·沃斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Erin Cummings"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013885/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18300.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18300.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18300.jpg"
+                    }, 
+                    "id": "1013885", 
+                    "name": "阿美莉嘉·奥利沃"
+                }
+            ], 
+            "collect_count": 3575, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rick Jacobson"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "3151388", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3198361.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3198361.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3198361.jpg"
+            }, 
+            "original_title": "Bitch Slap", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "女子大乱斗", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23035067/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006919/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1384038922.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1384038922.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1384038922.44.jpg"
+                    }, 
+                    "id": "1006919", 
+                    "name": "帕特里克·威尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004575/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1366299435.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1366299435.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1366299435.66.jpg"
+                    }, 
+                    "id": "1004575", 
+                    "name": "艾德·赫尔姆斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053621/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/545.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/545.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/545.jpg"
+                    }, 
+                    "id": "1053621", 
+                    "name": "克里斯·派恩"
+                }
+            ], 
+            "collect_count": 1637, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044728/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39457.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39457.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39457.jpg"
+                    }, 
+                    "id": "1044728", 
+                    "name": "乔·卡纳汉"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "惊悚"
+            ], 
+            "id": "23035067", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2202823389.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2202823389.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2202823389.jpg"
+            }, 
+            "original_title": "Stretch", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "追债大乱斗", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1900004/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Adam Carolla"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Abbey McBride"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jack Plotnick"
+                }
+            ], 
+            "collect_count": 174, 
+            "directors": [], 
+            "genres": [
+                "动画", 
+                "喜剧"
+            ], 
+            "id": "1900004", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2658630.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2658630.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2658630.jpg"
+            }, 
+            "original_title": "Drawn Together", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "卡通明星大乱斗 第一季", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4817842/", 
+            "casts": [], 
+            "collect_count": 61, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Greg Franklin"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "动作", 
+                "喜剧"
+            ], 
+            "id": "4817842", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2018293519.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2018293519.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2018293519.jpg"
+            }, 
+            "original_title": "The Drawn Together Movie: The Movie!", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "电影明星大乱斗", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25881894/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044883/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23477.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23477.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23477.jpg"
+                    }, 
+                    "id": "1044883", 
+                    "name": "约翰·塞纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1102414/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1351855982.68.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1351855982.68.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1351855982.68.jpg"
+                    }, 
+                    "id": "1102414", 
+                    "name": "妮可·加西亚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1272439/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1407221462.41.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1407221462.41.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1407221462.41.jpg"
+                    }, 
+                    "id": "1272439", 
+                    "name": "Brianna Garcia"
+                }
+            ], 
+            "collect_count": 59, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1279189/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1279189", 
+                    "name": "Spike Brandt"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280366/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1280366", 
+                    "name": "Tony Cervone"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "25881894", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2229878207.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2229878207.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2229878207.jpg"
+            }, 
+            "original_title": "The Flintstones & WWE: Stone Age Smackdown", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "摩登原始人：石器时代大乱斗", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5186718/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christian Potenza"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clé Bennett"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1291486/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1291486", 
+                    "name": "Scott McCord"
+                }
+            ], 
+            "collect_count": 13, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "动画", 
+                "真人秀"
+            ], 
+            "id": "5186718", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2277108250.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2277108250.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2277108250.jpg"
+            }, 
+            "original_title": "Total Drama Island", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "孤岛生存大乱斗", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11584203/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Alaux"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "11584203", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11168211.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11168211.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11168211.jpg"
+            }, 
+            "original_title": "The Jungle Bunch", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "丛林大乱斗", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26373099/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "정미숙"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "정현경"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "김선혜"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "김용찬"
+                }
+            ], 
+            "genres": [], 
+            "id": "26373099", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2239899968.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2239899968.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2239899968.jpg"
+            }, 
+            "original_title": "다오배찌 붐힐대소동", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "皮蛋宝宝全城大乱斗", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26649419/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1130094/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1130094", 
+                    "name": "Christian Potenza"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clé Bennett"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023288/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1023288", 
+                    "name": "德鲁·尼尔森"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "真人秀"
+            ], 
+            "id": "26649419", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2277225518.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2277225518.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2277225518.jpg"
+            }, 
+            "original_title": "Total Drama Action", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "片厂生存大乱斗", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26649425/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1130094/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1130094", 
+                    "name": "Christian Potenza"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clé Bennett"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275022/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17822.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17822.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17822.jpg"
+                    }, 
+                    "id": "1275022", 
+                    "name": "马克·格拉齐尼"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "真人秀"
+            ], 
+            "id": "26649425", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2277227720.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2277227720.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2277227720.jpg"
+            }, 
+            "original_title": "Total Drama World Tour", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "环球生存大乱斗", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26649428/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1130094/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1130094", 
+                    "name": "Christian Potenza"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clé Bennett"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1083859/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1083859", 
+                    "name": "Kevin Duhaney"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "真人秀"
+            ], 
+            "id": "26649428", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2277229055.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2277229055.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2277229055.jpg"
+            }, 
+            "original_title": "Total Drama: Revenge of the Island", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "孤岛生存大乱斗之生化危机", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26649433/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1130094/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1130094", 
+                    "name": "Christian Potenza"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clé Bennett"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stephanie Anne Mills"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "真人秀"
+            ], 
+            "id": "26649433", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2277230449.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2277230449.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2277230449.jpg"
+            }, 
+            "original_title": "Total Drama All-Stars", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "全明星生存大乱斗", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10535476/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321423/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50630.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50630.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50630.jpg"
+                    }, 
+                    "id": "1321423", 
+                    "name": "大久保瑠美"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "恒松步"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1210871/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19632.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19632.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19632.jpg"
+                    }, 
+                    "id": "1210871", 
+                    "name": "今井麻美"
+                }
+            ], 
+            "collect_count": 186, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "後藤圭二"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "10535476", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8927774.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8927774.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8927774.jpg"
+            }, 
+            "original_title": "戦国コレクション", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "战国Collection", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"当铺大乱斗\" 的结果", 
+    "total": 16
+}

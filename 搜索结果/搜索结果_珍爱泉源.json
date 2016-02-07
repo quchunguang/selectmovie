@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1438337/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010508/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22036.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22036.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22036.jpg"
+                    }, 
+                    "id": "1010508", 
+                    "name": "休·杰克曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018989/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8829.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8829.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8829.jpg"
+                    }, 
+                    "id": "1018989", 
+                    "name": "蕾切尔·薇兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018247/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46842.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46842.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46842.jpg"
+                    }, 
+                    "id": "1018247", 
+                    "name": "肖恩·格莱特"
+                }
+            ], 
+            "collect_count": 9654, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041000/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28374.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28374.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28374.jpg"
+                    }, 
+                    "id": "1041000", 
+                    "name": "达伦·阿伦诺夫斯基"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "科幻"
+            ], 
+            "id": "1438337", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p783923702.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p783923702.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p783923702.jpg"
+            }, 
+            "original_title": "The Fountain", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "珍爱泉源", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"珍爱泉源\" 的结果", 
+    "total": 1
+}

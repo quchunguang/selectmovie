@@ -1,0 +1,1113 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3024838/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049997/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48701.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48701.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48701.jpg"
+                    }, 
+                    "id": "1049997", 
+                    "name": "阿米·汉莫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016680/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19519.jpg"
+                    }, 
+                    "id": "1016680", 
+                    "name": "海伦娜·伯翰·卡特"
+                }
+            ], 
+            "collect_count": 58189, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031987/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4299.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4299.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4299.jpg"
+                    }, 
+                    "id": "1031987", 
+                    "name": "戈尔·维宾斯基"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "西部", 
+                "冒险"
+            ], 
+            "id": "3024838", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2121685760.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2121685760.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2121685760.jpg"
+            }, 
+            "original_title": "The Lone Ranger", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "独行侠", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1401118/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036385/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11376.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11376.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11376.jpg"
+                    }, 
+                    "id": "1036385", 
+                    "name": "埃里·瓦拉赫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013853/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10014.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10014.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10014.jpg"
+                    }, 
+                    "id": "1013853", 
+                    "name": "李·范·克里夫"
+                }
+            ], 
+            "collect_count": 46099, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013894/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/137.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/137.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/137.jpg"
+                    }, 
+                    "id": "1013894", 
+                    "name": "赛尔乔·莱翁内"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "西部"
+            ], 
+            "id": "1401118", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2101693489.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2101693489.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2101693489.jpg"
+            }, 
+            "original_title": "Il buono, il brutto, il cattivo.", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "黄金三镖客", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25731554/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000248/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5681.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5681.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5681.jpg"
+                    }, 
+                    "id": "1000248", 
+                    "name": "本·门德尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000010/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32214.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32214.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32214.jpg"
+                    }, 
+                    "id": "1000010", 
+                    "name": "迈克尔·法斯宾德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1124875/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1398135895.87.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1398135895.87.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1398135895.87.jpg"
+                    }, 
+                    "id": "1124875", 
+                    "name": "罗伊·麦克凯恩"
+                }
+            ], 
+            "collect_count": 7749, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1338002/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1429366380.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1429366380.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1429366380.48.jpg"
+                    }, 
+                    "id": "1338002", 
+                    "name": "约翰·麦卡伦"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "西部"
+            ], 
+            "id": "25731554", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2231094082.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2231094082.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2231094082.jpg"
+            }, 
+            "original_title": "Slow West", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "西部慢调", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295744/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031884/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5923.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5923.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5923.jpg"
+                    }, 
+                    "id": "1031884", 
+                    "name": "查克·诺瑞斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036373/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3306.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3306.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3306.jpg"
+                    }, 
+                    "id": "1036373", 
+                    "name": "大卫·卡拉丁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014100/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365320031.7.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365320031.7.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365320031.7.jpg"
+                    }, 
+                    "id": "1014100", 
+                    "name": "芭芭拉·卡勒拉"
+                }
+            ], 
+            "collect_count": 101, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001058/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1001058", 
+                    "name": "史蒂夫·卡佛"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情"
+            ], 
+            "id": "1295744", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1632336629.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1632336629.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1632336629.jpg"
+            }, 
+            "original_title": "Lone Wolf McQuade", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "独行侠野狼", 
+            "year": "1983"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295599/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049981/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1049981", 
+                    "name": "克雷顿·摩尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019178/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1019178", 
+                    "name": "杰伊·丝沃黑尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1150201/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1150201", 
+                    "name": "Glenn Strange"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [], 
+            "genres": [
+                "西部"
+            ], 
+            "id": "1295599", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3102413.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3102413.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3102413.jpg"
+            }, 
+            "original_title": "The Legend of the Lone Ranger", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "独行侠", 
+            "year": "1952"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4001816/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Marsters"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sanny Van Heteren"
+                }
+            ], 
+            "collect_count": 33, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kristoffer Tabori"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "西部"
+            ], 
+            "id": "4001816", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4230274.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4230274.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4230274.jpg"
+            }, 
+            "original_title": "High Plains Invader", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "独行侠红屋歼外星霸", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5057431/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [], 
+            "genres": [
+                "西部"
+            ], 
+            "id": "5057431", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s23115709.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s23115709.jpg", 
+                "small": "https://img1.doubanio.com/spic/s23115709.jpg"
+            }, 
+            "original_title": "Hondo", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "独行侠荡寇誌", 
+            "year": "1967"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295586/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013853/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10014.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10014.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10014.jpg"
+                    }, 
+                    "id": "1013853", 
+                    "name": "李·范·克里夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000353/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17258.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17258.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17258.jpg"
+                    }, 
+                    "id": "1000353", 
+                    "name": "吉昂·马利亚·沃隆特"
+                }
+            ], 
+            "collect_count": 14060, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013894/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/137.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/137.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/137.jpg"
+                    }, 
+                    "id": "1013894", 
+                    "name": "赛尔乔·莱翁内"
+                }
+            ], 
+            "genres": [
+                "西部"
+            ], 
+            "id": "1295586", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1794127818.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1794127818.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1794127818.jpg"
+            }, 
+            "original_title": "Per qualche dollaro in più", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "黄昏双镖客", 
+            "year": "1965"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305003/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carlos Gallardo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Marquardt"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Consuelo Gómez"
+                }
+            ], 
+            "collect_count": 8348, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019016/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/217.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/217.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/217.jpg"
+                    }, 
+                    "id": "1019016", 
+                    "name": "罗伯特·罗德里格兹"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1305003", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1179472084.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1179472084.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1179472084.jpg"
+            }, 
+            "original_title": "El Mariachi", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "杀手悲歌", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2134908/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041249/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393767507.72.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393767507.72.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393767507.72.jpg"
+                    }, 
+                    "id": "1041249", 
+                    "name": "安东尼·弗兰西欧萨"
+                }
+            ], 
+            "collect_count": 819, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Goldstone"
+                }
+            ], 
+            "genres": [
+                "西部"
+            ], 
+            "id": "2134908", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2560134.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2560134.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2560134.jpg"
+            }, 
+            "original_title": "A Man Called Gannon", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "A Man Called Gannon", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294263/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1063239/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1063239", 
+                    "name": "弗娜·布鲁姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1099345/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1386685088.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1386685088.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1386685088.94.jpg"
+                    }, 
+                    "id": "1099345", 
+                    "name": "玛丽亚娜·希尔"
+                }
+            ], 
+            "collect_count": 381, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "西部"
+            ], 
+            "id": "1294263", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3557707.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3557707.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3557707.jpg"
+            }, 
+            "original_title": "High Plains Drifter", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "荒野浪子", 
+            "year": "1973"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308737/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048130/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25449.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25449.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25449.jpg"
+                    }, 
+                    "id": "1048130", 
+                    "name": "雪莉·麦克雷恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1088333/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1088333", 
+                    "name": "Manuel Fábregas"
+                }
+            ], 
+            "collect_count": 382, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041248/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8101.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8101.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8101.jpg"
+                    }, 
+                    "id": "1041248", 
+                    "name": "唐·希格尔"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "喜剧"
+            ], 
+            "id": "1308737", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2829170.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2829170.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2829170.jpg"
+            }, 
+            "original_title": "Two Mules for Sister Sara", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "烈女镖客", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300406/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027388/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1357973429.63.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1357973429.63.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1357973429.63.jpg"
+                    }, 
+                    "id": "1027388", 
+                    "name": "英格儿·斯蒂文斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002787/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12805.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12805.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12805.jpg"
+                    }, 
+                    "id": "1002787", 
+                    "name": "埃德·贝格利"
+                }
+            ], 
+            "collect_count": 194, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002882/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1377088471.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1377088471.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1377088471.49.jpg"
+                    }, 
+                    "id": "1002882", 
+                    "name": "泰德·珀斯特"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "西部"
+            ], 
+            "id": "1300406", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1478142.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1478142.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1478142.jpg"
+            }, 
+            "original_title": "Hang 'Em High", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "吊人索", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295702/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040751/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10334.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10334.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10334.jpg"
+                    }, 
+                    "id": "1040751", 
+                    "name": "杰拉丹·佩姬"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elizabeth Hartman"
+                }
+            ], 
+            "collect_count": 94, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041248/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8101.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8101.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8101.jpg"
+                    }, 
+                    "id": "1041248", 
+                    "name": "唐·希格尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "1295702", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2369428.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2369428.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2369428.jpg"
+            }, 
+            "original_title": "The Beguiled", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "受骗", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294351/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Klinton Spilsbury"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Horse"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christopher Lloyd"
+                }
+            ], 
+            "collect_count": 122, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397387611.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397387611.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397387611.52.jpg"
+                    }, 
+                    "id": "1027982", 
+                    "name": "威廉·弗兰克"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "西部"
+            ], 
+            "id": "1294351", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4259204.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4259204.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4259204.jpg"
+            }, 
+            "original_title": "The Legend of the Lone Ranger", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "游侠传奇", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5057820/", 
+            "casts": [], 
+            "collect_count": 87, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "动画", 
+                "短片"
+            ], 
+            "id": "5057820", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11098746.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11098746.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11098746.jpg"
+            }, 
+            "original_title": "The Lone Ranger", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "孤胆奇侠", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5921946/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mathieu Weschler"
+                }
+            ], 
+            "collect_count": 27, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mathieu Weschler"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "5921946", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4676524.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4676524.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4676524.jpg"
+            }, 
+            "original_title": "Grand Theft Auto IV : The Trashmaster", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "垃圾大王", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3621745/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean-Paul Belmondo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Omar Sharif"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Hossein"
+                }
+            ], 
+            "collect_count": 16, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Henri Verneuil"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "惊悚", 
+                "动作"
+            ], 
+            "id": "3621745", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3682126.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3682126.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3682126.jpg"
+            }, 
+            "original_title": "Le casse", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大飞贼", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3002945/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Craig Hill"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lea Massari"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "José Manuel Martín"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paolo Bianchini"
+                }
+            ], 
+            "genres": [
+                "西部"
+            ], 
+            "id": "3002945", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2958018.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2958018.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2958018.jpg"
+            }, 
+            "original_title": "Lo voglio morto", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Lo voglio morto", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5053542/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tony Anthony"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ferdinando Baldi"
+                }
+            ], 
+            "genres": [
+                "西部", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "5053542", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2181983919.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2181983919.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2181983919.jpg"
+            }, 
+            "original_title": "Get Mean", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Get Mean", 
+            "year": "1976"
+        }
+    ], 
+    "title": "搜索 \"独行侠\" 的结果", 
+    "total": 23
+}

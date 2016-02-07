@@ -1,0 +1,497 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/7052437/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019001/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6610.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6610.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6610.jpg"
+                    }, 
+                    "id": "1019001", 
+                    "name": "詹姆斯·弗兰科"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047993/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366096144.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366096144.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366096144.58.jpg"
+                    }, 
+                    "id": "1047993", 
+                    "name": "赛琳娜·戈麦斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025150/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/291.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/291.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/291.jpg"
+                    }, 
+                    "id": "1025150", 
+                    "name": "凡妮莎·哈金斯"
+                }
+            ], 
+            "collect_count": 11803, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013996/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17749.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17749.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17749.jpg"
+                    }, 
+                    "id": "1013996", 
+                    "name": "哈莫尼·科林"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "7052437", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1920674860.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1920674860.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1920674860.jpg"
+            }, 
+            "original_title": "Spring Breakers", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "春假", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3011064/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049515/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48859.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48859.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48859.jpg"
+                    }, 
+                    "id": "1049515", 
+                    "name": "艾米·波勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040522/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4196.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4196.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4196.jpg"
+                    }, 
+                    "id": "1040522", 
+                    "name": "帕克·波西"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032014/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48857.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48857.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48857.jpg"
+                    }, 
+                    "id": "1032014", 
+                    "name": "瑞秋·德拉彻"
+                }
+            ], 
+            "collect_count": 1167, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ryan Shiraki"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3011064", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3668508.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3668508.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3668508.jpg"
+            }, 
+            "original_title": "Spring Breakdown", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "春假一团糟", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11501401/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rachel Alig"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Virginia Petrucci"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1267758/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1267758", 
+                    "name": "Samantha Stewart"
+                }
+            ], 
+            "collect_count": 166, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jared Cohn"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "11501401", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s11089148.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s11089148.jpg", 
+                "small": "https://img1.doubanio.com/spic/s11089148.jpg"
+            }, 
+            "original_title": "Bikini Spring Break", 
+            "rating": {
+                "average": 3.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "比基尼激情春假", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5211853/", 
+            "casts": [], 
+            "collect_count": 28, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Hoffman Jr."
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "5211853", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s5333202.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s5333202.jpg", 
+                "small": "https://img1.doubanio.com/spic/s5333202.jpg"
+            }, 
+            "original_title": "Spring Break Massacre", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "春假大屠杀", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25856335/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322296/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1448800704.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1448800704.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1448800704.66.jpg"
+                    }, 
+                    "id": "1322296", 
+                    "name": "志尊淳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "平牧仁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "梨里杏"
+                }
+            ], 
+            "collect_count": 43, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315108/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1315108", 
+                    "name": "中泽祥次郎"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "25856335", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2218865105.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2218865105.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2218865105.jpg"
+            }, 
+            "original_title": "烈車戦隊トッキュウジャーVS仮面ライダー鎧武 春休み合体スペシャル", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "烈车战队特急者VS假面骑士铠武 春假合体特别篇", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3812336/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sean Patrick Flanery"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elizabeth Hurley"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vanessa Redgrave"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carl Schultz"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ellery Ryan"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "家庭"
+            ], 
+            "id": "3812336", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3854187.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3854187.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3854187.jpg"
+            }, 
+            "original_title": "The Young Indiana Jones Chronicles:Spring Break Adventure", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "春假历险", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26357790/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1343724/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1435943686.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1435943686.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1435943686.59.jpg"
+                    }, 
+                    "id": "1343724", 
+                    "name": "竹内涼真"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "西川俊介"
+                }
+            ], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315108/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1315108", 
+                    "name": "中泽祥次郎"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "26357790", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2267266403.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2267266403.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2267266403.jpg"
+            }, 
+            "original_title": "手裏剣戦隊ニンニンジャーVS仮面ライダードライブ 春休み合体1時間スペシャル", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "手里剑战队忍忍者VS假面骑士Drive 春假合体1小时特别篇", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6971108/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1272708/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/36191.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/36191.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/36191.jpg"
+                    }, 
+                    "id": "1272708", 
+                    "name": "Sharon Hinnendael"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1233968/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1381046885.7.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1381046885.7.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1381046885.7.jpg"
+                    }, 
+                    "id": "1233968", 
+                    "name": "Nicole Zeoli"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1226971/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1226971", 
+                    "name": "Christina Corigliano"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jim Valdez"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "6971108", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2071705300.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2071705300.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2071705300.jpg"
+            }, 
+            "original_title": "Machine Head", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "春假杀手", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298938/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028324/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359906954.89.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359906954.89.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359906954.89.jpg"
+                    }, 
+                    "id": "1028324", 
+                    "name": "海·艾弗巴克"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1298938", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Where the Boys Are '84", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "新欢乐春假", 
+            "year": "1984"
+        }
+    ], 
+    "title": "搜索 \"春假\" 的结果", 
+    "total": 9
+}

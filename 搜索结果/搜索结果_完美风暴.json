@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293815/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054433/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/552.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/552.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/552.jpg"
+                    }, 
+                    "id": "1054433", 
+                    "name": "乔治·克鲁尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1407766093.88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1407766093.88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1407766093.88.jpg"
+                    }, 
+                    "id": "1035674", 
+                    "name": "马克·沃尔伯格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053615/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6635.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6635.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6635.jpg"
+                    }, 
+                    "id": "1053615", 
+                    "name": "戴安·琳恩"
+                }
+            ], 
+            "collect_count": 21715, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032021/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40391.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40391.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40391.jpg"
+                    }, 
+                    "id": "1032021", 
+                    "name": "沃尔夫冈·彼德森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "灾难"
+            ], 
+            "id": "1293815", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2164583922.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2164583922.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2164583922.jpg"
+            }, 
+            "original_title": "The Perfect Storm", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "完美风暴", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"完美风暴\" 的结果", 
+    "total": 1
+}

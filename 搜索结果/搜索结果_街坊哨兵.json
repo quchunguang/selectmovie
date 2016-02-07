@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3230023/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036302/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38420.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38420.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38420.jpg"
+                    }, 
+                    "id": "1036302", 
+                    "name": "乔纳·希尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/585.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/585.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/585.jpg"
+                    }, 
+                    "id": "1054412", 
+                    "name": "本·斯蒂勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002673/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6056.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6056.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6056.jpg"
+                    }, 
+                    "id": "1002673", 
+                    "name": "文斯·沃恩"
+                }
+            ], 
+            "collect_count": 6674, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036652/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7978.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7978.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7978.jpg"
+                    }, 
+                    "id": "1036652", 
+                    "name": "阿吉瓦·沙弗尔"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "科幻"
+            ], 
+            "id": "3230023", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9047528.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9047528.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9047528.jpg"
+            }, 
+            "original_title": "The Watch", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "新邻里联防", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"街坊哨兵\" 的结果", 
+    "total": 1
+}

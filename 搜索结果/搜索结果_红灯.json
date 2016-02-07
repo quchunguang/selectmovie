@@ -1,0 +1,1140 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6060652/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047992/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1440.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1440.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1440.jpg"
+                    }, 
+                    "id": "1047992", 
+                    "name": "基里安·墨菲"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053569/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/513.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/513.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/513.jpg"
+                    }, 
+                    "id": "1053569", 
+                    "name": "西格妮·韦弗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }
+            ], 
+            "collect_count": 5044, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275549/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14080.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14080.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14080.jpg"
+                    }, 
+                    "id": "1275549", 
+                    "name": "罗德里格·科特兹"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "6060652", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7059040.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7059040.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7059040.jpg"
+            }, 
+            "original_title": "Red Lights", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293323/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035641/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1399268395.47.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1399268395.47.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1399268395.47.jpg"
+                    }, 
+                    "id": "1035641", 
+                    "name": "巩俐"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313092/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15022.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15022.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15022.jpg"
+                    }, 
+                    "id": "1313092", 
+                    "name": "马精武"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001393/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48297.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48297.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48297.jpg"
+                    }, 
+                    "id": "1001393", 
+                    "name": "何赛飞"
+                }
+            ], 
+            "collect_count": 101557, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054398/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/568.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/568.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/568.jpg"
+                    }, 
+                    "id": "1054398", 
+                    "name": "张艺谋"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1293323", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1254404823.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1254404823.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1254404823.jpg"
+            }, 
+            "original_title": "大红灯笼高高挂", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大红灯笼高高挂", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5279977/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317379/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39658.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39658.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39658.jpg"
+                    }, 
+                    "id": "1317379", 
+                    "name": "赵骏"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313690/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1400688549.15.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1400688549.15.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1400688549.15.jpg"
+                    }, 
+                    "id": "1313690", 
+                    "name": "王蓝淇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317378/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39655.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39655.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39655.jpg"
+                    }, 
+                    "id": "1317378", 
+                    "name": "蒋熹多"
+                }
+            ], 
+            "collect_count": 3724, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1307672/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39653.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39653.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39653.jpg"
+                    }, 
+                    "id": "1307672", 
+                    "name": "司马优"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "5279977", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4709653.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4709653.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4709653.jpg"
+            }, 
+            "original_title": "红灯梦", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯梦", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298467/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049461/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4179.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4179.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4179.jpg"
+                    }, 
+                    "id": "1049461", 
+                    "name": "牛振华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038974/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1370274484.63.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1370274484.63.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1370274484.63.jpg"
+                    }, 
+                    "id": "1038974", 
+                    "name": "丁嘉丽"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王刚"
+                }
+            ], 
+            "collect_count": 529, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019896/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33141.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33141.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33141.jpg"
+                    }, 
+                    "id": "1019896", 
+                    "name": "黄建新"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1301414/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19811.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19811.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19811.jpg"
+                    }, 
+                    "id": "1301414", 
+                    "name": "杨亚洲"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1298467", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4699670.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4699670.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4699670.jpg"
+            }, 
+            "original_title": "红灯停，绿灯行", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯停，绿灯行", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2340860/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘长瑜"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "钱浩梁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高玉倩"
+                }
+            ], 
+            "collect_count": 692, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280602/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1355306128.75.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1355306128.75.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1355306128.75.jpg"
+                    }, 
+                    "id": "1280602", 
+                    "name": "成荫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "戏曲"
+            ], 
+            "id": "2340860", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2800188.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2800188.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2800188.jpg"
+            }, 
+            "original_title": "红灯记", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯记", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3730561/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017129/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/53191.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/53191.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/53191.jpg"
+                    }, 
+                    "id": "1017129", 
+                    "name": "陈宝珠"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1140701/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3247.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3247.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3247.jpg"
+                    }, 
+                    "id": "1140701", 
+                    "name": "石坚"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘家良"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王风"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "3730561", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3781575.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3781575.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3781575.jpg"
+            }, 
+            "original_title": "血影红灯", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "血影红灯", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4271965/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "何政军"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴京安"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王力可"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张今标"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "4271965", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4164277.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4164277.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4164277.jpg"
+            }, 
+            "original_title": "红灯记", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "红灯记", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3040809/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵雷"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "钟情"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗马"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "何梦华"
+                }
+            ], 
+            "genres": [], 
+            "id": "3040809", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3030567.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3030567.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3030567.jpg"
+            }, 
+            "original_title": "借紅燈", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "借红灯", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24297396/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "殷承宗"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "钱浩梁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘长瑜"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [], 
+            "genres": [
+                "纪录片", 
+                "短片", 
+                "音乐"
+            ], 
+            "id": "24297396", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1945226804.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1945226804.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1945226804.jpg"
+            }, 
+            "original_title": "钢琴伴唱《红灯记》", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "钢琴伴唱《红灯记》", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26344987/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "阿布力木提·萨迪克艾坦木·玉赛因"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "阿依西阿木·克里木帕坦木·热依丁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吐尔尼莎·萨拉依丁"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "新疆歌剧团"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争", 
+                "歌舞"
+            ], 
+            "id": "26344987", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2233016645.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2233016645.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2233016645.jpg"
+            }, 
+            "original_title": "红灯记", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯记", 
+            "year": "1975"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26636405/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1151459/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23812.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23812.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23812.jpg"
+                    }, 
+                    "id": "1151459", 
+                    "name": "邓光荣"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fong-Ling Wan"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fung Ko"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327317/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1420285782.45.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1420285782.45.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1420285782.45.jpg"
+                    }, 
+                    "id": "1327317", 
+                    "name": "罗马"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26636405", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "紅燈綠燈", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯绿灯", 
+            "year": "1969"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26663603/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336904/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1451195637.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1451195637.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1451195637.94.jpg"
+                    }, 
+                    "id": "1336904", 
+                    "name": "丁亮"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王小燕"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "江涛"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黃雄"
+                }
+            ], 
+            "genres": [
+                "音乐"
+            ], 
+            "id": "26663603", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "红灯记", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯记", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3524448/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "鎌苅健太"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "河合龍之介"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "宮野真守"
+                }
+            ], 
+            "collect_count": 97, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "城定秀夫"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3524448", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2199202224.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2199202224.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2199202224.jpg"
+            }, 
+            "original_title": "新宿区歌舞伎町保育園", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯区里的幼儿园", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5162296/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "5162296", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2212705976.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2212705976.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2212705976.jpg"
+            }, 
+            "original_title": "Redlight", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26290795/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vanna Hem"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "26290795", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2219140379.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2219140379.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2219140379.jpg"
+            }, 
+            "original_title": "Life Under the Red Light", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯下的生活", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5121212/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044742/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1399907521.91.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1399907521.91.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1399907521.91.jpg"
+                    }, 
+                    "id": "1044742", 
+                    "name": "申星一"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1334858/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1373366195.87.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1373366195.87.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1373366195.87.jpg"
+                    }, 
+                    "id": "1334858", 
+                    "name": "高银儿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1177183/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369536992.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369536992.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369536992.44.jpg"
+                    }, 
+                    "id": "1177183", 
+                    "name": "许长江"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321325/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1356855051.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1356855051.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1356855051.51.jpg"
+                    }, 
+                    "id": "1321325", 
+                    "name": "李亨杓 "
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "5121212", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "청등홍등", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "青灯红灯", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26427445/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019001/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6610.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6610.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6610.jpg"
+                    }, 
+                    "id": "1019001", 
+                    "name": "詹姆斯·弗兰科"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5110.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5110.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5110.jpg"
+                    }, 
+                    "id": "1049489", 
+                    "name": "汤姆·哈迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027775/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13803.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13803.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13803.jpg"
+                    }, 
+                    "id": "1027775", 
+                    "name": "玛吉·吉伦哈尔"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321831/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1391654882.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1391654882.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1391654882.65.jpg"
+                    }, 
+                    "id": "1321831", 
+                    "name": "米歇尔·麦克拉伦"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "26427445", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2261222833.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2261222833.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2261222833.jpg"
+            }, 
+            "original_title": "The Deuce", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "堕落街传奇", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1417052/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037192/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15244.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15244.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15244.jpg"
+                    }, 
+                    "id": "1037192", 
+                    "name": "让-皮埃尔·达鲁山"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025305/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10949.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10949.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10949.jpg"
+                    }, 
+                    "id": "1025305", 
+                    "name": "卡洛尔·布盖"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vincent Deniard"
+                }
+            ], 
+            "collect_count": 82, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018714/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42413.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42413.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42413.jpg"
+                    }, 
+                    "id": "1018714", 
+                    "name": "塞德里克·康"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "1417052", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4352392.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4352392.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4352392.jpg"
+            }, 
+            "original_title": "Feux rouges", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "红光", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1419136/", 
+            "casts": [], 
+            "collect_count": 7345, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1307197/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1307197", 
+                    "name": "泽娜·布里斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1307215/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1307215", 
+                    "name": "罗斯·考夫曼"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1419136", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p771502534.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p771502534.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p771502534.jpg"
+            }, 
+            "original_title": "Born Into Brothels: Calcutta's Red Light Kids", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "小小摄影师的异想世界", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4859386/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048296/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2339.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2339.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2339.jpg"
+                    }, 
+                    "id": "1048296", 
+                    "name": "邱淑贞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051811/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1352161240.64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1352161240.64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1352161240.64.jpg"
+                    }, 
+                    "id": "1051811", 
+                    "name": "陶大宇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1138320/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1268.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1268.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1268.jpg"
+                    }, 
+                    "id": "1138320", 
+                    "name": "舒淇"
+                }
+            ], 
+            "collect_count": 1908, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275395/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13666.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13666.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13666.jpg"
+                    }, 
+                    "id": "1275395", 
+                    "name": "邓衍成"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "爱情"
+            ], 
+            "id": "4859386", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3158685.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3158685.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3158685.jpg"
+            }, 
+            "original_title": "紅燈區", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "红灯区", 
+            "year": "1996"
+        }
+    ], 
+    "title": "搜索 \"红灯\" 的结果", 
+    "total": 33
+}

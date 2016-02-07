@@ -1,0 +1,205 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298182/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055148/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1055148", 
+                    "name": "尼古拉·切尔卡索夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1158859/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397321475.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397321475.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397321475.93.jpg"
+                    }, 
+                    "id": "1158859", 
+                    "name": "Lyudmila Tselikovskaya"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1063057/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1063057", 
+                    "name": "Serafima Birman"
+                }
+            ], 
+            "collect_count": 771, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004988/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1693.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1693.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1693.jpg"
+                    }, 
+                    "id": "1004988", 
+                    "name": "谢尔盖·爱森斯坦"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "历史"
+            ], 
+            "id": "1298182", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2338728.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2338728.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2338728.jpg"
+            }, 
+            "original_title": "Иван Грозный", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "伊凡雷帝", 
+            "year": "1944"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1474367/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nikolai Cherkasov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Serafima Birman"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025745/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16904.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16904.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16904.jpg"
+                    }, 
+                    "id": "1025745", 
+                    "name": "帕维尔·卡道奇尼科夫"
+                }
+            ], 
+            "collect_count": 453, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004988/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1693.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1693.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1693.jpg"
+                    }, 
+                    "id": "1004988", 
+                    "name": "谢尔盖·爱森斯坦"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "历史"
+            ], 
+            "id": "1474367", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2524980.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2524980.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2524980.jpg"
+            }, 
+            "original_title": "Иван Грозный 2: Боярский заговор", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "伊凡雷帝2", 
+            "year": "1958"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4818537/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055148/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1055148", 
+                    "name": "尼古拉·切尔卡索夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008172/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22319.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22319.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22319.jpg"
+                    }, 
+                    "id": "1008172", 
+                    "name": "米哈伊尔·罗姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003794/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1003794", 
+                    "name": "Oleg Zhakov"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004988/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1693.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1693.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1693.jpg"
+                    }, 
+                    "id": "1004988", 
+                    "name": "谢尔盖·爱森斯坦"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "传记", 
+                "剧情"
+            ], 
+            "id": "4818537", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Иван Грозный 3", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "伊凡雷帝3", 
+            "year": "1988"
+        }
+    ], 
+    "title": "搜索 \"伊凡雷帝\" 的结果", 
+    "total": 3
+}

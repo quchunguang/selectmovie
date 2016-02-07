@@ -1,0 +1,407 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2383187/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000025/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38896.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38896.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38896.jpg"
+                    }, 
+                    "id": "1000025", 
+                    "name": "肖恩·法瑞斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044702/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34697.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34697.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34697.jpg"
+                    }, 
+                    "id": "1044702", 
+                    "name": "艾梅柏·希尔德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022576/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5756.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5756.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5756.jpg"
+                    }, 
+                    "id": "1022576", 
+                    "name": "凯姆·吉甘戴"
+                }
+            ], 
+            "collect_count": 3121, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1300241/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47506.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47506.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47506.jpg"
+                    }, 
+                    "id": "1300241", 
+                    "name": "杰夫·瓦德洛"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情", 
+                "运动"
+            ], 
+            "id": "2383187", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2862846.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2862846.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2862846.jpg"
+            }, 
+            "original_title": "Never Back Down", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "永不退缩", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7054804/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027775/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13803.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13803.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13803.jpg"
+                    }, 
+                    "id": "1027775", 
+                    "name": "玛吉·吉伦哈尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022676/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1412768609.23.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1412768609.23.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1412768609.23.jpg"
+                    }, 
+                    "id": "1022676", 
+                    "name": "维奥拉·戴维斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031838/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48614.jpg"
+                    }, 
+                    "id": "1031838", 
+                    "name": "霍利·亨特"
+                }
+            ], 
+            "collect_count": 1198, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1306480/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1421574137.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1421574137.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1421574137.37.jpg"
+                    }, 
+                    "id": "1306480", 
+                    "name": "丹尼尔·巴尔兹"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "7054804", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s10328876.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s10328876.jpg", 
+                "small": "https://img3.doubanio.com/spic/s10328876.jpg"
+            }, 
+            "original_title": "Won't Back Down", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "永不退缩", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6811867/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040509/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20557.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20557.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20557.jpg"
+                    }, 
+                    "id": "1040509", 
+                    "name": "迈克尔·加·怀特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1064258/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368842037.2.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368842037.2.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368842037.2.jpg"
+                    }, 
+                    "id": "1064258", 
+                    "name": "罗斯·布莱克维尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1258122/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34293.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34293.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34293.jpg"
+                    }, 
+                    "id": "1258122", 
+                    "name": "迪恩·盖耶"
+                }
+            ], 
+            "collect_count": 368, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040509/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20557.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20557.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20557.jpg"
+                    }, 
+                    "id": "1040509", 
+                    "name": "迈克尔·加·怀特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "运动"
+            ], 
+            "id": "6811867", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6901972.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6901972.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6901972.jpg"
+            }, 
+            "original_title": "Never Back Down 2", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "永不退缩2", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26601271/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000367/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1399196220.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1399196220.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1399196220.52.jpg"
+                    }, 
+                    "id": "1000367", 
+                    "name": "杰佳·亚宁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041754/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1041754", 
+                    "name": "斯蒂芬·卡德罗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1159033/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374665647.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374665647.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374665647.99.jpg"
+                    }, 
+                    "id": "1159033", 
+                    "name": "罗恩·斯穆安伯格"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040509/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20557.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20557.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20557.jpg"
+                    }, 
+                    "id": "1040509", 
+                    "name": "迈克尔·加·怀特"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "26601271", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Never Back Down 3", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "永不退缩3", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26696607/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gee Atherton"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Josh Bryceland"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sam Hill"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1135723/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1135723", 
+                    "name": "John Porter"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clay Porter"
+                }
+            ], 
+            "genres": [], 
+            "id": "26696607", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2301682108.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2301682108.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2301682108.jpg"
+            }, 
+            "original_title": "Won't Back Down", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "永不退缩", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25720438/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017912/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390933039.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390933039.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390933039.93.jpg"
+                    }, 
+                    "id": "1017912", 
+                    "name": "斯科特·阿金斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1064206/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7782.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7782.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7782.jpg"
+                    }, 
+                    "id": "1064206", 
+                    "name": "卡塞·巴恩菲尔德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014381/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1432879995.64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1432879995.64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1432879995.64.jpg"
+                    }, 
+                    "id": "1014381", 
+                    "name": "马克·温格特"
+                }
+            ], 
+            "collect_count": 297, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1332050/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1332050", 
+                    "name": "詹姆斯·纳恩"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作"
+            ], 
+            "id": "25720438", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2123248052.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2123248052.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2123248052.jpg"
+            }, 
+            "original_title": "Green Street 3: Never Back Down", 
+            "rating": {
+                "average": 5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "足球流氓3", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"永不退缩\" 的结果", 
+    "total": 6
+}

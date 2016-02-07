@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1296813/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000951/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7716.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7716.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7716.jpg"
+                    }, 
+                    "id": "1000951", 
+                    "name": "碧翠丝·罗曼德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009174/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5223.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5223.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5223.jpg"
+                    }, 
+                    "id": "1009174", 
+                    "name": "安德烈·杜索里埃"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031196/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14419.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14419.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14419.jpg"
+                    }, 
+                    "id": "1031196", 
+                    "name": "费奥多尔·阿特金"
+                }
+            ], 
+            "collect_count": 849, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054406/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/573.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/573.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/573.jpg"
+                    }, 
+                    "id": "1054406", 
+                    "name": "埃里克·侯麦"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1296813", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1785579.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1785579.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1785579.jpg"
+            }, 
+            "original_title": "Le beau mariage", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "好姻缘", 
+            "year": "1982"
+        }
+    ], 
+    "title": "搜索 \"好姻缘\" 的结果", 
+    "total": 1
+}

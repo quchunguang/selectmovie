@@ -1,0 +1,160 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301236/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054516/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1993.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1993.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1993.jpg"
+                    }, 
+                    "id": "1054516", 
+                    "name": "保罗·纽曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041081/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4777.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4777.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4777.jpg"
+                    }, 
+                    "id": "1041081", 
+                    "name": "朱莉·安德鲁斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028150/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16119.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16119.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16119.jpg"
+                    }, 
+                    "id": "1028150", 
+                    "name": "丽拉·柯卓娃"
+                }
+            ], 
+            "collect_count": 1472, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025185/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/302.jpg"
+                    }, 
+                    "id": "1025185", 
+                    "name": "阿尔弗雷德·希区柯克"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "1301236", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6773091.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6773091.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6773091.jpg"
+            }, 
+            "original_title": "Torn Curtain", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "冲破铁幕", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299851/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013761/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5130.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5130.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5130.jpg"
+                    }, 
+                    "id": "1013761", 
+                    "name": "方·基默"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019084/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1227.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1227.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1227.jpg"
+                    }, 
+                    "id": "1019084", 
+                    "name": "彼得·库欣"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christopher Villiers"
+                }
+            ], 
+            "collect_count": 1825, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027924/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21832.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21832.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21832.jpg"
+                    }, 
+                    "id": "1027924", 
+                    "name": "大卫·扎克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032356/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21831.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21831.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21831.jpg"
+                    }, 
+                    "id": "1032356", 
+                    "name": "杰瑞·扎克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045169/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23480.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23480.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23480.jpg"
+                    }, 
+                    "id": "1045169", 
+                    "name": "吉姆·艾布拉姆斯"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1299851", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2730592.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2730592.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2730592.jpg"
+            }, 
+            "original_title": "Top Secret!", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "笑破铁幕", 
+            "year": "1984"
+        }
+    ], 
+    "title": "搜索 \"冲破铁幕\" 的结果", 
+    "total": 2
+}

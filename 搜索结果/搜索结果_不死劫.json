@@ -1,0 +1,122 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301711/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010509/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/106.jpg"
+                    }, 
+                    "id": "1010509", 
+                    "name": "布鲁斯·威利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054408/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31870.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31870.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31870.jpg"
+                    }, 
+                    "id": "1054408", 
+                    "name": "塞缪尔·杰克逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002676/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51737.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51737.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51737.jpg"
+                    }, 
+                    "id": "1002676", 
+                    "name": "罗宾·怀特"
+                }
+            ], 
+            "collect_count": 9640, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022570/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4317.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4317.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4317.jpg"
+                    }, 
+                    "id": "1022570", 
+                    "name": "M·奈特·沙马兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "奇幻", 
+                "悬疑"
+            ], 
+            "id": "1301711", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2199134149.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2199134149.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2199134149.jpg"
+            }, 
+            "original_title": "Unbreakable", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "不死劫", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3093033/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Birthe Wolter"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Wolfgang Stegemann"
+                }
+            ], 
+            "collect_count": 76, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Wolf Wolff"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "3093033", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6490805.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6490805.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6490805.jpg"
+            }, 
+            "original_title": "Virus Undead", 
+            "rating": {
+                "average": 4.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "一夜生死劫", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"不死劫\" 的结果", 
+    "total": 2
+}

@@ -1,0 +1,947 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/26310143/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316048/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34967.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34967.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34967.jpg"
+                    }, 
+                    "id": "1316048", 
+                    "name": "李帝勋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322203/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52612.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52612.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52612.jpg"
+                    }, 
+                    "id": "1322203", 
+                    "name": "赵镇雄"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050699/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35653.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35653.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35653.jpg"
+                    }, 
+                    "id": "1050699", 
+                    "name": "金惠秀"
+                }
+            ], 
+            "collect_count": 698, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320694/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1438181611.25.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1438181611.25.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1438181611.25.jpg"
+                    }, 
+                    "id": "1320694", 
+                    "name": "金元锡"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "26310143", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2300356055.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2300356055.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2300356055.jpg"
+            }, 
+            "original_title": "시그널", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "信号", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25701866/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342555/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1342555", 
+                    "name": "帕特里克·戴维森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325896/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1410910563.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1410910563.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1410910563.02.jpg"
+                    }, 
+                    "id": "1325896", 
+                    "name": "布伦顿·思韦茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327806/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371301550.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371301550.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371301550.93.jpg"
+                    }, 
+                    "id": "1327806", 
+                    "name": " 奥利维亚·库克"
+                }
+            ], 
+            "collect_count": 4750, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1340897/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/d0fpkElQEeAcel_avatar_uploaded1403583567.47.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/d0fpkElQEeAcel_avatar_uploaded1403583567.47.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/d0fpkElQEeAcel_avatar_uploaded1403583567.47.jpg"
+                    }, 
+                    "id": "1340897", 
+                    "name": "威廉·尤班克"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "惊悚"
+            ], 
+            "id": "25701866", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2175985329.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2175985329.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2175985329.jpg"
+            }, 
+            "original_title": "The Signal", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "信号", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3566709/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1137635/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18194.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18194.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18194.jpg"
+                    }, 
+                    "id": "1137635", 
+                    "name": "尼克·拉塞尔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kestie Morassi"
+                }
+            ], 
+            "collect_count": 35398, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Patrick Hughes"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "爱情"
+            ], 
+            "id": "3566709", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3786782.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3786782.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3786782.jpg"
+            }, 
+            "original_title": "Signs", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "信号", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1963937/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anessa Ramsey"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sahr Ngaujah"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036966/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39051.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39051.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39051.jpg"
+                    }, 
+                    "id": "1036966", 
+                    "name": "AJ·鲍恩"
+                }
+            ], 
+            "collect_count": 1049, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Bruckner"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dan Bush"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000863/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1000863", 
+                    "name": "雅各布·詹特利"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "科幻", 
+                "惊悚"
+            ], 
+            "id": "1963937", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2883750.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2883750.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2883750.jpg"
+            }, 
+            "original_title": "The Signal", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "信号", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3024676/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "新珠三千代"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "轟夕起子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "三橋達也"
+                }
+            ], 
+            "collect_count": 40, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "川島雄三"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3024676", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4115684.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4115684.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4115684.jpg"
+            }, 
+            "original_title": "洲崎パラダイス～赤信号", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "洲崎天堂红灯区", 
+            "year": "1956"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24752293/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "马雷舍夫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杰连齐耶夫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "A·基斯托夫"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "C·斯普罗什诺夫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "24752293", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2006847367.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2006847367.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2006847367.jpg"
+            }, 
+            "original_title": "绿色信号", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "绿色信号", 
+            "year": "1956"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25919958/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316874/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37721.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37721.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37721.jpg"
+                    }, 
+                    "id": "1316874", 
+                    "name": "虞哲光"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈正鸿"
+                }
+            ], 
+            "genres": [
+                "儿童", 
+                "动画", 
+                "短片"
+            ], 
+            "id": "25919958", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "红色信号", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红色信号", 
+            "year": "1959"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26710687/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱振豪"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高雪儿"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王星哲"
+                }
+            ], 
+            "genres": [], 
+            "id": "26710687", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2310884450.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2310884450.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2310884450.jpg"
+            }, 
+            "original_title": "死亡信号：鬼影重重", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "死亡信号：鬼影重重", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2027836/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1102635/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1400985778.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1400985778.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1400985778.39.jpg"
+                    }, 
+                    "id": "1102635", 
+                    "name": "库纳尔·赫姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1209173/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1209173", 
+                    "name": "Neetu Chandra"
+                }
+            ], 
+            "collect_count": 120, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050375/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050375", 
+                    "name": "马德哈尔·班达卡"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2027836", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2336321.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2336321.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2336321.jpg"
+            }, 
+            "original_title": "Traffic Signal", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "交通信号", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3405323/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sandra McCoy"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Al Santos"
+                }
+            ], 
+            "collect_count": 65, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brian McNamara"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "3405323", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3527048.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3527048.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3527048.jpg"
+            }, 
+            "original_title": "LOST SIGNAL", 
+            "rating": {
+                "average": 3.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "消失的信号", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4129714/", 
+            "casts": [], 
+            "collect_count": 9, 
+            "directors": [], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4129714", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4050054.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4050054.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4050054.jpg"
+            }, 
+            "original_title": "No Signal", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "没有信号", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2268253/", 
+            "casts": [], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013967/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1387261340.73.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1387261340.73.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1387261340.73.jpg"
+                    }, 
+                    "id": "1013967", 
+                    "name": "里卡杜·达林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Martin Hodara"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "2268253", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2724075.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2724075.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2724075.jpg"
+            }, 
+            "original_title": "La señal", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "信号", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3291316/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Андрей Краско"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Сергей Гусинский"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Денис Кириллов"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Александр Рогожкин"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "3291316", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3354745.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3354745.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3354745.jpg"
+            }, 
+            "original_title": "Блокпост", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "交通信號站", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6428425/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gottfried Kolditz"
+                }
+            ], 
+            "genres": [
+                "科幻"
+            ], 
+            "id": "6428425", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2281999477.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2281999477.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2281999477.jpg"
+            }, 
+            "original_title": "Signale - Ein Weltraumabenteuer", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "信号：太空冒险", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4933302/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050574/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23158.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23158.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23158.jpg"
+                    }, 
+                    "id": "1050574", 
+                    "name": "乔拉·赫兹"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "4933302", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2183721230.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2183721230.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2183721230.jpg"
+            }, 
+            "original_title": "Znamení raka", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "癌症信号", 
+            "year": "1967"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24843930/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Talal Jabari"
+                }
+            ], 
+            "genres": [], 
+            "id": "24843930", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2022382395.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2022382395.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2022382395.jpg"
+            }, 
+            "original_title": "Full Signal", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "信号满格", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26423460/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1127064/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1127064", 
+                    "name": "理查德·莫兰特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016723/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365933897.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365933897.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365933897.17.jpg"
+                    }, 
+                    "id": "1016723", 
+                    "name": "乔安娜·大卫"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Frankau"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "26423460", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2249676052.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2249676052.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2249676052.jpg"
+            }, 
+            "original_title": "The Agatha Christie Hour: The Red Signal", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红色信号", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5077812/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Virginia Valli"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rockliffe Fellowes"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frankie Darro"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clarence Brown"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5077812", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2181168183.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2181168183.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2181168183.jpg"
+            }, 
+            "original_title": "The Signal Tower", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "信号塔", 
+            "year": "1924"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10810253/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tomáš Řehořek"
+                }
+            ], 
+            "genres": [], 
+            "id": "10810253", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Signál", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "信号", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5183207/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nicholas Dunlevy"
+                }
+            ], 
+            "genres": [], 
+            "id": "5183207", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2283590717.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2283590717.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2283590717.jpg"
+            }, 
+            "original_title": "Elevator People Bring You Up When You're Feeling Down", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "人体信号", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"信号\" 的结果", 
+    "total": 24
+}

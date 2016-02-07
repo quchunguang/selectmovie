@@ -1,0 +1,448 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3660133/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012478/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1392878427.85.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1392878427.85.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1392878427.85.jpg"
+                    }, 
+                    "id": "1012478", 
+                    "name": "利亚姆·海姆斯沃斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010507/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/104.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/104.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/104.jpg"
+                    }, 
+                    "id": "1010507", 
+                    "name": "加里·奥德曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044702/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34697.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34697.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34697.jpg"
+                    }, 
+                    "id": "1044702", 
+                    "name": "艾梅柏·希尔德"
+                }
+            ], 
+            "collect_count": 2032, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313319/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16353.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16353.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16353.jpg"
+                    }, 
+                    "id": "1313319", 
+                    "name": "罗伯特·路克蒂克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "惊悚"
+            ], 
+            "id": "3660133", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2005851788.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2005851788.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2005851788.jpg"
+            }, 
+            "original_title": "Paranoia", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "偏执", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25768183/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "琥珀うた"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "柳乃内たくま"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "柊めい"
+                }
+            ], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林澤亞"
+                }
+            ], 
+            "genres": [
+                "情色"
+            ], 
+            "id": "25768183", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2158411715.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2158411715.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2158411715.jpg"
+            }, 
+            "original_title": "偏執狂に囚われたOL沙紀 妄執愛", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "痴迷的愛", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2136814/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carroll Baker"
+                }
+            ], 
+            "collect_count": 23, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Umberto Lenzi"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "2136814", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2565377.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2565377.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2565377.jpg"
+            }, 
+            "original_title": "Paranoia", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "偏执狂", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24840494/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "さとう樹菜子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "ぐしゃ人間"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "リ・コウジ"
+                }
+            ], 
+            "collect_count": 36, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "駕籠真太郎"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "24840494", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2021062741.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2021062741.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2021062741.jpg"
+            }, 
+            "original_title": "パラノイアストリート 管の町", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "偏执狂街道：管子之町", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11622698/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045279/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19666.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19666.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19666.jpg"
+                    }, 
+                    "id": "1045279", 
+                    "name": "埃里克·埃尔莫斯尼诺"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1303099/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359562430.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359562430.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359562430.33.jpg"
+                    }, 
+                    "id": "1303099", 
+                    "name": "Sophie Quinton"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027247/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22375.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22375.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22375.jpg"
+                    }, 
+                    "id": "1027247", 
+                    "name": "瓦莱莉·高利诺"
+                }
+            ], 
+            "collect_count": 16, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yann Coridian"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "11622698", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24920398.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24920398.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24920398.jpg"
+            }, 
+            "original_title": "Ouf", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我亲爱的偏执狂", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3592842/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carroll Baker"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lou Castel"
+                }
+            ], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Umberto Lenzi"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "3592842", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3654486.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3654486.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3654486.jpg"
+            }, 
+            "original_title": "Orgasmo", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "偏执狂", 
+            "year": "1969"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295256/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "萨莉 柯克兰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000649/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16552.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16552.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16552.jpg"
+                    }, 
+                    "id": "1000649", 
+                    "name": "斯蒂芬·格维顿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "拉里 德雷克"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "拉里 布兰德 (Larry Brand)"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1295256", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2843057.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2843057.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2843057.jpg"
+            }, 
+            "original_title": "Paranoia", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "偏执狂", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6018980/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042544/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365947894.87.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365947894.87.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365947894.87.jpg"
+                    }, 
+                    "id": "1042544", 
+                    "name": "内山理名"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1043004/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8448.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8448.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8448.jpg"
+                    }, 
+                    "id": "1043004", 
+                    "name": "平田满"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "岩本千波"
+                }
+            ], 
+            "collect_count": 115, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1345590/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1345590", 
+                    "name": "丰岛圭介"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "6018980", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2169661378.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2169661378.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2169661378.jpg"
+            }, 
+            "original_title": "怪談新耳袋 劇場版 ノブヒロさん", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "怪谈新耳袋：信弘先生", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"偏执\" 的结果", 
+    "total": 8
+}

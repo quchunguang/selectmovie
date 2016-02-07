@@ -1,0 +1,577 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1297344/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036621/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21829.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21829.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21829.jpg"
+                    }, 
+                    "id": "1036621", 
+                    "name": "帕特里克·波查"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018777/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38185.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38185.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38185.jpg"
+                    }, 
+                    "id": "1018777", 
+                    "name": "哈蒂·波丽托弗"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Daniel Pommereulle"
+                }
+            ], 
+            "collect_count": 3800, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054406/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/573.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/573.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/573.jpg"
+                    }, 
+                    "id": "1054406", 
+                    "name": "埃里克·侯麦"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1297344", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1653662.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1653662.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1653662.jpg"
+            }, 
+            "original_title": "La collectionneuse", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "女收藏家", 
+            "year": "1967"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3417428/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gabija Jaraminaite"
+                }
+            ], 
+            "collect_count": 75, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kristina Buozyte"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3417428", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3541909.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3541909.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3541909.jpg"
+            }, 
+            "original_title": "Kolekcionierė", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "女收藏家", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6021917/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055787/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27973.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27973.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27973.jpg"
+                    }, 
+                    "id": "1055787", 
+                    "name": "克里斯托弗·麦克唐纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004844/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25103.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25103.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25103.jpg"
+                    }, 
+                    "id": "1004844", 
+                    "name": "乔什·斯图沃特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010629/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6523.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6523.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6523.jpg"
+                    }, 
+                    "id": "1010629", 
+                    "name": "李·特格森"
+                }
+            ], 
+            "collect_count": 11886, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314278/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23159.jpg"
+                    }, 
+                    "id": "1314278", 
+                    "name": "马库斯·邓斯坦"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "6021917", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1723185096.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1723185096.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1723185096.jpg"
+            }, 
+            "original_title": "The Collection", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "藏品", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1461255/", 
+            "casts": [], 
+            "collect_count": 36, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008270/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1008270", 
+                    "name": "尚·波丹"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "1461255", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1479008.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1479008.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1479008.jpg"
+            }, 
+            "original_title": "变态收藏家", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "The Collector", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7154430/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317651/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40777.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40777.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40777.jpg"
+                    }, 
+                    "id": "1317651", 
+                    "name": "樱木凛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "新井秀幸"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317909/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41813.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41813.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41813.jpg"
+                    }, 
+                    "id": "1317909", 
+                    "name": "有泽实纱"
+                }
+            ], 
+            "collect_count": 925, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "堀内博志"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚", 
+                "情色"
+            ], 
+            "id": "7154430", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2200223026.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2200223026.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2200223026.jpg"
+            }, 
+            "original_title": "官能コレクター", 
+            "rating": {
+                "average": 4.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "官能收藏家", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26306646/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "リリー・フランキー"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "寺島しのぶ"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "池松壮亮"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "坪田義史"
+                }
+            ], 
+            "genres": [], 
+            "id": "26306646", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2290185515.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2290185515.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2290185515.jpg"
+            }, 
+            "original_title": "シェル・コレクター", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "贝壳收藏家", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4164971/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kathleen Benner"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Wendy Crawford"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dale Denton"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Guy Crawford"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "4164971", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4074613.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4074613.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4074613.jpg"
+            }, 
+            "original_title": "Flesh TX", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "尸体收藏家", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/19945743/", 
+            "casts": [], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tom Malecha"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "19945743", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s17505114.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s17505114.jpg", 
+                "small": "https://img1.doubanio.com/spic/s17505114.jpg"
+            }, 
+            "original_title": "The Trail Collector", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "路线收藏家", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25950199/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ryan Kravetz"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "冒险", 
+                "短片"
+            ], 
+            "id": "25950199", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Collector's Gift", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "收藏家的礼物", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1474636/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010570/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3108.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3108.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3108.jpg"
+                    }, 
+                    "id": "1010570", 
+                    "name": "特伦斯·斯坦普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032161/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28026.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28026.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28026.jpg"
+                    }, 
+                    "id": "1032161", 
+                    "name": "萨曼莎·艾加"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1167821/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1167821", 
+                    "name": "Mona Washbourne"
+                }
+            ], 
+            "collect_count": 605, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010691/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2025.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2025.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2025.jpg"
+                    }, 
+                    "id": "1010691", 
+                    "name": "威廉·惠勒"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1474636", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1231141017.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1231141017.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1231141017.jpg"
+            }, 
+            "original_title": "The Collector", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "蝴蝶春梦", 
+            "year": "1965"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1474920/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036942/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1389320414.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1389320414.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1389320414.9.jpg"
+                    }, 
+                    "id": "1036942", 
+                    "name": "佩吉·阿什克罗福特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032769/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7227.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7227.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7227.jpg"
+                    }, 
+                    "id": "1032769", 
+                    "name": "拉里·派恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055216/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1413706162.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1413706162.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1413706162.39.jpg"
+                    }, 
+                    "id": "1055216", 
+                    "name": "萨伊德·杰弗瑞"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019085/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2050.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2050.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2050.jpg"
+                    }, 
+                    "id": "1019085", 
+                    "name": "詹姆斯·伊沃里"
+                }
+            ], 
+            "genres": [], 
+            "id": "1474920", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1494499.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1494499.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1494499.jpg"
+            }, 
+            "original_title": "Hullabaloo Over Georgie and Bonnie's Pictures", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "藏品世界", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"女收藏家\" 的结果", 
+    "total": 11
+}

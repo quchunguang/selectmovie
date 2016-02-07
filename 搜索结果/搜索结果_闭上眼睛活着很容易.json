@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/25709727/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016749/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1377693470.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1377693470.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1377693470.08.jpg"
+                    }, 
+                    "id": "1016749", 
+                    "name": "哈维尔·卡马拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1341551/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/lZhLqwB6hOYcel_avatar_uploaded1405913368.32.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/lZhLqwB6hOYcel_avatar_uploaded1405913368.32.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/lZhLqwB6hOYcel_avatar_uploaded1405913368.32.jpg"
+                    }, 
+                    "id": "1341551", 
+                    "name": "纳塔利娅·德·莫利纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1334104/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1420919279.36.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1420919279.36.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1420919279.36.jpg"
+                    }, 
+                    "id": "1334104", 
+                    "name": "弗兰塞斯克·科洛梅尔"
+                }
+            ], 
+            "collect_count": 965, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050666/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1398051289.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1398051289.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1398051289.65.jpg"
+                    }, 
+                    "id": "1050666", 
+                    "name": "大卫·特鲁埃瓦"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "25709727", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2142037686.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2142037686.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2142037686.jpg"
+            }, 
+            "original_title": "Vivir es fácil con los ojos cerrados", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "闭上眼睛活着很容易", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"闭上眼睛活着很容易\" 的结果", 
+    "total": 1
+}

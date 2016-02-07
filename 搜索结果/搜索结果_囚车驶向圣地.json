@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1307692/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028354/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4920.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4920.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4920.jpg"
+                    }, 
+                    "id": "1028354", 
+                    "name": "利昂尔·阿贝兰斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1142111/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371974106.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371974106.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371974106.29.jpg"
+                    }, 
+                    "id": "1142111", 
+                    "name": "鲁费斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1094511/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1094511", 
+                    "name": "Clément Harari"
+                }
+            ], 
+            "collect_count": 874, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045207/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25048.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25048.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25048.jpg"
+                    }, 
+                    "id": "1045207", 
+                    "name": "拉杜·米哈伊列亚努"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "战争", 
+                "喜剧"
+            ], 
+            "id": "1307692", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1636811.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1636811.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1636811.jpg"
+            }, 
+            "original_title": "Train de vie", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "囚车驶向圣地", 
+            "year": "1998"
+        }
+    ], 
+    "title": "搜索 \"囚车驶向圣地\" 的结果", 
+    "total": 1
+}

@@ -1,0 +1,1071 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1294438/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041278/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7979.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7979.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7979.jpg"
+                    }, 
+                    "id": "1041278", 
+                    "name": "毕比·安德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036619/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1355.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1355.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1355.jpg"
+                    }, 
+                    "id": "1036619", 
+                    "name": "丽芙·乌曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1108440/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/30881.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/30881.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/30881.jpg"
+                    }, 
+                    "id": "1108440", 
+                    "name": "Margaretha Krook"
+                }
+            ], 
+            "collect_count": 8475, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054526/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/675.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/675.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/675.jpg"
+                    }, 
+                    "id": "1054526", 
+                    "name": "英格玛·伯格曼"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1294438", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2175209500.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2175209500.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2175209500.jpg"
+            }, 
+            "original_title": "Persona", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "假面", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3263169/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1193404/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27667.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27667.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27667.jpg"
+                    }, 
+                    "id": "1193404", 
+                    "name": "金康宇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023764/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58833.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58833.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58833.jpg"
+                    }, 
+                    "id": "1023764", 
+                    "name": "金圭丽"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275525/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25754.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25754.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25754.jpg"
+                    }, 
+                    "id": "1275525", 
+                    "name": "李水京"
+                }
+            ], 
+            "collect_count": 17400, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042595/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8066.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8066.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8066.jpg"
+                    }, 
+                    "id": "1042595", 
+                    "name": "梁允豪"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "3263169", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2960743.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2960743.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2960743.jpg"
+            }, 
+            "original_title": "가면", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "假面", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26220744/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041047/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1415551661.84.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1415551661.84.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1415551661.84.jpg"
+                    }, 
+                    "id": "1041047", 
+                    "name": "朱智勋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1184484/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1378014277.75.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1378014277.75.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1378014277.75.jpg"
+                    }, 
+                    "id": "1184484", 
+                    "name": "秀爱"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322365/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53203.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53203.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53203.jpg"
+                    }, 
+                    "id": "1322365", 
+                    "name": "李浩沅"
+                }
+            ], 
+            "collect_count": 1804, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "付成哲"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "悬疑"
+            ], 
+            "id": "26220744", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2246778214.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2246778214.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2246778214.jpg"
+            }, 
+            "original_title": "가면", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "假面", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21354076/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313851/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20810.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20810.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20810.jpg"
+                    }, 
+                    "id": "1313851", 
+                    "name": "铃木亮平"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315061/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1418746144.73.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1418746144.73.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1418746144.73.jpg"
+                    }, 
+                    "id": "1315061", 
+                    "name": "清水富美加"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275807/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1386248604.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1386248604.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1386248604.94.jpg"
+                    }, 
+                    "id": "1275807", 
+                    "name": "室毅"
+                }
+            ], 
+            "collect_count": 12008, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325118/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/FKu5xNiNm4cel_avatar_uploaded1353514889.89.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/FKu5xNiNm4cel_avatar_uploaded1353514889.89.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/FKu5xNiNm4cel_avatar_uploaded1353514889.89.jpg"
+                    }, 
+                    "id": "1325118", 
+                    "name": "福田雄一"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "21354076", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2006591146.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2006591146.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2006591146.jpg"
+            }, 
+            "original_title": "HK 変態仮面", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "变态假面", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2995117/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "天心"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "唐治平"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴中天"
+                }
+            ], 
+            "collect_count": 182, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈以文"
+                }
+            ], 
+            "genres": [], 
+            "id": "2995117", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2951996.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2951996.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2951996.jpg"
+            }, 
+            "original_title": "假面天使", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "假面天使", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1967938/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "ニーナ"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "渡辺大"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "水橋研二"
+                }
+            ], 
+            "collect_count": 20, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "実相寺昭雄"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "奇幻", 
+                "科幻"
+            ], 
+            "id": "1967938", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1995363.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1995363.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1995363.jpg"
+            }, 
+            "original_title": "シルバー假面", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "银色假面", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5359992/", 
+            "casts": [], 
+            "collect_count": 36, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steven Ferguson"
+                }
+            ], 
+            "genres": [], 
+            "id": "5359992", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4533557.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4533557.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4533557.jpg"
+            }, 
+            "original_title": "伪装的假面", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "伪装的假面", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1761974/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高桥美香"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "KOKO"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "修建"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高幸成  Yukinari Hanawa"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1761974", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1633352.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1633352.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1633352.jpg"
+            }, 
+            "original_title": "tokyo skin 假面东京", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "tokyo skin 假面东京", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4102879/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "上官灵凤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗烈"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "卫子云"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈洪民"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "4102879", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2288523836.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2288523836.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2288523836.jpg"
+            }, 
+            "original_title": "诸葛四郎大斗双假面", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "诸葛四郎大斗双假面", 
+            "year": "1978"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10543728/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "顾兰君"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周起"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "姜明"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "方沛霖"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10543728", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8945467.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8945467.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8945467.jpg"
+            }, 
+            "original_title": "假面女郎", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "假面女郎", 
+            "year": "1947年"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10796649/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林健寰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "張鳳書"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314825/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365871469.63.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365871469.63.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365871469.63.jpg"
+                    }, 
+                    "id": "1314825", 
+                    "name": "瞿友宁"
+                }
+            ], 
+            "genres": [], 
+            "id": "10796649", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "假面超人", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "假面超人", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6813453/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "姬晨牧"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曹馨月"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吕鑫"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [], 
+            "genres": [], 
+            "id": "6813453", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6902926.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6902926.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6902926.jpg"
+            }, 
+            "original_title": "假面疑云", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "假面疑云", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/19966117/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274703/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6314.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6314.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6314.jpg"
+                    }, 
+                    "id": "1274703", 
+                    "name": "李幼斌"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34563.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34563.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34563.jpg"
+                    }, 
+                    "id": "1315982", 
+                    "name": "何明翰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315053/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28213.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28213.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28213.jpg"
+                    }, 
+                    "id": "1315053", 
+                    "name": "史兰芽"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323783/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1323783", 
+                    "name": "兰少寅"
+                }
+            ], 
+            "genres": [], 
+            "id": "19966117", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "假面", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "假面", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/19969186/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "翁進忠"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "19969186", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "假面阿公", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "假面阿公", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5197215/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Keisuke Sasaki"
+                }
+            ], 
+            "genres": [], 
+            "id": "5197215", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "假面の舞踏 ~ 秘話ノルマントン号事件", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "假面の舞踏 ~ 秘話ノルマントン号事件", 
+            "year": "1943"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2154465/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小林沙苗"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "矢島晶子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "藤田淑子"
+                }
+            ], 
+            "collect_count": 1527, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "浜津守"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "舞台艺术"
+            ], 
+            "id": "2154465", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2255900160.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2255900160.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2255900160.jpg"
+            }, 
+            "original_title": "ガラスの仮面", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "玻璃假面", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4290700/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001402/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1444358088.5.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1444358088.5.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1444358088.5.jpg"
+                    }, 
+                    "id": "1001402", 
+                    "name": "杉本有美"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313190/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369109505.24.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369109505.24.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369109505.24.jpg"
+                    }, 
+                    "id": "1313190", 
+                    "name": "森田凉花"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高山侑子"
+                }
+            ], 
+            "collect_count": 947, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012557/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1008.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1008.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1008.jpg"
+                    }, 
+                    "id": "1012557", 
+                    "name": "井口升"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002875/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23948.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23948.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23948.jpg"
+                    }, 
+                    "id": "1002875", 
+                    "name": "西村喜广"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1211661/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9080.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9080.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9080.jpg"
+                    }, 
+                    "id": "1211661", 
+                    "name": "坂口拓"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "4290700", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2276781857.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2276781857.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2276781857.jpg"
+            }, 
+            "original_title": "戦闘少女血の鉄仮面伝説", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "少女铁假面传说", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1465410/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051228/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1406483183.1.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1406483183.1.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1406483183.1.jpg"
+                    }, 
+                    "id": "1051228", 
+                    "name": "安达祐实"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029367/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366981618.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366981618.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366981618.03.jpg"
+                    }, 
+                    "id": "1029367", 
+                    "name": "松本莉绪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003627/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1385204418.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1385204418.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1385204418.66.jpg"
+                    }, 
+                    "id": "1003627", 
+                    "name": "田边诚一"
+                }
+            ], 
+            "collect_count": 1033, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1465410", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3186658.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3186658.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3186658.jpg"
+            }, 
+            "original_title": "ガラスの仮面", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "玻璃假面", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2053600/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "佐藤健"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "白鳥百合子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "秋山莉奈"
+                }
+            ], 
+            "collect_count": 945, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "田崎竜太"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "奇幻", 
+                "科幻"
+            ], 
+            "id": "2053600", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3908044.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3908044.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3908044.jpg"
+            }, 
+            "original_title": "仮面ライダー電王", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "假面骑士电王", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25829166/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "佐野岳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小林豊"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高杉真宙"
+                }
+            ], 
+            "collect_count": 118, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金田治"
+                }
+            ], 
+            "genres": [], 
+            "id": "25829166", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2176346420.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2176346420.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2176346420.jpg"
+            }, 
+            "original_title": "劇場版 仮面ライダー鎧武 サッカー大決戦！黄金の果実争奪杯！", 
+            "rating": {
+                "average": 4.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "假面骑士铠武剧场版：足球大决战！黄金果实争夺杯！", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"假面\" 的结果", 
+    "total": 214
+}

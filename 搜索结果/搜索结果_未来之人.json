@@ -1,0 +1,389 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6864436/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009708/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22255.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22255.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22255.jpg"
+                    }, 
+                    "id": "1009708", 
+                    "name": "瓦格纳·马拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1172441/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43251.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43251.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43251.jpg"
+                    }, 
+                    "id": "1172441", 
+                    "name": "Aline Moraes"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1119335/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1119335", 
+                    "name": "Maria Luísa Mendonça"
+                }
+            ], 
+            "collect_count": 1748, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1299415/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1299415", 
+                    "name": "Cláudio Torres"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻"
+            ], 
+            "id": "6864436", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6952038.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6952038.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6952038.jpg"
+            }, 
+            "original_title": "O Homem do Futuro", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "未来之人", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4848106/", 
+            "casts": [], 
+            "collect_count": 57, 
+            "directors": [], 
+            "genres": [], 
+            "id": "4848106", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4372668.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4372668.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4372668.jpg"
+            }, 
+            "original_title": "猪猪侠第三部：勇闯未来之城", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "猪猪侠第三部：勇闯未来之城", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305970/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002704/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1094.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1094.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1094.jpg"
+                    }, 
+                    "id": "1002704", 
+                    "name": "威廉·夏特纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002706/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44976.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44976.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44976.jpg"
+                    }, 
+                    "id": "1002706", 
+                    "name": "伦纳德·尼莫伊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055377/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18482.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18482.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18482.jpg"
+                    }, 
+                    "id": "1055377", 
+                    "name": "德福雷斯特·凯利"
+                }
+            ], 
+            "collect_count": 4360, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014215/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14925.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14925.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14925.jpg"
+                    }, 
+                    "id": "1014215", 
+                    "name": "尼古拉斯·梅耶"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "悬疑", 
+                "科幻"
+            ], 
+            "id": "1305970", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1104392909.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1104392909.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1104392909.jpg"
+            }, 
+            "original_title": "Star Trek VI: The Undiscovered Country", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "星际旅行6：未来之城", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2042121/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023486/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37249.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37249.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37249.jpg"
+                    }, 
+                    "id": "1023486", 
+                    "name": "成海璃子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275297/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50856.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50856.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50856.jpg"
+                    }, 
+                    "id": "1275297", 
+                    "name": "前田敦子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1155933/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19575.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19575.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19575.jpg"
+                    }, 
+                    "id": "1155933", 
+                    "name": "高冈奏辅"
+                }
+            ], 
+            "collect_count": 1833, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037629/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10795.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10795.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10795.jpg"
+                    }, 
+                    "id": "1037629", 
+                    "name": "市川准"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2042121", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p893563124.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p893563124.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p893563124.jpg"
+            }, 
+            "original_title": "あしたの私のつくり方", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "未来之我制作法", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6827665/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048147/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9692.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9692.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9692.jpg"
+                    }, 
+                    "id": "1048147", 
+                    "name": "布鲁斯·巴克林纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036313/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3551.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3551.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3551.jpg"
+                    }, 
+                    "id": "1036313", 
+                    "name": "杰夫·布里吉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047958/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47467.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47467.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47467.jpg"
+                    }, 
+                    "id": "1047958", 
+                    "name": "加内特·赫德兰"
+                }
+            ], 
+            "collect_count": 1442, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kurt Mattila"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "6827665", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7003980.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7003980.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7003980.jpg"
+            }, 
+            "original_title": "Tron: The Next Day", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "创：未来之日", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5211787/", 
+            "casts": [], 
+            "collect_count": 168, 
+            "directors": [], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "5211787", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6937171.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6937171.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6937171.jpg"
+            }, 
+            "original_title": "Batman Begins: Path to Discovery", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠前传：未来之路", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10549239/", 
+            "casts": [], 
+            "collect_count": 80, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Sanderson"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "10549239", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8958567.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8958567.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8958567.jpg"
+            }, 
+            "original_title": "Home of The Future", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "未来之家", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25789371/", 
+            "casts": [], 
+            "collect_count": 21, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "池田重隆"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动画"
+            ], 
+            "id": "25789371", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2166187508.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2166187508.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2166187508.jpg"
+            }, 
+            "original_title": "フューチャーカード バディファイト", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "未来之卡 同伴之战", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"未来之人\" 的结果", 
+    "total": 8
+}

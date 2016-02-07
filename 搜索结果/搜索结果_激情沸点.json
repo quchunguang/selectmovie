@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293968/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016673/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3996.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3996.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3996.jpg"
+                    }, 
+                    "id": "1016673", 
+                    "name": "詹妮弗·康纳利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049512/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7982.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7982.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7982.jpg"
+                    }, 
+                    "id": "1049512", 
+                    "name": "维吉妮娅·马德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054900/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5636.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5636.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5636.jpg"
+                    }, 
+                    "id": "1054900", 
+                    "name": "唐·约翰逊"
+                }
+            ], 
+            "collect_count": 749, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044720/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2991.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2991.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2991.jpg"
+                    }, 
+                    "id": "1044720", 
+                    "name": "丹尼斯·霍珀"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1293968", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2196572301.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2196572301.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2196572301.jpg"
+            }, 
+            "original_title": "The Hot Spot", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "激情沸点", 
+            "year": "1990"
+        }
+    ], 
+    "title": "搜索 \"激情沸点\" 的结果", 
+    "total": 1
+}

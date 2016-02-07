@@ -1,0 +1,569 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3407821/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013761/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5130.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5130.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5130.jpg"
+                    }, 
+                    "id": "1013761", 
+                    "name": "方·基默"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004641/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/53041.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/53041.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/53041.jpg"
+                    }, 
+                    "id": "1004641", 
+                    "name": "伊莎贝拉·米珂"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1147171/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1407580141.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1407580141.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1407580141.59.jpg"
+                    }, 
+                    "id": "1147171", 
+                    "name": "Hristo Shopov"
+                }
+            ], 
+            "collect_count": 2099, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001014/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1001014", 
+                    "name": "Dennis Dimster"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "3407821", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4135729.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4135729.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4135729.jpg"
+            }, 
+            "original_title": "Double Identity", 
+            "rating": {
+                "average": 4.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "双重身份", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2125231/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036398/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2607.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2607.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2607.jpg"
+                    }, 
+                    "id": "1036398", 
+                    "name": "蒂尔·施威格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040688/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27283.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27283.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27283.jpg"
+                    }, 
+                    "id": "1040688", 
+                    "name": "亚历山德拉·玛丽亚·拉那"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jürgen Vogel"
+                }
+            ], 
+            "collect_count": 274, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041948/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1041948", 
+                    "name": "安诺·绍尔"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "运动"
+            ], 
+            "id": "2125231", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2192282659.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2192282659.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2192282659.jpg"
+            }, 
+            "original_title": "Wo ist Fred?", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "双重身份", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24703968/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010856/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55224.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55224.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55224.jpg"
+                    }, 
+                    "id": "1010856", 
+                    "name": "阿琼·卡普尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1204177/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1353306610.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1353306610.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1353306610.26.jpg"
+                    }, 
+                    "id": "1204177", 
+                    "name": "Prithviraj Sukumaran "
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050067/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27629.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27629.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27629.jpg"
+                    }, 
+                    "id": "1050067", 
+                    "name": "里希·卡普尔"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1006489", 
+                    "name": "Atul Sabharwal"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "惊悚"
+            ], 
+            "id": "24703968", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2009331093.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2009331093.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2009331093.jpg"
+            }, 
+            "original_title": "Aurangzeb", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "双重身份", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4076950/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Leslie Zemeckis ...  Reese (as Lesley Lindsay)"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Amy Lindsay ...  Chloe (as Lexie Tyler)"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Basil MacDonald ...  John Littman"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "E.J. Samuels"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "4076950", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4012159.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4012159.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4012159.jpg"
+            }, 
+            "original_title": "Sex Files: Double Identity", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "情色档案之双重身份", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299172/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022595/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51331.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51331.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51331.jpg"
+                    }, 
+                    "id": "1022595", 
+                    "name": "史蒂夫·马丁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049728/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1424075115.38.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1424075115.38.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1424075115.38.jpg"
+                    }, 
+                    "id": "1049728", 
+                    "name": "莉莉·汤姆林"
+                }
+            ], 
+            "collect_count": 20, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032081/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5728.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5728.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5728.jpg"
+                    }, 
+                    "id": "1032081", 
+                    "name": "卡尔·雷纳"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻", 
+                "爱情"
+            ], 
+            "id": "1299172", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11181550.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11181550.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11181550.jpg"
+            }, 
+            "original_title": "All of Me", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "衰鬼上错身", 
+            "year": "1984"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1306517/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000195/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16738.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16738.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16738.jpg"
+                    }, 
+                    "id": "1000195", 
+                    "name": "奥兰多·琼斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010643/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14748.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14748.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14748.jpg"
+                    }, 
+                    "id": "1010643", 
+                    "name": "艾迪·格里芬"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1099260/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47177.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47177.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47177.jpg"
+                    }, 
+                    "id": "1099260", 
+                    "name": "加里·格鲁布斯"
+                }
+            ], 
+            "collect_count": 101, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "George Gallo"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "1306517", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4642385.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4642385.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4642385.jpg"
+            }, 
+            "original_title": "Double Take", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "妙探追缉令", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3545186/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Daniel Barenboim"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Cecilia Bartoli"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pierre Boulez"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Isabel Iturriagagoitia"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paul Smaczny"
+                }
+            ], 
+            "genres": [], 
+            "id": "3545186", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4377001.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4377001.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4377001.jpg"
+            }, 
+            "original_title": "Multiple Identities: Encounters with Daniel Barenboim (2002)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "多重身份－邂逅巴伦伯依姆", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299133/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035643/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/989.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/989.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/989.jpg"
+                    }, 
+                    "id": "1035643", 
+                    "name": "阿诺·施瓦辛格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022911/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26505.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26505.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26505.jpg"
+                    }, 
+                    "id": "1022911", 
+                    "name": "凯思琳·哈罗德"
+                }
+            ], 
+            "collect_count": 547, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045256/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1386635031.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1386635031.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1386635031.52.jpg"
+                    }, 
+                    "id": "1045256", 
+                    "name": "约翰·伊文"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1299133", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4503408.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4503408.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4503408.jpg"
+            }, 
+            "original_title": "Raw Deal", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "边缘战士", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2132824/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002897/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18106.jpg"
+                    }, 
+                    "id": "1002897", 
+                    "name": "丹尼斯·欧基夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032266/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1361318440.76.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1361318440.76.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1361318440.76.jpg"
+                    }, 
+                    "id": "1032266", 
+                    "name": "克莱尔·特雷弗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027934/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1392298254.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1392298254.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1392298254.26.jpg"
+                    }, 
+                    "id": "1027934", 
+                    "name": "玛莎·亨特 "
+                }
+            ], 
+            "collect_count": 56, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009612/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1386375552.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1386375552.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1386375552.71.jpg"
+                    }, 
+                    "id": "1009612", 
+                    "name": "安东尼·曼"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "黑色电影", 
+                "剧情"
+            ], 
+            "id": "2132824", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4120661.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4120661.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4120661.jpg"
+            }, 
+            "original_title": "Raw Deal", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "不公平的遭遇", 
+            "year": "1948"
+        }
+    ], 
+    "title": "搜索 \"双重身份\" 的结果", 
+    "total": 9
+}

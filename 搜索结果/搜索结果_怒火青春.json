@@ -1,0 +1,658 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1306449/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036377/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/911.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/911.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/911.jpg"
+                    }, 
+                    "id": "1036377", 
+                    "name": "文森特·卡索"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014363/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1387632629.6.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1387632629.6.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1387632629.6.jpg"
+                    }, 
+                    "id": "1014363", 
+                    "name": "哈勃·孔黛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010660/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11712.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11712.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11712.jpg"
+                    }, 
+                    "id": "1010660", 
+                    "name": "萨伊德·塔格马奥"
+                }
+            ], 
+            "collect_count": 11138, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022733/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34948.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34948.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34948.jpg"
+                    }, 
+                    "id": "1022733", 
+                    "name": "马修·卡索维茨"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1306449", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2211482819.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2211482819.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2211482819.jpg"
+            }, 
+            "original_title": "La haine", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "怒火青春", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1306000/", 
+            "casts": [], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "保罗 博加特 (Paul Bogart)"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1306000", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11101435.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11101435.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11101435.jpg"
+            }, 
+            "original_title": "Halls of Anger", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "青春怒火", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305364/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003494/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/67.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/67.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/67.jpg"
+                    }, 
+                    "id": "1003494", 
+                    "name": "张国荣"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274302/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24336.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24336.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24336.jpg"
+                    }, 
+                    "id": "1274302", 
+                    "name": "夏文汐"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028943/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2333.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2333.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2333.jpg"
+                    }, 
+                    "id": "1028943", 
+                    "name": "汤镇业"
+                }
+            ], 
+            "collect_count": 4727, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275088/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10633.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10633.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10633.jpg"
+                    }, 
+                    "id": "1275088", 
+                    "name": "谭家明"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "惊悚"
+            ], 
+            "id": "1305364", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1387387.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1387387.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1387387.jpg"
+            }, 
+            "original_title": "烈火青春", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "烈火青春", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10748086/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274884/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7387.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7387.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7387.jpg"
+                    }, 
+                    "id": "1274884", 
+                    "name": "邵兵"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274488/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13689.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13689.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13689.jpg"
+                    }, 
+                    "id": "1274488", 
+                    "name": "杨若兮"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1276107/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35162.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35162.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35162.jpg"
+                    }, 
+                    "id": "1276107", 
+                    "name": "王新军"
+                }
+            ], 
+            "collect_count": 25, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张汉杰"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "传记", 
+                "历史"
+            ], 
+            "id": "10748086", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9112372.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9112372.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9112372.jpg"
+            }, 
+            "original_title": "石光荣的战火青春", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "石光荣的战火青春", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1947381/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1043139/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4141.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4141.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4141.jpg"
+                    }, 
+                    "id": "1043139", 
+                    "name": "梁汉文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1173971/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40056.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40056.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40056.jpg"
+                    }, 
+                    "id": "1173971", 
+                    "name": "杨千嬅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023424/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14221.jpg"
+                    }, 
+                    "id": "1023424", 
+                    "name": "陈奕迅"
+                }
+            ], 
+            "collect_count": 347, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023957/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3504.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3504.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3504.jpg"
+                    }, 
+                    "id": "1023957", 
+                    "name": "阮世生"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1947381", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2392705.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2392705.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2392705.jpg"
+            }, 
+            "original_title": "烈火青春", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "烈火青春", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4917686/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张尧"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李昕"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵倩云"
+                }
+            ], 
+            "collect_count": 20, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "回宇"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张尧"
+                }
+            ], 
+            "genres": [], 
+            "id": "4917686", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4419881.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4419881.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4419881.jpg"
+            }, 
+            "original_title": "焰火青春", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "焰火青春", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25794236/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274651/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5970.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5970.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5970.jpg"
+                    }, 
+                    "id": "1274651", 
+                    "name": "凌潇肃"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275430/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13632.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13632.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13632.jpg"
+                    }, 
+                    "id": "1275430", 
+                    "name": "戴娇倩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315180/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/tkt9Jive6AAcel_avatar_uploaded1365476604.1.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/tkt9Jive6AAcel_avatar_uploaded1365476604.1.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/tkt9Jive6AAcel_avatar_uploaded1365476604.1.jpg"
+                    }, 
+                    "id": "1315180", 
+                    "name": "张明健"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317808/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41328.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41328.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41328.jpg"
+                    }, 
+                    "id": "1317808", 
+                    "name": "孙文学"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25794236", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "烽火青春", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "烽火青春", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6796112/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275487/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32410.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32410.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32410.jpg"
+                    }, 
+                    "id": "1275487", 
+                    "name": "王雷"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317994/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42009.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42009.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42009.jpg"
+                    }, 
+                    "id": "1317994", 
+                    "name": "王媛可"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318285/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1442470752.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1442470752.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1442470752.44.jpg"
+                    }, 
+                    "id": "1318285", 
+                    "name": "蒋毅"
+                }
+            ], 
+            "collect_count": 1046, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318245/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47352.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47352.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47352.jpg"
+                    }, 
+                    "id": "1318245", 
+                    "name": "毛卫宁"
+                }
+            ], 
+            "genres": [
+                "历史", 
+                "战争"
+            ], 
+            "id": "6796112", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1713879460.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1713879460.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1713879460.jpg"
+            }, 
+            "original_title": "战旗", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "战旗", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2330221/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "稻垣吾郎"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "牧瀨里穗"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "深津絵里"
+                }
+            ], 
+            "collect_count": 74, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "中江功"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "永山耕三"
+                }
+            ], 
+            "genres": [], 
+            "id": "2330221", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2785984.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2785984.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2785984.jpg"
+            }, 
+            "original_title": "二十歳の約束", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "二十岁的约定", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1421308/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Phoebe Cates"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bridget Fonda"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tim Roth"
+                }
+            ], 
+            "collect_count": 37, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Steinberg"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1421308", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2369521.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2369521.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2369521.jpg"
+            }, 
+            "original_title": "Bodies, Rest And Motion", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱情四重奏", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3598391/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "安在旭"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "宋允儿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金智秀"
+                }
+            ], 
+            "collect_count": 35, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张容佑"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3598391", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3658747.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3658747.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3658747.jpg"
+            }, 
+            "original_title": "나쁜 친구들", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "坏朋友", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"怒火青春\" 的结果", 
+    "total": 11
+}

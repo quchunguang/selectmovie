@@ -1,0 +1,110 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1865561/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040679/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10319.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10319.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10319.jpg"
+                    }, 
+                    "id": "1040679", 
+                    "name": "马修·阿马立克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010589/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25028.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25028.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25028.jpg"
+                    }, 
+                    "id": "1010589", 
+                    "name": "艾玛纽尔·塞尼耶"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032143/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4916.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4916.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4916.jpg"
+                    }, 
+                    "id": "1032143", 
+                    "name": "玛丽-乔西·克罗兹"
+                }
+            ], 
+            "collect_count": 41431, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040777/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1448.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1448.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1448.jpg"
+                    }, 
+                    "id": "1040777", 
+                    "name": "朱利安·施纳贝尔"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情"
+            ], 
+            "id": "1865561", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p553666966.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p553666966.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p553666966.jpg"
+            }, 
+            "original_title": "Le scaphandre et le papillon", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "潜水钟与蝴蝶", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3058170/", 
+            "casts": [], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054756/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14048.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14048.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14048.jpg"
+                    }, 
+                    "id": "1054756", 
+                    "name": "让-雅克·贝奈克斯"
+                }
+            ], 
+            "genres": [], 
+            "id": "3058170", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3054828.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3054828.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3054828.jpg"
+            }, 
+            "original_title": "Assigné à résidence", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "闭锁综合症", 
+            "year": "1997"
+        }
+    ], 
+    "title": "搜索 \"潜水钟与蝴蝶\" 的结果", 
+    "total": 2
+}

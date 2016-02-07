@@ -1,0 +1,959 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2263153/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019023/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1370926948.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1370926948.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1370926948.17.jpg"
+                    }, 
+                    "id": "1019023", 
+                    "name": "朗·里维斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025179/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4011.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4011.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4011.jpg"
+                    }, 
+                    "id": "1025179", 
+                    "name": "梅利莎·乔治"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004566/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21073.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21073.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21073.jpg"
+                    }, 
+                    "id": "1004566", 
+                    "name": "麦克·辛"
+                }
+            ], 
+            "collect_count": 1951, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014924/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1014924", 
+                    "name": "史蒂文·萨瓦里克"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "2263153", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2715796.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2715796.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2715796.jpg"
+            }, 
+            "original_title": "Music Within", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵深处的音乐", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303101/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042637/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2134.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2134.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2134.jpg"
+                    }, 
+                    "id": "1042637", 
+                    "name": "刘晓庆"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王志华"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈国军"
+                }
+            ], 
+            "collect_count": 64, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "常彦"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1303101", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2358963.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2358963.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2358963.jpg"
+            }, 
+            "original_title": "心灵深处", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵深处", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6226837/", 
+            "casts": [], 
+            "collect_count": 68, 
+            "directors": [], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "6226837", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s5235938.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s5235938.jpg", 
+                "small": "https://img1.doubanio.com/spic/s5235938.jpg"
+            }, 
+            "original_title": "pbs musical minds  音乐心灵", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "PBS 新星  音乐心灵", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25727048/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054410/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1453792363.04.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1453792363.04.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1453792363.04.jpg"
+                    }, 
+                    "id": "1054410", 
+                    "name": "伊恩·麦克莱恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053572/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/516.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/516.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/516.jpg"
+                    }, 
+                    "id": "1053572", 
+                    "name": "劳拉·琳妮"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027879/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390073617.82.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390073617.82.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390073617.82.jpg"
+                    }, 
+                    "id": "1027879", 
+                    "name": "真田广之"
+                }
+            ], 
+            "collect_count": 31199, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027245/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/42170.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/42170.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/42170.jpg"
+                    }, 
+                    "id": "1027245", 
+                    "name": "比尔·康顿"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "25727048", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2268827627.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2268827627.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2268827627.jpg"
+            }, 
+            "original_title": "Mr. Holmes", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "福尔摩斯先生", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308777/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054438/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/615.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/615.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/615.jpg"
+                    }, 
+                    "id": "1054438", 
+                    "name": "金·凯瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054446/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53358.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53358.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53358.jpg"
+                    }, 
+                    "id": "1054446", 
+                    "name": "凯特·温丝莱特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054429/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3127.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3127.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3127.jpg"
+                    }, 
+                    "id": "1054429", 
+                    "name": "克斯汀·邓斯特"
+                }
+            ], 
+            "collect_count": 146339, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044932/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1634.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1634.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1634.jpg"
+                    }, 
+                    "id": "1044932", 
+                    "name": "米歇尔·冈瑞"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "奇幻"
+            ], 
+            "id": "1308777", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p479565065.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p479565065.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p479565065.jpg"
+            }, 
+            "original_title": "Eternal Sunshine of the Spotless Mind", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "暖暖内含光", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3006550/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Garfield"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Micheline Presle"
+                }
+            ], 
+            "collect_count": 38, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean Negulesco"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "运动", 
+                "惊悚"
+            ], 
+            "id": "3006550", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2280437593.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2280437593.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2280437593.jpg"
+            }, 
+            "original_title": "Under My Skin", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵深处", 
+            "year": "1950"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294408/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041081/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4777.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4777.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4777.jpg"
+                    }, 
+                    "id": "1041081", 
+                    "name": "朱莉·安德鲁斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036321/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42033.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42033.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42033.jpg"
+                    }, 
+                    "id": "1036321", 
+                    "name": "克里斯托弗·普卢默"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010671/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6346.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6346.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6346.jpg"
+                    }, 
+                    "id": "1010671", 
+                    "name": "埃琳诺·帕克"
+                }
+            ], 
+            "collect_count": 271290, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049929/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8102.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8102.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8102.jpg"
+                    }, 
+                    "id": "1049929", 
+                    "name": "罗伯特·怀斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "歌舞"
+            ], 
+            "id": "1294408", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p453788577.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p453788577.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p453788577.jpg"
+            }, 
+            "original_title": "The Sound of Music", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "音乐之声", 
+            "year": "1965"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308060/", 
+            "casts": [], 
+            "collect_count": 136, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3619.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3619.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3619.jpg"
+                    }, 
+                    "id": "1042534", 
+                    "name": "张婉婷"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "传记"
+            ], 
+            "id": "1308060", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2041986784.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2041986784.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2041986784.jpg"
+            }, 
+            "original_title": "龙的深处―失落的拼图", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "龙的深处―失落的拼图", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6147236/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "佟瑞鑫"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "史凤和"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6147236", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2007384132.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2007384132.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2007384132.jpg"
+            }, 
+            "original_title": "大山深处的保尔", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大山深处的保尔", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26631388/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26631388", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2271240844.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2271240844.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2271240844.jpg"
+            }, 
+            "original_title": "红旗渠——太行深处的记忆", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "红旗渠——太行深处的记忆", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4006448/", 
+            "casts": [], 
+            "collect_count": 304, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李频"
+                }
+            ], 
+            "genres": [], 
+            "id": "4006448", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3958181.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3958181.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3958181.jpg"
+            }, 
+            "original_title": "心灵之窗——百分之一的灵感借鉴", 
+            "rating": {
+                "average": 2.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "15"
+            }, 
+            "subtype": "tv", 
+            "title": "心灵之窗", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3406833/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王苏娅"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周国宾"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "薛淑杰"
+                }
+            ], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "沈耀庭"
+                }
+            ], 
+            "genres": [], 
+            "id": "3406833", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3537021.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3537021.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3537021.jpg"
+            }, 
+            "original_title": "心灵的火花", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵的火花", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300394/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "谢园"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈立州 (Lizhou Chen)"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1300394", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7002315.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7002315.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7002315.jpg"
+            }, 
+            "original_title": "心灵的呼声", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵的呼声", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2079518/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵毅"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王焕武"
+                }
+            ], 
+            "genres": [], 
+            "id": "2079518", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "心灵的小河", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵的小河", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4233882/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郑松茂 潘西平 王宝坤 王泉 刘燕瑾"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郝光"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙小路"
+                }
+            ], 
+            "genres": [], 
+            "id": "4233882", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4135587.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4135587.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4135587.jpg"
+            }, 
+            "original_title": "心灵的搏斗", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵的搏斗", 
+            "year": "1983"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/19966560/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘青"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙乐"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "霍泥芳"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "过华"
+                }
+            ], 
+            "genres": [], 
+            "id": "19966560", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s22707774.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s22707774.jpg", 
+                "small": "https://img1.doubanio.com/spic/s22707774.jpg"
+            }, 
+            "original_title": "心灵的阳光", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵的阳光", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26395035/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016281/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9660.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9660.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9660.jpg"
+                    }, 
+                    "id": "1016281", 
+                    "name": "谢铁骊"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨殿启"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "谢芳"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "虎子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙浩洋"
+                }
+            ], 
+            "genres": [], 
+            "id": "26395035", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "心灵的责任", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "心灵的责任", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26645052/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈海波"
+                }
+            ], 
+            "genres": [], 
+            "id": "26645052", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2276680334.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2276680334.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2276680334.jpg"
+            }, 
+            "original_title": "RABBYCC之卡罗的心灵世界", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "RABBYCC之卡罗的心灵世界", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26685474/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1353447/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/aZWoKtHhpAcel_avatar_uploaded1450095460.8.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/aZWoKtHhpAcel_avatar_uploaded1450095460.8.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/aZWoKtHhpAcel_avatar_uploaded1450095460.8.jpg"
+                    }, 
+                    "id": "1353447", 
+                    "name": "梁欢"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "韦伟"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曾宇"
+                }
+            ], 
+            "collect_count": 588, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1353447/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/aZWoKtHhpAcel_avatar_uploaded1450095460.8.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/aZWoKtHhpAcel_avatar_uploaded1450095460.8.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/aZWoKtHhpAcel_avatar_uploaded1450095460.8.jpg"
+                    }, 
+                    "id": "1353447", 
+                    "name": "梁欢"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26685474", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2295268860.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2295268860.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2295268860.jpg"
+            }, 
+            "original_title": "音乐的秘密", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "音乐的秘密", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21533246/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "崔健"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘索拉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "丁武"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "洪眉"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "21533246", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s25800781.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s25800781.jpg", 
+                "small": "https://img3.doubanio.com/spic/s25800781.jpg"
+            }, 
+            "original_title": "中国新音乐的N个瞬间", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "中国新音乐的N个瞬间", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"心灵深处的音乐\" 的结果", 
+    "total": 115
+}

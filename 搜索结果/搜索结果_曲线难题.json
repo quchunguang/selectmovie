@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6888712/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022563/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23782.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23782.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23782.jpg"
+                    }, 
+                    "id": "1022563", 
+                    "name": "艾米·亚当斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017898/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1360912229.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1360912229.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1360912229.81.jpg"
+                    }, 
+                    "id": "1017898", 
+                    "name": "约翰·古德曼"
+                }
+            ], 
+            "collect_count": 8244, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1290324/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58147.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58147.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58147.jpg"
+                    }, 
+                    "id": "1290324", 
+                    "name": "罗伯特·洛伦兹"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "运动"
+            ], 
+            "id": "6888712", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1716299744.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1716299744.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1716299744.jpg"
+            }, 
+            "original_title": "Trouble with the Curve", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "曲线难题", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"曲线难题\" 的结果", 
+    "total": 1
+}

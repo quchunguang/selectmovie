@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10810745/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044871/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/204.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/204.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/204.jpg"
+                    }, 
+                    "id": "1044871", 
+                    "name": "丽贝卡·豪尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003482/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26070.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26070.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26070.jpg"
+                    }, 
+                    "id": "1003482", 
+                    "name": "保罗·贝坦尼"
+                }
+            ], 
+            "collect_count": 64517, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009551/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6750.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6750.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6750.jpg"
+                    }, 
+                    "id": "1009551", 
+                    "name": "沃利·菲斯特"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "爱情", 
+                "科幻"
+            ], 
+            "id": "10810745", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2178116605.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2178116605.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2178116605.jpg"
+            }, 
+            "original_title": "Transcendence", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "超验骇客", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"超验骇客\" 的结果", 
+    "total": 1
+}

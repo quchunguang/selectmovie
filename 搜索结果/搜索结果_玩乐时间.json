@@ -1,0 +1,150 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1303543/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027374/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21092.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21092.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21092.jpg"
+                    }, 
+                    "id": "1027374", 
+                    "name": "雅克·塔蒂"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Barbara Dennek"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rita Maiden"
+                }
+            ], 
+            "collect_count": 4740, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027374/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21092.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21092.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21092.jpg"
+                    }, 
+                    "id": "1027374", 
+                    "name": "雅克·塔蒂"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1303543", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2192795338.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2192795338.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2192795338.jpg"
+            }, 
+            "original_title": "Play Time", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "玩乐时间", 
+            "year": "1967"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4133826/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jennifer Burton ...  Lindsey"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elliott David ...  Joe"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Monique Parent ...  Geena"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dale Trevillion"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "4133826", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4053192.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4053192.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4053192.jpg"
+            }, 
+            "original_title": "play time", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "玩乐时间", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26644005/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hélder Nóbrega"
+                }
+            ], 
+            "genres": [], 
+            "id": "26644005", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Bud's Songs Time", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "巴德的音乐时间", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"玩乐时间\" 的结果", 
+    "total": 3
+}

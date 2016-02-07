@@ -1,0 +1,875 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2159331/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017896/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3840.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3840.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3840.jpg"
+                    }, 
+                    "id": "1017896", 
+                    "name": "尼尔·帕特里克·哈里斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009237/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6322.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6322.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6322.jpg"
+                    }, 
+                    "id": "1009237", 
+                    "name": "杰玛·梅斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044724/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24232.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24232.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24232.jpg"
+                    }, 
+                    "id": "1044724", 
+                    "name": "汉克·阿扎利亚"
+                }
+            ], 
+            "collect_count": 98563, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036533/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5860.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5860.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5860.jpg"
+                    }, 
+                    "id": "1036533", 
+                    "name": "拉加·高斯内尔"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "奇幻"
+            ], 
+            "id": "2159331", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p884990120.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p884990120.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p884990120.jpg"
+            }, 
+            "original_title": "The Smurfs", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "蓝精灵", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10571724/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1166432/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7242.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7242.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7242.jpg"
+                    }, 
+                    "id": "1166432", 
+                    "name": "珊农·沃德华德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314215/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22639.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22639.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22639.jpg"
+                    }, 
+                    "id": "1314215", 
+                    "name": "蕾切尔·马卡里兰"
+                }
+            ], 
+            "collect_count": 5350, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045992/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50866.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50866.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50866.jpg"
+                    }, 
+                    "id": "1045992", 
+                    "name": "丹·库特弗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023502/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50867.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50867.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50867.jpg"
+                    }, 
+                    "id": "1023502", 
+                    "name": "珍·利普希茨"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "音乐"
+            ], 
+            "id": "10571724", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9114581.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9114581.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9114581.jpg"
+            }, 
+            "original_title": "Katy Perry: Part of Me", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "凯蒂·派瑞：这样的我", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26360782/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }
+            ], 
+            "collect_count": 64, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Russell Thomas"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "音乐", 
+                "歌舞"
+            ], 
+            "id": "26360782", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2239502208.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2239502208.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2239502208.jpg"
+            }, 
+            "original_title": "Katy Perry: The Prismatic World Tour", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "凯蒂·派瑞：棱镜世界巡演", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6870493/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017896/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3840.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3840.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3840.jpg"
+                    }, 
+                    "id": "1017896", 
+                    "name": "尼尔·帕特里克·哈里斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000078/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3150.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3150.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3150.jpg"
+                    }, 
+                    "id": "1000078", 
+                    "name": "布莱丹·格里森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044724/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24232.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24232.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24232.jpg"
+                    }, 
+                    "id": "1044724", 
+                    "name": "汉克·阿扎利亚"
+                }
+            ], 
+            "collect_count": 20341, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036533/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5860.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5860.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5860.jpg"
+                    }, 
+                    "id": "1036533", 
+                    "name": "拉加·高斯内尔"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "奇幻"
+            ], 
+            "id": "6870493", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2089514860.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2089514860.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2089514860.jpg"
+            }, 
+            "original_title": "The Smurfs 2", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "蓝精灵2", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6806587/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lady Gaga"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Adele"
+                }
+            ], 
+            "collect_count": 1384, 
+            "directors": [], 
+            "genres": [], 
+            "id": "6806587", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6892361.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6892361.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6892361.jpg"
+            }, 
+            "original_title": "MTV Video Music Awards 2011", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "2011 MTV音乐录影带颁奖典礼", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6967710/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022588/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6537.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6537.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6537.jpg"
+                    }, 
+                    "id": "1022588", 
+                    "name": "克里斯汀·韦格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025187/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48146.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48146.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48146.jpg"
+                    }, 
+                    "id": "1025187", 
+                    "name": "安迪·萨姆伯格"
+                }
+            ], 
+            "collect_count": 935, 
+            "directors": [], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "6967710", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7023157.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7023157.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7023157.jpg"
+            }, 
+            "original_title": "Saturday Night Live Katy Perry/Robyn", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "周六夜现场", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5279720/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049515/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48859.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48859.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48859.jpg"
+                    }, 
+                    "id": "1049515", 
+                    "name": "艾米·波勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044730/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14493.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14493.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14493.jpg"
+                    }, 
+                    "id": "1044730", 
+                    "name": "蒂娜·菲"
+                }
+            ], 
+            "collect_count": 676, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "音乐"
+            ], 
+            "id": "5279720", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4489590.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4489590.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4489590.jpg"
+            }, 
+            "original_title": "Saturday Night Live Amy Poehler/Katy Perry", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "周六夜现场", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25723221/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010509/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/106.jpg"
+                    }, 
+                    "id": "1010509", 
+                    "name": "布鲁斯·威利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }
+            ], 
+            "collect_count": 453, 
+            "directors": [], 
+            "genres": [], 
+            "id": "25723221", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2153943586.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2153943586.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2153943586.jpg"
+            }, 
+            "original_title": "Saturday Night Live Bruce Willis/Katy Perry", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "周六夜现场", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4995708/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016654/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31850.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31850.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31850.jpg"
+                    }, 
+                    "id": "1016654", 
+                    "name": "克里斯·柯尔弗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044703/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48622.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48622.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48622.jpg"
+                    }, 
+                    "id": "1044703", 
+                    "name": "柯瑞·蒙特斯"
+                }
+            ], 
+            "collect_count": 425, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1089938/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1089938", 
+                    "name": "Michael Dempsey"
+                }
+            ], 
+            "genres": [
+                "家庭"
+            ], 
+            "id": "4995708", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4437205.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4437205.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4437205.jpg"
+            }, 
+            "original_title": "Teen Choice Awards 2010", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "2010年青少年选择奖颁奖典礼", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7004600/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047993/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366096144.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366096144.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366096144.58.jpg"
+                    }, 
+                    "id": "1047993", 
+                    "name": "赛琳娜·戈麦斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "LMFAO"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bruno Mars"
+                }
+            ], 
+            "collect_count": 85, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305656/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1305656", 
+                    "name": "Russell Thomas"
+                }
+            ], 
+            "genres": [
+                "音乐"
+            ], 
+            "id": "7004600", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7005914.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7005914.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7005914.jpg"
+            }, 
+            "original_title": "MTV Europe Music Awards 2011", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "2011年MTV欧洲音乐大奖", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6895437/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042857/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042857", 
+                    "name": "Jim Cantiello"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047993/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366096144.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366096144.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366096144.58.jpg"
+                    }, 
+                    "id": "1047993", 
+                    "name": "赛琳娜·戈麦斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1269255/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2439.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2439.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2439.jpg"
+                    }, 
+                    "id": "1269255", 
+                    "name": "贾斯汀·比伯"
+                }
+            ], 
+            "collect_count": 34, 
+            "directors": [], 
+            "genres": [
+                "音乐"
+            ], 
+            "id": "6895437", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6974241.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6974241.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6974241.jpg"
+            }, 
+            "original_title": "MTV Video Music Awards 2011 Pre-Show", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "MTV Video Music Awards 2011 Pre-Show", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26416360/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1252821/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31344.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31344.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31344.jpg"
+                    }, 
+                    "id": "1252821", 
+                    "name": "皮特保罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001373/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1353472498.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1353472498.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1353472498.42.jpg"
+                    }, 
+                    "id": "1001373", 
+                    "name": "泰勒·斯威夫特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1331706/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1434886589.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1434886589.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1434886589.9.jpg"
+                    }, 
+                    "id": "1331706", 
+                    "name": "奥卓·阿杜巴"
+                }
+            ], 
+            "collect_count": 32, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26416360", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2262570129.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2262570129.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2262570129.jpg"
+            }, 
+            "original_title": "American Music Awards 2014", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "2014年第42届全美音乐奖", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5232644/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carly Rae Jepsen"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1269255/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2439.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2439.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2439.jpg"
+                    }, 
+                    "id": "1269255", 
+                    "name": "贾斯汀·比伯"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [], 
+            "genres": [
+                "音乐"
+            ], 
+            "id": "5232644", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10390097.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10390097.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10390097.jpg"
+            }, 
+            "original_title": "2012 Muchmusic Video Music Awards", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "2012 Muchmusic Video Music Awards", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10581849/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313327/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16444.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16444.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16444.jpg"
+                    }, 
+                    "id": "1313327", 
+                    "name": "凯莉·希尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1258519/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1258519", 
+                    "name": "Jennifer Nettles"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [], 
+            "genres": [
+                "音乐"
+            ], 
+            "id": "10581849", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9025442.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9025442.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9025442.jpg"
+            }, 
+            "original_title": "VH1 Divas Salute the Troops (TV 2010)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "VH1 Divas Salute the Troops (TV 2010)", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10487584/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22954.jpg"
+                    }, 
+                    "id": "1041102", 
+                    "name": "凯蒂·派瑞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Adele"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Coldplay"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1286947/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1286947", 
+                    "name": "Louis J. Horvitz"
+                }
+            ], 
+            "genres": [
+                "音乐"
+            ], 
+            "id": "10487584", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7664924.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7664924.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7664924.jpg"
+            }, 
+            "original_title": "The 54th Annual Grammy Awards", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "第54届格莱美奖颁奖典礼", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"凯蒂·派瑞\" 的结果", 
+    "total": 15
+}

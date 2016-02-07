@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10749958/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031795/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25599.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25599.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25599.jpg"
+                    }, 
+                    "id": "1031795", 
+                    "name": "奥利维亚·王尔德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003481/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31758.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31758.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31758.jpg"
+                    }, 
+                    "id": "1003481", 
+                    "name": "米拉·库尼斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019001/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6610.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6610.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6610.jpg"
+                    }, 
+                    "id": "1019001", 
+                    "name": "詹姆斯·弗兰科"
+                }
+            ], 
+            "collect_count": 3240, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032048/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8247.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8247.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8247.jpg"
+                    }, 
+                    "id": "1032048", 
+                    "name": "保罗·哈吉斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "10749958", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2184727114.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2184727114.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2184727114.jpg"
+            }, 
+            "original_title": "Third Person", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "出轨幻想", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"出轨幻想\" 的结果", 
+    "total": 1
+}

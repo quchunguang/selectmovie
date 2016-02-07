@@ -1,0 +1,470 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1851857/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005773/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/88.jpg"
+                    }, 
+                    "id": "1005773", 
+                    "name": "克里斯蒂安·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006957/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13801.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13801.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13801.jpg"
+                    }, 
+                    "id": "1006957", 
+                    "name": "希斯·莱杰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053577/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/522.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/522.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/522.jpg"
+                    }, 
+                    "id": "1053577", 
+                    "name": "艾伦·艾克哈特"
+                }
+            ], 
+            "collect_count": 310644, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/673.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/673.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/673.jpg"
+                    }, 
+                    "id": "1054524", 
+                    "name": "克里斯托弗·诺兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "1851857", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p462657443.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p462657443.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p462657443.jpg"
+            }, 
+            "original_title": "The Dark Knight", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：黑暗骑士", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3395373/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005773/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/88.jpg"
+                    }, 
+                    "id": "1005773", 
+                    "name": "克里斯蒂安·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5110.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5110.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5110.jpg"
+                    }, 
+                    "id": "1049489", 
+                    "name": "汤姆·哈迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048027/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10467.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10467.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10467.jpg"
+                    }, 
+                    "id": "1048027", 
+                    "name": "安妮·海瑟薇"
+                }
+            ], 
+            "collect_count": 289051, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/673.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/673.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/673.jpg"
+                    }, 
+                    "id": "1054524", 
+                    "name": "克里斯托弗·诺兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3395373", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1706428744.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1706428744.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1706428744.jpg"
+            }, 
+            "original_title": "The Dark Knight Rises", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：黑暗骑士崛起", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11443810/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010564/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10029.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10029.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10029.jpg"
+                    }, 
+                    "id": "1010564", 
+                    "name": "彼得·威勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004620/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1381161073.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1381161073.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1381161073.42.jpg"
+                    }, 
+                    "id": "1004620", 
+                    "name": "阿芮尔·温特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049520/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31090.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31090.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31090.jpg"
+                    }, 
+                    "id": "1049520", 
+                    "name": "迈克尔·爱默生"
+                }
+            ], 
+            "collect_count": 14072, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322088/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1361805483.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1361805483.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1361805483.61.jpg"
+                    }, 
+                    "id": "1322088", 
+                    "name": "杰伊·欧力瓦"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "动画"
+            ], 
+            "id": "11443810", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1771403296.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1771403296.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1771403296.jpg"
+            }, 
+            "original_title": "Batman: The Dark Knight Returns, Part 2", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：黑暗骑士归来(下)", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11443807/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010564/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10029.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10029.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10029.jpg"
+                    }, 
+                    "id": "1010564", 
+                    "name": "彼得·威勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004620/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1381161073.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1381161073.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1381161073.42.jpg"
+                    }, 
+                    "id": "1004620", 
+                    "name": "阿芮尔·温特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049520/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31090.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31090.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31090.jpg"
+                    }, 
+                    "id": "1049520", 
+                    "name": "迈克尔·爱默生"
+                }
+            ], 
+            "collect_count": 12998, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322088/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1361805483.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1361805483.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1361805483.61.jpg"
+                    }, 
+                    "id": "1322088", 
+                    "name": "杰伊·欧力瓦"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "动画"
+            ], 
+            "id": "11443807", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s22794533.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s22794533.jpg", 
+                "small": "https://img1.doubanio.com/spic/s22794533.jpg"
+            }, 
+            "original_title": "Batman: The Dark Knight Returns, Part 1", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：黑暗骑士归来(上)", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11587538/", 
+            "casts": [], 
+            "collect_count": 666, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322383/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53763.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53763.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53763.jpg"
+                    }, 
+                    "id": "1322383", 
+                    "name": "黄智亨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274244/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1387853548.15.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1387853548.15.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1387853548.15.jpg"
+                    }, 
+                    "id": "1274244", 
+                    "name": "郭子健"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动画", 
+                "短片"
+            ], 
+            "id": "11587538", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11169840.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11169840.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11169840.jpg"
+            }, 
+            "original_title": "Batman: Dark Knightfall", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：黑暗骑士陨落", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11443811/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Harlan Ellison"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Cotta Vaz"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael E. Uslan"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "11443811", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Legends of the Dark Knight: The History of Batman", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗骑士传奇：蝙蝠侠的历史", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1309069/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005773/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/88.jpg"
+                    }, 
+                    "id": "1005773", 
+                    "name": "克里斯蒂安·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054509/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56212.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56212.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56212.jpg"
+                    }, 
+                    "id": "1054509", 
+                    "name": "迈克尔·凯恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031220/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44906.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44906.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44906.jpg"
+                    }, 
+                    "id": "1031220", 
+                    "name": "连姆·尼森"
+                }
+            ], 
+            "collect_count": 133028, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/673.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/673.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/673.jpg"
+                    }, 
+                    "id": "1054524", 
+                    "name": "克里斯托弗·诺兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "1309069", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1208920728.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1208920728.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1208920728.jpg"
+            }, 
+            "original_title": "Batman Begins", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠：侠影之谜", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5211787/", 
+            "casts": [], 
+            "collect_count": 168, 
+            "directors": [], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "5211787", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6937171.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6937171.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6937171.jpg"
+            }, 
+            "original_title": "Batman Begins: Path to Discovery", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "蝙蝠侠前传：未来之路", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"蝙蝠侠前传2：黑暗骑士\" 的结果", 
+    "total": 8
+}

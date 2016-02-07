@@ -1,0 +1,236 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1300820/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050074/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15474.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15474.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15474.jpg"
+                    }, 
+                    "id": "1050074", 
+                    "name": "艾米莉·德奎恩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fabrizio Rongione"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anne Yernaux"
+                }
+            ], 
+            "collect_count": 5950, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045271/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4483.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4483.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4483.jpg"
+                    }, 
+                    "id": "1045271", 
+                    "name": "让-皮埃尔·达内"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032736/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3270.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3270.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3270.jpg"
+                    }, 
+                    "id": "1032736", 
+                    "name": "吕克·达内"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1300820", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2187719666.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2187719666.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2187719666.jpg"
+            }, 
+            "original_title": "Rosetta", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "罗塞塔", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4238927/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吉井怜"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "潮哲也"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "樋口しげり"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "服部光則"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高橋巖"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "広田幹夫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "舞原賢三"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "清水厚"
+                }
+            ], 
+            "genres": [], 
+            "id": "4238927", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4139193.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4139193.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4139193.jpg"
+            }, 
+            "original_title": "仮面天使ロゼッタ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "假面天使罗塞塔", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25748395/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [
+                "传记", 
+                "纪录片", 
+                "音乐"
+            ], 
+            "id": "25748395", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2157315723.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2157315723.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2157315723.jpg"
+            }, 
+            "original_title": "Sister Rosetta Tharpe: The Godmother of Rock", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "罗塞塔撒普：摇滚乐的教母", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6870059/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033467/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369937856.14.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369937856.14.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369937856.14.jpg"
+                    }, 
+                    "id": "1033467", 
+                    "name": "吉井怜"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038774/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40294.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40294.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40294.jpg"
+                    }, 
+                    "id": "1038774", 
+                    "name": "潮哲也"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "樋口しげり"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "清水厚"
+                }
+            ], 
+            "genres": [
+                "奇幻"
+            ], 
+            "id": "6870059", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6956467.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6956467.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6956467.jpg"
+            }, 
+            "original_title": "仮面天使ロゼッタ 漆黒のフレイア", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "假面天使罗塞塔 漆黑的弗蕾雅", 
+            "year": "1999"
+        }
+    ], 
+    "title": "搜索 \"罗塞塔\" 的结果", 
+    "total": 4
+}

@@ -1,0 +1,87 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5155128/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314579/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25376.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25376.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25376.jpg"
+                    }, 
+                    "id": "1314579", 
+                    "name": "帕尔·斯维尔·哈根"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1105562/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376668499.78.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376668499.78.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376668499.78.jpg"
+                    }, 
+                    "id": "1105562", 
+                    "name": "安德斯·巴斯莫·克里斯蒂安森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23593.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23593.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23593.jpg"
+                    }, 
+                    "id": "1040587", 
+                    "name": "古斯塔·斯卡斯加德"
+                }
+            ], 
+            "collect_count": 2721, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1216851/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/58031.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/58031.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/58031.jpg"
+                    }, 
+                    "id": "1216851", 
+                    "name": "乔阿吉姆·罗恩尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019391/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58032.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58032.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58032.jpg"
+                    }, 
+                    "id": "1019391", 
+                    "name": "艾斯彭·山德伯格"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "传记"
+            ], 
+            "id": "5155128", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11084740.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11084740.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11084740.jpg"
+            }, 
+            "original_title": "Kon-Tiki", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "孤筏重洋", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"孤筏重洋\" 的结果", 
+    "total": 1
+}

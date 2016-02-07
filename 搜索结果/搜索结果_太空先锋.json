@@ -1,0 +1,147 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293371/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002679/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52.jpg"
+                    }, 
+                    "id": "1002679", 
+                    "name": "丹尼斯·奎德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040574/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13970.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13970.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13970.jpg"
+                    }, 
+                    "id": "1040574", 
+                    "name": "山姆·夏普德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007019/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19114.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19114.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19114.jpg"
+                    }, 
+                    "id": "1007019", 
+                    "name": "斯科特·格伦"
+                }
+            ], 
+            "collect_count": 999, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027416/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5915.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5915.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5915.jpg"
+                    }, 
+                    "id": "1027416", 
+                    "name": "菲利普·考夫曼"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1293371", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3247991.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3247991.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3247991.jpg"
+            }, 
+            "original_title": "The Right Stuff", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "太空先锋", 
+            "year": "1983"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26235666/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1281735/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1281735", 
+                    "name": "Richard Dale"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26235666", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2209292971.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2209292971.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2209292971.jpg"
+            }, 
+            "original_title": "Rocketmen", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "太空先锋", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302858/", 
+            "casts": [], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "斯图尔特 拉菲尔 (Stewart Raffill)"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "科幻", 
+                "动作"
+            ], 
+            "id": "1302858", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2310904282.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2310904282.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2310904282.jpg"
+            }, 
+            "original_title": "The Ice Pirates", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "冰河急先锋", 
+            "year": "1984"
+        }
+    ], 
+    "title": "搜索 \"太空先锋\" 的结果", 
+    "total": 3
+}

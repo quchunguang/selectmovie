@@ -1,0 +1,948 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1299800/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027848/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361256883.8.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361256883.8.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361256883.8.jpg"
+                    }, 
+                    "id": "1027848", 
+                    "name": "泰特·多诺万"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055641/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1371630047.6.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1371630047.6.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1371630047.6.jpg"
+                    }, 
+                    "id": "1055641", 
+                    "name": "乔什·基顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027287/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46099.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46099.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46099.jpg"
+                    }, 
+                    "id": "1027287", 
+                    "name": "罗杰·巴特"
+                }
+            ], 
+            "collect_count": 6536, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1359182726.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1359182726.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1359182726.97.jpg"
+                    }, 
+                    "id": "1041456", 
+                    "name": "约翰·马斯克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045252/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48764.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48764.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48764.jpg"
+                    }, 
+                    "id": "1045252", 
+                    "name": "罗恩·克莱蒙兹"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "动画"
+            ], 
+            "id": "1299800", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1410369.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1410369.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1410369.jpg"
+            }, 
+            "original_title": "Hercules", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3025749/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027848/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361256883.8.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361256883.8.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361256883.8.jpg"
+                    }, 
+                    "id": "1027848", 
+                    "name": "泰特·多诺万"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1152858/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25055.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25055.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25055.jpg"
+                    }, 
+                    "id": "1152858", 
+                    "name": "弗伦奇·斯图尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019047/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25373.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25373.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25373.jpg"
+                    }, 
+                    "id": "1019047", 
+                    "name": "桑德拉·伯恩哈德"
+                }
+            ], 
+            "collect_count": 4943, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Phil Weinstein"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "3025749", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3603050.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3603050.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3603050.jpg"
+            }, 
+            "original_title": "Hercules", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "大力士", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1924370/", 
+            "casts": [], 
+            "collect_count": 214, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054397/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29614.jpg"
+                    }, 
+                    "id": "1054397", 
+                    "name": "沃纳·赫尔佐格"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "1924370", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s11124398.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s11124398.jpg", 
+                "small": "https://img1.doubanio.com/spic/s11124398.jpg"
+            }, 
+            "original_title": "Herakles", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士", 
+            "year": "1962"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24859795/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031799/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365919064.64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365919064.64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365919064.64.jpg"
+                    }, 
+                    "id": "1031799", 
+                    "name": "凯南·鲁兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336776/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1386944228.23.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1386944228.23.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1386944228.23.jpg"
+                    }, 
+                    "id": "1336776", 
+                    "name": "盖亚·维斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017912/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390933039.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390933039.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390933039.93.jpg"
+                    }, 
+                    "id": "1017912", 
+                    "name": "斯科特·阿金斯"
+                }
+            ], 
+            "collect_count": 14586, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032052/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21181.jpg"
+                    }, 
+                    "id": "1032052", 
+                    "name": "雷尼·哈林"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险"
+            ], 
+            "id": "24859795", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2176698184.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2176698184.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2176698184.jpg"
+            }, 
+            "original_title": "The Legend of Hercules", 
+            "rating": {
+                "average": 4.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "大力神", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3157583/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044707/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/196.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/196.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/196.jpg"
+                    }, 
+                    "id": "1044707", 
+                    "name": "道恩·强森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027143/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23054.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23054.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23054.jpg"
+                    }, 
+                    "id": "1027143", 
+                    "name": "伊恩·麦柯肖恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36527.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36527.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36527.jpg"
+                    }, 
+                    "id": "1004587", 
+                    "name": "约翰·赫特"
+                }
+            ], 
+            "collect_count": 18885, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002732/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382690025.22.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382690025.22.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382690025.22.jpg"
+                    }, 
+                    "id": "1002732", 
+                    "name": "布莱特·拉特纳"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险"
+            ], 
+            "id": "3157583", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2202615085.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2202615085.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2202615085.jpg"
+            }, 
+            "original_title": "Hercules", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "宙斯之子：赫拉克勒斯", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1946677/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1309705/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1408023179.7.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1408023179.7.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1408023179.7.jpg"
+                    }, 
+                    "id": "1309705", 
+                    "name": "柳德焕"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010082/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1355654328.95.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1355654328.95.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1355654328.95.jpg"
+                    }, 
+                    "id": "1010082", 
+                    "name": "草剪刚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1310942/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58799.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58799.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58799.jpg"
+                    }, 
+                    "id": "1310942", 
+                    "name": "金允石"
+                }
+            ], 
+            "collect_count": 756, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342426/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1414440756.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1414440756.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1414440756.81.jpg"
+                    }, 
+                    "id": "1342426", 
+                    "name": "李海准"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1307415/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1414440158.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1414440158.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1414440158.03.jpg"
+                    }, 
+                    "id": "1307415", 
+                    "name": "李海暎"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "运动"
+            ], 
+            "id": "1946677", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1072826843.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1072826843.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1072826843.jpg"
+            }, 
+            "original_title": "천하장사 마돈나", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士麦当娜", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2327930/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kevin Sorbo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Hurst"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Meighan Desmond"
+                }
+            ], 
+            "collect_count": 131, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Beesley"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Timothy Bond"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "剧情"
+            ], 
+            "id": "2327930", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2783101.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2783101.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2783101.jpg"
+            }, 
+            "original_title": "Hercules The Legendary Journeys", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "大力士的传奇旅行", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296951/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "安东尼·奎恩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kevin Sorbo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alex Beasley"
+                }
+            ], 
+            "collect_count": 26, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Harley Cokeliss"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "荒诞"
+            ], 
+            "id": "1296951", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3106466.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3106466.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3106466.jpg"
+            }, 
+            "original_title": "Hercules and the Lost Kingdom", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5111606/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027228/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45978.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45978.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45978.jpg"
+                    }, 
+                    "id": "1027228", 
+                    "name": "凯文·索伯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048161/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16513.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16513.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16513.jpg"
+                    }, 
+                    "id": "1048161", 
+                    "name": "安东尼·奎恩"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill L. Norton"
+                }
+            ], 
+            "genres": [], 
+            "id": "5111606", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4699830.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4699830.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4699830.jpg"
+            }, 
+            "original_title": "Hercules and the Amazon Women", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士与亚马逊女战士", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1889646/", 
+            "casts": [], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Konstantin Bronzit"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "喜剧", 
+                "歌舞"
+            ], 
+            "id": "1889646", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3200618.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3200618.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3200618.jpg"
+            }, 
+            "original_title": "Alesha Popovich i Tugarin Zmey", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士阿罗夏", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3168263/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steve Reeves"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pietro Francisci"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "3168263", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2188911543.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2188911543.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2188911543.jpg"
+            }, 
+            "original_title": "Ercole e la regina di Lidia", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士和吕底亚女王", 
+            "year": "1959"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5111612/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill L. Norton"
+                }
+            ], 
+            "genres": [], 
+            "id": "5111612", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9048611.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9048611.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9048611.jpg"
+            }, 
+            "original_title": "Hercules in the Underworld", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士在地下世界", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3011262/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036363/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10959.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10959.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10959.jpg"
+                    }, 
+                    "id": "1036363", 
+                    "name": "贾德·尼尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031901/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/53316.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/53316.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/53316.jpg"
+                    }, 
+                    "id": "1031901", 
+                    "name": "约翰·赫德"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mohamed Khashoggi"
+                }
+            ], 
+            "genres": [
+                "家庭"
+            ], 
+            "id": "3011262", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4434527.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4434527.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4434527.jpg"
+            }, 
+            "original_title": "Little Hercules in 3-D", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "小小大力士3D", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5104642/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1137682/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1137682", 
+                    "name": "Sergio Ciani"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "欧露莎尔芭·奈丽"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Piero Lulli"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luigi Capuano"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "剧情"
+            ], 
+            "id": "5104642", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9048529.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9048529.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9048529.jpg"
+            }, 
+            "original_title": "Hercules and the Black Pirates", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士與黑海盜 (港)", 
+            "year": "1964"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26583294/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "26583294", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Hercules: The Endless Adventure", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "大力士的传奇旅行 第二季", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3391333/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048518/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51136.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51136.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51136.jpg"
+                    }, 
+                    "id": "1048518", 
+                    "name": "贾尼克·哈斯楚"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "家庭", 
+                "爱情"
+            ], 
+            "id": "3391333", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3511557.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3511557.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3511557.jpg"
+            }, 
+            "original_title": "Samson og Sally", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大力士与萨利", 
+            "year": "1984"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26583293/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "26583293", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Hercules: The Endless Adventure", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "大力士的传奇旅行 第一季", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26583295/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "26583295", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Hercules: The Legendary Journeys", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "大力士的传奇旅行 第三季", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26583297/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "26583297", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Hercules: The Legendary Journeys", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "大力士的传奇旅行 第四季", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26583299/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "26583299", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Hercules: The Legendary Journeys", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "大力士的传奇旅行 第五季", 
+            "year": "1998"
+        }
+    ], 
+    "title": "搜索 \"大力士\" 的结果", 
+    "total": 25
+}

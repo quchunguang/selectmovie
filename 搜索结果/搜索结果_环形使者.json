@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3179706/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1101703/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3517.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3517.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3517.jpg"
+                    }, 
+                    "id": "1101703", 
+                    "name": "约瑟夫·高登-莱维特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010509/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/106.jpg"
+                    }, 
+                    "id": "1010509", 
+                    "name": "布鲁斯·威利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041022/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21481.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21481.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21481.jpg"
+                    }, 
+                    "id": "1041022", 
+                    "name": "艾米莉·布朗特"
+                }
+            ], 
+            "collect_count": 140661, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036605/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55599.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55599.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55599.jpg"
+                    }, 
+                    "id": "1036605", 
+                    "name": "莱恩·约翰逊"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "惊悚"
+            ], 
+            "id": "3179706", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1605986424.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1605986424.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1605986424.jpg"
+            }, 
+            "original_title": "Looper", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "环形使者", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"环形使者\" 的结果", 
+    "total": 1
+}

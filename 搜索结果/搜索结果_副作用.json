@@ -1,0 +1,418 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10438691/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010510/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/107.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/107.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/107.jpg"
+                    }, 
+                    "id": "1010510", 
+                    "name": "裘德·洛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274969/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34813.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34813.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34813.jpg"
+                    }, 
+                    "id": "1274969", 
+                    "name": "鲁妮·玛拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031224/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47662.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47662.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47662.jpg"
+                    }, 
+                    "id": "1031224", 
+                    "name": "查宁·塔图姆"
+                }
+            ], 
+            "collect_count": 36266, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054400/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3577.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3577.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3577.jpg"
+                    }, 
+                    "id": "1054400", 
+                    "name": "史蒂文·索德伯格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚", 
+                "犯罪"
+            ], 
+            "id": "10438691", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1927063194.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1927063194.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1927063194.jpg"
+            }, 
+            "original_title": "Side Effects", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "副作用", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5184320/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Suzy Cote"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mat Lageman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jonathan Nail"
+                }
+            ], 
+            "collect_count": 163, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Liz Adams"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "短片"
+            ], 
+            "id": "5184320", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s25802652.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s25802652.jpg", 
+                "small": "https://img1.doubanio.com/spic/s25802652.jpg"
+            }, 
+            "original_title": "Side Effect", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "副作用", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1780551/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Katherine Heigl"
+                }
+            ], 
+            "collect_count": 126, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kathleen Slattery-Moschkau"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1780551", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1661120.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1661120.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1661120.jpg"
+            }, 
+            "original_title": "side effects", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "副作用", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2135933/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1216470/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1216470", 
+                    "name": "Alexander Vedel Ottensten"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rune SCHJØTT"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "短片"
+            ], 
+            "id": "2135933", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2562662.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2562662.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2562662.jpg"
+            }, 
+            "original_title": "THE PANDA SYNDROME", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "熊貓副作用", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25814923/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014189/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5647.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5647.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5647.jpg"
+                    }, 
+                    "id": "1014189", 
+                    "name": "法尔汉·阿赫塔尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1183702/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45748.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45748.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45748.jpg"
+                    }, 
+                    "id": "1183702", 
+                    "name": "薇迪亚·巴兰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vir Das"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Saket Chaudhary"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "25814923", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2167083116.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2167083116.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2167083116.jpg"
+            }, 
+            "original_title": "Shaadi Ke Side Effects", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "婚姻的副作用", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2027971/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Amanda Phillips"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Todd Swift"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aaron Garrett"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Patrick Johnson"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "2027971", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2336524.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2336524.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2336524.jpg"
+            }, 
+            "original_title": "sideFX", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "夺命副作用", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25779126/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Randall Holden"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Evan Leslie Jones"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lev Pakman"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "短片"
+            ], 
+            "id": "25779126", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2160362284.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2160362284.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2160362284.jpg"
+            }, 
+            "original_title": "Side Effected", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "副作用", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5382085/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rahul Bose"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mallika Sherawat"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Saket Chaudhary"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "5382085", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4552532.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4552532.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4552532.jpg"
+            }, 
+            "original_title": "Pyaar Ke Side Effects", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "爱情副作用", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"副作用\" 的结果", 
+    "total": 8
+}

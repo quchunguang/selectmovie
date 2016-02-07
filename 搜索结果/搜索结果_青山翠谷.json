@@ -1,0 +1,176 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293322/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027482/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374306729.47.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374306729.47.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374306729.47.jpg"
+                    }, 
+                    "id": "1027482", 
+                    "name": "沃尔特·皮金"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025244/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1388637439.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1388637439.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1388637439.42.jpg"
+                    }, 
+                    "id": "1025244", 
+                    "name": "玛琳·奥哈拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016726/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1388914025.5.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1388914025.5.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1388914025.5.jpg"
+                    }, 
+                    "id": "1016726", 
+                    "name": "安娜·李"
+                }
+            ], 
+            "collect_count": 2132, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007035/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4760.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4760.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4760.jpg"
+                    }, 
+                    "id": "1007035", 
+                    "name": "约翰·福特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "1293322", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1433962.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1433962.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1433962.jpg"
+            }, 
+            "original_title": "How Green Was My Valley", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "青山翠谷", 
+            "year": "1941"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24721403/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "雷震"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "苏凤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "田青"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "岳枫"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "24721403", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2151926745.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2151926745.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2151926745.jpg"
+            }, 
+            "original_title": "青山翠谷", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "青山翠谷", 
+            "year": "1956"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26430668/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗兰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "关宏达"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "戴耘"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "岳枫"
+                }
+            ], 
+            "genres": [], 
+            "id": "26430668", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "青山翠谷", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "青山翠谷", 
+            "year": "1949"
+        }
+    ], 
+    "title": "搜索 \"青山翠谷\" 的结果", 
+    "total": 3
+}

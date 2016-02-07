@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3154003/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053569/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/513.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/513.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/513.jpg"
+                    }, 
+                    "id": "1053569", 
+                    "name": "西格妮·韦弗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049813/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1436877664.82.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1436877664.82.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1436877664.82.jpg"
+                    }, 
+                    "id": "1049813", 
+                    "name": "瑞恩·凯利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007013/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28156.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28156.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28156.jpg"
+                    }, 
+                    "id": "1007013", 
+                    "name": "亨利·科泽尼"
+                }
+            ], 
+            "collect_count": 27982, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012450/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9076.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9076.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9076.jpg"
+                    }, 
+                    "id": "1012450", 
+                    "name": "拉塞尔·穆卡希"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "同性"
+            ], 
+            "id": "3154003", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1662271271.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1662271271.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1662271271.jpg"
+            }, 
+            "original_title": "Prayers for Bobby", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "天佑鲍比", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"天佑鲍比\" 的结果", 
+    "total": 1
+}

@@ -1,0 +1,491 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4960076/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005138/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4058.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4058.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4058.jpg"
+                    }, 
+                    "id": "1005138", 
+                    "name": "钟欣潼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274270/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44507.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44507.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44507.jpg"
+                    }, 
+                    "id": "1274270", 
+                    "name": "谢娜"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1150721/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33883.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33883.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33883.jpg"
+                    }, 
+                    "id": "1150721", 
+                    "name": "孙兴"
+                }
+            ], 
+            "collect_count": 6708, 
+            "directors": [], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4960076", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4483355.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4483355.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4483355.jpg"
+            }, 
+            "original_title": "大玩家", 
+            "rating": {
+                "average": 4.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "大玩家", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294726/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054521/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17525.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17525.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17525.jpg"
+                    }, 
+                    "id": "1054521", 
+                    "name": "蒂姆·罗宾斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004699/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31134.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31134.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31134.jpg"
+                    }, 
+                    "id": "1004699", 
+                    "name": "格列塔·斯卡奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013910/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12821.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12821.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12821.jpg"
+                    }, 
+                    "id": "1013910", 
+                    "name": "弗莱德·沃德"
+                }
+            ], 
+            "collect_count": 2173, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032020/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4276.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4276.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4276.jpg"
+                    }, 
+                    "id": "1032020", 
+                    "name": "罗伯特·奥特曼"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1294726", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1444979343.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1444979343.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1444979343.jpg"
+            }, 
+            "original_title": "The Player", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大玩家", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4827921/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Appel"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Harry Engels"
+                }
+            ], 
+            "collect_count": 77, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Appel"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "4827921", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4566268.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4566268.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4566268.jpg"
+            }, 
+            "original_title": "The Player", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大玩家", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6558261/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004686/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12356.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12356.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12356.jpg"
+                    }, 
+                    "id": "1004686", 
+                    "name": "阿布舍克·巴强"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014021/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7092.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7092.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7092.jpg"
+                    }, 
+                    "id": "1014021", 
+                    "name": "碧帕莎·芭素"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018143/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1402744446.01.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1402744446.01.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1402744446.01.jpg"
+                    }, 
+                    "id": "1018143", 
+                    "name": "索娜姆·卡普尔"
+                }
+            ], 
+            "collect_count": 1078, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Abbas Alibhai Burmawalla"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mastan Alibhai Burmawalla"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "悬疑"
+            ], 
+            "id": "6558261", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1372312768.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1372312768.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1372312768.jpg"
+            }, 
+            "original_title": "Players", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "超级大玩家", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10786244/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049615/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14444.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14444.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14444.jpg"
+                    }, 
+                    "id": "1049615", 
+                    "name": "阿克谢·库玛尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040865/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5654.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5654.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5654.jpg"
+                    }, 
+                    "id": "1040865", 
+                    "name": "阿辛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ileana"
+                }
+            ], 
+            "collect_count": 259, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ashish R. Mohan"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "10786244", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s23127901.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s23127901.jpg", 
+                "small": "https://img3.doubanio.com/spic/s23127901.jpg"
+            }, 
+            "original_title": "Khiladi 786", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "黄金大玩家", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10533963/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017921/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2153.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2153.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2153.jpg"
+                    }, 
+                    "id": "1017921", 
+                    "name": "杰森·缪斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1244528/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1389349379.53.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1389349379.53.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1389349379.53.jpg"
+                    }, 
+                    "id": "1244528", 
+                    "name": "莫伊塞斯·阿里亚斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019058/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7697.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7697.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7697.jpg"
+                    }, 
+                    "id": "1019058", 
+                    "name": "强·格瑞斯"
+                }
+            ], 
+            "collect_count": 200, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1328567/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367981352.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367981352.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367981352.02.jpg"
+                    }, 
+                    "id": "1328567", 
+                    "name": "布雷克·弗里曼"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "10533963", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8923542.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8923542.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8923542.jpg"
+            }, 
+            "original_title": "Noobz", 
+            "rating": {
+                "average": 3.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "游戏大玩家", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296665/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010555/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5690.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5690.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5690.jpg"
+                    }, 
+                    "id": "1010555", 
+                    "name": "凯西·贝茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009214/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5744.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5744.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5744.jpg"
+                    }, 
+                    "id": "1009214", 
+                    "name": "约翰·迈克尔·辛吉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032119/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7231.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7231.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7231.jpg"
+                    }, 
+                    "id": "1032119", 
+                    "name": "丹尼尔·洛巴克"
+                }
+            ], 
+            "collect_count": 21, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022841/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365751509.43.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365751509.43.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365751509.43.jpg"
+                    }, 
+                    "id": "1022841", 
+                    "name": "贝蒂·托马斯"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1296665", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4144515.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4144515.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4144515.jpg"
+            }, 
+            "original_title": "The Late Shift", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "电视大玩家", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2085684/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mikki Padilla"
+                }
+            ], 
+            "collect_count": 74, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tom Maguire"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048655/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1048655", 
+                    "name": "Brian Lockwood"
+                }
+            ], 
+            "genres": [], 
+            "id": "2085684", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2413486.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2413486.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2413486.jpg"
+            }, 
+            "original_title": "World Series of Blackjack", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "二十一点大玩家", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"大玩家\" 的结果", 
+    "total": 8
+}

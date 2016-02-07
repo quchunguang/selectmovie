@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5351755/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035644/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56944.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56944.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56944.jpg"
+                    }, 
+                    "id": "1035644", 
+                    "name": "杰西卡·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014073/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33291.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33291.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33291.jpg"
+                    }, 
+                    "id": "1014073", 
+                    "name": "威廉·B·戴维斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027141/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4797.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4797.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4797.jpg"
+                    }, 
+                    "id": "1027141", 
+                    "name": "祖蒂·弗兰"
+                }
+            ], 
+            "collect_count": 4076, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1302902/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44779.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44779.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44779.jpg"
+                    }, 
+                    "id": "1302902", 
+                    "name": "Pascal Laugier"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "5351755", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1709549574.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1709549574.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1709549574.jpg"
+            }, 
+            "original_title": "The Tall Man", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "高个夜魔", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"高个夜魔\" 的结果", 
+    "total": 1
+}

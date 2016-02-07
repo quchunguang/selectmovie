@@ -1,0 +1,1029 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292222/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031222/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2423.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2423.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2423.jpg"
+                    }, 
+                    "id": "1031222", 
+                    "name": "朱迪·福斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007016/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13782.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13782.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13782.jpg"
+                    }, 
+                    "id": "1007016", 
+                    "name": "斯碧尔·谢波德"
+                }
+            ], 
+            "collect_count": 110461, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054425/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/601.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/601.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/601.jpg"
+                    }, 
+                    "id": "1054425", 
+                    "name": "马丁·斯科塞斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "1292222", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p792510233.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p792510233.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p792510233.jpg"
+            }, 
+            "original_title": "Taxi Driver", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "出租车司机", 
+            "year": "1976"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26304167/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009626/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365682125.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365682125.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365682125.52.jpg"
+                    }, 
+                    "id": "1009626", 
+                    "name": "贾法·帕纳西"
+                }
+            ], 
+            "collect_count": 5898, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009626/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365682125.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365682125.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365682125.52.jpg"
+                    }, 
+                    "id": "1009626", 
+                    "name": "贾法·帕纳西"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "26304167", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2236812017.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2236812017.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2236812017.jpg"
+            }, 
+            "original_title": "تاکسی", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "出租车", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26427248/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "霄飞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1335310/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1335310", 
+                    "name": "王轩堃"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李腾飞"
+                }
+            ], 
+            "collect_count": 117, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "魏霄飞"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "26427248", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2250992351.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2250992351.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2250992351.jpg"
+            }, 
+            "original_title": "文艺青年大战火星出租车司机", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "文艺青年大战火星出租车司机", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26387698/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "邱云鹤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "徐敏"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325503/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/vt6vgP3Z4Z4cel_avatar_uploaded1354698637.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/vt6vgP3Z4Z4cel_avatar_uploaded1354698637.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/vt6vgP3Z4Z4cel_avatar_uploaded1354698637.59.jpg"
+                    }, 
+                    "id": "1325503", 
+                    "name": "张蓓蓓"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王英权"
+                }
+            ], 
+            "genres": [], 
+            "id": "26387698", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "女出租车司机", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "女出租车司机", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26705541/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031238/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/345.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/345.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/345.jpg"
+                    }, 
+                    "id": "1031238", 
+                    "name": "宋康昊"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313442/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/27500.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/27500.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/27500.jpg"
+                    }, 
+                    "id": "1313442", 
+                    "name": "张勋"
+                }
+            ], 
+            "genres": [], 
+            "id": "26705541", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "택시 운전사", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "出租车司机", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3681675/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1220522/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1403314529.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1403314529.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1403314529.3.jpg"
+                    }, 
+                    "id": "1220522", 
+                    "name": "崔成国"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1024945/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12131.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12131.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12131.jpg"
+                    }, 
+                    "id": "1024945", 
+                    "name": "李英恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1345798/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1345798", 
+                    "name": "严泰久"
+                }
+            ], 
+            "collect_count": 1127, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄承宰"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3681675", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3803992.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3803992.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3803992.jpg"
+            }, 
+            "original_title": "구세주2: 택시 드라이버", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "救世主2：出租车司机", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25980290/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "やべきょうすけ"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "秋山竜次(ロバート)"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "千葉雄大"
+                }
+            ], 
+            "collect_count": 505, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "遠藤光貴"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山口雅俊"
+                }
+            ], 
+            "genres": [], 
+            "id": "25980290", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2199260388.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2199260388.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2199260388.jpg"
+            }, 
+            "original_title": "dビデオ スペシャル 闇金ウシジマくん", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "暗金丑岛君 超级出租车司机", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3439411/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Martin Scorsese"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paul Schrader"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert DeNiro"
+                }
+            ], 
+            "collect_count": 67, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laurent Bouzereau"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "3439411", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3566570.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3566570.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3566570.jpg"
+            }, 
+            "original_title": "Making Taxi Driver", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "制造《出租车司机》", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25911813/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mason McQueen"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [], 
+            "genres": [
+                "冒险", 
+                "纪录片"
+            ], 
+            "id": "25911813", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2190503854.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2190503854.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2190503854.jpg"
+            }, 
+            "original_title": "A Cabbie Abroad", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "国外的出租车司机", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4705150/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Barry Evans ...  Joe North"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Judy Geeson ...  Nikki"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Adrienne Posta ...  Carol"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stanley A. Long"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "4705150", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4218832.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4218832.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4218832.jpg"
+            }, 
+            "original_title": "Adventures of a Taxi Driver", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "出租车司机冒险记", 
+            "year": "1976"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25960901/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "何强"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "韩超"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王俊龙"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "徐谐仁"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "25960901", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2196186376.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2196186376.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2196186376.jpg"
+            }, 
+            "original_title": "午夜出租车", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "出租车司机", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10554920/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "渡瀬恒彦"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "平田満"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "風見しんご"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吉田啓一郎"
+                }
+            ], 
+            "genres": [], 
+            "id": "10554920", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8967793.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8967793.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8967793.jpg"
+            }, 
+            "original_title": "タクシードライバーの推理日誌1", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "出租车司机的推理日志1", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3585853/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Виктор Бычков"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Максим Коновалов"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Светлана Ходченкова"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Федор Попов"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3585853", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3642485.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3642485.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3642485.jpg"
+            }, 
+            "original_title": "4 таксиста и собака 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "四个出租车司机一条狗 2", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3585895/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3585895", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3642606.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3642606.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3642606.jpg"
+            }, 
+            "original_title": "4 таксиста и собака", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "四个出租车司机一条狗", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26602553/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "夜明日出夫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "渡瀬恒彦"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "神崎睦美"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吉田啓一郎"
+                }
+            ], 
+            "genres": [], 
+            "id": "26602553", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "タクシードライバーの推理日誌38 伊勢志摩〜貝の中の殺意!!」", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "出租车司机的推理日志38：伊势志摩·贝壳里的杀意！", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25769243/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1337202/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1411144122.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1411144122.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1411144122.42.jpg"
+                    }, 
+                    "id": "1337202", 
+                    "name": "金善英"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316065/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367554333.24.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367554333.24.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367554333.24.jpg"
+                    }, 
+                    "id": "1316065", 
+                    "name": "吴仁惠"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342834/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1410336966.06.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1410336966.06.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1410336966.06.jpg"
+                    }, 
+                    "id": "1342834", 
+                    "name": "韩素英"
+                }
+            ], 
+            "collect_count": 980, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "박창진"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "25769243", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2158555333.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2158555333.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2158555333.jpg"
+            }, 
+            "original_title": "소원택시", 
+            "rating": {
+                "average": 4.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "幸福出租车", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294262/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009545/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12522.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12522.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12522.jpg"
+                    }, 
+                    "id": "1009545", 
+                    "name": "萨米·纳塞利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006955/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36117.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36117.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36117.jpg"
+                    }, 
+                    "id": "1006955", 
+                    "name": "玛丽昂·歌迪亚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023022/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14313.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14313.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14313.jpg"
+                    }, 
+                    "id": "1023022", 
+                    "name": "佛瑞德瑞克·迪分索"
+                }
+            ], 
+            "collect_count": 55056, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050591/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050591", 
+                    "name": "吉拉尔·皮雷"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "1294262", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1387342.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1387342.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1387342.jpg"
+            }, 
+            "original_title": "Taxi", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "的士速递", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20280326/", 
+            "casts": [], 
+            "collect_count": 776, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lee Seung Hwan"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "情色"
+            ], 
+            "id": "20280326", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2173871859.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2173871859.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2173871859.jpg"
+            }, 
+            "original_title": "맛있는 불륜 – 택시", 
+            "rating": {
+                "average": 3.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "风流韵事 出租车", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2240670/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金哲"
+                }
+            ], 
+            "collect_count": 80, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱东月"
+                }
+            ], 
+            "genres": [], 
+            "id": "2240670", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2680268.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2680268.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2680268.jpg"
+            }, 
+            "original_title": "火车司机的儿子", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "火车司机的儿子", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3999737/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1075760/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1414403507.54.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1414403507.54.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1414403507.54.jpg"
+                    }, 
+                    "id": "1075760", 
+                    "name": "陈小春"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312698/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13850.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13850.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13850.jpg"
+                    }, 
+                    "id": "1312698", 
+                    "name": "邓紫衣"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315437/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1369106079.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1369106079.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1369106079.66.jpg"
+                    }, 
+                    "id": "1315437", 
+                    "name": "许飞"
+                }
+            ], 
+            "collect_count": 7711, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318870/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44700.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44700.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44700.jpg"
+                    }, 
+                    "id": "1318870", 
+                    "name": "张江南"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "惊悚"
+            ], 
+            "id": "3999737", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2171262755.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2171262755.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2171262755.jpg"
+            }, 
+            "original_title": "午夜出租车", 
+            "rating": {
+                "average": 3.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "午夜出租车", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"出租车司机\" 的结果", 
+    "total": 65
+}

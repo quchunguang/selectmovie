@@ -1,0 +1,1152 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6985810/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040529/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57893.jpg"
+                    }, 
+                    "id": "1040529", 
+                    "name": "麦斯·米科尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037165/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48344.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48344.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48344.jpg"
+                    }, 
+                    "id": "1037165", 
+                    "name": "托玛斯·博·拉森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1332097/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375083453.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375083453.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375083453.34.jpg"
+                    }, 
+                    "id": "1332097", 
+                    "name": "安妮卡·韦德科普"
+                }
+            ], 
+            "collect_count": 90259, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045236/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50973.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50973.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50973.jpg"
+                    }, 
+                    "id": "1045236", 
+                    "name": "托马斯·温特伯格"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6985810", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1546987967.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1546987967.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1546987967.jpg"
+            }, 
+            "original_title": "Jagten", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "狩猎", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1470052/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ismael Merlo"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048544/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17281.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17281.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17281.jpg"
+                    }, 
+                    "id": "1048544", 
+                    "name": "阿尔弗雷多·马约"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1130991/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1130991", 
+                    "name": "José María Prada"
+                }
+            ], 
+            "collect_count": 109, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016731/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1001.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1001.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1001.jpg"
+                    }, 
+                    "id": "1016731", 
+                    "name": "卡洛斯·绍拉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1470052", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4492600.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4492600.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4492600.jpg"
+            }, 
+            "original_title": "La caza", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "狩猎", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26649915/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Attenborough"
+                }
+            ], 
+            "collect_count": 64, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Huw Cordey"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26649915", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2283670423.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2283670423.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2283670423.jpg"
+            }, 
+            "original_title": "The Hunt", 
+            "rating": {
+                "average": 9.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "tv", 
+            "title": "狩猎", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4309746/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1155747/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1155747", 
+                    "name": "Rolf Søder"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1075128/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1075128", 
+                    "name": "Bente Børsum"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1158704/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1158704", 
+                    "name": "Tor Stokke"
+                }
+            ], 
+            "collect_count": 46, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1120335/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390985807.73.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390985807.73.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390985807.73.jpg"
+                    }, 
+                    "id": "1120335", 
+                    "name": "埃里克·罗辰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "4309746", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4502331.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4502331.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4502331.jpg"
+            }, 
+            "original_title": "Jakten", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "狩猎", 
+            "year": "1959"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/19937154/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315369/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56402.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56402.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56402.jpg"
+                    }, 
+                    "id": "1315369", 
+                    "name": "本·保尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1338329/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/B4yqRScDtwccel_avatar_uploaded1393339661.0.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/B4yqRScDtwccel_avatar_uploaded1393339661.0.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/B4yqRScDtwccel_avatar_uploaded1393339661.0.jpg"
+                    }, 
+                    "id": "1338329", 
+                    "name": "杰克·曼纳巴特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1338330/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/B4yqRScDtwccel_avatar_uploaded1393340122.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/B4yqRScDtwccel_avatar_uploaded1393340122.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/B4yqRScDtwccel_avatar_uploaded1393340122.03.jpg"
+                    }, 
+                    "id": "1338330", 
+                    "name": "泰勒·弗伦奇"
+                }
+            ], 
+            "collect_count": 3828, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jon Marcus"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "同性"
+            ], 
+            "id": "19937154", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s15857197.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s15857197.jpg", 
+                "small": "https://img1.doubanio.com/spic/s15857197.jpg"
+            }, 
+            "original_title": "Hunting Season", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "狩猎季节 第一季", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1498602/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "毕克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314759/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26189.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26189.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26189.jpg"
+                    }, 
+                    "id": "1314759", 
+                    "name": "邱岳峰"
+                }
+            ], 
+            "collect_count": 4928, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316872/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37720.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37720.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37720.jpg"
+                    }, 
+                    "id": "1316872", 
+                    "name": "曲建方"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金芳玲"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "1498602", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1505638.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1505638.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1505638.jpg"
+            }, 
+            "original_title": "阿凡提的故事之狩猎记", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "阿凡提的故事之狩猎记", 
+            "year": "1980"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1830194/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313795/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368069802.14.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368069802.14.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368069802.14.jpg"
+                    }, 
+                    "id": "1313795", 
+                    "name": "王文杰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1331525/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1331525", 
+                    "name": "王勇泉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314123/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1442385961.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1442385961.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1442385961.61.jpg"
+                    }, 
+                    "id": "1314123", 
+                    "name": "靳东"
+                }
+            ], 
+            "collect_count": 1058, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314760/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26279.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26279.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26279.jpg"
+                    }, 
+                    "id": "1314760", 
+                    "name": "孔笙"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "1830194", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2734605.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2734605.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2734605.jpg"
+            }, 
+            "original_title": "狩猎者", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "狩猎者", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1940916/", 
+            "casts": [], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "鲁克"
+                }
+            ], 
+            "genres": [], 
+            "id": "1940916", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "典型英国村庄——出发去狩猎", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "典型英国村庄——出发去狩猎", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26394224/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "钱大伟"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈光辉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "徐金超"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "益鑫融 Eason Yi"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "26394224", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2245083935.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2245083935.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2245083935.jpg"
+            }, 
+            "original_title": "最后的狩猎 Last Hunting", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "最后的狩猎 Last Hunting", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5327463/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021959/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4053.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4053.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4053.jpg"
+                    }, 
+                    "id": "1021959", 
+                    "name": "克里斯·海姆斯沃斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012533/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11265.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11265.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11265.jpg"
+                    }, 
+                    "id": "1012533", 
+                    "name": "克里斯汀·斯图尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018991/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44470.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44470.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44470.jpg"
+                    }, 
+                    "id": "1018991", 
+                    "name": "查理兹·塞隆"
+                }
+            ], 
+            "collect_count": 51198, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/52315.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/52315.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/52315.jpg"
+                    }, 
+                    "id": "1320096", 
+                    "name": "鲁伯特·桑德斯"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "奇幻", 
+                "冒险"
+            ], 
+            "id": "5327463", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1571501128.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1571501128.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1571501128.jpg"
+            }, 
+            "original_title": "Snow White and the Huntsman", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "白雪公主与猎人", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25880993/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037529/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25272.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25272.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25272.jpg"
+                    }, 
+                    "id": "1037529", 
+                    "name": "松雪泰子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1111147/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2984.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2984.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2984.jpg"
+                    }, 
+                    "id": "1111147", 
+                    "name": "伊藤淳史"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319461/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47094.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47094.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47094.jpg"
+                    }, 
+                    "id": "1319461", 
+                    "name": "北山宏光"
+                }
+            ], 
+            "collect_count": 2761, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "坪井敏雄"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山本剛義"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "伊藤雄介"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "家庭"
+            ], 
+            "id": "25880993", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2316379968.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2316379968.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2316379968.jpg"
+            }, 
+            "original_title": "家族狩り", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "家族狩猎", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1793923/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040997/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33013.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33013.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33013.jpg"
+                    }, 
+                    "id": "1040997", 
+                    "name": "理查·基尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055928/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46854.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46854.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46854.jpg"
+                    }, 
+                    "id": "1055928", 
+                    "name": "泰伦斯·霍华德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027144/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2024.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2024.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2024.jpg"
+                    }, 
+                    "id": "1027144", 
+                    "name": "杰西·艾森伯格"
+                }
+            ], 
+            "collect_count": 1245, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Shepard"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1793923", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2617470.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2617470.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2617470.jpg"
+            }, 
+            "original_title": "The Hunting Party", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "狩猎聚会", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25966386/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315369/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56402.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56402.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56402.jpg"
+                    }, 
+                    "id": "1315369", 
+                    "name": "本·保尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1338329/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/B4yqRScDtwccel_avatar_uploaded1393339661.0.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/B4yqRScDtwccel_avatar_uploaded1393339661.0.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/B4yqRScDtwccel_avatar_uploaded1393339661.0.jpg"
+                    }, 
+                    "id": "1338329", 
+                    "name": "杰克·曼纳巴特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1338330/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/B4yqRScDtwccel_avatar_uploaded1393340122.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/B4yqRScDtwccel_avatar_uploaded1393340122.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/B4yqRScDtwccel_avatar_uploaded1393340122.03.jpg"
+                    }, 
+                    "id": "1338330", 
+                    "name": "泰勒·弗伦奇"
+                }
+            ], 
+            "collect_count": 769, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jon Marcus"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "同性"
+            ], 
+            "id": "25966386", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2241176525.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2241176525.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2241176525.jpg"
+            }, 
+            "original_title": "Hunting Season", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "狩猎季节 第二季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3075985/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031948/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24339.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24339.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24339.jpg"
+                    }, 
+                    "id": "1031948", 
+                    "name": "吉娜·赫尔顿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Greg Bryk"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1212071/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1352540287.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1352540287.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1352540287.48.jpg"
+                    }, 
+                    "id": "1212071", 
+                    "name": "斯蒂芬·阿美尔"
+                }
+            ], 
+            "collect_count": 1038, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sheldon Wilson"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "恐怖", 
+                "科幻"
+            ], 
+            "id": "3075985", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3550132.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3550132.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3550132.jpg"
+            }, 
+            "original_title": "Screamers: The Hunting", 
+            "rating": {
+                "average": 5.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "异形终结2：狩猎", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2134338/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "速水舞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "島崎梨乃"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "沢木貴和子"
+                }
+            ], 
+            "collect_count": 851, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "片岡修二"
+                }
+            ], 
+            "genres": [
+                "犯罪"
+            ], 
+            "id": "2134338", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2291631480.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2291631480.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2291631480.jpg"
+            }, 
+            "original_title": "地下鉄連続レイプ 制服狩り", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "地下铁连环强奸案  制服狩猎", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26279369/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Diane Rosenfeld"
+                }
+            ], 
+            "collect_count": 168, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050388/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28963.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28963.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28963.jpg"
+                    }, 
+                    "id": "1050388", 
+                    "name": "科比·迪克"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26279369", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2223367052.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2223367052.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2223367052.jpg"
+            }, 
+            "original_title": "The Hunting Ground", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "狩猎场", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5150818/", 
+            "casts": [], 
+            "collect_count": 309, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yavuz Turgul"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "5150818", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4655299.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4655299.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4655299.jpg"
+            }, 
+            "original_title": "Av mevsimi", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "狩猎季节", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2003470/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shun Domon"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hiromi Namino"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317510/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1396518874.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1396518874.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1396518874.59.jpg"
+                    }, 
+                    "id": "1317510", 
+                    "name": "小川阿佐美"
+                }
+            ], 
+            "collect_count": 155, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312956/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1381147133.52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1381147133.52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1381147133.52.jpg"
+                    }, 
+                    "id": "1312956", 
+                    "name": "铃木则文"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "2003470", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2079199473.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2079199473.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2079199473.jpg"
+            }, 
+            "original_title": "堕靡泥の星 美少女狩り", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "罪恶六芒星 美色狩猎者", 
+            "year": "1979"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3765659/", 
+            "casts": [], 
+            "collect_count": 272, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vincent Aupetit"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Claude-William Trebutien"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Florent de La Taille"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeanne Irzenski, Maxime Maleo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aurelien Predal"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "动画"
+            ], 
+            "id": "3765659", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3939709.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3939709.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3939709.jpg"
+            }, 
+            "original_title": "Burning Safari", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "燃烧！狩猎旅行队", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25889730/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1349903/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1349903", 
+                    "name": "申东烨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1349781/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/b1Ko2aGkbEwcel_avatar_uploaded1432471708.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/b1Ko2aGkbEwcel_avatar_uploaded1432471708.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/b1Ko2aGkbEwcel_avatar_uploaded1432471708.61.jpg"
+                    }, 
+                    "id": "1349781", 
+                    "name": "成始璄"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "许志雄"
+                }
+            ], 
+            "collect_count": 135, 
+            "directors": [], 
+            "genres": [
+                "真人秀", 
+                "脱口秀"
+            ], 
+            "id": "25889730", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2183928783.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2183928783.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2183928783.jpg"
+            }, 
+            "original_title": "마녀사냥", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "魔女狩猎", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"狩猎\" 的结果", 
+    "total": 72
+}

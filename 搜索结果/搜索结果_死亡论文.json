@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1421807/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009617/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9472.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9472.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9472.jpg"
+                    }, 
+                    "id": "1009617", 
+                    "name": "安娜·托伦特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032453/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16959.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16959.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16959.jpg"
+                    }, 
+                    "id": "1032453", 
+                    "name": "费雷·马丁内兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022785/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2081.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2081.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2081.jpg"
+                    }, 
+                    "id": "1022785", 
+                    "name": "爱德华多·诺列加"
+                }
+            ], 
+            "collect_count": 5601, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000176/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1410080389.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1410080389.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1410080389.51.jpg"
+                    }, 
+                    "id": "1000176", 
+                    "name": "亚历杭德罗·阿梅纳瓦尔"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1421807", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4068055.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4068055.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4068055.jpg"
+            }, 
+            "original_title": "Tesis", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "死亡论文", 
+            "year": "1996"
+        }
+    ], 
+    "title": "搜索 \"死亡论文\" 的结果", 
+    "total": 1
+}

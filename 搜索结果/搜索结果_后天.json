@@ -1,0 +1,393 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1308779/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002679/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52.jpg"
+                    }, 
+                    "id": "1002679", 
+                    "name": "丹尼斯·奎德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048002/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12737.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12737.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12737.jpg"
+                    }, 
+                    "id": "1048002", 
+                    "name": "杰克·吉伦哈尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021998/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/629.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/629.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/629.jpg"
+                    }, 
+                    "id": "1021998", 
+                    "name": "埃米·罗森"
+                }
+            ], 
+            "collect_count": 232163, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040593/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/412.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/412.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/412.jpg"
+                    }, 
+                    "id": "1040593", 
+                    "name": "罗兰·艾默里奇"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "1308779", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1245673794.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1245673794.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1245673794.jpg"
+            }, 
+            "original_title": "The Day After Tomorrow", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "后天", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2931223/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051051/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4581.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4581.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4581.jpg"
+                    }, 
+                    "id": "1051051", 
+                    "name": "黄奕"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312693/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13820.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13820.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13820.jpg"
+                    }, 
+                    "id": "1312693", 
+                    "name": "许绍洋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313483/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18318.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18318.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18318.jpg"
+                    }, 
+                    "id": "1313483", 
+                    "name": "钟欣凌"
+                }
+            ], 
+            "collect_count": 589, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "2931223", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2873153.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2873153.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2873153.jpg"
+            }, 
+            "original_title": "后天美女", 
+            "rating": {
+                "average": 4.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "tv", 
+            "title": "后天美女", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2997412/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023739/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2476.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2476.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2476.jpg"
+                    }, 
+                    "id": "1023739", 
+                    "name": "麦家琪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1024897/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28702.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28702.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28702.jpg"
+                    }, 
+                    "id": "1024897", 
+                    "name": "王喜"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274279/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45672.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45672.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45672.jpg"
+                    }, 
+                    "id": "1274279", 
+                    "name": "林雪"
+                }
+            ], 
+            "collect_count": 130, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "梁正晖"
+                }
+            ], 
+            "genres": [], 
+            "id": "2997412", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2951202.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2951202.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2951202.jpg"
+            }, 
+            "original_title": "后天杀人狂", 
+            "rating": {
+                "average": 5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "后天杀人狂", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1920177/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "藤村歩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "伊藤静"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "日野聡"
+                }
+            ], 
+            "collect_count": 451, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "桜美かつし"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "1920177", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2402610.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2402610.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2402610.jpg"
+            }, 
+            "original_title": "あさっての方向", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "后天的方向", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2152809/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steven Strobel ...  Jim Hazzard"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Gidez"
+                }
+            ], 
+            "genres": [], 
+            "id": "2152809", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2607860.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2607860.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2607860.jpg"
+            }, 
+            "original_title": "It Could Happen Tomorrow", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "后天真人秀", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1908194/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joanna Pacula"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nick Mancuso"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ken Tremblett"
+                }
+            ], 
+            "collect_count": 146, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brenton Spencer"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚", 
+                "灾难"
+            ], 
+            "id": "1908194", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3594449.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3594449.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3594449.jpg"
+            }, 
+            "original_title": "Lightning: Bolts of Destruction", 
+            "rating": {
+                "average": 4.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "雷电", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2135919/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marcello Mastroianni"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Catherine Spaak"
+                }
+            ], 
+            "collect_count": 16, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eduardo De Filippo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marco Ferreri"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luciano Salce"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "2135919", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2562623.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2562623.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2562623.jpg"
+            }, 
+            "original_title": "Oggi, domani, dopodomani", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "贩妻记", 
+            "year": "1965"
+        }
+    ], 
+    "title": "搜索 \"后天\" 的结果", 
+    "total": 7
+}

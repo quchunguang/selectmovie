@@ -1,0 +1,375 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293839/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054449/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4157.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4157.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4157.jpg"
+                    }, 
+                    "id": "1054449", 
+                    "name": "奥黛丽·赫本"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031218/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/338.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/338.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/338.jpg"
+                    }, 
+                    "id": "1031218", 
+                    "name": "格利高里·派克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048218/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12729.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12729.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12729.jpg"
+                    }, 
+                    "id": "1048218", 
+                    "name": "埃迪·艾伯特"
+                }
+            ], 
+            "collect_count": 445030, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010691/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2025.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2025.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2025.jpg"
+                    }, 
+                    "id": "1010691", 
+                    "name": "威廉·惠勒"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1293839", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2173398296.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2173398296.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173398296.jpg"
+            }, 
+            "original_title": "Roman Holiday", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "罗马假日", 
+            "year": "1953"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20472704/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313641/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19287.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19287.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19287.jpg"
+                    }, 
+                    "id": "1313641", 
+                    "name": "胡兵"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1326031/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1326031", 
+                    "name": "李欣悦"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313641/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19287.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19287.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19287.jpg"
+                    }, 
+                    "id": "1313641", 
+                    "name": "胡兵"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "20472704", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "新罗马假日", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "新罗马假日", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/19969206/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1341726/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1436273071.01.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1436273071.01.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1436273071.01.jpg"
+                    }, 
+                    "id": "1341726", 
+                    "name": "郭绮莉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323840/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57277.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57277.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57277.jpg"
+                    }, 
+                    "id": "1323840", 
+                    "name": "安藤有里"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "飛鳥珠実"
+                }
+            ], 
+            "collect_count": 16, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金丸友紀子"
+                }
+            ], 
+            "genres": [], 
+            "id": "19969206", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s22710139.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s22710139.jpg", 
+                "small": "https://img1.doubanio.com/spic/s22710139.jpg"
+            }, 
+            "original_title": "あぶないローマの休日", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "危险的罗马假日", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3008256/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031240/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1395152016.01.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1395152016.01.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1395152016.01.jpg"
+                    }, 
+                    "id": "1031240", 
+                    "name": "克里斯汀·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044709/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7197.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7197.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7197.jpg"
+                    }, 
+                    "id": "1044709", 
+                    "name": "威尔·阿奈特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016666/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4166.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4166.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4166.jpg"
+                    }, 
+                    "id": "1016666", 
+                    "name": "乔什·杜哈明"
+                }
+            ], 
+            "collect_count": 19758, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040672/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40511.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40511.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40511.jpg"
+                    }, 
+                    "id": "1040672", 
+                    "name": "马克·斯蒂文·约翰逊"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "3008256", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4094317.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4094317.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4094317.jpg"
+            }, 
+            "original_title": "When in Rome", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "罗马情缘", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6772963/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035655/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20694.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20694.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20694.jpg"
+                    }, 
+                    "id": "1035655", 
+                    "name": "绫濑遥"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010302/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10865.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10865.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10865.jpg"
+                    }, 
+                    "id": "1010302", 
+                    "name": "藤木直人"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010770/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1402502217.91.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1402502217.91.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1402502217.91.jpg"
+                    }, 
+                    "id": "1010770", 
+                    "name": "板谷由夏"
+                }
+            ], 
+            "collect_count": 10094, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320344/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320344", 
+                    "name": "吉野洋"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6772963", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1515930999.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1515930999.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1515930999.jpg"
+            }, 
+            "original_title": "ホタルノヒカリ", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "萤之光 电影版", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2325850/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Maija-Liisa Majanlahti"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Risto Tuorila"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anitta Niemi"
+                }
+            ], 
+            "collect_count": 356, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "丰富语言的利器"
+                }
+            ], 
+            "genres": [], 
+            "id": "2325850", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2780711.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2780711.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2780711.jpg"
+            }, 
+            "original_title": "Kovaa maata", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "Kovaa maata", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"罗马假日\" 的结果", 
+    "total": 6
+}

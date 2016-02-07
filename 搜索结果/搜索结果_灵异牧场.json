@@ -1,0 +1,61 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/25728739/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steve Berg"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Erin Cahill"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kyle Davis"
+                }
+            ], 
+            "collect_count": 542, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Devin McGinn"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "25728739", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2141212582.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2141212582.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2141212582.jpg"
+            }, 
+            "original_title": "Skinwalker Ranch", 
+            "rating": {
+                "average": 4.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "灵异牧场", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"灵异牧场\" 的结果", 
+    "total": 1
+}

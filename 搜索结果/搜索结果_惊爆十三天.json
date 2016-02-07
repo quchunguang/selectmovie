@@ -1,0 +1,440 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301889/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016671/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34511.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34511.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34511.jpg"
+                    }, 
+                    "id": "1016671", 
+                    "name": "凯文·科斯特纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025206/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7508.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7508.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7508.jpg"
+                    }, 
+                    "id": "1025206", 
+                    "name": "布鲁斯·格林伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1145491/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57774.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57774.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57774.jpg"
+                    }, 
+                    "id": "1145491", 
+                    "name": "斯蒂芬尼·罗曼诺夫"
+                }
+            ], 
+            "collect_count": 2837, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040805/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13107.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13107.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13107.jpg"
+                    }, 
+                    "id": "1040805", 
+                    "name": "罗杰·唐纳森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "惊悚"
+            ], 
+            "id": "1301889", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1548103425.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1548103425.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1548103425.jpg"
+            }, 
+            "original_title": "Thirteen Days", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "惊爆十三天", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3178761/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "诸葛钟诺 饰 钟诺"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱烨 饰 夏萍"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于洋 饰 嘉平"
+                }
+            ], 
+            "collect_count": 67, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3178761", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4615794.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4615794.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4615794.jpg"
+            }, 
+            "original_title": "十三天假日", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "十三天假日", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20376762/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pierre-André Boutang"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pierre Daix"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pierre-Philippe"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "20376762", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24227574.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24227574.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24227574.jpg"
+            }, 
+            "original_title": "13 Days in the Life of Picasso", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "畢卡索生命中的十三天", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1902716/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1127123/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51231.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51231.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51231.jpg"
+                    }, 
+                    "id": "1127123", 
+                    "name": "威廉姆·奥利莱里"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032134/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1373463756.1.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1373463756.1.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1373463756.1.jpg"
+                    }, 
+                    "id": "1032134", 
+                    "name": "彼得·斯特劳斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1135351/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1135351", 
+                    "name": "James O'Sullivan"
+                }
+            ], 
+            "collect_count": 98, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036739/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31833.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31833.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31833.jpg"
+                    }, 
+                    "id": "1036739", 
+                    "name": "乔纳森·莫斯托"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "1902716", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3054589.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3054589.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3054589.jpg"
+            }, 
+            "original_title": "Flight of Black Angel", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "黑天使的坠落", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3250095/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051142/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1051142", 
+                    "name": "Susan Batten"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010577/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20398.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20398.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20398.jpg"
+                    }, 
+                    "id": "1010577", 
+                    "name": "詹姆斯·布洛林"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023016/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1023016", 
+                    "name": "Gary Clarke"
+                }
+            ], 
+            "collect_count": 23, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008097/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1008097", 
+                    "name": "Charles Correll"
+                }
+            ], 
+            "genres": [], 
+            "id": "3250095", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3307672.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3307672.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3307672.jpg"
+            }, 
+            "original_title": "Hijacked: Flight 285", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "空中劫持", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4263931/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041272/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14469.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14469.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14469.jpg"
+                    }, 
+                    "id": "1041272", 
+                    "name": "克劳德·勒鲁什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012792/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1012792", 
+                    "name": "弗朗索瓦·莱兴巴赫"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "运动"
+            ], 
+            "id": "4263931", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2170997078.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2170997078.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2170997078.jpg"
+            }, 
+            "original_title": "13 jours en France", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "在法国的13天", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10521892/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022582/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8832.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8832.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8832.jpg"
+                    }, 
+                    "id": "1022582", 
+                    "name": "安东尼奥·班德拉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018985/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34877.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34877.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34877.jpg"
+                    }, 
+                    "id": "1018985", 
+                    "name": "格温妮斯·帕特洛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1101560/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23466.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23466.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23466.jpg"
+                    }, 
+                    "id": "1101560", 
+                    "name": "芭芭拉·格娜加"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016731/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1001.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1001.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1001.jpg"
+                    }, 
+                    "id": "1016731", 
+                    "name": "卡洛斯·绍拉"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记"
+            ], 
+            "id": "10521892", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2306448681.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2306448681.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2306448681.jpg"
+            }, 
+            "original_title": "33 días", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "三十三天", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3013955/", 
+            "casts": [], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mai Masri"
+                }
+            ], 
+            "genres": [], 
+            "id": "3013955", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7660665.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7660665.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7660665.jpg"
+            }, 
+            "original_title": "33 days", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "三十三天", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"惊爆十三天\" 的结果", 
+    "total": 8
+}

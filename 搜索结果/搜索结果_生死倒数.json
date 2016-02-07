@@ -1,0 +1,137 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10755584/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031239/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26272.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26272.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26272.jpg"
+                    }, 
+                    "id": "1031239", 
+                    "name": "保罗·沃克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1171207/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51334.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51334.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51334.jpg"
+                    }, 
+                    "id": "1171207", 
+                    "name": "珍尼希斯·罗德里格兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336788/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1336788", 
+                    "name": "Nancy Nave"
+                }
+            ], 
+            "collect_count": 4062, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1335958/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1335958", 
+                    "name": "埃里克·海瑟尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "灾难"
+            ], 
+            "id": "10755584", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2154616348.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2154616348.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2154616348.jpg"
+            }, 
+            "original_title": "Hours", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "生死倒数", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1850722/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksey Makarov"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049672/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5078.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5078.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5078.jpg"
+                    }, 
+                    "id": "1049672", 
+                    "name": "路易丝·隆巴德"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vyacheslav Razbegaev"
+                }
+            ], 
+            "collect_count": 685, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1195247/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1195247", 
+                    "name": "Evgeny Lavrentiev"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "犯罪"
+            ], 
+            "id": "1850722", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1742657.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1742657.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1742657.jpg"
+            }, 
+            "original_title": "Личный номер", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "倒计时", 
+            "year": "2004"
+        }
+    ], 
+    "title": "搜索 \"生死倒数\" 的结果", 
+    "total": 2
+}

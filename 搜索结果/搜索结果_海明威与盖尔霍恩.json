@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2127789/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025147/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5321.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5321.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5321.jpg"
+                    }, 
+                    "id": "1025147", 
+                    "name": "克里夫·欧文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054442/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/619.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/619.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/619.jpg"
+                    }, 
+                    "id": "1054442", 
+                    "name": "妮可·基德曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013776/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8576.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8576.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8576.jpg"
+                    }, 
+                    "id": "1013776", 
+                    "name": "罗伯特·杜瓦尔"
+                }
+            ], 
+            "collect_count": 3190, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027416/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5915.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5915.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5915.jpg"
+                    }, 
+                    "id": "1027416", 
+                    "name": "菲利普·考夫曼"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "传记"
+            ], 
+            "id": "2127789", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1586986471.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1586986471.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1586986471.jpg"
+            }, 
+            "original_title": "Hemingway & Gellhorn", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "海明威与盖尔霍恩", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"海明威与盖尔霍恩\" 的结果", 
+    "total": 1
+}

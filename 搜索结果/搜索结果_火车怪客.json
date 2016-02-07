@@ -1,0 +1,125 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298505/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010651/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51432.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51432.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51432.jpg"
+                    }, 
+                    "id": "1010651", 
+                    "name": "法利·格兰杰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036688/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29929.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29929.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29929.jpg"
+                    }, 
+                    "id": "1036688", 
+                    "name": "鲁思·罗曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1166209/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47181.jpg"
+                    }, 
+                    "id": "1166209", 
+                    "name": "罗伯特·沃克"
+                }
+            ], 
+            "collect_count": 10422, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025185/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/302.jpg"
+                    }, 
+                    "id": "1025185", 
+                    "name": "阿尔弗雷德·希区柯克"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "惊悚", 
+                "黑色电影"
+            ], 
+            "id": "1298505", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2155823844.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2155823844.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2155823844.jpg"
+            }, 
+            "original_title": "Strangers on a Train", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "火车怪客", 
+            "year": "1951"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3285065/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054417/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7622.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7622.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7622.jpg"
+                    }, 
+                    "id": "1054417", 
+                    "name": "本·阿弗莱克"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012521/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22137.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22137.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22137.jpg"
+                    }, 
+                    "id": "1012521", 
+                    "name": "大卫·芬奇"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "3285065", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Strangers on a Train", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "火车怪客", 
+            "year": "2017"
+        }
+    ], 
+    "title": "搜索 \"火车怪客\" 的结果", 
+    "total": 2
+}

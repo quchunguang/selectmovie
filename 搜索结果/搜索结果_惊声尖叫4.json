@@ -1,0 +1,864 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301630/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027828/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13115.jpg"
+                    }, 
+                    "id": "1027828", 
+                    "name": "内芙·坎贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004631/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2535.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2535.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2535.jpg"
+                    }, 
+                    "id": "1004631", 
+                    "name": "斯基特·乌尔里奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25081.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25081.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25081.jpg"
+                    }, 
+                    "id": "1040995", 
+                    "name": "柯特妮·考克斯"
+                }
+            ], 
+            "collect_count": 30194, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025221/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5234.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5234.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5234.jpg"
+                    }, 
+                    "id": "1025221", 
+                    "name": "韦斯·克雷文"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "悬疑", 
+                "恐怖"
+            ], 
+            "id": "1301630", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2162077509.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2162077509.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2162077509.jpg"
+            }, 
+            "original_title": "Scream", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖叫", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3148064/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027828/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13115.jpg"
+                    }, 
+                    "id": "1027828", 
+                    "name": "内芙·坎贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25081.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25081.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25081.jpg"
+                    }, 
+                    "id": "1040995", 
+                    "name": "柯特妮·考克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049510/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25083.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25083.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25083.jpg"
+                    }, 
+                    "id": "1049510", 
+                    "name": "大卫·阿奎特"
+                }
+            ], 
+            "collect_count": 13700, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025221/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5234.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5234.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5234.jpg"
+                    }, 
+                    "id": "1025221", 
+                    "name": "韦斯·克雷文"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "悬疑", 
+                "恐怖"
+            ], 
+            "id": "3148064", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4687198.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4687198.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4687198.jpg"
+            }, 
+            "original_title": "Scream 4", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖叫4", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1479999/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028522/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4893.jpg"
+                    }, 
+                    "id": "1028522", 
+                    "name": "李璨琛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029805/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8044.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8044.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8044.jpg"
+                    }, 
+                    "id": "1029805", 
+                    "name": "林晓峰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1150279/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3307.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3307.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3307.jpg"
+                    }, 
+                    "id": "1150279", 
+                    "name": "汤盈盈"
+                }
+            ], 
+            "collect_count": 132, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张敏"
+                }
+            ], 
+            "genres": [], 
+            "id": "1479999", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1497673.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1497673.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1497673.jpg"
+            }, 
+            "original_title": "惊声尖叫", 
+            "rating": {
+                "average": 4.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖叫", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299981/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041008/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/445.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/445.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/445.jpg"
+                    }, 
+                    "id": "1041008", 
+                    "name": "安娜·法瑞丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055250/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31922.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31922.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31922.jpg"
+                    }, 
+                    "id": "1055250", 
+                    "name": "乔·阿布拉汉姆斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025205/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11825.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11825.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11825.jpg"
+                    }, 
+                    "id": "1025205", 
+                    "name": "马龙·韦恩斯"
+                }
+            ], 
+            "collect_count": 45603, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017952/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14512.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14512.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14512.jpg"
+                    }, 
+                    "id": "1017952", 
+                    "name": "基伦·埃弗瑞·韦恩斯"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1299981", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1231134565.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1231134565.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1231134565.jpg"
+            }, 
+            "original_title": "Scary Movie", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖笑", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299495/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027828/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13115.jpg"
+                    }, 
+                    "id": "1027828", 
+                    "name": "内芙·坎贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019042/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5231.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5231.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5231.jpg"
+                    }, 
+                    "id": "1019042", 
+                    "name": "杰米·肯尼迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25081.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25081.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25081.jpg"
+                    }, 
+                    "id": "1040995", 
+                    "name": "柯特妮·考克斯"
+                }
+            ], 
+            "collect_count": 13417, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025221/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5234.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5234.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5234.jpg"
+                    }, 
+                    "id": "1025221", 
+                    "name": "韦斯·克雷文"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "悬疑", 
+                "恐怖"
+            ], 
+            "id": "1299495", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1508193025.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1508193025.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1508193025.jpg"
+            }, 
+            "original_title": "Scream 2", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖叫2", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293133/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027828/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13115.jpg"
+                    }, 
+                    "id": "1027828", 
+                    "name": "内芙·坎贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027151/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25538.jpg"
+                    }, 
+                    "id": "1027151", 
+                    "name": "列维·施瑞博尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25081.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25081.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25081.jpg"
+                    }, 
+                    "id": "1040995", 
+                    "name": "柯特妮·考克斯"
+                }
+            ], 
+            "collect_count": 11651, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025221/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5234.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5234.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5234.jpg"
+                    }, 
+                    "id": "1025221", 
+                    "name": "韦斯·克雷文"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "悬疑", 
+                "恐怖"
+            ], 
+            "id": "1293133", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4255042.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4255042.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4255042.jpg"
+            }, 
+            "original_title": "Scream 3", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖叫3", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26182912/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Willa Fitzgerald"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1332419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375850924.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375850924.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375850924.49.jpg"
+                    }, 
+                    "id": "1332419", 
+                    "name": "贝克斯·泰勒-克劳斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1238018/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1443353809.27.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1443353809.27.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1443353809.27.jpg"
+                    }, 
+                    "id": "1238018", 
+                    "name": "卡尔森·扬"
+                }
+            ], 
+            "collect_count": 899, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jamie Travis"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "26182912", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2252786031.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2252786031.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2252786031.jpg"
+            }, 
+            "original_title": "Scream", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "惊声尖叫 第一季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26581591/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1349048/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1429851017.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1429851017.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1429851017.58.jpg"
+                    }, 
+                    "id": "1349048", 
+                    "name": "薇拉·菲茨杰拉德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1332419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375850924.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375850924.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375850924.49.jpg"
+                    }, 
+                    "id": "1332419", 
+                    "name": "贝克斯·泰勒-克劳斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1350631/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1444027847.18.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1444027847.18.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1444027847.18.jpg"
+                    }, 
+                    "id": "1350631", 
+                    "name": "约翰·卡尔纳"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "犯罪", 
+                "悬疑", 
+                "恐怖"
+            ], 
+            "id": "26581591", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Scream", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "惊声尖叫 第二季", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1428054/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041008/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/445.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/445.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/445.jpg"
+                    }, 
+                    "id": "1041008", 
+                    "name": "安娜·法瑞丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036471/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16185.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16185.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16185.jpg"
+                    }, 
+                    "id": "1036471", 
+                    "name": "雷吉娜·赫尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022726/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5830.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5830.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5830.jpg"
+                    }, 
+                    "id": "1022726", 
+                    "name": "克雷格·比尔克"
+                }
+            ], 
+            "collect_count": 27044, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027924/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21832.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21832.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21832.jpg"
+                    }, 
+                    "id": "1027924", 
+                    "name": "大卫·扎克"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1428054", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1659465.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1659465.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1659465.jpg"
+            }, 
+            "original_title": "Scary Movie 4", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖笑4", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308207/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041008/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/445.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/445.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/445.jpg"
+                    }, 
+                    "id": "1041008", 
+                    "name": "安娜·法瑞丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025205/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11825.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11825.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11825.jpg"
+                    }, 
+                    "id": "1025205", 
+                    "name": "马龙·韦恩斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Antony Acker"
+                }
+            ], 
+            "collect_count": 26405, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017952/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14512.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14512.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14512.jpg"
+                    }, 
+                    "id": "1017952", 
+                    "name": "基伦·埃弗瑞·韦恩斯"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1308207", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1231137736.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1231137736.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1231137736.jpg"
+            }, 
+            "original_title": "Scary Movie 2", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖笑2", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1301861/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041008/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/445.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/445.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/445.jpg"
+                    }, 
+                    "id": "1041008", 
+                    "name": "安娜·法瑞丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049490/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6316.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6316.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6316.jpg"
+                    }, 
+                    "id": "1049490", 
+                    "name": "查理·辛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009287/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21586.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21586.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21586.jpg"
+                    }, 
+                    "id": "1009287", 
+                    "name": "帕米拉·安德森"
+                }
+            ], 
+            "collect_count": 24905, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027924/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21832.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21832.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21832.jpg"
+                    }, 
+                    "id": "1027924", 
+                    "name": "大卫·扎克"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1301861", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4233836.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4233836.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4233836.jpg"
+            }, 
+            "original_title": "Scary Movie 3", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖笑3", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1949877/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009381/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21078.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21078.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21078.jpg"
+                    }, 
+                    "id": "1009381", 
+                    "name": "西蒙·雷克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010535/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44496.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44496.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44496.jpg"
+                    }, 
+                    "id": "1010535", 
+                    "name": "阿什丽·提斯代尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049490/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6316.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6316.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6316.jpg"
+                    }, 
+                    "id": "1049490", 
+                    "name": "查理·辛"
+                }
+            ], 
+            "collect_count": 13281, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014323/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371127231.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371127231.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371127231.59.jpg"
+                    }, 
+                    "id": "1014323", 
+                    "name": "马尔科姆·D·李"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1949877", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1898144743.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1898144743.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1898144743.jpg"
+            }, 
+            "original_title": "Scary Movie 5", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "惊声尖笑5", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25950194/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yeni Alvarez"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1191469/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1191469", 
+                    "name": "劳拉·贝莉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1076005/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1076005", 
+                    "name": "Cam Clarke"
+                }
+            ], 
+            "collect_count": 26, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324242/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1324242", 
+                    "name": "威廉·刘"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sylvain Blais"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "25950194", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2194504046.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2194504046.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2194504046.jpg"
+            }, 
+            "original_title": "Monster High: Frights, Camera, Action!", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "精灵高中: 惊声尖拍", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"惊声尖叫4\" 的结果", 
+    "total": 13
+}

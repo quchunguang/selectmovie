@@ -1,0 +1,470 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3227410/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005774/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2373.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2373.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2373.jpg"
+                    }, 
+                    "id": "1005774", 
+                    "name": "佩内洛普·克鲁兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010543/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1243.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1243.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1243.jpg"
+                    }, 
+                    "id": "1010543", 
+                    "name": "杰弗里·拉什"
+                }
+            ], 
+            "collect_count": 225854, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027276/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10675.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10675.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10675.jpg"
+                    }, 
+                    "id": "1027276", 
+                    "name": "罗伯·马歇尔"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "奇幻", 
+                "冒险"
+            ], 
+            "id": "3227410", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2173332339.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2173332339.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2173332339.jpg"
+            }, 
+            "original_title": "Pirates of the Caribbean: On Stranger Tides", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "加勒比海盗4：惊涛怪浪", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298070/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010543/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1243.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1243.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1243.jpg"
+                    }, 
+                    "id": "1010543", 
+                    "name": "杰弗里·拉什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008069/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32582.jpg"
+                    }, 
+                    "id": "1008069", 
+                    "name": "奥兰多·布鲁姆"
+                }
+            ], 
+            "collect_count": 372701, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031987/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4299.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4299.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4299.jpg"
+                    }, 
+                    "id": "1031987", 
+                    "name": "戈尔·维宾斯基"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "1298070", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1596085504.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1596085504.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1596085504.jpg"
+            }, 
+            "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "加勒比海盗", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1418192/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010543/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1243.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1243.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1243.jpg"
+                    }, 
+                    "id": "1010543", 
+                    "name": "杰弗里·拉什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008069/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32582.jpg"
+                    }, 
+                    "id": "1008069", 
+                    "name": "奥兰多·布鲁姆"
+                }
+            ], 
+            "collect_count": 210446, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031987/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4299.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4299.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4299.jpg"
+                    }, 
+                    "id": "1031987", 
+                    "name": "戈尔·维宾斯基"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "1418192", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2204407192.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2204407192.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2204407192.jpg"
+            }, 
+            "original_title": "Pirates of the Caribbean: At World's End", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "加勒比海盗3：世界的尽头", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1315574/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008069/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32582.jpg"
+                    }, 
+                    "id": "1008069", 
+                    "name": "奥兰多·布鲁姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054448/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10192.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10192.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10192.jpg"
+                    }, 
+                    "id": "1054448", 
+                    "name": "凯拉·奈特莉"
+                }
+            ], 
+            "collect_count": 221121, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031987/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4299.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4299.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4299.jpg"
+                    }, 
+                    "id": "1031987", 
+                    "name": "戈尔·维宾斯基"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "1315574", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1034910542.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1034910542.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1034910542.jpg"
+            }, 
+            "original_title": "Pirates of the Caribbean: Dead Man's Chest", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "加勒比海盗2：聚魂棺", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6311303/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054456/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/562.jpg"
+                    }, 
+                    "id": "1054456", 
+                    "name": "约翰尼·德普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031178/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13769.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13769.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13769.jpg"
+                    }, 
+                    "id": "1031178", 
+                    "name": "卡雅·斯考达里奥"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008069/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32582.jpg"
+                    }, 
+                    "id": "1008069", 
+                    "name": "奥兰多·布鲁姆"
+                }
+            ], 
+            "collect_count": 2297, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1216851/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/58031.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/58031.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/58031.jpg"
+                    }, 
+                    "id": "1216851", 
+                    "name": "乔阿吉姆·罗恩尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019391/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58032.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58032.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58032.jpg"
+                    }, 
+                    "id": "1019391", 
+                    "name": "艾斯彭·山德伯格"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "奇幻"
+            ], 
+            "id": "6311303", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2262914483.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2262914483.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2262914483.jpg"
+            }, 
+            "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "加勒比海盗5：死无对证", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6311305/", 
+            "casts": [], 
+            "collect_count": 136, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "6311305", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11096400.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11096400.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11096400.jpg"
+            }, 
+            "original_title": "Pirates of the Caribbean 6", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "加勒比海盗6", 
+            "year": "2020"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2125555/", 
+            "casts": [], 
+            "collect_count": 28, 
+            "directors": [], 
+            "genres": [], 
+            "id": "2125555", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3520634.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3520634.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3520634.jpg"
+            }, 
+            "original_title": "True Caribbean Pirates", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "HISTORY CHANNEL真实的加勒比海盗", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2359691/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Purefoy ...  Edward 'Blackbeard' Teach"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Noble ...  Isreal Hands"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jack Galloway ...  Charles Vane"
+                }
+            ], 
+            "collect_count": 38, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Dale"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tilman Remme / Andrew Bampfield"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2359691", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2825998.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2825998.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2825998.jpg"
+            }, 
+            "original_title": "Blackbeard: Terror at Sea", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "绿林好汉海盗船长黑胡子", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"加勒比海盗4：惊涛怪浪\" 的结果", 
+    "total": 8
+}

@@ -1,0 +1,593 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1418194/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009594/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397029555.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397029555.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397029555.08.jpg"
+                    }, 
+                    "id": "1009594", 
+                    "name": "巴内·克拉克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054393/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374649659.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374649659.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374649659.58.jpg"
+                    }, 
+                    "id": "1054393", 
+                    "name": "本·金斯利"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Strong"
+                }
+            ], 
+            "collect_count": 27734, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054420/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366303762.72.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366303762.72.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366303762.72.jpg"
+                    }, 
+                    "id": "1054420", 
+                    "name": "罗曼·波兰斯基"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "1418194", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2554718.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2554718.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2554718.jpg"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "雾都孤儿", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293219/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1116137/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51079.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51079.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51079.jpg"
+                    }, 
+                    "id": "1116137", 
+                    "name": "马克·莱斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016706/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34209.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34209.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34209.jpg"
+                    }, 
+                    "id": "1016706", 
+                    "name": "朗·穆迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000598/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1000598", 
+                    "name": "姗妮·沃利斯"
+                }
+            ], 
+            "collect_count": 2517, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016724/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13993.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13993.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13993.jpg"
+                    }, 
+                    "id": "1016724", 
+                    "name": "卡罗尔·里德"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "1293219", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2150942.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2150942.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2150942.jpg"
+            }, 
+            "original_title": "Oliver!", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "雾都孤儿", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299785/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032628/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28931.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28931.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28931.jpg"
+                    }, 
+                    "id": "1032628", 
+                    "name": "约翰·霍华德·戴维斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018301/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1018301", 
+                    "name": "罗伯特·牛顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000109/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24034.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24034.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24034.jpg"
+                    }, 
+                    "id": "1000109", 
+                    "name": "亚利克·基尼斯"
+                }
+            ], 
+            "collect_count": 2262, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002783/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3331.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3331.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3331.jpg"
+                    }, 
+                    "id": "1002783", 
+                    "name": "大卫·里恩"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1299785", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2158734047.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2158734047.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2158734047.jpg"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "雾都孤儿", 
+            "year": "1948"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2248573/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rob Brydon"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gregor Fisher"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Edward Fox"
+                }
+            ], 
+            "collect_count": 1884, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1284829/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1284829", 
+                    "name": "科奇·吉尔佐"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2248573", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2231395045.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2231395045.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2231395045.jpg"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "雾都孤儿", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1401431/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ben Rodska"
+                }
+            ], 
+            "collect_count": 676, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gareth Davies"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1401431", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1789851.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1789851.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1789851.jpg"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "雾都孤儿", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299346/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054395/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51597.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51597.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51597.jpg"
+                    }, 
+                    "id": "1054395", 
+                    "name": "伊利亚·伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041114/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1436864538.86.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1436864538.86.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1436864538.86.jpg"
+                    }, 
+                    "id": "1041114", 
+                    "name": "理查德·德莱弗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1131482/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10013.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10013.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10013.jpg"
+                    }, 
+                    "id": "1131482", 
+                    "name": "大卫·奥哈拉"
+                }
+            ], 
+            "collect_count": 115, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050064/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050064", 
+                    "name": "托尼·比尔"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1299346", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3864159.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3864159.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3864159.jpg"
+            }, 
+            "original_title": "Oliver Twist (TV)", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "雾都孤儿", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5052915/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Charles"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clive Donner"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5052915", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2160872926.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2160872926.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2160872926.jpg"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "雾都孤儿", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20442860/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002877/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57518.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57518.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57518.jpg"
+                    }, 
+                    "id": "1002877", 
+                    "name": "莱斯·崔梅恩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Josh Albee"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Philip L. Clarke"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hal Sutherland"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "20442860", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24508985.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24508985.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24508985.jpg"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "雾都孤儿", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25858715/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ivy Millais"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alma Taylor"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Harry Royston"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Thomas Bentley"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25858715", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "雾都孤儿", 
+            "year": "1912"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1807585/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sam Smith"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Ross"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Renny Rye"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1807585", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2974139.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2974139.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2974139.jpg"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "孤雏泪", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295129/", 
+            "casts": [], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frank Lloyd (I)"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1295129", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3007928.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3007928.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3007928.jpg"
+            }, 
+            "original_title": "Oliver Twist", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "孤鬼苦遇", 
+            "year": "1922"
+        }
+    ], 
+    "title": "搜索 \"雾都孤儿\" 的结果", 
+    "total": 11
+}

@@ -1,0 +1,436 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1476023/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054429/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3127.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3127.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3127.jpg"
+                    }, 
+                    "id": "1054429", 
+                    "name": "克斯汀·邓斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009269/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3145.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3145.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3145.jpg"
+                    }, 
+                    "id": "1009269", 
+                    "name": "詹森·舒瓦兹曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044972/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1411485702.88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1411485702.88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1411485702.88.jpg"
+                    }, 
+                    "id": "1044972", 
+                    "name": "朱迪·戴维斯"
+                }
+            ], 
+            "collect_count": 58272, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054399/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1483.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1483.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1483.jpg"
+                    }, 
+                    "id": "1054399", 
+                    "name": "索菲亚·科波拉"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1476023", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1883984.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1883984.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1883984.jpg"
+            }, 
+            "original_title": "Marie Antoinette", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "绝代艳后", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3928175/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Karine Vanasse"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Olivier Aubin"
+                }
+            ], 
+            "collect_count": 1788, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Francis Leclerc"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yves Simoneau"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3928175", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3937827.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3937827.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3937827.jpg"
+            }, 
+            "original_title": "Marie-Antoinette", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "绝代艳后", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298828/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Norma Shearer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tyrone Power"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Barrymore"
+                }
+            ], 
+            "collect_count": 190, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "W.S. Van Dyke"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1298828", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3982704.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3982704.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3982704.jpg"
+            }, 
+            "original_title": "Marie Antoinette", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "绝代艳后", 
+            "year": "1938"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303034/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028018/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5325.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5325.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5325.jpg"
+                    }, 
+                    "id": "1028018", 
+                    "name": "斯特法诺·迪奥尼斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014293/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49338.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49338.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49338.jpg"
+                    }, 
+                    "id": "1014293", 
+                    "name": "恩里克·洛维索"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027994/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11390.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11390.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11390.jpg"
+                    }, 
+                    "id": "1027994", 
+                    "name": "艾尔莎·泽贝斯坦"
+                }
+            ], 
+            "collect_count": 8513, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050868/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9883.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9883.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9883.jpg"
+                    }, 
+                    "id": "1050868", 
+                    "name": "杰拉德·考比奥"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "音乐"
+            ], 
+            "id": "1303034", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p976252959.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p976252959.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p976252959.jpg"
+            }, 
+            "original_title": "Farinelli", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "绝代妖姬", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4858782/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙亚莉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "谷峰(Feng Ku)"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈明君 (Ming Kwan Chan)"
+                }
+            ], 
+            "collect_count": 102, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗漫秋"
+                }
+            ], 
+            "genres": [], 
+            "id": "4858782", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2192869743.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2192869743.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2192869743.jpg"
+            }, 
+            "original_title": "绝代艳星宝莲的一生", 
+            "rating": {
+                "average": 2.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "15"
+            }, 
+            "subtype": "movie", 
+            "title": "绝代艳星宝莲的一生", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302790/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031218/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/338.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/338.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/338.jpg"
+                    }, 
+                    "id": "1031218", 
+                    "name": "格利高里·派克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013886/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58599.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58599.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58599.jpg"
+                    }, 
+                    "id": "1013886", 
+                    "name": "艾娃·加德纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002803/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12726.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12726.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12726.jpg"
+                    }, 
+                    "id": "1002803", 
+                    "name": "茂文·道格拉斯"
+                }
+            ], 
+            "collect_count": 167, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023031/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23127.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23127.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23127.jpg"
+                    }, 
+                    "id": "1023031", 
+                    "name": "罗伯特·西奥德梅克"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1302790", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4458230.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4458230.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4458230.jpg"
+            }, 
+            "original_title": "The Great Sinner", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "赌徒", 
+            "year": "1949"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294166/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049777/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44280.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44280.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44280.jpg"
+                    }, 
+                    "id": "1049777", 
+                    "name": "克劳黛·考尔白"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037036/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375036692.32.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375036692.32.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375036692.32.jpg"
+                    }, 
+                    "id": "1037036", 
+                    "name": "华伦·威廉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049846/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/59034.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/59034.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/59034.jpg"
+                    }, 
+                    "id": "1049846", 
+                    "name": "亨利·威尔克松"
+                }
+            ], 
+            "collect_count": 637, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025299/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9506.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9506.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9506.jpg"
+                    }, 
+                    "id": "1025299", 
+                    "name": "塞西尔·B·戴米尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "爱情"
+            ], 
+            "id": "1294166", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3724147.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3724147.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3724147.jpg"
+            }, 
+            "original_title": "Cleopatra", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "埃及艳后", 
+            "year": "1934"
+        }
+    ], 
+    "title": "搜索 \"绝代艳后\" 的结果", 
+    "total": 7
+}

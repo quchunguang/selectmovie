@@ -1,0 +1,200 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/11580479/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009405/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41072.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41072.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41072.jpg"
+                    }, 
+                    "id": "1009405", 
+                    "name": "本尼迪克特·康伯巴奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053566/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10117.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10117.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10117.jpg"
+                    }, 
+                    "id": "1053566", 
+                    "name": "丹尼尔·布鲁赫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1233154/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427204716.36.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427204716.36.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427204716.36.jpg"
+                    }, 
+                    "id": "1233154", 
+                    "name": "艾丽西亚·维坎德"
+                }
+            ], 
+            "collect_count": 6855, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027245/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/42170.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/42170.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/42170.jpg"
+                    }, 
+                    "id": "1027245", 
+                    "name": "比尔·康顿"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记"
+            ], 
+            "id": "11580479", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2097787328.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2097787328.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2097787328.jpg"
+            }, 
+            "original_title": "The Fifth Estate", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "危机解密", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3075287/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048002/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12737.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12737.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12737.jpg"
+                    }, 
+                    "id": "1048002", 
+                    "name": "杰克·吉伦哈尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053584/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11871.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11871.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11871.jpg"
+                    }, 
+                    "id": "1053584", 
+                    "name": "维拉·法米加"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000015/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2555.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2555.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2555.jpg"
+                    }, 
+                    "id": "1000015", 
+                    "name": "米歇尔·莫纳汉"
+                }
+            ], 
+            "collect_count": 419084, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018030/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33020.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33020.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33020.jpg"
+                    }, 
+                    "id": "1018030", 
+                    "name": "邓肯·琼斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3075287", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p988260245.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p988260245.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p988260245.jpg"
+            }, 
+            "original_title": "Source Code", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "源代码", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20432378/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nick Davidson"
+                }
+            ], 
+            "genres": [], 
+            "id": "20432378", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2271921393.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2271921393.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2271921393.jpg"
+            }, 
+            "original_title": "Nuclear Nightmares", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Nuclear Nightmares", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26426774/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26426774", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2250778354.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2250778354.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2250778354.jpg"
+            }, 
+            "original_title": "Danger Decoded", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "危机解码", 
+            "year": "2015"
+        }
+    ], 
+    "title": "搜索 \"危机解密\" 的结果", 
+    "total": 4
+}

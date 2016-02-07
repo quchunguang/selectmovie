@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3010412/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047981/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46566.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46566.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46566.jpg"
+                    }, 
+                    "id": "1047981", 
+                    "name": "莎拉·米歇尔·盖拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017994/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24602.jpg"
+                    }, 
+                    "id": "1017994", 
+                    "name": "乔纳森·塔克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025180/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5849.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5849.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5849.jpg"
+                    }, 
+                    "id": "1025180", 
+                    "name": "埃丽卡·克里斯滕森"
+                }
+            ], 
+            "collect_count": 3794, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1306240/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1306240", 
+                    "name": "Emily Young"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3010412", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3821375.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3821375.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3821375.jpg"
+            }, 
+            "original_title": "Veronika Decides to Die", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "薇罗妮卡决定去死", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"薇罗妮卡决定去死\" 的结果", 
+    "total": 1
+}

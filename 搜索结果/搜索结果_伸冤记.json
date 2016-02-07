@@ -1,0 +1,135 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301234/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048150/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1537.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1537.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1537.jpg"
+                    }, 
+                    "id": "1048150", 
+                    "name": "亨利·方达"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049722/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12388.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12388.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12388.jpg"
+                    }, 
+                    "id": "1049722", 
+                    "name": "维拉·迈尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050097/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18057.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18057.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18057.jpg"
+                    }, 
+                    "id": "1050097", 
+                    "name": "安东尼·奎尔"
+                }
+            ], 
+            "collect_count": 1987, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025185/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/302.jpg"
+                    }, 
+                    "id": "1025185", 
+                    "name": "阿尔弗雷德·希区柯克"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "黑色电影"
+            ], 
+            "id": "1301234", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3229940.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3229940.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3229940.jpg"
+            }, 
+            "original_title": "The Wrong Man", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "伸冤记", 
+            "year": "1956"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4195770/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025210/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10186.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10186.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10186.jpg"
+                    }, 
+                    "id": "1025210", 
+                    "name": "罗姗娜·阿奎特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027824/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25056.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25056.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25056.jpg"
+                    }, 
+                    "id": "1027824", 
+                    "name": "约翰·利特高"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050426/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050426", 
+                    "name": "吉姆·麦克布莱德"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "惊悚"
+            ], 
+            "id": "4195770", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Wrong Man", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "伸冤记", 
+            "year": "1993"
+        }
+    ], 
+    "title": "搜索 \"伸冤记\" 的结果", 
+    "total": 2
+}

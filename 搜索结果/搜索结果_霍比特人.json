@@ -1,0 +1,503 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2973079/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049612/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35443.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35443.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35443.jpg"
+                    }, 
+                    "id": "1049612", 
+                    "name": "马丁·弗瑞曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054410/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1453792363.04.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1453792363.04.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1453792363.04.jpg"
+                    }, 
+                    "id": "1054410", 
+                    "name": "伊恩·麦克莱恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022639/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1481.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1481.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1481.jpg"
+                    }, 
+                    "id": "1022639", 
+                    "name": "理查德·阿米蒂奇"
+                }
+            ], 
+            "collect_count": 186186, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040524/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40835.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40835.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40835.jpg"
+                    }, 
+                    "id": "1040524", 
+                    "name": "彼得·杰克逊"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "奇幻", 
+                "冒险"
+            ], 
+            "id": "2973079", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2219406504.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2219406504.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2219406504.jpg"
+            }, 
+            "original_title": "The Hobbit: The Battle of the Five Armies", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "霍比特人3：五军之战", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1966182/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054410/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1453792363.04.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1453792363.04.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1453792363.04.jpg"
+                    }, 
+                    "id": "1054410", 
+                    "name": "伊恩·麦克莱恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049612/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35443.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35443.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35443.jpg"
+                    }, 
+                    "id": "1049612", 
+                    "name": "马丁·弗瑞曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022639/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1481.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1481.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1481.jpg"
+                    }, 
+                    "id": "1022639", 
+                    "name": "理查德·阿米蒂奇"
+                }
+            ], 
+            "collect_count": 234504, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040524/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40835.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40835.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40835.jpg"
+                    }, 
+                    "id": "1040524", 
+                    "name": "彼得·杰克逊"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "奇幻", 
+                "冒险"
+            ], 
+            "id": "1966182", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1716297390.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1716297390.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1716297390.jpg"
+            }, 
+            "original_title": "The Hobbit: An Unexpected Journey", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "霍比特人1：意外之旅", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11606328/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054410/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1453792363.04.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1453792363.04.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1453792363.04.jpg"
+                    }, 
+                    "id": "1054410", 
+                    "name": "伊恩·麦克莱恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049612/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35443.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35443.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35443.jpg"
+                    }, 
+                    "id": "1049612", 
+                    "name": "马丁·弗瑞曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022639/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1481.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1481.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1481.jpg"
+                    }, 
+                    "id": "1022639", 
+                    "name": "理查德·阿米蒂奇"
+                }
+            ], 
+            "collect_count": 192651, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040524/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40835.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40835.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40835.jpg"
+                    }, 
+                    "id": "1040524", 
+                    "name": "彼得·杰克逊"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "奇幻", 
+                "冒险"
+            ], 
+            "id": "11606328", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2166784595.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2166784595.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2166784595.jpg"
+            }, 
+            "original_title": "The Hobbit: The Desolation of Smaug", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "霍比特人2：史矛革之战", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1940991/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009465/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48870.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48870.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48870.jpg"
+                    }, 
+                    "id": "1009465", 
+                    "name": "奥森·比恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019098/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43313.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43313.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43313.jpg"
+                    }, 
+                    "id": "1019098", 
+                    "name": "理查德·布恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1072310/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1072310", 
+                    "name": "汉斯·康拉德"
+                }
+            ], 
+            "collect_count": 264, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050558/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050558", 
+                    "name": "Jules Bass"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012672/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1391469466.35.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1391469466.35.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1391469466.35.jpg"
+                    }, 
+                    "id": "1012672", 
+                    "name": "Arthur Rankin Jr."
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "奇幻", 
+                "家庭"
+            ], 
+            "id": "1940991", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2845732.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2845732.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2845732.jpg"
+            }, 
+            "original_title": "The Hobbit", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "霍比特人", 
+            "year": "1977"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10461685/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Herb Lass"
+                }
+            ], 
+            "collect_count": 79, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025516/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51786.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51786.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51786.jpg"
+                    }, 
+                    "id": "1025516", 
+                    "name": "吉恩·戴奇"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "10461685", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2099346304.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2099346304.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2099346304.jpg"
+            }, 
+            "original_title": "The Hobbit", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "霍比特人", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5221752/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050800/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44119.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44119.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44119.jpg"
+                    }, 
+                    "id": "1050800", 
+                    "name": "Kari Väänänen"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1204413/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1204413", 
+                    "name": "Bojan Baric"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Teijo Eloranta"
+                }
+            ], 
+            "collect_count": 24, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Timo Torikka"
+                }
+            ], 
+            "genres": [
+                "家庭", 
+                "奇幻", 
+                "冒险"
+            ], 
+            "id": "5221752", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4686478.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4686478.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4686478.jpg"
+            }, 
+            "original_title": "Hobitit", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "霍比特人", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20498643/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027192/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35978.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35978.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35978.jpg"
+                    }, 
+                    "id": "1027192", 
+                    "name": "白灵"
+                }
+            ], 
+            "collect_count": 199, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joseph J. Lawson"
+                }
+            ], 
+            "genres": [
+                "冒险"
+            ], 
+            "id": "20498643", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1947187789.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1947187789.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1947187789.jpg"
+            }, 
+            "original_title": "Clash of the empires", 
+            "rating": {
+                "average": 3.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "霍比特人时代", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21334471/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1096749/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1446384319.2.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1446384319.2.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1446384319.2.jpg"
+                    }, 
+                    "id": "1096749", 
+                    "name": "季诺维·格尔德特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1080803/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1080803", 
+                    "name": "Mikhail Danilov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ivan Krasko"
+                }
+            ], 
+            "collect_count": 52, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vladimir Latyshev"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "冒险", 
+                "家庭"
+            ], 
+            "id": "21334471", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2223744165.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2223744165.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2223744165.jpg"
+            }, 
+            "original_title": "Сказочное путешествие мистера Бильбо Беггинса Хоббита", 
+            "rating": {
+                "average": 5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "比尔博·巴金斯的奇妙旅程", 
+            "year": "1985"
+        }
+    ], 
+    "title": "搜索 \"霍比特人\" 的结果", 
+    "total": 8
+}

@@ -1,0 +1,257 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3552028/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022003/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54019.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54019.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54019.jpg"
+                    }, 
+                    "id": "1022003", 
+                    "name": "桑德拉·布洛克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044896/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18025.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18025.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18025.jpg"
+                    }, 
+                    "id": "1044896", 
+                    "name": "蒂姆·麦格罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022617/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23207.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23207.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23207.jpg"
+                    }, 
+                    "id": "1022617", 
+                    "name": "昆东·亚伦"
+                }
+            ], 
+            "collect_count": 110660, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1285940/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39941.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39941.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39941.jpg"
+                    }, 
+                    "id": "1285940", 
+                    "name": "约翰·李·汉考克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭", 
+                "传记"
+            ], 
+            "id": "3552028", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2181613001.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2181613001.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2181613001.jpg"
+            }, 
+            "original_title": "The Blind Side", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "弱点", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1968641/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mads Mikkelsen"
+                }
+            ], 
+            "collect_count": 116, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Lindmark"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1968641", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2016762.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2016762.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2016762.jpg"
+            }, 
+            "original_title": "Exit", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "人性的弱点", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26703272/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "花沢徳衛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "三戸部スエ"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "殿山泰司"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "26703272", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "弱味", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "弱点", 
+            "year": "1962"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26703826/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "三國連太郎"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "原知佐子"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "26703826", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "「松本清張シリーズ」弱味", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "弱点", 
+            "year": "1965"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25868455/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Krister Henriksson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Johanna Sällström"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ola Rapace"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jonas Grimås"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "25868455", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2179460926.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2179460926.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2179460926.jpg"
+            }, 
+            "original_title": "Wallander: Den svaga punkten", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "沃兰德探长系列：骗子", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"弱点\" 的结果", 
+    "total": 5
+}

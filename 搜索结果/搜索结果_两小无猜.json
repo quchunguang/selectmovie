@@ -1,0 +1,937 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1308817/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000177/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9482.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9482.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9482.jpg"
+                    }, 
+                    "id": "1000177", 
+                    "name": "吉约姆·卡内"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006955/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36117.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36117.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36117.jpg"
+                    }, 
+                    "id": "1006955", 
+                    "name": "玛丽昂·歌迪亚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324610/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/WH42XBQh4s4cel_avatar_uploaded1352086541.86.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/WH42XBQh4s4cel_avatar_uploaded1352086541.86.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/WH42XBQh4s4cel_avatar_uploaded1352086541.86.jpg"
+                    }, 
+                    "id": "1324610", 
+                    "name": "蒂博•费尔哈格"
+                }
+            ], 
+            "collect_count": 365205, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018336/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19332.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19332.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19332.jpg"
+                    }, 
+                    "id": "1018336", 
+                    "name": "杨·塞谬尔"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1308817", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p455472580.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p455472580.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p455472580.jpg"
+            }, 
+            "original_title": "Jeux d'enfants", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "两小无猜", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1304942/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1116137/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51079.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51079.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51079.jpg"
+                    }, 
+                    "id": "1116137", 
+                    "name": "马克·莱斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045386/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7241.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7241.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7241.jpg"
+                    }, 
+                    "id": "1045386", 
+                    "name": "特雷西·海德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027408/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50734.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50734.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50734.jpg"
+                    }, 
+                    "id": "1027408", 
+                    "name": "杰克·瓦尔德"
+                }
+            ], 
+            "collect_count": 41992, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1402893353.91.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1402893353.91.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1402893353.91.jpg"
+                    }, 
+                    "id": "1037096", 
+                    "name": "瓦里丝·侯赛因"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1304942", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1132971627.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1132971627.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1132971627.jpg"
+            }, 
+            "original_title": "Melody", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "两小无猜", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6126460/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kari reynolds"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lisa pepper"
+                }
+            ], 
+            "collect_count": 115, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Isabella Vincent Chan"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6126460", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4721194.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4721194.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4721194.jpg"
+            }, 
+            "original_title": "sugared peas", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "两小无猜", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26295770/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "26295770", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "小時候：兩小無猜", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "小時候：兩小無猜", 
+            "year": "1978"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5942160/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "長沢直美"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "菊地祥子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小桜エツ子"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1034659/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22591.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22591.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22591.jpg"
+                    }, 
+                    "id": "1034659", 
+                    "name": "芝山努"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "5942160", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4609040.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4609040.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4609040.jpg"
+            }, 
+            "original_title": "わんころべえ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "两小无猜", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2968813/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009522/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42134.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42134.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42134.jpg"
+                    }, 
+                    "id": "1009522", 
+                    "name": "凯尔·赫德布朗特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027300/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8739.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8739.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8739.jpg"
+                    }, 
+                    "id": "1027300", 
+                    "name": "莉娜·林德尔森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018593/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1018593", 
+                    "name": "皮尔·拉格纳"
+                }
+            ], 
+            "collect_count": 35989, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000317/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50917.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50917.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50917.jpg"
+                    }, 
+                    "id": "1000317", 
+                    "name": "托马斯·阿尔弗莱德森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "悬疑"
+            ], 
+            "id": "2968813", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2876246.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2876246.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2876246.jpg"
+            }, 
+            "original_title": "Låt den rätte komma in", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "生人勿进", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2137695/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317248/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1361114348.57.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1361114348.57.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1361114348.57.jpg"
+                    }, 
+                    "id": "1317248", 
+                    "name": "徐杰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "区瑞强"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016864/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1354101705.11.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1354101705.11.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1354101705.11.jpg"
+                    }, 
+                    "id": "1016864", 
+                    "name": "叶德娴"
+                }
+            ], 
+            "collect_count": 42, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1297525/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44345.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44345.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44345.jpg"
+                    }, 
+                    "id": "1297525", 
+                    "name": "舒琪"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "2137695", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4701355.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4701355.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4701355.jpg"
+            }, 
+            "original_title": "兩小無知", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "两小无知", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3564315/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1248592/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354128837.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354128837.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354128837.83.jpg"
+                    }, 
+                    "id": "1248592", 
+                    "name": "柯蒂·斯密特-麦菲"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018981/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20201.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20201.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20201.jpg"
+                    }, 
+                    "id": "1018981", 
+                    "name": "科洛·莫瑞兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048145/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25350.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25350.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25350.jpg"
+                    }, 
+                    "id": "1048145", 
+                    "name": "理查德·詹金斯"
+                }
+            ], 
+            "collect_count": 21064, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045032/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18161.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18161.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18161.jpg"
+                    }, 
+                    "id": "1045032", 
+                    "name": "马特·里夫斯"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "3564315", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p538074404.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p538074404.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p538074404.jpg"
+            }, 
+            "original_title": "Let Me In", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "生人勿进(美版)", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2137698/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Choosak Iamsook"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alisa Intusmith"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Weerapak Kaensuwan"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Poj Arnon"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "2137698", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2569693.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2569693.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2569693.jpg"
+            }, 
+            "original_title": "เอ๋อเหรอ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "两小无知", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2043154/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1185637/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13768.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13768.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13768.jpg"
+                    }, 
+                    "id": "1185637", 
+                    "name": "神木隆之介"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023470/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3155.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3155.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3155.jpg"
+                    }, 
+                    "id": "1023470", 
+                    "name": "福田麻由子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032754/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6097.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6097.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6097.jpg"
+                    }, 
+                    "id": "1032754", 
+                    "name": "原田芳雄"
+                }
+            ], 
+            "collect_count": 6655, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274892/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7463.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7463.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7463.jpg"
+                    }, 
+                    "id": "1274892", 
+                    "name": "永田琴"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "2043154", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p825117698.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p825117698.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p825117698.jpg"
+            }, 
+            "original_title": "Little DJ～小さな恋の物語", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "Little DJ 小小恋爱物语", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3079295/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Danielle Baum"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033093/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1451791175.4.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1451791175.4.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1451791175.4.jpg"
+                    }, 
+                    "id": "1033093", 
+                    "name": "艾莫里·科恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040580/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382850435.57.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382850435.57.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382850435.57.jpg"
+                    }, 
+                    "id": "1040580", 
+                    "name": "罗丝玛丽·德薇特"
+                }
+            ], 
+            "collect_count": 212, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Antonio Campos"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3079295", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3213551.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3213551.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3213551.jpg"
+            }, 
+            "original_title": "Afterschool", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "放学后", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1301612/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fred Savage"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Danica McKellar"
+                }
+            ], 
+            "collect_count": 99, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Baldwin, etc."
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭", 
+                "喜剧"
+            ], 
+            "id": "1301612", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2737115.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2737115.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2737115.jpg"
+            }, 
+            "original_title": "The Wonder Years", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "纯真年代 第一季", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4322371/", 
+            "casts": [], 
+            "collect_count": 21, 
+            "directors": [], 
+            "genres": [], 
+            "id": "4322371", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4207007.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4207007.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4207007.jpg"
+            }, 
+            "original_title": "炎のアルペンローゼ ジュディ&ランディ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "雪岭飘零", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5053925/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "马克·莱斯特 (Mark Lester)"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "甄珍  宗华"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "出目昌伸"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5053925", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2125252487.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2125252487.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2125252487.jpg"
+            }, 
+            "original_title": "Little Adventurer", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "毕业旅行", 
+            "year": "1973"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10604219/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Emir Mahira"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Harry Suharyadi"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "儿童"
+            ], 
+            "id": "10604219", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9058291.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9058291.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9058291.jpg"
+            }, 
+            "original_title": "Melodi", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "麦乐地", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20326507/", 
+            "casts": [], 
+            "collect_count": 5, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "20326507", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Wonder Years", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "纯真年代 第二季", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20326519/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "20326519", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Wonder Years", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "纯真年代 第四季", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20326521/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "20326521", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Wonder Years", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "纯真年代 第五季", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20326514/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "20326514", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Wonder Years", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "纯真年代 第三季", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20326524/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "20326524", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Wonder Years", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "纯真年代 第六季", 
+            "year": "1992"
+        }
+    ], 
+    "title": "搜索 \"两小无猜\" 的结果", 
+    "total": 23
+}

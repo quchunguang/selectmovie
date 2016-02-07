@@ -1,0 +1,128 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2216968/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022996/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11284.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11284.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11284.jpg"
+                    }, 
+                    "id": "1022996", 
+                    "name": "托莫·希思黎"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021997/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1502.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1502.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1502.jpg"
+                    }, 
+                    "id": "1021997", 
+                    "name": "克里斯汀·斯科特·托马斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Miki Manojlović"
+                }
+            ], 
+            "collect_count": 2854, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jérôme Salle"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "惊悚"
+            ], 
+            "id": "2216968", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3040379.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3040379.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3040379.jpg"
+            }, 
+            "original_title": "Largo Winch", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "决战豪门", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20391260/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275430/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13632.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13632.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13632.jpg"
+                    }, 
+                    "id": "1275430", 
+                    "name": "戴娇倩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313611/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368078512.88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368078512.88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368078512.88.jpg"
+                    }, 
+                    "id": "1313611", 
+                    "name": "岳跃利"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "巩峥"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "习辛"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "20391260", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2049519751.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2049519751.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2049519751.jpg"
+            }, 
+            "original_title": "名门媳妇", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "名门媳妇", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"决战豪门\" 的结果", 
+    "total": 2
+}

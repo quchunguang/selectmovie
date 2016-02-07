@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10581908/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041017/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38361.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38361.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38361.jpg"
+                    }, 
+                    "id": "1041017", 
+                    "name": "阿丽克西斯·布莱德尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274500/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4989.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4989.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4989.jpg"
+                    }, 
+                    "id": "1274500", 
+                    "name": "朱诺·坦普尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036323/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24386.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24386.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24386.jpg"
+                    }, 
+                    "id": "1036323", 
+                    "name": "迈克尔·安格拉诺"
+                }
+            ], 
+            "collect_count": 3952, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327504/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1363861696.28.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1363861696.28.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1363861696.28.jpg"
+                    }, 
+                    "id": "1327504", 
+                    "name": "拉玛·莫斯利"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻", 
+                "惊悚"
+            ], 
+            "id": "10581908", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24853227.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24853227.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24853227.jpg"
+            }, 
+            "original_title": "The Brass Teapot", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "黄铜茶壶", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"黄铜茶壶\" 的结果", 
+    "total": 1
+}

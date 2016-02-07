@@ -1,0 +1,130 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1296279/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bruce Willis"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Danny Aiello"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andie MacDowell"
+                }
+            ], 
+            "collect_count": 1699, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "迈克尔 莱曼"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "喜剧"
+            ], 
+            "id": "1296279", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1441893.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1441893.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1441893.jpg"
+            }, 
+            "original_title": "Hudson Hawk", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "终极神鹰", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298753/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016671/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34511.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34511.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34511.jpg"
+                    }, 
+                    "id": "1016671", 
+                    "name": "凯文·科斯特纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022627/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/27401.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/27401.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/27401.jpg"
+                    }, 
+                    "id": "1022627", 
+                    "name": "奥莉维亚·威廉姆斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019066/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52679.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52679.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52679.jpg"
+                    }, 
+                    "id": "1019066", 
+                    "name": "威尔·帕顿"
+                }
+            ], 
+            "collect_count": 4532, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016671/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34511.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34511.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34511.jpg"
+                    }, 
+                    "id": "1016671", 
+                    "name": "凯文·科斯特纳"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "剧情"
+            ], 
+            "id": "1298753", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p925479194.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p925479194.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p925479194.jpg"
+            }, 
+            "original_title": "The Postman", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "邮差", 
+            "year": "1997"
+        }
+    ], 
+    "title": "搜索 \"终极神鹰\" 的结果", 
+    "total": 2
+}

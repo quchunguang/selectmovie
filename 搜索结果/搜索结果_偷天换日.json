@@ -1,0 +1,625 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301345/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1407766093.88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1407766093.88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1407766093.88.jpg"
+                    }, 
+                    "id": "1035674", 
+                    "name": "马克·沃尔伯格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018991/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44470.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44470.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44470.jpg"
+                    }, 
+                    "id": "1018991", 
+                    "name": "查理兹·塞隆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035676/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/385.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/385.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/385.jpg"
+                    }, 
+                    "id": "1035676", 
+                    "name": "爱德华·诺顿"
+                }
+            ], 
+            "collect_count": 92102, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009396/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4451.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4451.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4451.jpg"
+                    }, 
+                    "id": "1009396", 
+                    "name": "F·加里·格雷"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1301345", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1693861981.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1693861981.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1693861981.jpg"
+            }, 
+            "original_title": "The Italian Job", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "偷天换日", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26705706/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1352007/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/LykmnS7olGMcel_avatar_uploaded1442975824.73.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/LykmnS7olGMcel_avatar_uploaded1442975824.73.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/LykmnS7olGMcel_avatar_uploaded1442975824.73.jpg"
+                    }, 
+                    "id": "1352007", 
+                    "name": "张浩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316796/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37528.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37528.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37528.jpg"
+                    }, 
+                    "id": "1316796", 
+                    "name": "吴志雄"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李野"
+                }
+            ], 
+            "collect_count": 345, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1352007/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/LykmnS7olGMcel_avatar_uploaded1442975824.73.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/LykmnS7olGMcel_avatar_uploaded1442975824.73.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/LykmnS7olGMcel_avatar_uploaded1442975824.73.jpg"
+                    }, 
+                    "id": "1352007", 
+                    "name": "张浩"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "26705706", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2307767238.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2307767238.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2307767238.jpg"
+            }, 
+            "original_title": "四平青年3偷天换日", 
+            "rating": {
+                "average": 4.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "四平青年3偷天换日", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3199144/", 
+            "casts": [], 
+            "collect_count": 340, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3199144", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3288276.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3288276.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3288276.jpg"
+            }, 
+            "original_title": "偷天换日", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "偷天换日", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3287562/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054391/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/15731.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/15731.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/15731.jpg"
+                    }, 
+                    "id": "1054391", 
+                    "name": "史蒂夫·卡瑞尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013759/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3119.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3119.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3119.jpg"
+                    }, 
+                    "id": "1013759", 
+                    "name": "杰森·席格尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017888/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1526.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1526.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1526.jpg"
+                    }, 
+                    "id": "1017888", 
+                    "name": "拉塞尔·布兰德"
+                }
+            ], 
+            "collect_count": 373292, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313061/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1389806916.36.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1389806916.36.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1389806916.36.jpg"
+                    }, 
+                    "id": "1313061", 
+                    "name": "皮艾尔·柯芬"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1295449/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29587.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29587.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29587.jpg"
+                    }, 
+                    "id": "1295449", 
+                    "name": "克里斯·雷纳德"
+                }
+            ], 
+            "genres": [
+                "儿童", 
+                "喜剧", 
+                "动画"
+            ], 
+            "id": "3287562", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p792776858.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p792776858.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p792776858.jpg"
+            }, 
+            "original_title": "Despicable Me", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "神偷奶爸", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1463357/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054424/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1378956633.91.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1378956633.91.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1378956633.91.jpg"
+                    }, 
+                    "id": "1054424", 
+                    "name": "刘德华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1118167/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/746.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/746.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/746.jpg"
+                    }, 
+                    "id": "1118167", 
+                    "name": "梁家辉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050179/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49991.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49991.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49991.jpg"
+                    }, 
+                    "id": "1050179", 
+                    "name": "钟丽缇"
+                }
+            ], 
+            "collect_count": 3460, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王晶"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "悬疑"
+            ], 
+            "id": "1463357", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1807514.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1807514.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1807514.jpg"
+            }, 
+            "original_title": "至尊卅六計之偷天換日", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "将计就计", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1306001/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013818/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14176.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14176.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14176.jpg"
+                    }, 
+                    "id": "1013818", 
+                    "name": "金·寇兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027841/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1360486682.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1360486682.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1360486682.9.jpg"
+                    }, 
+                    "id": "1027841", 
+                    "name": "丹尼尔·鲍德温"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Janine Theriault"
+                }
+            ], 
+            "collect_count": 59, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027841/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1360486682.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1360486682.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1360486682.9.jpg"
+                    }, 
+                    "id": "1027841", 
+                    "name": "丹尼尔·鲍德温"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "1306001", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4172785.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4172785.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4172785.jpg"
+            }, 
+            "original_title": "Tunnel", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "偷天换日大行动", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303228/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027350/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14385.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14385.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14385.jpg"
+                    }, 
+                    "id": "1027350", 
+                    "name": "彼得·芬奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002745/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9917.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9917.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9917.jpg"
+                    }, 
+                    "id": "1002745", 
+                    "name": "麦克尔·约克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1129991/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1129991", 
+                    "name": "Hildegarde Neil"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Duffell"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1303228", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "England Made Me", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "偷天换柱", 
+            "year": "1973"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1865401/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jason Statham"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Charlize Theron"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Wahlberg"
+                }
+            ], 
+            "collect_count": 35, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "F. Gary Gray"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1865401", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2757690.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2757690.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2757690.jpg"
+            }, 
+            "original_title": "The Brazilian Job", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "巴西任务", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4206477/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000147/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35783.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35783.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35783.jpg"
+                    }, 
+                    "id": "1000147", 
+                    "name": "萨姆·沃辛顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004571/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22028.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22028.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22028.jpg"
+                    }, 
+                    "id": "1004571", 
+                    "name": "伊丽莎白·班克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053616/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1360070104.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1360070104.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1360070104.51.jpg"
+                    }, 
+                    "id": "1053616", 
+                    "name": "杰米·贝尔"
+                }
+            ], 
+            "collect_count": 17462, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305596/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39510.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39510.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39510.jpg"
+                    }, 
+                    "id": "1305596", 
+                    "name": "阿斯各·莱斯"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "4206477", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1226364053.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1226364053.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1226364053.jpg"
+            }, 
+            "original_title": "Man on a Ledge", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "窗台上的男人", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10757209/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275744/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55062.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55062.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55062.jpg"
+                    }, 
+                    "id": "1275744", 
+                    "name": "于震"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313574/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18662.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18662.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18662.jpg"
+                    }, 
+                    "id": "1313574", 
+                    "name": "王丽坤"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1116446/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43968.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43968.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43968.jpg"
+                    }, 
+                    "id": "1116446", 
+                    "name": "刘琳"
+                }
+            ], 
+            "collect_count": 655, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵青"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王丁"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "10757209", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9127109.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9127109.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9127109.jpg"
+            }, 
+            "original_title": "五号特工组2", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "五号特工组2", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"偷天换日\" 的结果", 
+    "total": 10
+}

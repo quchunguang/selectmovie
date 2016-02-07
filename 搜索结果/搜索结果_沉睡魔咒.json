@@ -1,0 +1,100 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4301224/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054447/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1592.jpg"
+                    }, 
+                    "id": "1054447", 
+                    "name": "安吉丽娜·朱莉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025133/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17594.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17594.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17594.jpg"
+                    }, 
+                    "id": "1025133", 
+                    "name": "艾丽·范宁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036300/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1393386887.76.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1393386887.76.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1393386887.76.jpg"
+                    }, 
+                    "id": "1036300", 
+                    "name": "沙尔托·科普雷"
+                }
+            ], 
+            "collect_count": 115449, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1298560/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1353427284.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1353427284.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1353427284.71.jpg"
+                    }, 
+                    "id": "1298560", 
+                    "name": "罗伯特·斯特罗姆伯格"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "爱情", 
+                "奇幻"
+            ], 
+            "id": "4301224", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2185343341.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2185343341.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2185343341.jpg"
+            }, 
+            "original_title": "Maleficent", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "沉睡魔咒", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26426056/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26426056", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Maleficent 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "沉睡魔咒2", 
+            "year": "2018"
+        }
+    ], 
+    "title": "搜索 \"沉睡魔咒\" 的结果", 
+    "total": 2
+}

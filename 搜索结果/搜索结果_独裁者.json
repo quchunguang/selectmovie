@@ -1,0 +1,927 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4845728/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027161/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1727.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1727.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1727.jpg"
+                    }, 
+                    "id": "1027161", 
+                    "name": "萨莎·拜伦·科恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054393/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374649659.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374649659.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374649659.58.jpg"
+                    }, 
+                    "id": "1054393", 
+                    "name": "本·金斯利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314947/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53297.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53297.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53297.jpg"
+                    }, 
+                    "id": "1314947", 
+                    "name": "杰森·曼兹沃克斯"
+                }
+            ], 
+            "collect_count": 142380, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036713/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31798.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31798.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31798.jpg"
+                    }, 
+                    "id": "1036713", 
+                    "name": "拉里·查尔斯"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4845728", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1573340331.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1573340331.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1573340331.jpg"
+            }, 
+            "original_title": "The Dictator", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "独裁者", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295646/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002724/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3946.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3946.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3946.jpg"
+                    }, 
+                    "id": "1002724", 
+                    "name": "查理·卓别林"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019107/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1388727761.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1388727761.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1388727761.93.jpg"
+                    }, 
+                    "id": "1019107", 
+                    "name": "宝莲·高黛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041556/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14473.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14473.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14473.jpg"
+                    }, 
+                    "id": "1041556", 
+                    "name": "杰克·奥克"
+                }
+            ], 
+            "collect_count": 29503, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002724/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3946.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3946.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3946.jpg"
+                    }, 
+                    "id": "1002724", 
+                    "name": "查理·卓别林"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "战争"
+            ], 
+            "id": "1295646", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2210788024.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2210788024.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2210788024.jpg"
+            }, 
+            "original_title": "The Great Dictator", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "大独裁者", 
+            "year": "1940"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26330863/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "清水尚弥"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "村上穂乃佳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "芹澤興人"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "飯塚俊光"
+                }
+            ], 
+            "genres": [], 
+            "id": "26330863", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2248269788.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2248269788.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2248269788.jpg"
+            }, 
+            "original_title": "独裁者、古賀。", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "独裁者、古賀。", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25839069/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "25839069", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2172690361.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2172690361.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2172690361.jpg"
+            }, 
+            "original_title": "ウルトラB ブラックホールからの独裁者B・B", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "ウルトラB ブラックホールからの独裁者B・B", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26686103/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "伊秋水"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曾蓝施"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周志诚"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蒋爱民"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "26686103", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "大独裁者", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大独裁者", 
+            "year": "1950"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25762403/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045576/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1403416347.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1403416347.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1403416347.83.jpg"
+                    }, 
+                    "id": "1045576", 
+                    "name": "薛景求"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1219054/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13821.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13821.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13821.jpg"
+                    }, 
+                    "id": "1219054", 
+                    "name": "朴海日"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315556/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32397.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32397.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32397.jpg"
+                    }, 
+                    "id": "1315556", 
+                    "name": "尹宰文"
+                }
+            ], 
+            "collect_count": 998, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342426/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1414440756.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1414440756.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1414440756.81.jpg"
+                    }, 
+                    "id": "1342426", 
+                    "name": "李海准"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25762403", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2204311560.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2204311560.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2204311560.jpg"
+            }, 
+            "original_title": "나의 독재자", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "我的独裁者", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4845822/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1067901/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1067901", 
+                    "name": "Nicolae Ceausescu"
+                }
+            ], 
+            "collect_count": 387, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Arnaud hamelin"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "4845822", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4574765.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4574765.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4574765.jpg"
+            }, 
+            "original_title": "The Last Day", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "独裁者末日——枪决齐奥塞斯库夫妇实况", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3670730/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fernando Benini"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1192134/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1192134", 
+                    "name": "Túlio de Lemos"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Manoel Domingos"
+                }
+            ], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "José Agripino de Paula"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3670730", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3913110.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3913110.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3913110.jpg"
+            }, 
+            "original_title": "Hitler IIIº Mundo", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "第三世界的独裁者", 
+            "year": "1968"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4005348/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1115155/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1115155", 
+                    "name": "Slobodan Milosevic"
+                }
+            ], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steve York"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "4005348", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24465149.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24465149.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24465149.jpg"
+            }, 
+            "original_title": "Bringing Down a Dictator", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "打倒独裁者", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1507958/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009661/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25483.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25483.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25483.jpg"
+                    }, 
+                    "id": "1009661", 
+                    "name": "利诺·文图拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025372/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354358239.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354358239.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354358239.74.jpg"
+                    }, 
+                    "id": "1025372", 
+                    "name": "西娃·科丝西娜"
+                }
+            ], 
+            "collect_count": 20, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Claude Sautet"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1507958", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10279867.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10279867.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10279867.jpg"
+            }, 
+            "original_title": "L'arme à gauche", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "独裁者的武器", 
+            "year": "1965"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2287724/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Charles Chaplin"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sidney Lumet"
+                }
+            ], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kevin Brownlow"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "传记", 
+                "历史"
+            ], 
+            "id": "2287724", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2242831617.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2242831617.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2242831617.jpg"
+            }, 
+            "original_title": "The Tramp and the Dictator", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "流浪汉与独裁者", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21339311/", 
+            "casts": [], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hugh Piper"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "21339311", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24953049.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24953049.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24953049.jpg"
+            }, 
+            "original_title": "DANCING WITH DICTATORS：The Story of the Last Foreign Publisher in Burma", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "与独裁者共舞 ～“缅甸时报”的故事", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4913664/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paul Daniels"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yolanda Beckham"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bernie Schwartz"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Perry Dell"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4913664", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4414946.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4414946.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4414946.jpg"
+            }, 
+            "original_title": "The Dicktator", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "独裁者", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25902375/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yaël André"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25902375", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2279635274.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2279635274.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2279635274.jpg"
+            }, 
+            "original_title": "Quand je serai dictateur", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "当我是独裁者", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25735612/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25735612", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2151833478.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2151833478.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2151833478.jpg"
+            }, 
+            "original_title": "Granito: How to Nail a Dictator", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "格拉尼托：如何揭露一个独裁者", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20559410/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Abbey Lustgarten"
+                }
+            ], 
+            "genres": [], 
+            "id": "20559410", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2262368883.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2262368883.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2262368883.jpg"
+            }, 
+            "original_title": "The Great Dictator: The Clown Turns Prophet", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大独裁者：从小丑到先知", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3190766/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040723/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28135.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28135.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28135.jpg"
+                    }, 
+                    "id": "1040723", 
+                    "name": "乔凡娜·梅索兹殴诺"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Antonio Albanese"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009722/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7710.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7710.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7710.jpg"
+                    }, 
+                    "id": "1009722", 
+                    "name": "费立波·提米"
+                }
+            ], 
+            "collect_count": 2135, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041306/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13933.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13933.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13933.jpg"
+                    }, 
+                    "id": "1041306", 
+                    "name": "马可·贝罗奇奥"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史"
+            ], 
+            "id": "3190766", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3753196.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3753196.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3753196.jpg"
+            }, 
+            "original_title": "Vincere", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "征服", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302056/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036586/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7015.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7015.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7015.jpg"
+                    }, 
+                    "id": "1036586", 
+                    "name": "爱德华·罗宾逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036769/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28148.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28148.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28148.jpg"
+                    }, 
+                    "id": "1036769", 
+                    "name": "道格拉斯·范朋克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1082858/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1082858", 
+                    "name": "Stanley Fields"
+                }
+            ], 
+            "collect_count": 370, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028033/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16201.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16201.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16201.jpg"
+                    }, 
+                    "id": "1028033", 
+                    "name": "茂文·勒鲁瓦"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1302056", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2572665.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2572665.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2572665.jpg"
+            }, 
+            "original_title": "Little Caesar", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "小凯撒", 
+            "year": "1931"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25708476/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Misha Gomiashvili"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dachi Orvelashvili"
+                }
+            ], 
+            "collect_count": 114, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1117657/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4290.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4290.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4290.jpg"
+                    }, 
+                    "id": "1117657", 
+                    "name": "莫森·玛克玛尔巴夫"
+                }
+            ], 
+            "genres": [], 
+            "id": "25708476", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2233369408.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2233369408.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2233369408.jpg"
+            }, 
+            "original_title": "The President", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "总统", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"独裁者\" 的结果", 
+    "total": 19
+}

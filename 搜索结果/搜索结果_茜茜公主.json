@@ -1,0 +1,587 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1304056/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027907/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35372.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35372.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35372.jpg"
+                    }, 
+                    "id": "1027907", 
+                    "name": "罗密·施奈德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032440/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4415.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4415.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4415.jpg"
+                    }, 
+                    "id": "1032440", 
+                    "name": "卡尔海因茨·博姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048372/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1415800043.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1415800043.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1415800043.37.jpg"
+                    }, 
+                    "id": "1048372", 
+                    "name": "玛达·施耐德"
+                }
+            ], 
+            "collect_count": 96927, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016922/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45557.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45557.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45557.jpg"
+                    }, 
+                    "id": "1016922", 
+                    "name": "恩斯特·马利斯卡"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1304056", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2160427238.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2160427238.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2160427238.jpg"
+            }, 
+            "original_title": "Sissi", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "茜茜公主", 
+            "year": "1955"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297644/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027907/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35372.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35372.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35372.jpg"
+                    }, 
+                    "id": "1027907", 
+                    "name": "罗密·施奈德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032440/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4415.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4415.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4415.jpg"
+                    }, 
+                    "id": "1032440", 
+                    "name": "卡尔海因茨·博姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048372/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1415800043.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1415800043.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1415800043.37.jpg"
+                    }, 
+                    "id": "1048372", 
+                    "name": "玛达·施耐德"
+                }
+            ], 
+            "collect_count": 27115, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016922/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45557.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45557.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45557.jpg"
+                    }, 
+                    "id": "1016922", 
+                    "name": "恩斯特·马利斯卡"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "爱情"
+            ], 
+            "id": "1297644", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3443077.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3443077.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3443077.jpg"
+            }, 
+            "original_title": "Sissi - Schicksalsjahre einer Kaiserin", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "茜茜公主3", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302235/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027907/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35372.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35372.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35372.jpg"
+                    }, 
+                    "id": "1027907", 
+                    "name": "罗密·施奈德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032440/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4415.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4415.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4415.jpg"
+                    }, 
+                    "id": "1032440", 
+                    "name": "卡尔海因茨·博姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048372/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1415800043.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1415800043.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1415800043.37.jpg"
+                    }, 
+                    "id": "1048372", 
+                    "name": "玛达·施耐德"
+                }
+            ], 
+            "collect_count": 33460, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016922/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45557.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45557.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45557.jpg"
+                    }, 
+                    "id": "1016922", 
+                    "name": "恩斯特·马利斯卡"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "爱情"
+            ], 
+            "id": "1302235", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2160427412.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2160427412.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2160427412.jpg"
+            }, 
+            "original_title": "Sissi - Die junge Kaiserin", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "茜茜公主2", 
+            "year": "1956"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25986114/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "25986114", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2200355577.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2200355577.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2200355577.jpg"
+            }, 
+            "original_title": "LADYCC公主茜茜 礼仪篇", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "LADYCC公主茜茜 礼仪篇", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25986182/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [], 
+            "genres": [], 
+            "id": "25986182", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2200365869.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2200365869.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2200365869.jpg"
+            }, 
+            "original_title": "LADYCC公主茜茜 校园篇", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "LADYCC公主茜茜 校园篇", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2270252/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christian Tramitz-Michael Herbig"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rick Kavanian"
+                }
+            ], 
+            "collect_count": 353, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Herbig"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "冒险", 
+                "喜剧"
+            ], 
+            "id": "2270252", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2727775.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2727775.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2727775.jpg"
+            }, 
+            "original_title": "Lissi und der wilde Kaiser", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "解救茜茜公主", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4708155/", 
+            "casts": [], 
+            "collect_count": 58, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bruno Bianchi"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Paré"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "动画", 
+                "爱情"
+            ], 
+            "id": "4708155", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4221625.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4221625.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4221625.jpg"
+            }, 
+            "original_title": "Princess Sissi", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "茜茜公主", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20381190/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019443/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15174.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15174.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15174.jpg"
+                    }, 
+                    "id": "1019443", 
+                    "name": "洛特·雷妮格"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "20381190", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24230701.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24230701.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24230701.jpg"
+            }, 
+            "original_title": "Sissi", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "茜茜公主", 
+            "year": "1932"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25938852/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hana Maciuchová"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1092362/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1092362", 
+                    "name": "Jana Hlavácová"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1159590/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1159590", 
+                    "name": "Svatopluk Skopal"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1070424/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1070424", 
+                    "name": "Oldrich Danek"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史"
+            ], 
+            "id": "25938852", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Z hricek o královnách: Záskok pro Sissi (útrzek rakousko-uherský)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "替身的茜茜公主", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5169024/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050403/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16412.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16412.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16412.jpg"
+                    }, 
+                    "id": "1050403", 
+                    "name": "克里斯蒂安娜·卡波通蒂"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010032/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5422.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5422.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5422.jpg"
+                    }, 
+                    "id": "1010032", 
+                    "name": "大卫·罗特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049928/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2462.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2462.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2462.jpg"
+                    }, 
+                    "id": "1049928", 
+                    "name": "马蒂娜·戈黛特"
+                }
+            ], 
+            "collect_count": 2867, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048477/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1048477", 
+                    "name": "查韦·什瓦曾伯格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "爱情"
+            ], 
+            "id": "5169024", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9025190.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9025190.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9025190.jpg"
+            }, 
+            "original_title": "Sisi", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "茜西公主", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3432539/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027907/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35372.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35372.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35372.jpg"
+                    }, 
+                    "id": "1027907", 
+                    "name": "罗密·施奈德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036786/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28182.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28182.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28182.jpg"
+                    }, 
+                    "id": "1036786", 
+                    "name": "尤尔根斯·库尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1011071/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1011071", 
+                    "name": "Pierre Blanchar"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023031/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23127.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23127.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23127.jpg"
+                    }, 
+                    "id": "1023031", 
+                    "name": "罗伯特·西奥德梅克"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3432539", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3557729.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3557729.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3557729.jpg"
+            }, 
+            "original_title": "Katia", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "卡贾", 
+            "year": "1959"
+        }
+    ], 
+    "title": "搜索 \"茜茜公主\" 的结果", 
+    "total": 11
+}

@@ -1,0 +1,196 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3346417/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047974/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/231.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/231.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/231.jpg"
+                    }, 
+                    "id": "1047974", 
+                    "name": "玛丽莎·托梅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031893/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43685.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43685.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43685.jpg"
+                    }, 
+                    "id": "1031893", 
+                    "name": "比利·克里斯托"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055782/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7338.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7338.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7338.jpg"
+                    }, 
+                    "id": "1055782", 
+                    "name": "贝特·米德勒"
+                }
+            ], 
+            "collect_count": 2087, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274282/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1362551139.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1362551139.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1362551139.66.jpg"
+                    }, 
+                    "id": "1274282", 
+                    "name": "安迪·菲克曼"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3346417", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1919260673.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1919260673.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1919260673.jpg"
+            }, 
+            "original_title": "Parental Guidance", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "家长指导", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1813966/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274582/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5601.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5601.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5601.jpg"
+                    }, 
+                    "id": "1274582", 
+                    "name": "雪梨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275866/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1357734733.13.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1357734733.13.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1357734733.13.jpg"
+                    }, 
+                    "id": "1275866", 
+                    "name": "田蕊妮"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038321/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1724.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1724.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1724.jpg"
+                    }, 
+                    "id": "1038321", 
+                    "name": "董敏莉"
+                }
+            ], 
+            "collect_count": 789, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318295/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42533.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42533.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42533.jpg"
+                    }, 
+                    "id": "1318295", 
+                    "name": "李公乐"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "1813966", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2141320.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2141320.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2141320.jpg"
+            }, 
+            "original_title": "師奶唔易做", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "疯狂主妇", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2287760/", 
+            "casts": [], 
+            "collect_count": 204, 
+            "directors": [], 
+            "genres": [], 
+            "id": "2287760", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2749908.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2749908.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2749908.jpg"
+            }, 
+            "original_title": "Parental Guidance", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "奉子成婚", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5359500/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "宣萱"
+                }
+            ], 
+            "collect_count": 41, 
+            "directors": [], 
+            "genres": [], 
+            "id": "5359500", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2078612736.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2078612736.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2078612736.jpg"
+            }, 
+            "original_title": "Parental Guidance Ⅱ", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "奉子成婚Ⅱ", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"家长指引\" 的结果", 
+    "total": 4
+}

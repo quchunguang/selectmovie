@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3895511/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054435/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/567.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/567.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/567.jpg"
+                    }, 
+                    "id": "1054435", 
+                    "name": "汤姆·克鲁斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34642.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34642.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34642.jpg"
+                    }, 
+                    "id": "1054534", 
+                    "name": "摩根·弗里曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035654/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22063.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22063.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22063.jpg"
+                    }, 
+                    "id": "1035654", 
+                    "name": "欧嘉·柯瑞兰寇"
+                }
+            ], 
+            "collect_count": 95919, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313149/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16126.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16126.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16126.jpg"
+                    }, 
+                    "id": "1313149", 
+                    "name": "约瑟夫·科辛斯基"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "悬疑"
+            ], 
+            "id": "3895511", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1870772842.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1870772842.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1870772842.jpg"
+            }, 
+            "original_title": "Oblivion", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "遗落战境", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"遗落战境\" 的结果", 
+    "total": 1
+}

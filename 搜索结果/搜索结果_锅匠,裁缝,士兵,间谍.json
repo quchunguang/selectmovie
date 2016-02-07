@@ -1,0 +1,128 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3338851/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010507/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/104.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/104.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/104.jpg"
+                    }, 
+                    "id": "1010507", 
+                    "name": "加里·奥德曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031223/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1497.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1497.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1497.jpg"
+                    }, 
+                    "id": "1031223", 
+                    "name": "科林·费尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5110.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5110.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5110.jpg"
+                    }, 
+                    "id": "1049489", 
+                    "name": "汤姆·哈迪"
+                }
+            ], 
+            "collect_count": 82668, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000317/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50917.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50917.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50917.jpg"
+                    }, 
+                    "id": "1000317", 
+                    "name": "托马斯·阿尔弗莱德森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "3338851", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1202175107.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1202175107.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1202175107.jpg"
+            }, 
+            "original_title": "Tinker Tailor Soldier Spy", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "锅匠，裁缝，士兵，间谍", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1438520/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alec Guinness"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ian Richardson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Jayston"
+                }
+            ], 
+            "collect_count": 2079, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frances Alcock"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1438520", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7524170.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7524170.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7524170.jpg"
+            }, 
+            "original_title": "Tinker, Tailor, Soldier, Spy", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "锅匠，裁缝， 士兵，间谍", 
+            "year": "1979"
+        }
+    ], 
+    "title": "搜索 \"锅匠,裁缝,士兵,间谍\" 的结果", 
+    "total": 2
+}

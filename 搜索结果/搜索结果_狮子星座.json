@@ -1,0 +1,136 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1385500/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1097255/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1097255", 
+                    "name": "Jess Hahn"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1102020/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1102020", 
+                    "name": "米歇尔·希哈董"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1087882/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1087882", 
+                    "name": "Van Doude"
+                }
+            ], 
+            "collect_count": 919, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054406/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/573.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/573.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/573.jpg"
+                    }, 
+                    "id": "1054406", 
+                    "name": "埃里克·侯麦"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1385500", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1961335857.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1961335857.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1961335857.jpg"
+            }, 
+            "original_title": "Le signe du lion", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "狮子星座", 
+            "year": "1959"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26388542/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274458/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12739.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12739.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12739.jpg"
+                    }, 
+                    "id": "1274458", 
+                    "name": "柯佳嬿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄腾浩"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "白梓轩"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨冠玉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周晓鹏"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "26388542", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2243570071.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2243570071.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2243570071.jpg"
+            }, 
+            "original_title": "星座爱情狮子女", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "星座爱情狮子女", 
+            "year": "2015"
+        }
+    ], 
+    "title": "搜索 \"狮子星座\" 的结果", 
+    "total": 2
+}

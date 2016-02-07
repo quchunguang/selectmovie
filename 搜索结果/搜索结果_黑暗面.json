@@ -1,0 +1,157 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6536180/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000963/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1370898429.88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1370898429.88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1370898429.88.jpg"
+                    }, 
+                    "id": "1000963", 
+                    "name": "奎姆·古铁雷兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032704/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1386578407.24.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1386578407.24.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1386578407.24.jpg"
+                    }, 
+                    "id": "1032704", 
+                    "name": "克拉拉·拉戈"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314501/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50030.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50030.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50030.jpg"
+                    }, 
+                    "id": "1314501", 
+                    "name": "玛蒂娜·加西亚"
+                }
+            ], 
+            "collect_count": 57012, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1304837/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50031.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50031.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50031.jpg"
+                    }, 
+                    "id": "1304837", 
+                    "name": "安德雷斯·拜兹"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "6536180", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1214121742.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1214121742.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1214121742.jpg"
+            }, 
+            "original_title": "La cara oculta", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "黑暗面", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25911750/", 
+            "casts": [], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vice news"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25911750", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2232055269.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2232055269.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2232055269.jpg"
+            }, 
+            "original_title": "巴西世界杯的黑暗面", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "巴西世界杯的黑暗面", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2049620/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1020095/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1020095", 
+                    "name": "Kevin Arbouet"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1181863/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1181863", 
+                    "name": "Larry Strong"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "2049620", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2366913.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2366913.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2366913.jpg"
+            }, 
+            "original_title": "Serial", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Serial", 
+            "year": "2007"
+        }
+    ], 
+    "title": "搜索 \"黑暗面\" 的结果", 
+    "total": 3
+}

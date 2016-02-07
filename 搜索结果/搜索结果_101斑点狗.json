@@ -1,0 +1,367 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298204/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013929/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20586.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20586.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20586.jpg"
+                    }, 
+                    "id": "1013929", 
+                    "name": "罗德·泰勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1132569/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43051.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43051.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43051.jpg"
+                    }, 
+                    "id": "1132569", 
+                    "name": "J·帕特·奥马利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1091140/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1091140", 
+                    "name": "Betty Lou Gerson"
+                }
+            ], 
+            "collect_count": 31025, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018550/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49028.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49028.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49028.jpg"
+                    }, 
+                    "id": "1018550", 
+                    "name": "克莱德·杰洛尼米"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028503/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1369404509.46.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1369404509.46.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1369404509.46.jpg"
+                    }, 
+                    "id": "1028503", 
+                    "name": "汉密尔顿·卢斯科"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009748/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37626.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37626.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37626.jpg"
+                    }, 
+                    "id": "1009748", 
+                    "name": "沃夫冈·雷瑟曼"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "冒险"
+            ], 
+            "id": "1298204", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1686398356.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1686398356.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1686398356.jpg"
+            }, 
+            "original_title": "One Hundred and One Dalmatians", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "101斑点狗", 
+            "year": "1961"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1926706/", 
+            "casts": [], 
+            "collect_count": 629, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Victor Cook"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Ferk"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rick Schneider"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kelly Ward"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画"
+            ], 
+            "id": "1926706", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2181823733.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2181823733.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2181823733.jpg"
+            }, 
+            "original_title": "101 Dalmatians: The Series", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "101斑点狗 第一季", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26703346/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040506/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/30623.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/30623.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/30623.jpg"
+                    }, 
+                    "id": "1040506", 
+                    "name": "艾玛·斯通"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "26703346", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "101 Dalmatians", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "101斑点狗", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293135/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031875/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1416839833.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1416839833.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1416839833.99.jpg"
+                    }, 
+                    "id": "1031875", 
+                    "name": "格伦·克洛斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006974/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52938.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52938.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52938.jpg"
+                    }, 
+                    "id": "1006974", 
+                    "name": "杰夫·丹尼尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013795/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21147.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21147.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21147.jpg"
+                    }, 
+                    "id": "1013795", 
+                    "name": "乔莉·理查德森"
+                }
+            ], 
+            "collect_count": 94225, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040833/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16199.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16199.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16199.jpg"
+                    }, 
+                    "id": "1040833", 
+                    "name": "斯蒂芬·赫瑞克"
+                }
+            ], 
+            "genres": [
+                "家庭", 
+                "喜剧"
+            ], 
+            "id": "1293135", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1686474657.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1686474657.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1686474657.jpg"
+            }, 
+            "original_title": "101 Dalmatians", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "101真狗", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1301167/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031875/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1416839833.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1416839833.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1416839833.99.jpg"
+                    }, 
+                    "id": "1031875", 
+                    "name": "格伦·克洛斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013845/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/136.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/136.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/136.jpg"
+                    }, 
+                    "id": "1013845", 
+                    "name": "杰拉尔·德帕迪约"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027206/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2547.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2547.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2547.jpg"
+                    }, 
+                    "id": "1027206", 
+                    "name": "艾恩·格拉法德"
+                }
+            ], 
+            "collect_count": 14248, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1290070/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47245.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47245.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47245.jpg"
+                    }, 
+                    "id": "1290070", 
+                    "name": "凯文·利玛"
+                }
+            ], 
+            "genres": [
+                "家庭", 
+                "喜剧"
+            ], 
+            "id": "1301167", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1317951.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1317951.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1317951.jpg"
+            }, 
+            "original_title": "102 Dalmatians", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "102真狗", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3161892/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bayarta Dambayev"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksandr Sasykov"
+                }
+            ], 
+            "collect_count": 50, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Karen Gevorkian"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3161892", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1030113290.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1030113290.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1030113290.jpg"
+            }, 
+            "original_title": "Пегий пес, бегущий краем моря", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "花狗崖", 
+            "year": "1990"
+        }
+    ], 
+    "title": "搜索 \"101斑点狗\" 的结果", 
+    "total": 6
+}

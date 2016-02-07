@@ -1,0 +1,414 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1914652/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035653/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10875.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10875.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10875.jpg"
+                    }, 
+                    "id": "1035653", 
+                    "name": "克里斯蒂娜·里奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006958/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/93.jpg"
+                    }, 
+                    "id": "1006958", 
+                    "name": "詹姆斯·麦卡沃伊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031193/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12434.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12434.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12434.jpg"
+                    }, 
+                    "id": "1031193", 
+                    "name": "凯瑟琳·欧哈拉"
+                }
+            ], 
+            "collect_count": 58331, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1293834/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48654.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48654.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48654.jpg"
+                    }, 
+                    "id": "1293834", 
+                    "name": "马克·帕兰斯基"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻", 
+                "爱情"
+            ], 
+            "id": "1914652", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2951813.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2951813.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2951813.jpg"
+            }, 
+            "original_title": "Penelope", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "真爱之吻", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4111490/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "平山綾"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "宮崎あおい"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "市川実日子"
+                }
+            ], 
+            "collect_count": 570, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "及川中"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "4111490", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2216429214.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2216429214.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2216429214.jpg"
+            }, 
+            "original_title": "ラヴァーズ・キス", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "爱之吻", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1358470/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Atta Yaqub"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eva Birthistle"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shamshad Akhtar"
+                }
+            ], 
+            "collect_count": 217, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019106/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/45960.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/45960.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/45960.jpg"
+                    }, 
+                    "id": "1019106", 
+                    "name": "肯·洛奇"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1358470", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1691151.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1691151.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1691151.jpg"
+            }, 
+            "original_title": "Ae Fond Kiss...", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "爱之吻", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307737/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Atta Yaqub"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eva Birthistle"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gary Lewis"
+                }
+            ], 
+            "collect_count": 40, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "肯·罗奇"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ken Loach"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1307737", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2807335.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2807335.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2807335.jpg"
+            }, 
+            "original_title": "Just a Kiss", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "爱之吻", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2004208/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Karim Tarek"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sihem Benamoune"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Abdellah Taia"
+                }
+            ], 
+            "collect_count": 124, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1007412", 
+                    "name": "Rémi Lange"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2004208", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3160876.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3160876.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3160876.jpg"
+            }, 
+            "original_title": "the road to love", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "真爱之路", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26631546/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316626/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1316626", 
+                    "name": "Anna Hausburg"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1328434/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1328434", 
+                    "name": "David C. Bunners"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1179568/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47550.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47550.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47550.jpg"
+                    }, 
+                    "id": "1179568", 
+                    "name": "Kai Michael Müller"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1297160/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1297160", 
+                    "name": "Mathieu Seiler"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "26631546", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2270959269.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2270959269.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2270959269.jpg"
+            }, 
+            "original_title": "True Love Ways", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "真爱之路", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2357367/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "袁咏仪"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "倪齐民"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李嘉璘"
+                }
+            ], 
+            "collect_count": 2596, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林彬"
+                }
+            ], 
+            "genres": [], 
+            "id": "2357367", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6982856.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6982856.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6982856.jpg"
+            }, 
+            "original_title": "百万新娘", 
+            "rating": {
+                "average": 5.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "百万新娘", 
+            "year": "2006"
+        }
+    ], 
+    "title": "搜索 \"真爱之吻\" 的结果", 
+    "total": 7
+}

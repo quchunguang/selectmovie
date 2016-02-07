@@ -1,0 +1,292 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3091572/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1064324/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1416750144.68.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1416750144.68.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1416750144.68.jpg"
+                    }, 
+                    "id": "1064324", 
+                    "name": "Hannu-Pekka Björkman"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050800/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44119.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44119.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44119.jpg"
+                    }, 
+                    "id": "1050800", 
+                    "name": "Kari Väänänen"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1196229/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1366441335.06.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1366441335.06.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1366441335.06.jpg"
+                    }, 
+                    "id": "1196229", 
+                    "name": "Mikko Leppilampi"
+                }
+            ], 
+            "collect_count": 7002, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1043173/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1043173", 
+                    "name": "卓哈·沃里诸基"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭", 
+                "奇幻"
+            ], 
+            "id": "3091572", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3397840.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3397840.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3397840.jpg"
+            }, 
+            "original_title": "En julberättelse", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "圣诞传说", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1903271/", 
+            "casts": [], 
+            "collect_count": 468, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1043619/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3115.jpg"
+                    }, 
+                    "id": "1043619", 
+                    "name": "米哈伊尔·阿尔达申"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "1903271", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1883132.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1883132.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1883132.jpg"
+            }, 
+            "original_title": "Рождество", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "圣诞传说", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3614990/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tommi Korpela"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jorma Tommila"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rauno Juvonen"
+                }
+            ], 
+            "collect_count": 1294, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jalmari Helander"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "奇幻"
+            ], 
+            "id": "3614990", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4472862.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4472862.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4472862.jpg"
+            }, 
+            "original_title": "RARE EXPORTS: A CHRISTMAS TALE", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "稀有出口：圣诞传说", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2044081/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054511/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8839.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8839.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8839.jpg"
+                    }, 
+                    "id": "1054511", 
+                    "name": "凯瑟琳·德纳芙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040679/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10319.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10319.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10319.jpg"
+                    }, 
+                    "id": "1040679", 
+                    "name": "马修·阿马立克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033040/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27542.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27542.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27542.jpg"
+                    }, 
+                    "id": "1033040", 
+                    "name": "让-保罗·罗斯里昂"
+                }
+            ], 
+            "collect_count": 2087, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041547/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45213.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45213.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45213.jpg"
+                    }, 
+                    "id": "1041547", 
+                    "name": "阿诺·德普莱钦"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "2044081", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2211131053.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2211131053.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2211131053.jpg"
+            }, 
+            "original_title": "Un conte de Noël", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "属于我们的圣诞节", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2073265/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1157291/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1157291", 
+                    "name": "Maru Valdivielso"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christian Casas"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Roger Babia"
+                }
+            ], 
+            "collect_count": 163, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Francisco Plaza"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "2073265", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2395867.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2395867.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2395867.jpg"
+            }, 
+            "original_title": "Películas para no dormir: Cuento de navidad", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "惊魂圣诞节", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"圣诞传说\" 的结果", 
+    "total": 5
+}

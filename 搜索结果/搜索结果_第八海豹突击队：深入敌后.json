@@ -1,0 +1,65 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/25848752/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bonnie Lee Bouman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dylan Edy"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Everson"
+                }
+            ], 
+            "collect_count": 1030, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1276459/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1276459", 
+                    "name": "罗伊·雷内"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "战争"
+            ], 
+            "id": "25848752", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2174997713.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2174997713.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2174997713.jpg"
+            }, 
+            "original_title": "Seal Team Eight: Behind Enemy Lines", 
+            "rating": {
+                "average": 4.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "第八海豹突击队：深入敌后", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"第八海豹突击队：深入敌后\" 的结果", 
+    "total": 1
+}

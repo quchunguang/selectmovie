@@ -121,7 +121,7 @@ def genDelta(filelist):
     for filename in filelist:
         movie_info = genOne(filename)
         if movie_info is not None:
-            print "[INFO] New movie:", filename.encode("utf-8")
+            print "[INFO] [New]", filename.encode("utf-8")
             library.append(movie_info)
         else:
             filelist.remove(filename)

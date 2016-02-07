@@ -1,0 +1,576 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1302050/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032702/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1358494499.47.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1358494499.47.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1358494499.47.jpg"
+                    }, 
+                    "id": "1032702", 
+                    "name": "埃玛妞·丽娃"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019298/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1407324621.86.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1407324621.86.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1407324621.86.jpg"
+                    }, 
+                    "id": "1019298", 
+                    "name": "冈田英次"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019315/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42538.jpg"
+                    }, 
+                    "id": "1019315", 
+                    "name": "贝尔纳·弗雷松"
+                }
+            ], 
+            "collect_count": 26239, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054387/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34152.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34152.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34152.jpg"
+                    }, 
+                    "id": "1054387", 
+                    "name": "阿伦·雷乃"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "1302050", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1230523022.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1230523022.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1230523022.jpg"
+            }, 
+            "original_title": "Hiroshima mon amour", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "广岛之恋", 
+            "year": "1959"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26325490/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274859/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6847.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6847.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6847.jpg"
+                    }, 
+                    "id": "1274859", 
+                    "name": "田亮"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318521/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1355747605.12.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1355747605.12.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1355747605.12.jpg"
+                    }, 
+                    "id": "1318521", 
+                    "name": "战菁一"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321276/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1321276", 
+                    "name": "田征"
+                }
+            ], 
+            "collect_count": 341, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1348124/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1348124", 
+                    "name": "李升"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "26325490", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2230212808.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2230212808.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2230212808.jpg"
+            }, 
+            "original_title": "海岛之恋", 
+            "rating": {
+                "average": 3.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "15"
+            }, 
+            "subtype": "movie", 
+            "title": "海岛之恋", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5446205/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041368/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25390.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25390.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25390.jpg"
+                    }, 
+                    "id": "1041368", 
+                    "name": "林熙蕾"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈亦飞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林志玲"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蔡康永"
+                }
+            ], 
+            "genres": [], 
+            "id": "5446205", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "金銀島之戀", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "金银岛之恋", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25865809/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "叶哲欣"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25865809", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2185159696.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2185159696.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2185159696.jpg"
+            }, 
+            "original_title": "浪花岛之恋", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "浪花岛之恋", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10590737/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275019/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9325.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9325.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9325.jpg"
+                    }, 
+                    "id": "1275019", 
+                    "name": "居文沛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318266/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58399.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58399.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58399.jpg"
+                    }, 
+                    "id": "1318266", 
+                    "name": "翟万臣"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘纪宏"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319115/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1319115", 
+                    "name": "宫晓东"
+                }
+            ], 
+            "genres": [], 
+            "id": "10590737", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "琴岛之恋", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "琴岛之恋", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2132468/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053615/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6635.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6635.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6635.jpg"
+                    }, 
+                    "id": "1053615", 
+                    "name": "戴安·琳恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040997/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33013.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33013.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33013.jpg"
+                    }, 
+                    "id": "1040997", 
+                    "name": "理查·基尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022676/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1412768609.23.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1412768609.23.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1412768609.23.jpg"
+                    }, 
+                    "id": "1022676", 
+                    "name": "维奥拉·戴维斯"
+                }
+            ], 
+            "collect_count": 3751, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028325/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1028325", 
+                    "name": "乔治·乌尔夫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "2132468", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4008346.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4008346.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4008346.jpg"
+            }, 
+            "original_title": "Nights in Rodanthe", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "罗丹岛之恋", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1980832/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "木村佳乃 Yoshino Kimura"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "大杉漣 Ren Osugi"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "大谷直子 Naoko Otani"
+                }
+            ], 
+            "collect_count": 51, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "矶村一路 Itsumichi Isomura"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1980832", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2412570.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2412570.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2412570.jpg"
+            }, 
+            "original_title": "船を降りたら彼女の島", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "小岛之恋", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5047666/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007026/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20540.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20540.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20540.jpg"
+                    }, 
+                    "id": "1007026", 
+                    "name": "奥列佛·里德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055455/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33925.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33925.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33925.jpg"
+                    }, 
+                    "id": "1055455", 
+                    "name": "阿曼达·多诺休"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1091970/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38991.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38991.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38991.jpg"
+                    }, 
+                    "id": "1091970", 
+                    "name": "乔治娜·黑尔"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022839/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13935.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13935.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13935.jpg"
+                    }, 
+                    "id": "1022839", 
+                    "name": "尼古拉斯·罗伊格"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情"
+            ], 
+            "id": "5047666", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2303567002.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2303567002.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2303567002.jpg"
+            }, 
+            "original_title": "Castaway", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "荒岛之恋", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26708585/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023974/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1418213450.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1418213450.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1418213450.83.jpg"
+                    }, 
+                    "id": "1023974", 
+                    "name": "罗莎莉·托马斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002867/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26760.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26760.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26760.jpg"
+                    }, 
+                    "id": "1002867", 
+                    "name": "桃井薰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314507/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1385365530.14.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1385365530.14.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1385365530.14.jpg"
+                    }, 
+                    "id": "1314507", 
+                    "name": "Aya Irizuki"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018434/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33519.jpg"
+                    }, 
+                    "id": "1018434", 
+                    "name": "桃丽丝·多利"
+                }
+            ], 
+            "genres": [], 
+            "id": "26708585", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2315318553.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2315318553.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2315318553.jpg"
+            }, 
+            "original_title": "Grüße aus Fukushima", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "福岛之恋", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294803/", 
+            "casts": [], 
+            "collect_count": 24, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "理查德 托普 (Richard Thorpe (I))"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "歌舞", 
+                "爱情"
+            ], 
+            "id": "1294803", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4423037.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4423037.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4423037.jpg"
+            }, 
+            "original_title": "On an Island with You", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "出水红莲", 
+            "year": "1948"
+        }
+    ], 
+    "title": "搜索 \"广岛之恋\" 的结果", 
+    "total": 10
+}

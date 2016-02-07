@@ -1,0 +1,136 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298721/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031218/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/338.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/338.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/338.jpg"
+                    }, 
+                    "id": "1031218", 
+                    "name": "格利高里·派克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032024/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6714.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6714.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6714.jpg"
+                    }, 
+                    "id": "1032024", 
+                    "name": "大卫·尼文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048161/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16513.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16513.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16513.jpg"
+                    }, 
+                    "id": "1048161", 
+                    "name": "安东尼·奎恩"
+                }
+            ], 
+            "collect_count": 790, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025379/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56472.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56472.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56472.jpg"
+                    }, 
+                    "id": "1025379", 
+                    "name": "J·李·汤普森"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "剧情"
+            ], 
+            "id": "1298721", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2553022.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2553022.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2553022.jpg"
+            }, 
+            "original_title": "The Guns of Navarone", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "纳瓦隆大炮", 
+            "year": "1961"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294311/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009238/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23541.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23541.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23541.jpg"
+                    }, 
+                    "id": "1009238", 
+                    "name": "哈里森·福特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055263/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20533.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20533.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20533.jpg"
+                    }, 
+                    "id": "1055263", 
+                    "name": "罗伯特·肖"
+                }
+            ], 
+            "collect_count": 258, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050116/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18033.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18033.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18033.jpg"
+                    }, 
+                    "id": "1050116", 
+                    "name": "盖伊·汉弥尔顿"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情", 
+                "战争"
+            ], 
+            "id": "1294311", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1505173.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1505173.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1505173.jpg"
+            }, 
+            "original_title": "Force 10 from Navarone", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "纳瓦隆第十突击队", 
+            "year": "1978"
+        }
+    ], 
+    "title": "搜索 \"纳瓦隆大炮\" 的结果", 
+    "total": 2
+}

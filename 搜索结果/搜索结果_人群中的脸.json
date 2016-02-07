@@ -1,0 +1,305 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4156999/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean François Cimino"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "César Chauveau"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Annie Kovaks"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gérard Blain"
+                }
+            ], 
+            "genres": [], 
+            "id": "4156999", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4069222.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4069222.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4069222.jpg"
+            }, 
+            "original_title": "Un enfant dans la foule", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "人群中的孩童", 
+            "year": "1976"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4120583/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025154/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2431.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2431.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2431.jpg"
+                    }, 
+                    "id": "1025154", 
+                    "name": "米拉·乔沃维奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022659/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13996.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13996.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13996.jpg"
+                    }, 
+                    "id": "1022659", 
+                    "name": "朱利安·麦克马洪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036402/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12796.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12796.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12796.jpg"
+                    }, 
+                    "id": "1036402", 
+                    "name": "迈克尔·山克斯"
+                }
+            ], 
+            "collect_count": 11887, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324050/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1352693117.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1352693117.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1352693117.94.jpg"
+                    }, 
+                    "id": "1324050", 
+                    "name": "朱利安·麦格奈"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚", 
+                "犯罪"
+            ], 
+            "id": "4120583", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1789678815.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1789678815.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1789678815.jpg"
+            }, 
+            "original_title": "Faces in the Crowd", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "幻影追凶", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1301907/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019068/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14318.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14318.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14318.jpg"
+                    }, 
+                    "id": "1019068", 
+                    "name": "安迪·格里菲斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004688/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1390475208.86.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1390475208.86.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1390475208.86.jpg"
+                    }, 
+                    "id": "1004688", 
+                    "name": "帕德里夏·妮尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041249/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393767507.72.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393767507.72.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393767507.72.jpg"
+                    }, 
+                    "id": "1041249", 
+                    "name": "安东尼·弗兰西欧萨"
+                }
+            ], 
+            "collect_count": 269, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049771/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8067.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8067.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8067.jpg"
+                    }, 
+                    "id": "1049771", 
+                    "name": "伊利亚·卡赞"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1301907", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3625397.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3625397.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3625397.jpg"
+            }, 
+            "original_title": "A Face in the Crowd", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "登龙一梦", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3426877/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048162/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4059.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4059.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4059.jpg"
+                    }, 
+                    "id": "1048162", 
+                    "name": "大卫·苏切特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1162870/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35684.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35684.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35684.jpg"
+                    }, 
+                    "id": "1162870", 
+                    "name": "哈丽特·瓦尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1167144/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1363258409.98.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1363258409.98.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1363258409.98.jpg"
+                    }, 
+                    "id": "1167144", 
+                    "name": "苏珊·伍尔德里奇"
+                }
+            ], 
+            "collect_count": 870, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1349393/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1349393", 
+                    "name": "詹姆斯·肯特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "犯罪"
+            ], 
+            "id": "3426877", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2170783447.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2170783447.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2170783447.jpg"
+            }, 
+            "original_title": "Poirot: Cat Among the Pigeons", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "鸽群中的猫", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5209877/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8613.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8613.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8613.jpg"
+                    }, 
+                    "id": "1045102", 
+                    "name": "戴维·阿滕伯勒"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Downer"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "5209877", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7056314.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7056314.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7056314.jpg"
+            }, 
+            "original_title": "Elephants: Spy in the Herd", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "象：兽群中的窥探", 
+            "year": "2003"
+        }
+    ], 
+    "title": "搜索 \"人群中的脸\" 的结果", 
+    "total": 5
+}

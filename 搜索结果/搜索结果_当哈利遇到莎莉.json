@@ -1,0 +1,675 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1291842/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016679/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/159.jpg"
+                    }, 
+                    "id": "1016679", 
+                    "name": "梅格·瑞恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031893/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43685.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43685.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43685.jpg"
+                    }, 
+                    "id": "1031893", 
+                    "name": "比利·克里斯托"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027813/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1452759042.78.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1452759042.78.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1452759042.78.jpg"
+                    }, 
+                    "id": "1027813", 
+                    "name": "凯丽·费雪"
+                }
+            ], 
+            "collect_count": 95739, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031903/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1379484184.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1379484184.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1379484184.83.jpg"
+                    }, 
+                    "id": "1031903", 
+                    "name": "罗伯·莱纳"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1291842", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2172960925.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2172960925.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2172960925.jpg"
+            }, 
+            "original_title": "When Harry Met Sally...", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "当哈利遇到莎莉", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7057322/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031893/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43685.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43685.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43685.jpg"
+                    }, 
+                    "id": "1031893", 
+                    "name": "比利·克里斯托"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054390/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21169.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21169.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21169.jpg"
+                    }, 
+                    "id": "1054390", 
+                    "name": "海伦·米伦"
+                }
+            ], 
+            "collect_count": 229, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lindsay Crystal"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "短片"
+            ], 
+            "id": "7057322", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7050489.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7050489.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7050489.jpg"
+            }, 
+            "original_title": "When Harry Met Sally 2 with Billy Crystal and Helen Mirren", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "当哈利·克里斯托遇上莎莉·米伦", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6796135/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "虞梦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324402/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58969.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58969.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58969.jpg"
+                    }, 
+                    "id": "1324402", 
+                    "name": "李颖"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "尹相杰"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "英达"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "6796135", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6878231.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6878231.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6878231.jpg"
+            }, 
+            "original_title": "当大卫遇到丽丽", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "当大卫遇到丽丽", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26637887/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "佟大为"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "邓超"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨幂"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321171/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/50193.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/50193.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/50193.jpg"
+                    }, 
+                    "id": "1321171", 
+                    "name": "沈严"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "26637887", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2273368475.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2273368475.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2273368475.jpg"
+            }, 
+            "original_title": "当分手大师遇到复合大师", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "当分手大师遇到复合大师", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3175667/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金彗星 Hye-sung Kim"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李贤真 Hyeon-jin Lee"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "艺智苑 Ji-won Ye"
+                }
+            ], 
+            "collect_count": 3408, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316310/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1377621457.41.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1377621457.41.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1377621457.41.jpg"
+                    }, 
+                    "id": "1316310", 
+                    "name": "金赵光寿"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "同性"
+            ], 
+            "id": "3175667", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3284858.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3284858.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3284858.jpg"
+            }, 
+            "original_title": "소년, 소년을 만나다", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "当少年遇到少年", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3059440/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lou Fleischer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jack Mercer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mae Questel"
+                }
+            ], 
+            "collect_count": 569, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009248/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35875.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35875.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35875.jpg"
+                    }, 
+                    "id": "1009248", 
+                    "name": "戴维·福勒斯奇尔"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片", 
+                "喜剧"
+            ], 
+            "id": "3059440", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s22706228.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s22706228.jpg", 
+                "small": "https://img1.doubanio.com/spic/s22706228.jpg"
+            }, 
+            "original_title": "Popeye the Sailor Meets Sindbad the Sailor", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "当大力水手遇到水手辛巴达", 
+            "year": "1936"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25808140/", 
+            "casts": [], 
+            "collect_count": 76, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Copeman"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "短片"
+            ], 
+            "id": "25808140", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2165631538.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2165631538.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2165631538.jpg"
+            }, 
+            "original_title": "Beauty and the Geek", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "当淑女遇到宅男", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3274580/", 
+            "casts": [], 
+            "collect_count": 31, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill Tytla"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "喜剧", 
+                "短片"
+            ], 
+            "id": "3274580", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6644045.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6644045.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6644045.jpg"
+            }, 
+            "original_title": "Popeye Meets Hercules", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "当大力水手遇到大力神海格力斯", 
+            "year": "1948"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26637917/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "松田清"
+                }
+            ], 
+            "genres": [], 
+            "id": "26637917", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2273380326.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2273380326.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2273380326.jpg"
+            }, 
+            "original_title": "くまみこ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "当女孩遇到熊", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4304161/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mau Couti"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Renan Fragale"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alexandre Hulkinho"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mau Couti"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "剧情"
+            ], 
+            "id": "4304161", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4188996.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4188996.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4188996.jpg"
+            }, 
+            "original_title": "Tunel Russo", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "当同志遇到坏警察", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7053733/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003484/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31566.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31566.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31566.jpg"
+                    }, 
+                    "id": "1003484", 
+                    "name": "丹尼尔·雷德克里夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053624/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10321.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10321.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10321.jpg"
+                    }, 
+                    "id": "1053624", 
+                    "name": "艾玛·沃森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012517/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31670.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31670.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31670.jpg"
+                    }, 
+                    "id": "1012517", 
+                    "name": "鲁伯特·格林特"
+                }
+            ], 
+            "collect_count": 3928, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "纪录片"
+            ], 
+            "id": "7053733", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2155293242.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2155293242.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2155293242.jpg"
+            }, 
+            "original_title": "When Harry Left Hogwarts", 
+            "rating": {
+                "average": 9.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "当哈利离别霍格沃茨", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300692/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049503/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1640.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1640.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1640.jpg"
+                    }, 
+                    "id": "1049503", 
+                    "name": "卢克·威尔逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035673/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49749.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49749.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49749.jpg"
+                    }, 
+                    "id": "1035673", 
+                    "name": "凯特·哈德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040543/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/410.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/410.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/410.jpg"
+                    }, 
+                    "id": "1040543", 
+                    "name": "苏菲·玛索"
+                }
+            ], 
+            "collect_count": 2384, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031903/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1379484184.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1379484184.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1379484184.83.jpg"
+                    }, 
+                    "id": "1031903", 
+                    "name": "罗伯·莱纳"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1300692", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1398003.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1398003.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1398003.jpg"
+            }, 
+            "original_title": "Alex & Emma", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "亚历克斯与艾玛", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25793014/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Frenken"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Harry Rowohlt"
+                }
+            ], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Matthias Bruhn"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "25793014", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2162940599.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2162940599.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2162940599.jpg"
+            }, 
+            "original_title": "Ente, Tod und Tulpe", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "鸭子、死神和郁金香", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"当哈利遇到莎莉\" 的结果", 
+    "total": 13
+}

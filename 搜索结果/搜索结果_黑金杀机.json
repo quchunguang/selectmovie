@@ -1,0 +1,178 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10462800/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000010/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32214.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32214.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32214.jpg"
+                    }, 
+                    "id": "1000010", 
+                    "name": "迈克尔·法斯宾德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054452/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1604.jpg"
+                    }, 
+                    "id": "1054452", 
+                    "name": "布拉德·皮特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054414/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/587.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/587.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/587.jpg"
+                    }, 
+                    "id": "1054414", 
+                    "name": "哈维尔·巴登"
+                }
+            ], 
+            "collect_count": 7238, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054416/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/588.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/588.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/588.jpg"
+                    }, 
+                    "id": "1054416", 
+                    "name": "雷德利·斯科特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "10462800", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2133669261.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2133669261.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2133669261.jpg"
+            }, 
+            "original_title": "The Counselor", 
+            "rating": {
+                "average": 5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "黑金杀机", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2170915/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025147/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5321.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5321.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5321.jpg"
+                    }, 
+                    "id": "1025147", 
+                    "name": "克里夫·欧文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016675/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/153.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/153.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/153.jpg"
+                    }, 
+                    "id": "1016675", 
+                    "name": "娜奥米·沃茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055779/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6630.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6630.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6630.jpg"
+                    }, 
+                    "id": "1055779", 
+                    "name": "阿明·缪勒-斯塔尔"
+                }
+            ], 
+            "collect_count": 11506, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047989/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/252.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/252.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/252.jpg"
+                    }, 
+                    "id": "1047989", 
+                    "name": "汤姆·提克威"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "2170915", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3258150.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3258150.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3258150.jpg"
+            }, 
+            "original_title": "The International", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "跨国银行", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297871/", 
+            "casts": [], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "欧内斯特 R. 迪科尔森 (Ernest R. Dickerson)"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "1297871", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1400992.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1400992.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1400992.jpg"
+            }, 
+            "original_title": "Ambushed", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "杀机重重", 
+            "year": "1998"
+        }
+    ], 
+    "title": "搜索 \"黑金杀机\" 的结果", 
+    "total": 3
+}

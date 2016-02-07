@@ -1,0 +1,71 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5383158/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002671/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52629.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52629.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52629.jpg"
+                    }, 
+                    "id": "1002671", 
+                    "name": "大卫·田纳特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022761/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19870.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19870.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19870.jpg"
+                    }, 
+                    "id": "1022761", 
+                    "name": "杰克·奥康奈尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010617/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14606.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14606.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14606.jpg"
+                    }, 
+                    "id": "1010617", 
+                    "name": "山姆·克拉弗林"
+                }
+            ], 
+            "collect_count": 6423, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Strong"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5383158", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6976739.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6976739.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6976739.jpg"
+            }, 
+            "original_title": "United", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "曼联重生", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"曼联重生\" 的结果", 
+    "total": 1
+}

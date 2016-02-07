@@ -1,0 +1,1187 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1291875/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041082/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48774.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48774.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48774.jpg"
+                    }, 
+                    "id": "1041082", 
+                    "name": "夏雨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1046132/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28525.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28525.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28525.jpg"
+                    }, 
+                    "id": "1046132", 
+                    "name": "宁静"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1015199/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368429021.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368429021.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368429021.58.jpg"
+                    }, 
+                    "id": "1015199", 
+                    "name": "陶虹"
+                }
+            ], 
+            "collect_count": 302415, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021999/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17197.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17197.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17197.jpg"
+                    }, 
+                    "id": "1021999", 
+                    "name": "姜文"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1291875", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p967457079.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p967457079.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p967457079.jpg"
+            }, 
+            "original_title": "阳光灿烂的日子", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "阳光灿烂的日子", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1899616/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009179/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1368762337.01.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1368762337.01.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1368762337.01.jpg"
+                    }, 
+                    "id": "1009179", 
+                    "name": "佟大为"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320810/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1353489180.22.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1353489180.22.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1353489180.22.jpg"
+                    }, 
+                    "id": "1320810", 
+                    "name": "常景如"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1276002/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12973.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12973.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12973.jpg"
+                    }, 
+                    "id": "1276002", 
+                    "name": "黄勐"
+                }
+            ], 
+            "collect_count": 21429, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275735/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12179.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12179.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12179.jpg"
+                    }, 
+                    "id": "1275735", 
+                    "name": "叶京"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "爱情"
+            ], 
+            "id": "1899616", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1877883.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1877883.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1877883.jpg"
+            }, 
+            "original_title": "与青春有关的日子", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "与青春有关的日子", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1291558/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041013/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367250434.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367250434.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367250434.9.jpg"
+                    }, 
+                    "id": "1041013", 
+                    "name": "约翰·马尔科维奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010668/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2182.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2182.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2182.jpg"
+                    }, 
+                    "id": "1010668", 
+                    "name": "伊莲娜·雅各布"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040543/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/410.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/410.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/410.jpg"
+                    }, 
+                    "id": "1040543", 
+                    "name": "苏菲·玛索"
+                }
+            ], 
+            "collect_count": 70217, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022002/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/633.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/633.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/633.jpg"
+                    }, 
+                    "id": "1022002", 
+                    "name": "米开朗基罗·安东尼奥尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054402/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/569.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/569.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/569.jpg"
+                    }, 
+                    "id": "1054402", 
+                    "name": "维姆·文德斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "情色"
+            ], 
+            "id": "1291558", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1910829202.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1910829202.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829202.jpg"
+            }, 
+            "original_title": "Al di là delle nuvole", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "云上的日子", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1431648/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1363783480.87.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1363783480.87.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1363783480.87.jpg"
+                    }, 
+                    "id": "1009419", 
+                    "name": "史蒂夫·山德沃斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1138698/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31576.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31576.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31576.jpg"
+                    }, 
+                    "id": "1138698", 
+                    "name": "韦斯·拉姆齐"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1104333/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1104333", 
+                    "name": "Rebekah Johnson"
+                }
+            ], 
+            "collect_count": 9683, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "C. Jay Cox"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1431648", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1445442.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1445442.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1445442.jpg"
+            }, 
+            "original_title": "Latter Days", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "闪亮的日子", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3993598/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313321/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371546121.04.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371546121.04.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371546121.04.jpg"
+                    }, 
+                    "id": "1313321", 
+                    "name": "白歆惠"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317557/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40378.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40378.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40378.jpg"
+                    }, 
+                    "id": "1317557", 
+                    "name": "张兆志"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "那维勋"
+                }
+            ], 
+            "collect_count": 289, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1351460/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1453097745.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1453097745.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1453097745.37.jpg"
+                    }, 
+                    "id": "1351460", 
+                    "name": "周晓鹏"
+                }
+            ], 
+            "genres": [], 
+            "id": "3993598", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3958342.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3958342.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3958342.jpg"
+            }, 
+            "original_title": "閃亮的日子", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "闪亮的日子", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1301365/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张艾嘉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘文正"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "廖继良"
+                }
+            ], 
+            "collect_count": 78, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘维斌"
+                }
+            ], 
+            "genres": [], 
+            "id": "1301365", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1493939.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1493939.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1493939.jpg"
+            }, 
+            "original_title": "闪亮的日子", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "闪亮的日子", 
+            "year": "1977"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4096018/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042559/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3839.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3839.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3839.jpg"
+                    }, 
+                    "id": "1042559", 
+                    "name": "朴信阳"
+                }
+            ], 
+            "collect_count": 34, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1109419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3603.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3603.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3603.jpg"
+                    }, 
+                    "id": "1109419", 
+                    "name": "朴光洙"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4096018", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4023251.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4023251.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4023251.jpg"
+            }, 
+            "original_title": "눈부신 날에", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "闪亮的日子", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25855951/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1348842/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1430362789.6.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1430362789.6.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1430362789.6.jpg"
+                    }, 
+                    "id": "1348842", 
+                    "name": "露安·艾梅哈"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005104/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6556.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6556.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6556.jpg"
+                    }, 
+                    "id": "1005104", 
+                    "name": "嘉莲·维雅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1338355/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1406364180.7.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1406364180.7.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1406364180.7.jpg"
+                    }, 
+                    "id": "1338355", 
+                    "name": "弗朗索瓦·达密安"
+                }
+            ], 
+            "collect_count": 22720, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313896/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20802.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20802.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20802.jpg"
+                    }, 
+                    "id": "1313896", 
+                    "name": "艾里克·拉缇戈"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "音乐"
+            ], 
+            "id": "25855951", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2217443926.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2217443926.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2217443926.jpg"
+            }, 
+            "original_title": "La famille Bélier", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "贝利叶一家", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297007/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010543/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1243.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1243.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1243.jpg"
+                    }, 
+                    "id": "1010543", 
+                    "name": "杰弗里·拉什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1144770/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1144770", 
+                    "name": "亚历克斯·拉法洛维茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049775/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1402215135.67.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1402215135.67.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1402215135.67.jpg"
+                    }, 
+                    "id": "1049775", 
+                    "name": "诺亚·泰勒"
+                }
+            ], 
+            "collect_count": 10039, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032377/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26270.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26270.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26270.jpg"
+                    }, 
+                    "id": "1032377", 
+                    "name": "斯科特·希克斯"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "音乐"
+            ], 
+            "id": "1297007", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2074703565.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2074703565.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2074703565.jpg"
+            }, 
+            "original_title": "Shine", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "闪亮的风采", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10485647/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006958/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/93.jpg"
+                    }, 
+                    "id": "1006958", 
+                    "name": "詹姆斯·麦卡沃伊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000010/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32214.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32214.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32214.jpg"
+                    }, 
+                    "id": "1000010", 
+                    "name": "迈克尔·法斯宾德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010508/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22036.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22036.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22036.jpg"
+                    }, 
+                    "id": "1010508", 
+                    "name": "休·杰克曼"
+                }
+            ], 
+            "collect_count": 228264, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049586/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4473.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4473.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4473.jpg"
+                    }, 
+                    "id": "1049586", 
+                    "name": "布莱恩·辛格"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "10485647", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2181156848.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2181156848.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2181156848.jpg"
+            }, 
+            "original_title": "X-Men: Days of Future Past", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "X战警：逆转未来", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2256085/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "钱小豪"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "翁虹"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "嘉玲"
+                }
+            ], 
+            "collect_count": 52, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bik Chan Sek"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2256085", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6866372.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6866372.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6866372.jpg"
+            }, 
+            "original_title": "金枝玉葉之睡在下流社會的日子", 
+            "rating": {
+                "average": 3.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "金枝玉叶之睡在下流社会的日子", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25794025/", 
+            "casts": [], 
+            "collect_count": 1036, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037312/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390167201.77.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390167201.77.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390167201.77.jpg"
+                    }, 
+                    "id": "1037312", 
+                    "name": "罗瑞·肯尼迪"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25794025", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2167071336.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2167071336.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2167071336.jpg"
+            }, 
+            "original_title": "Last Days in Vietnam", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "在越南最后的日子", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26609495/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275427/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58409.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58409.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58409.jpg"
+                    }, 
+                    "id": "1275427", 
+                    "name": "潘玮柏"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314643/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397998108.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397998108.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397998108.17.jpg"
+                    }, 
+                    "id": "1314643", 
+                    "name": "高云翔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈一冰"
+                }
+            ], 
+            "collect_count": 272, 
+            "directors": [], 
+            "genres": [
+                "真人秀"
+            ], 
+            "id": "26609495", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2275824593.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2275824593.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2275824593.jpg"
+            }, 
+            "original_title": "闪亮的爸爸", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "闪亮的爸爸", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4848686/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "姬晨牧"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙盛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "史林"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "姬晨牧"
+                }
+            ], 
+            "genres": [], 
+            "id": "4848686", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2228619123.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2228619123.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2228619123.jpg"
+            }, 
+            "original_title": "闪亮的青春", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "闪亮的青春", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2072848/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040985/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20016.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20016.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20016.jpg"
+                    }, 
+                    "id": "1040985", 
+                    "name": "艾比·考尼什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025149/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397997449.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397997449.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397997449.99.jpg"
+                    }, 
+                    "id": "1025149", 
+                    "name": "本·卫肖"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016669/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1074.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1074.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1074.jpg"
+                    }, 
+                    "id": "1016669", 
+                    "name": "托马斯·布罗迪-桑斯特"
+                }
+            ], 
+            "collect_count": 36055, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045008/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1380771419.11.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1380771419.11.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1380771419.11.jpg"
+                    }, 
+                    "id": "1045008", 
+                    "name": "简·坎皮恩"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "2072848", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2020692041.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2020692041.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2020692041.jpg"
+            }, 
+            "original_title": "Bright Star", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "明亮的星", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1940452/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1185637/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13768.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13768.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13768.jpg"
+                    }, 
+                    "id": "1185637", 
+                    "name": "神木隆之介"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1184188/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368494074.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368494074.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368494074.17.jpg"
+                    }, 
+                    "id": "1184188", 
+                    "name": "大泉洋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019486/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21978.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21978.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21978.jpg"
+                    }, 
+                    "id": "1019486", 
+                    "name": "铃木京香"
+                }
+            ], 
+            "collect_count": 1380, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054439/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/616.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/616.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/616.jpg"
+                    }, 
+                    "id": "1054439", 
+                    "name": "宫崎骏"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "1940452", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2283301045.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2283301045.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2283301045.jpg"
+            }, 
+            "original_title": "星をかった日", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "种下星星的日子", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1928187/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040516/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6152.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6152.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6152.jpg"
+                    }, 
+                    "id": "1040516", 
+                    "name": "丹尼·德维托"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000045/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2777.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2777.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2777.jpg"
+                    }, 
+                    "id": "1000045", 
+                    "name": "马修·布罗德里克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031811/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10379.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10379.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10379.jpg"
+                    }, 
+                    "id": "1031811", 
+                    "name": "克里斯汀·戴维斯"
+                }
+            ], 
+            "collect_count": 584, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Whitesell"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "1928187", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1931410.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1931410.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1931410.jpg"
+            }, 
+            "original_title": "Deck the Halls", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "闪亮的圣诞节", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2041882/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小西真奈美"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "ウエンツ瑛士"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "加藤雅也"
+                }
+            ], 
+            "collect_count": 344, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "今井夏木"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "森永恭朗"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧"
+            ], 
+            "id": "2041882", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2152476200.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2152476200.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2152476200.jpg"
+            }, 
+            "original_title": "きらきら研修医", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "闪亮的进修医生", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25715842/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1333932/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/BChtpNn1K84cel_avatar_uploaded1378032514.25.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/BChtpNn1K84cel_avatar_uploaded1378032514.25.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/BChtpNn1K84cel_avatar_uploaded1378032514.25.jpg"
+                    }, 
+                    "id": "1333932", 
+                    "name": "Alex Essoe"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Amanda Fuller"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027909/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/57256.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/57256.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/57256.jpg"
+                    }, 
+                    "id": "1027909", 
+                    "name": "诺阿·西甘"
+                }
+            ], 
+            "collect_count": 257, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kevin Kolsch"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dennis Widmyer"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "25715842", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2211171366.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2211171366.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2211171366.jpg"
+            }, 
+            "original_title": "Starry Eyes", 
+            "rating": {
+                "average": 5.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "闪亮的眼睛", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6534105/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [], 
+            "id": "6534105", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Twinkling Stars", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "闪亮的星星", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"闪亮的日子\" 的结果", 
+    "total": 283
+}

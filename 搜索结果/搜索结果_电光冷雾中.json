@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1938951/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047994/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/259.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/259.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/259.jpg"
+                    }, 
+                    "id": "1047994", 
+                    "name": "汤米·李·琼斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017898/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1360912229.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1360912229.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1360912229.81.jpg"
+                    }, 
+                    "id": "1017898", 
+                    "name": "约翰·古德曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031800/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7767.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7767.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7767.jpg"
+                    }, 
+                    "id": "1031800", 
+                    "name": "彼得·萨斯加德"
+                }
+            ], 
+            "collect_count": 983, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048263/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19458.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19458.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19458.jpg"
+                    }, 
+                    "id": "1048263", 
+                    "name": "贝特朗·塔韦尼耶"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "1938951", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3883205.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3883205.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3883205.jpg"
+            }, 
+            "original_title": "In the Electric Mist", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "电光火石", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"电光冷雾中\" 的结果", 
+    "total": 1
+}

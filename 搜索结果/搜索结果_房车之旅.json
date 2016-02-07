@@ -1,0 +1,595 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1588704/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009241/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/103.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/103.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/103.jpg"
+                    }, 
+                    "id": "1009241", 
+                    "name": "罗宾·威廉姆斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049597/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14304.jpg"
+                    }, 
+                    "id": "1049597", 
+                    "name": "切瑞·海恩斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1201674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16182.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16182.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16182.jpg"
+                    }, 
+                    "id": "1201674", 
+                    "name": "乔安娜•利维斯克"
+                }
+            ], 
+            "collect_count": 7696, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002772/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7221.jpg"
+                    }, 
+                    "id": "1002772", 
+                    "name": "巴里·索南菲尔德"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "1588704", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1510678254.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1510678254.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1510678254.jpg"
+            }, 
+            "original_title": "RV", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "房车之旅", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2314160/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1078759/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4232.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4232.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4232.jpg"
+                    }, 
+                    "id": "1078759", 
+                    "name": "杰里米·克拉克森"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sabine Schmitz"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "The Stig"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brian Klein"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "2314160", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2771360.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2771360.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2771360.jpg"
+            }, 
+            "original_title": "Clarkson Supercar Showdown", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "疾速挡之老柯的豪车之旅", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25774690/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1110090/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/728.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/728.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/728.jpg"
+                    }, 
+                    "id": "1110090", 
+                    "name": "泽维尔·劳伦斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alison Arboux"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yohan Ungar"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "短片"
+            ], 
+            "id": "25774690", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2160329098.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2160329098.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2160329098.jpg"
+            }, 
+            "original_title": "Dessous la caravane", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "房车之下", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5981293/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320427/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320427", 
+                    "name": "Graham Agassiz"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320428/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320428", 
+                    "name": "迈克·霍普金斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320429/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320429", 
+                    "name": "马特·亨特"
+                }
+            ], 
+            "collect_count": 5867, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320425/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320425", 
+                    "name": "德雷克·弗兰科夫斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320426/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320426", 
+                    "name": "瑞恩·吉布"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "运动"
+            ], 
+            "id": "5981293", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4641531.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4641531.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4641531.jpg"
+            }, 
+            "original_title": "Life Cycles", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "山地自行车之旅", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20495940/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "知念侑李"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高木雄也"
+                }
+            ], 
+            "collect_count": 164, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "平野真一"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山木忠徒"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "20495940", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24578357.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24578357.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24578357.jpg"
+            }, 
+            "original_title": "J’J Hey!Say!JUMP 高木雄也＆知念侑李 ふたりっきり フランス縦断 各駅停車の旅", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "J's Journey 髙木雄也＆知念侑李 仅此二人的纵越法国慢车之旅", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2567896/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010555/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5690.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5690.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5690.jpg"
+                    }, 
+                    "id": "1010555", 
+                    "name": "凯西·贝茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025215/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17520.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17520.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17520.jpg"
+                    }, 
+                    "id": "1025215", 
+                    "name": "琼·艾伦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000091/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10239.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10239.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10239.jpg"
+                    }, 
+                    "id": "1000091", 
+                    "name": "杰西卡·兰格"
+                }
+            ], 
+            "collect_count": 105, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christopher N. Rowley"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "2567896", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3183936.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3183936.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3183936.jpg"
+            }, 
+            "original_title": "Bonneville", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "老敞篷车之旅", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5963754/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048162/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4059.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4059.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4059.jpg"
+                    }, 
+                    "id": "1048162", 
+                    "name": "大卫·苏切特"
+                }
+            ], 
+            "collect_count": 31, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Malone"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "5963754", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2171210961.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2171210961.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2171210961.jpg"
+            }, 
+            "original_title": "David Suchet on the Orient Express", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "大卫·苏切特的东方快车之旅", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24756466/", 
+            "casts": [], 
+            "collect_count": 20, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "24756466", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2010478069.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2010478069.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2010478069.jpg"
+            }, 
+            "original_title": "ぶらり途中下車の旅", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "日本电车之旅", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3161358/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Walt Disney"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lee Millar"
+                }
+            ], 
+            "collect_count": 23, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clyde Geronimi"
+                }
+            ], 
+            "genres": [
+                "家庭", 
+                "动画", 
+                "喜剧"
+            ], 
+            "id": "3161358", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3200930.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3200930.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3200930.jpg"
+            }, 
+            "original_title": "Mr. Mouse Takes a Trip", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "米奇的火车之旅", 
+            "year": "1940"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20441346/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Kendall"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "20441346", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24519680.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24519680.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24519680.jpg"
+            }, 
+            "original_title": "La Camioneta: The Journey of One American School Bus", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美国校车之旅", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4000570/", 
+            "casts": [], 
+            "collect_count": 5, 
+            "directors": [], 
+            "genres": [
+                "纪录片", 
+                "历史", 
+                "Reality-TV"
+            ], 
+            "id": "4000570", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3954567.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3954567.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3954567.jpg"
+            }, 
+            "original_title": "The History Channel: Extreme Trains", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "历史频道:极限列车", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26593056/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "尾木直樹"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "岩崎恭子"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "弓場伸治"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26593056", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2263061100.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2263061100.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2263061100.jpg"
+            }, 
+            "original_title": "聞きこみ！ローカル線 気まぐれ下車の旅", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "听到！交通支线 突发的下车旅程", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"房车之旅\" 的结果", 
+    "total": 12
+}

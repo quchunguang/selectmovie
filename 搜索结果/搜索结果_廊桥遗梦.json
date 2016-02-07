@@ -1,0 +1,72 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293929/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054437/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/614.jpg"
+                    }, 
+                    "id": "1054437", 
+                    "name": "梅丽尔·斯特里普"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Annie Corley"
+                }
+            ], 
+            "collect_count": 107362, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054436/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5064.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5064.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5064.jpg"
+                    }, 
+                    "id": "1054436", 
+                    "name": "克林特·伊斯特伍德"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1293929", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p616768086.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p616768086.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p616768086.jpg"
+            }, 
+            "original_title": "The Bridges of Madison County", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "廊桥遗梦", 
+            "year": "1995"
+        }
+    ], 
+    "title": "搜索 \"廊桥遗梦\" 的结果", 
+    "total": 1
+}

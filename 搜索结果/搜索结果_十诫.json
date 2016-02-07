@@ -1,0 +1,638 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301252/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1063189/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1063189", 
+                    "name": "Artur Barcis"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1115312/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46850.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46850.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46850.jpg"
+                    }, 
+                    "id": "1115312", 
+                    "name": "Olgierd Lukaszewicz"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037560/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28110.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28110.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28110.jpg"
+                    }, 
+                    "id": "1037560", 
+                    "name": "奥拉夫·卢巴申科"
+                }
+            ], 
+            "collect_count": 20025, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054428/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1420540098.68.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1420540098.68.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1420540098.68.jpg"
+                    }, 
+                    "id": "1054428", 
+                    "name": "克日什托夫·基耶斯洛夫斯基"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1301252", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3120103.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3120103.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3120103.jpg"
+            }, 
+            "original_title": "Dekalog", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "十诫", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293692/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027817/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14387.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14387.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14387.jpg"
+                    }, 
+                    "id": "1027817", 
+                    "name": "查尔登·海斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010597/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4423.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4423.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4423.jpg"
+                    }, 
+                    "id": "1010597", 
+                    "name": "尤·伯连纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048212/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23839.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23839.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23839.jpg"
+                    }, 
+                    "id": "1048212", 
+                    "name": "安妮·巴克斯特"
+                }
+            ], 
+            "collect_count": 5493, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025299/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9506.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9506.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9506.jpg"
+                    }, 
+                    "id": "1025299", 
+                    "name": "塞西尔·B·戴米尔"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1293692", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3766367.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3766367.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3766367.jpg"
+            }, 
+            "original_title": "The Ten Commandments", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "十诫", 
+            "year": "1956"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3162781/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1147228/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1147228", 
+                    "name": "Theodore Roberts"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1090168/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1090168", 
+                    "name": "Charles de Rochefort"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1159078/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47756.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47756.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47756.jpg"
+                    }, 
+                    "id": "1159078", 
+                    "name": "Estelle Taylor"
+                }
+            ], 
+            "collect_count": 161, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025299/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9506.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9506.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9506.jpg"
+                    }, 
+                    "id": "1025299", 
+                    "name": "塞西尔·B·戴米尔"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3162781", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3696728.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3696728.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3696728.jpg"
+            }, 
+            "original_title": "The Ten Commandments", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "十诫", 
+            "year": "1923"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1948835/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dougray Scott"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Matthew Sim"
+                }
+            ], 
+            "collect_count": 361, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Dornhelm"
+                }
+            ], 
+            "genres": [], 
+            "id": "1948835", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1966914.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1966914.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1966914.jpg"
+            }, 
+            "original_title": "The Ten Commandments", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "十诫", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1824412/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002667/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49.jpg"
+                    }, 
+                    "id": "1002667", 
+                    "name": "保罗·路德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003488/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/64.jpg"
+                    }, 
+                    "id": "1003488", 
+                    "name": "亚当·布罗迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031817/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50751.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50751.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50751.jpg"
+                    }, 
+                    "id": "1031817", 
+                    "name": "乔恩·哈姆"
+                }
+            ], 
+            "collect_count": 9464, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025272/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6736.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6736.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6736.jpg"
+                    }, 
+                    "id": "1025272", 
+                    "name": "大卫·韦恩"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1824412", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2414814.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2414814.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2414814.jpg"
+            }, 
+            "original_title": "The Ten", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "哈拉十诫", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5337537/", 
+            "casts": [], 
+            "collect_count": 323, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Discovery Channel"
+                }
+            ], 
+            "genres": [], 
+            "id": "5337537", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24516380.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24516380.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24516380.jpg"
+            }, 
+            "original_title": "Ten Commandments of the Mafia", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "黑手党的十诫", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10526862/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vincenzo Salemme"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Guglielmo Scilla"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Cinzia Mascoli"
+                }
+            ], 
+            "collect_count": 349, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010292/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24213.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24213.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24213.jpg"
+                    }, 
+                    "id": "1010292", 
+                    "name": "克里斯提诺·波顿"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "10526862", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s8901810.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s8901810.jpg", 
+                "small": "https://img3.doubanio.com/spic/s8901810.jpg"
+            }, 
+            "original_title": "10 regole per fare innamorare", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "恋爱十诫", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1306918/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054422/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34966.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34966.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34966.jpg"
+                    }, 
+                    "id": "1054422", 
+                    "name": "卡梅隆·迪亚茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031816/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38311.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38311.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38311.jpg"
+                    }, 
+                    "id": "1031816", 
+                    "name": "托马斯·简"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036327/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/54061.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/54061.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/54061.jpg"
+                    }, 
+                    "id": "1036327", 
+                    "name": "克里斯蒂娜·艾伯盖特"
+                }
+            ], 
+            "collect_count": 1822, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018307/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1018307", 
+                    "name": "罗杰·昆宝"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1306918", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2756420.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2756420.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2756420.jpg"
+            }, 
+            "original_title": "The Sweetest Thing", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "爱情甜不辣", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1869772/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michelle Paradise"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jennifer Gatti"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Suzanne Mara"
+                }
+            ], 
+            "collect_count": 61, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lee Friedlander"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "喜剧"
+            ], 
+            "id": "1869772", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2671294.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2671294.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2671294.jpg"
+            }, 
+            "original_title": "The Ten Rules", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "拉拉生存十法则", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2132511/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054393/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374649659.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374649659.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374649659.58.jpg"
+                    }, 
+                    "id": "1054393", 
+                    "name": "本·金斯利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022597/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22973.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22973.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22973.jpg"
+                    }, 
+                    "id": "1022597", 
+                    "name": "克里斯蒂安·史莱特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017897/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5893.jpg"
+                    }, 
+                    "id": "1017897", 
+                    "name": "阿尔弗雷德·莫里纳"
+                }
+            ], 
+            "collect_count": 102, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill Boyce"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Stronach"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "家庭"
+            ], 
+            "id": "2132511", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2695223.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2695223.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2695223.jpg"
+            }, 
+            "original_title": "The Ten Commandments", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "The Ten Commandments", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2216170/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Burt Lancaster"
+                }
+            ], 
+            "collect_count": 164, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gianfranco De Bosio"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "历史"
+            ], 
+            "id": "2216170", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4621229.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4621229.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4621229.jpg"
+            }, 
+            "original_title": "Moses the Lawgiver", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "立法者摩西", 
+            "year": "1974"
+        }
+    ], 
+    "title": "搜索 \"十诫\" 的结果", 
+    "total": 11
+}

@@ -1,0 +1,1133 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293145/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054450/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/551.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/551.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/551.jpg"
+                    }, 
+                    "id": "1054450", 
+                    "name": "汤姆·汉克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054431/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/608.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/608.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/608.jpg"
+                    }, 
+                    "id": "1054431", 
+                    "name": "丹泽尔·华盛顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022582/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8832.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8832.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8832.jpg"
+                    }, 
+                    "id": "1022582", 
+                    "name": "安东尼奥·班德拉斯"
+                }
+            ], 
+            "collect_count": 69093, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032064/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19680.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19680.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19680.jpg"
+                    }, 
+                    "id": "1032064", 
+                    "name": "乔纳森·戴米"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "同性"
+            ], 
+            "id": "1293145", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p750348993.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p750348993.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p750348993.jpg"
+            }, 
+            "original_title": "Philadelphia", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "费城故事", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292840/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053563/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1356326516.41.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1356326516.41.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1356326516.41.jpg"
+                    }, 
+                    "id": "1053563", 
+                    "name": "加里·格兰特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047984/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/246.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/246.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/246.jpg"
+                    }, 
+                    "id": "1047984", 
+                    "name": "凯瑟琳·赫本"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048136/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35789.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35789.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35789.jpg"
+                    }, 
+                    "id": "1048136", 
+                    "name": "詹姆斯·斯图尔特"
+                }
+            ], 
+            "collect_count": 4673, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010711/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19067.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19067.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19067.jpg"
+                    }, 
+                    "id": "1010711", 
+                    "name": "乔治·库克"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1292840", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p740274403.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p740274403.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p740274403.jpg"
+            }, 
+            "original_title": "The Philadelphia Story", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "费城故事", 
+            "year": "1940"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302662/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050648/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19891.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19891.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19891.jpg"
+                    }, 
+                    "id": "1050648", 
+                    "name": "谭咏麟"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274231/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/793.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/793.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/793.jpg"
+                    }, 
+                    "id": "1274231", 
+                    "name": "张曼玉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002862/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1161.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1161.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1161.jpg"
+                    }, 
+                    "id": "1002862", 
+                    "name": "曾志伟"
+                }
+            ], 
+            "collect_count": 7888, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274300/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1536.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1536.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1536.jpg"
+                    }, 
+                    "id": "1274300", 
+                    "name": "陈可辛"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1302662", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1495795.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1495795.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1495795.jpg"
+            }, 
+            "original_title": "雙城故事", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "双城故事", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1306889/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033223/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2372.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2372.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2372.jpg"
+                    }, 
+                    "id": "1033223", 
+                    "name": "钟镇涛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1083380/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1391809940.23.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1391809940.23.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1391809940.23.jpg"
+                    }, 
+                    "id": "1083380", 
+                    "name": "林凤娇"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李烈"
+                }
+            ], 
+            "collect_count": 1028, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048761/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1353313646.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1353313646.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1353313646.34.jpg"
+                    }, 
+                    "id": "1048761", 
+                    "name": "李行"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1306889", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9109915.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9109915.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9109915.jpg"
+            }, 
+            "original_title": "小城故事", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "小城故事", 
+            "year": "1979"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25746252/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319022/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47130.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47130.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47130.jpg"
+                    }, 
+                    "id": "1319022", 
+                    "name": "石林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李雅男"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327158/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1362572723.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1362572723.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1362572723.03.jpg"
+                    }, 
+                    "id": "1327158", 
+                    "name": "秦汉擂"
+                }
+            ], 
+            "collect_count": 62, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1286725/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46315.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46315.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46315.jpg"
+                    }, 
+                    "id": "1286725", 
+                    "name": "何蔚庭"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25746252", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2157146114.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2157146114.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2157146114.jpg"
+            }, 
+            "original_title": "雨城故事", 
+            "rating": {
+                "average": 5.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "雨城故事", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26636254/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "禹尧"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "禹尧丰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张鸽"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "禹尧"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "短片"
+            ], 
+            "id": "26636254", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2272813695.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2272813695.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2272813695.jpg"
+            }, 
+            "original_title": "北城故事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "北城故事", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25806495/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336112/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1336112", 
+                    "name": "关亚军"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "彭国斌"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "宋海梅"
+                }
+            ], 
+            "collect_count": 15, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王志强"
+                }
+            ], 
+            "genres": [], 
+            "id": "25806495", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2166726087.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2166726087.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2166726087.jpg"
+            }, 
+            "original_title": "钢城故事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "钢城故事", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23582681/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "邱丽琴"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨莉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "阿峰"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈盛强"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "23582681", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1928199121.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1928199121.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1928199121.jpg"
+            }, 
+            "original_title": "韶城故事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "韶城故事", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307952/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "成方圆"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘旭凌"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙国庆"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "徐庆东"
+                }
+            ], 
+            "genres": [], 
+            "id": "1307952", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2241258641.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2241258641.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2241258641.jpg"
+            }, 
+            "original_title": "椰城故事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "椰城故事", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26354105/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "印小天 / 杨贵媚 / 寇振海 / 杜若溪 / 王珂 / 郭昊伦"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "余秉中 / 刘应钟"
+                }
+            ], 
+            "genres": [], 
+            "id": "26354105", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "小城故事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "小城故事", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25851784/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "邓婕"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王璐瑶"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "历史", 
+                "古装"
+            ], 
+            "id": "25851784", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "长城故事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "长城故事", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26384038/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322292/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1322292", 
+                    "name": "马崇乐"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈彗娟"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈军"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "樊玮"
+                }
+            ], 
+            "genres": [], 
+            "id": "26384038", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "盐城故事", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "盐城故事", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1871598/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Leonard Bernstein"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kiri Te Kanawa"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "José Carreras"
+                }
+            ], 
+            "collect_count": 151, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christopher Swann"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "音乐", 
+                "歌舞"
+            ], 
+            "id": "1871598", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1806193.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1806193.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1806193.jpg"
+            }, 
+            "original_title": "The Making of 'West Side Story'", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "纪录片《伯恩斯坦指挥录制西城故事》", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26384866/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石丸幹二"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吉田羊"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "溝端淳平"
+                }
+            ], 
+            "collect_count": 174, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "田中健太"
+                }
+            ], 
+            "genres": [], 
+            "id": "26384866", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2247539451.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2247539451.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2247539451.jpg"
+            }, 
+            "original_title": "3つの街の物語", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "三城故事", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1855316/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John McIntire"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Kiley"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kathryn Grant"
+                }
+            ], 
+            "collect_count": 49, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Phil Karlson"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "黑色电影"
+            ], 
+            "id": "1855316", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3769214.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3769214.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3769214.jpg"
+            }, 
+            "original_title": "The Phenix City Story", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "凤凰城故事", 
+            "year": "1955"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307854/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Margarita Andrushkovich"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chris Doerk"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Erich Gusko"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dana Ranga"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "音乐"
+            ], 
+            "id": "1307854", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2239382107.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2239382107.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2239382107.jpg"
+            }, 
+            "original_title": "East Side Story", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "东城故事", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300152/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048624/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1048624", 
+                    "name": "Montgomery Tully"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1300152", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Small Town Story", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "小城故事", 
+            "year": "1953"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3053521/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1121101/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1420.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1420.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1420.jpg"
+                    }, 
+                    "id": "1121101", 
+                    "name": "吕丽萍"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044964/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5526.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5526.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5526.jpg"
+                    }, 
+                    "id": "1044964", 
+                    "name": "陈冲"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005985/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5512.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5512.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5512.jpg"
+                    }, 
+                    "id": "1005985", 
+                    "name": "赵涛"
+                }
+            ], 
+            "collect_count": 30294, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274261/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38530.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38530.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38530.jpg"
+                    }, 
+                    "id": "1274261", 
+                    "name": "贾樟柯"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3053521", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p956350682.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p956350682.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p956350682.jpg"
+            }, 
+            "original_title": "二十四城记", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "二十四城记", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295225/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009259/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18553.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18553.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18553.jpg"
+                    }, 
+                    "id": "1009259", 
+                    "name": "娜塔利·伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032054/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28139.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28139.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28139.jpg"
+                    }, 
+                    "id": "1032054", 
+                    "name": "理查德·贝梅尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014005/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1452250741.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1452250741.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1452250741.08.jpg"
+                    }, 
+                    "id": "1014005", 
+                    "name": "鲁斯·谭柏林"
+                }
+            ], 
+            "collect_count": 5998, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028200/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43972.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43972.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43972.jpg"
+                    }, 
+                    "id": "1028200", 
+                    "name": "杰罗姆·罗宾斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049929/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8102.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8102.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8102.jpg"
+                    }, 
+                    "id": "1049929", 
+                    "name": "罗伯特·怀斯"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "歌舞"
+            ], 
+            "id": "1295225", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7054197.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7054197.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7054197.jpg"
+            }, 
+            "original_title": "West Side Story", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "西区故事", 
+            "year": "1961"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1301648/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054511/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8839.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8839.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8839.jpg"
+                    }, 
+                    "id": "1054511", 
+                    "name": "凯瑟琳·德纳芙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049859/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16427.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16427.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16427.jpg"
+                    }, 
+                    "id": "1049859", 
+                    "name": "乔治·查金思"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000501/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54202.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54202.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54202.jpg"
+                    }, 
+                    "id": "1000501", 
+                    "name": "弗朗索瓦·朵列"
+                }
+            ], 
+            "collect_count": 907, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018333/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19452.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19452.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19452.jpg"
+                    }, 
+                    "id": "1018333", 
+                    "name": "雅克·德米"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "歌舞"
+            ], 
+            "id": "1301648", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1399536.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1399536.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1399536.jpg"
+            }, 
+            "original_title": "Les Demoiselles de Rochefort", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "柳媚花娇", 
+            "year": "1967"
+        }
+    ], 
+    "title": "搜索 \"费城故事\" 的结果", 
+    "total": 29
+}

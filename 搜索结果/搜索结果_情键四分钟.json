@@ -1,0 +1,196 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1947266/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1061398/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1370683437.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1370683437.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1370683437.59.jpg"
+                    }, 
+                    "id": "1061398", 
+                    "name": "莫妮卡·布雷多"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050127/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33078.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33078.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33078.jpg"
+                    }, 
+                    "id": "1050127", 
+                    "name": "汉娜·赫斯普朗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028182/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21159.jpg"
+                    }, 
+                    "id": "1028182", 
+                    "name": "里奇·穆勒"
+                }
+            ], 
+            "collect_count": 9184, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1288992/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43894.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43894.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43894.jpg"
+                    }, 
+                    "id": "1288992", 
+                    "name": "克里斯·克劳斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "音乐"
+            ], 
+            "id": "1947266", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p486140050.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p486140050.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p486140050.jpg"
+            }, 
+            "original_title": "Vier Minuten", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "四分钟", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1473887/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jamie MacLachlan"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kate Hewlett"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shaun Austin-Olsen"
+                }
+            ], 
+            "collect_count": 109, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1331023/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1331023", 
+                    "name": "查尔斯·比森"
+                }
+            ], 
+            "genres": [], 
+            "id": "1473887", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2819532.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2819532.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2819532.jpg"
+            }, 
+            "original_title": "Four Minutes", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "四分钟", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10755682/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022576/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5756.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5756.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5756.jpg"
+                    }, 
+                    "id": "1022576", 
+                    "name": "凯姆·吉甘戴"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1268721/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365414904.78.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365414904.78.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365414904.78.jpg"
+                    }, 
+                    "id": "1268721", 
+                    "name": "安娜丽·提普顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047978/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17717.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17717.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17717.jpg"
+                    }, 
+                    "id": "1047978", 
+                    "name": "金·贝辛格"
+                }
+            ], 
+            "collect_count": 163, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1267269/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1267269", 
+                    "name": "Charles-Olivier Michaud"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10755682", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2188374338.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2188374338.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2188374338.jpg"
+            }, 
+            "original_title": "One Square Mile", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "四分钟记录", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"情键四分钟\" 的结果", 
+    "total": 3
+}

@@ -1,0 +1,965 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6714930/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1046223/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380169516.43.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380169516.43.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380169516.43.jpg"
+                    }, 
+                    "id": "1046223", 
+                    "name": "彼得·费奥多罗夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049595/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1377843669.55.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1377843669.55.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1377843669.55.jpg"
+                    }, 
+                    "id": "1049595", 
+                    "name": "托马斯·克莱舒曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1334844/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380173697.89.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380173697.89.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380173697.89.jpg"
+                    }, 
+                    "id": "1334844", 
+                    "name": "玛丽亚·斯莫尔尼科娃"
+                }
+            ], 
+            "collect_count": 15031, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048340/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38873.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38873.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38873.jpg"
+                    }, 
+                    "id": "1048340", 
+                    "name": "费奥多尔·邦达尔丘克"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "战争"
+            ], 
+            "id": "6714930", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2155349825.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2155349825.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2155349825.jpg"
+            }, 
+            "original_title": "Сталинград", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林格勒", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293750/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048405/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1048405", 
+                    "name": "多米尼克·霍卫兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049595/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1377843669.55.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1377843669.55.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1377843669.55.jpg"
+                    }, 
+                    "id": "1049595", 
+                    "name": "托马斯·克莱舒曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002896/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44386.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44386.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44386.jpg"
+                    }, 
+                    "id": "1002896", 
+                    "name": "约哼·尼克尔"
+                }
+            ], 
+            "collect_count": 5416, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007242/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39334.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39334.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39334.jpg"
+                    }, 
+                    "id": "1007242", 
+                    "name": "约瑟夫·维尔斯麦尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "1293750", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1442020.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1442020.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1442020.jpg"
+            }, 
+            "original_title": "Stalingrad", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林格勒战役", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1790606/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksei Dikij"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mikhail Astangov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vladimir Gajdarov"
+                }
+            ], 
+            "collect_count": 147, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vladimir Petrov"
+                }
+            ], 
+            "genres": [
+                "战争", 
+                "剧情"
+            ], 
+            "id": "1790606", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1662057.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1662057.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1662057.jpg"
+            }, 
+            "original_title": "Сталинградская битва", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林格勒战役", 
+            "year": "1949"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4775834/", 
+            "casts": [], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006300/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1006300", 
+                    "name": "Guido Knopp"
+                }
+            ], 
+            "genres": [
+                "历史", 
+                "战争", 
+                "灾难"
+            ], 
+            "id": "4775834", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2153415881.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2153415881.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2153415881.jpg"
+            }, 
+            "original_title": "Stalingrad", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林格勒", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26661019/", 
+            "casts": [], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Сергей Пашков"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ирина Прокудина"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26661019", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2282093967.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2282093967.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2282093967.jpg"
+            }, 
+            "original_title": "Сталинградская битва", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林格勒保卫战", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26661360/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksei Isaev"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mikhail Myagkov"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "历史", 
+                "战争", 
+                "纪录片"
+            ], 
+            "id": "26661360", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2282312866.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2282312866.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2282312866.jpg"
+            }, 
+            "original_title": "Сталинградская битва", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "斯大林格勒战役", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3598426/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "帕.布特(美国)饰崔可夫"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "柳.拉乌奇威丘斯(苏联)饰斯大林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "谢.尼科年科(苏联)饰叶廖缅科"
+                }
+            ], 
+            "collect_count": 160, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yuriy Ozerov"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "3598426", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3658764.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3658764.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3658764.jpg"
+            }, 
+            "original_title": "Сталинград", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林格勒大血战", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3212730/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Janusz Kaminski"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "传记"
+            ], 
+            "id": "3212730", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2292830602.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2292830602.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2292830602.jpg"
+            }, 
+            "original_title": "White Rose", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林格勒的白玫瑰", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1436860/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Georgi Zhzhyonov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anatoli Kuznetsov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Boris Tokarev"
+                }
+            ], 
+            "collect_count": 76, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gavriil Yegiazarov"
+                }
+            ], 
+            "genres": [
+                "战争"
+            ], 
+            "id": "1436860", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3828218.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3828218.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3828218.jpg"
+            }, 
+            "original_title": "Горячий снег", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "热雪", 
+            "year": "1972"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4223796/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1102067/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34669.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34669.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34669.jpg"
+                    }, 
+                    "id": "1102067", 
+                    "name": "约阿希姆.汉森"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frank Wisbar"
+                }
+            ], 
+            "genres": [
+                "战争", 
+                "剧情"
+            ], 
+            "id": "4223796", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4123237.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4123237.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4123237.jpg"
+            }, 
+            "original_title": "Hunde, wollt ihr ewig leben", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "猎犬，你们想永生吗？", 
+            "year": "1959"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26416090/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26416090", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "颁发斯大林国际和平奖金", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "颁发斯大林国际和平奖金", 
+            "year": "1951"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26340391/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26340391", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "斯大林七十寿辰", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林七十寿辰", 
+            "year": "1950"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1424556/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "None"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "None"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "None"
+                }
+            ], 
+            "collect_count": 1499, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054506/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/885.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/885.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/885.jpg"
+                    }, 
+                    "id": "1054506", 
+                    "name": "杨·史云梅耶"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "1424556", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2181454942.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2181454942.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2181454942.jpg"
+            }, 
+            "original_title": "Konec stalinismu v Cechách", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林主义在波西米亚的终结", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3240529/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yekaterina Rednikova"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nurzhuman Ikhtymbayev"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bakhtiar Khoja"
+                }
+            ], 
+            "collect_count": 727, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1276735/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1426669738.14.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1426669738.14.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1426669738.14.jpg"
+                    }, 
+                    "id": "1276735", 
+                    "name": "Rustem Abdrashitov"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3240529", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3386114.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3386114.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3386114.jpg"
+            }, 
+            "original_title": "Подарок Сталину", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "给斯大林的礼物", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1760594/", 
+            "casts": [], 
+            "collect_count": 92, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Larry Weinstein"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "传记", 
+                "音乐"
+            ], 
+            "id": "1760594", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1632052.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1632052.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1632052.jpg"
+            }, 
+            "original_title": "The War Symphonies: Shostakovich Against Stalin", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "战争交响曲：肖斯塔科维奇对抗斯大林", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2381933/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dmitri H. Volkogonov"
+                }
+            ], 
+            "collect_count": 83, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hartmut Kaminski"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "2381933", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2861018.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2861018.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2861018.jpg"
+            }, 
+            "original_title": "Stalin: from Revolution to Superpower", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1755804/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023997/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1353865423.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1353865423.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1353865423.71.jpg"
+                    }, 
+                    "id": "1023997", 
+                    "name": "朱利·芭丝蒂"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nina Petri"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "György Cserhalmi"
+                }
+            ], 
+            "collect_count": 127, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016990/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21007.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21007.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21007.jpg"
+                    }, 
+                    "id": "1016990", 
+                    "name": "彼得·巴斯科"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1755804", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1625562.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1625562.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1625562.jpg"
+            }, 
+            "original_title": "Sztálin menyasszonya", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林的新娘", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4034904/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019125/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1367591951.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1367591951.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1367591951.26.jpg"
+                    }, 
+                    "id": "1019125", 
+                    "name": "赫尔穆特·贝格"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Margaret Lee"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1131421/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56089.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56089.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56089.jpg"
+                    }, 
+                    "id": "1131421", 
+                    "name": "西尔维娅·蒙蒂"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Maurizio Liverani"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "4034904", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3978649.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3978649.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3978649.jpg"
+            }, 
+            "original_title": "Sai cosa faceva Stalin alle donne?", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林对妇女们都干了什么？", 
+            "year": "1969"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1812821/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013776/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8576.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8576.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8576.jpg"
+                    }, 
+                    "id": "1013776", 
+                    "name": "罗伯特·杜瓦尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013855/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1375078830.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1375078830.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1375078830.71.jpg"
+                    }, 
+                    "id": "1013855", 
+                    "name": "朱莉娅·奥蒙德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036431/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4666.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4666.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4666.jpg"
+                    }, 
+                    "id": "1036431", 
+                    "name": "马克西米连·谢尔"
+                }
+            ], 
+            "collect_count": 47, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012630/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25386.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25386.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25386.jpg"
+                    }, 
+                    "id": "1012630", 
+                    "name": "伊凡·帕瑟"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记"
+            ], 
+            "id": "1812821", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4602599.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4602599.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4602599.jpg"
+            }, 
+            "original_title": "Stalin", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3791011/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "叶夫盖尼·叶甫图申科"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vanessa Redgrave"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksey Batalov"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yevgeni Yevtushenko"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3791011", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3864644.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3864644.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3864644.jpg"
+            }, 
+            "original_title": "Похороны Сталина", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "斯大林的葬礼", 
+            "year": "1990"
+        }
+    ], 
+    "title": "搜索 \"斯大林格勒\" 的结果", 
+    "total": 46
+}

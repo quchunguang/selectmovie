@@ -1,0 +1,903 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3718424/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010508/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22036.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22036.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22036.jpg"
+                    }, 
+                    "id": "1010508", 
+                    "name": "休·杰克曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327626/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1381837290.77.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1381837290.77.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1381837290.77.jpg"
+                    }, 
+                    "id": "1327626", 
+                    "name": "冈本多绪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1326320/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1358575121.5.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1358575121.5.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1358575121.5.jpg"
+                    }, 
+                    "id": "1326320", 
+                    "name": "福岛莉拉"
+                }
+            ], 
+            "collect_count": 90328, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036395/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11282.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11282.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11282.jpg"
+                    }, 
+                    "id": "1036395", 
+                    "name": "詹姆斯·曼高德"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3718424", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2151837713.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2151837713.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2151837713.jpg"
+            }, 
+            "original_title": "The Wolverine", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "金刚狼2", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1792928/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010508/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22036.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22036.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22036.jpg"
+                    }, 
+                    "id": "1010508", 
+                    "name": "休·杰克曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027151/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25538.jpg"
+                    }, 
+                    "id": "1027151", 
+                    "name": "列维·施瑞博尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053623/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48608.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48608.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48608.jpg"
+                    }, 
+                    "id": "1053623", 
+                    "name": "瑞恩·雷诺兹"
+                }
+            ], 
+            "collect_count": 146429, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045060/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1353058554.65.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1353058554.65.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1353058554.65.jpg"
+                    }, 
+                    "id": "1045060", 
+                    "name": "加文·胡德"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "奇幻", 
+                "科幻"
+            ], 
+            "id": "1792928", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2063167557.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2063167557.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2063167557.jpg"
+            }, 
+            "original_title": "X-Men Origins: Wolverine", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "金刚狼", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2146991/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022000/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13152.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13152.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13152.jpg"
+                    }, 
+                    "id": "1022000", 
+                    "name": "希亚·拉博夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044700/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/188.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/188.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/188.jpg"
+                    }, 
+                    "id": "1044700", 
+                    "name": "梅根·福克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016666/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4166.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4166.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4166.jpg"
+                    }, 
+                    "id": "1016666", 
+                    "name": "乔什·杜哈明"
+                }
+            ], 
+            "collect_count": 255608, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027776/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/319.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/319.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/319.jpg"
+                    }, 
+                    "id": "1027776", 
+                    "name": "迈克尔·贝"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻"
+            ], 
+            "id": "2146991", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1076838705.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1076838705.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1076838705.jpg"
+            }, 
+            "original_title": "Transformers: Revenge of the Fallen", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "变形金刚2", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25765735/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010508/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22036.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22036.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22036.jpg"
+                    }, 
+                    "id": "1010508", 
+                    "name": "休·杰克曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010540/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50451.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50451.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50451.jpg"
+                    }, 
+                    "id": "1010540", 
+                    "name": "帕特里克·斯图尔特"
+                }
+            ], 
+            "collect_count": 171, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036395/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11282.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11282.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11282.jpg"
+                    }, 
+                    "id": "1036395", 
+                    "name": "詹姆斯·曼高德"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻"
+            ], 
+            "id": "25765735", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2270957680.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2270957680.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2270957680.jpg"
+            }, 
+            "original_title": "Untitled Wolverine Sequel", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "金刚狼3", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6078948/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038087/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49478.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49478.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49478.jpg"
+                    }, 
+                    "id": "1038087", 
+                    "name": "小山力也"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016839/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10428.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10428.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10428.jpg"
+                    }, 
+                    "id": "1016839", 
+                    "name": "折笠富美子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003588/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17857.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17857.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17857.jpg"
+                    }, 
+                    "id": "1003588", 
+                    "name": "柴田秀胜"
+                }
+            ], 
+            "collect_count": 245, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "青山弘"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "动画"
+            ], 
+            "id": "6078948", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4690732.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4690732.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4690732.jpg"
+            }, 
+            "original_title": "WOLVERINE ウルヴァリン", 
+            "rating": {
+                "average": 4.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "tv", 
+            "title": "金刚狼", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5128874/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ronald L. Marchini"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049661/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21230.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21230.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21230.jpg"
+                    }, 
+                    "id": "1049661", 
+                    "name": "亚当·威斯特"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Neil Callaghan"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "5128874", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9090724.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9090724.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9090724.jpg"
+            }, 
+            "original_title": "Return Fire", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "丛林狼2：还击", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20507155/", 
+            "casts": [], 
+            "collect_count": 17, 
+            "directors": [], 
+            "genres": [], 
+            "id": "20507155", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24594630.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24594630.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24594630.jpg"
+            }, 
+            "original_title": "神兽金刚2：天神地兽", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "神兽金刚2：天神地兽", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25908717/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1302648/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1404136533.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1404136533.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1404136533.33.jpg"
+                    }, 
+                    "id": "1302648", 
+                    "name": "Pongpat Wachirabunjong"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Amarin Nitipon"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305126/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1305126", 
+                    "name": "Chalerm Wongpim"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "25908717", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2187950323.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2187950323.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2187950323.jpg"
+            }, 
+            "original_title": "7 ประจัญบาน 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "七金刚 2", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3290532/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fred Tatasciore"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1064164/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52763.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52763.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52763.jpg"
+                    }, 
+                    "id": "1064164", 
+                    "name": "史蒂夫·布卢姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1086522/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20304.jpg"
+                    }, 
+                    "id": "1086522", 
+                    "name": "格蕾·德丽斯勒"
+                }
+            ], 
+            "collect_count": 1374, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1294130/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1294130", 
+                    "name": "Frank Paur"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sam Liu"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "动作"
+            ], 
+            "id": "3290532", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3552032.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3552032.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3552032.jpg"
+            }, 
+            "original_title": "Hulk Vs.", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "绿巨人大战", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3715097/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Barry Bostwick"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kim Delaney"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kane Hodder"
+                }
+            ], 
+            "collect_count": 46, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alessandro De Gaetano"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "恐怖", 
+                "科幻"
+            ], 
+            "id": "3715097", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24975350.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24975350.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24975350.jpg"
+            }, 
+            "original_title": "Metalbeast", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "铁血人狼", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3793707/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1064164/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52763.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52763.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52763.jpg"
+                    }, 
+                    "id": "1064164", 
+                    "name": "史蒂夫·布卢姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320585/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320585", 
+                    "name": "弗莱德·塔他斯西奥"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005778/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1370078158.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1370078158.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1370078158.71.jpg"
+                    }, 
+                    "id": "1005778", 
+                    "name": "吉姆·瓦德"
+                }
+            ], 
+            "collect_count": 588, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nicholas Filippi"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steven E. Gordon"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "动作", 
+                "冒险"
+            ], 
+            "id": "3793707", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3837613.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3837613.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3837613.jpg"
+            }, 
+            "original_title": "Wolverine and the X-Men", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "金刚狼与X战警", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10727045/", 
+            "casts": [], 
+            "collect_count": 302, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Hartman / Todd Waterman / Vinton Heuck / Shaunt Nigoghossian"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "10727045", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2116720721.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2116720721.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2116720721.jpg"
+            }, 
+            "original_title": "Transformers Prime", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "变形金刚：领袖之证 第二季", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10831554/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Bell"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1069602/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390029559.32.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390029559.32.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390029559.32.jpg"
+                    }, 
+                    "id": "1069602", 
+                    "name": "Corey Burton"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Victor Caroli"
+                }
+            ], 
+            "collect_count": 241, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andy Kim"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bob Kirk"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "惊悚"
+            ], 
+            "id": "10831554", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10425447.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10425447.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10425447.jpg"
+            }, 
+            "original_title": "Transformers", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "变形金刚 第二季", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1950392/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007027/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1425115796.21.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1425115796.21.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1425115796.21.jpg"
+                    }, 
+                    "id": "1007027", 
+                    "name": "李·马文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007005/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1425114481.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1425114481.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1425114481.74.jpg"
+                    }, 
+                    "id": "1007005", 
+                    "name": "欧内斯特·博格宁"
+                }
+            ], 
+            "collect_count": 51, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025365/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378879243.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378879243.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378879243.48.jpg"
+                    }, 
+                    "id": "1025365", 
+                    "name": "安德鲁·麦克拉格伦"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "战争"
+            ], 
+            "id": "1950392", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3180484.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3180484.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3180484.jpg"
+            }, 
+            "original_title": "The Dirty Dozen: The Next Mission", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "决死突击队:再次出击", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6879307/", 
+            "casts": [], 
+            "collect_count": 6, 
+            "directors": [], 
+            "genres": [], 
+            "id": "6879307", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6963811.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6963811.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6963811.jpg"
+            }, 
+            "original_title": "Transformers The Rebirth: Part 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "变形金刚之重生：第二部分", 
+            "year": "1984–1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26296205/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1064239/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14438.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14438.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14438.jpg"
+                    }, 
+                    "id": "1064239", 
+                    "name": "杰夫·贝内特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1064164/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52763.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52763.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52763.jpg"
+                    }, 
+                    "id": "1064164", 
+                    "name": "史蒂夫·布卢姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004672/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1392940649.43.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1392940649.43.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1392940649.43.jpg"
+                    }, 
+                    "id": "1004672", 
+                    "name": "莱瓦尔·伯顿"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Patrick Archibald"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tim Maltby"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "动画", 
+                "冒险"
+            ], 
+            "id": "26296205", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2220465734.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2220465734.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2220465734.jpg"
+            }, 
+            "original_title": "Transformers: Rescue Bots", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "变形金刚：救援机器人 第二季", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"金刚狼2\" 的结果", 
+    "total": 16
+}

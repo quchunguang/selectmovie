@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1306472/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040471/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10658.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10658.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10658.jpg"
+                    }, 
+                    "id": "1040471", 
+                    "name": "蒂埃里·莱尔米特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007175/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14470.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14470.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14470.jpg"
+                    }, 
+                    "id": "1007175", 
+                    "name": "雅克·维列雷"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037275/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390461084.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390461084.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390461084.99.jpg"
+                    }, 
+                    "id": "1037275", 
+                    "name": "弗朗索瓦·乌斯特"
+                }
+            ], 
+            "collect_count": 6933, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025358/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14394.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14394.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14394.jpg"
+                    }, 
+                    "id": "1025358", 
+                    "name": "法兰西斯·威柏"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1306472", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2193179330.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2193179330.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2193179330.jpg"
+            }, 
+            "original_title": "Le dîner de cons", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "晚餐游戏", 
+            "year": "1998"
+        }
+    ], 
+    "title": "搜索 \"晚餐游戏\" 的结果", 
+    "total": 1
+}

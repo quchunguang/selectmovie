@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5966609/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012531/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/938.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/938.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/938.jpg"
+                    }, 
+                    "id": "1012531", 
+                    "name": "瑞恩·高斯林"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013757/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12956.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12956.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12956.jpg"
+                    }, 
+                    "id": "1013757", 
+                    "name": "布莱德利·库珀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041015/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/454.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/454.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/454.jpg"
+                    }, 
+                    "id": "1041015", 
+                    "name": "伊娃·门德斯"
+                }
+            ], 
+            "collect_count": 12034, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280800/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18239.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18239.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18239.jpg"
+                    }, 
+                    "id": "1280800", 
+                    "name": "德里克·斯安弗朗斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "5966609", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1883430456.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1883430456.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1883430456.jpg"
+            }, 
+            "original_title": "The Place Beyond the Pines", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "松林外", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"松林外\" 的结果", 
+    "total": 1
+}

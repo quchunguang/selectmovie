@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1300807/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054417/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7622.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7622.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7622.jpg"
+                    }, 
+                    "id": "1054417", 
+                    "name": "本·阿弗莱克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018991/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44470.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44470.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44470.jpg"
+                    }, 
+                    "id": "1018991", 
+                    "name": "查理兹·塞隆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031848/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1345.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1345.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1345.jpg"
+                    }, 
+                    "id": "1031848", 
+                    "name": "加里·西尼斯"
+                }
+            ], 
+            "collect_count": 1717, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007071/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21124.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21124.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21124.jpg"
+                    }, 
+                    "id": "1007071", 
+                    "name": "约翰·弗兰克海默"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1300807", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1512508.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1512508.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1512508.jpg"
+            }, 
+            "original_title": "Reindeer Games", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "驯鹿游戏", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"驯鹿游戏\" 的结果", 
+    "total": 1
+}

@@ -1,0 +1,1168 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6722879/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047979/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14306.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14306.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14306.jpg"
+                    }, 
+                    "id": "1047979", 
+                    "name": "杰昆·菲尼克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054453/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37050.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37050.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37050.jpg"
+                    }, 
+                    "id": "1054453", 
+                    "name": "斯嘉丽·约翰逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022563/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23782.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23782.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23782.jpg"
+                    }, 
+                    "id": "1022563", 
+                    "name": "艾米·亚当斯"
+                }
+            ], 
+            "collect_count": 199728, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027831/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1393726664.11.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1393726664.11.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1393726664.11.jpg"
+                    }, 
+                    "id": "1027831", 
+                    "name": "斯派克·琼斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "科幻"
+            ], 
+            "id": "6722879", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2166850749.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2166850749.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2166850749.jpg"
+            }, 
+            "original_title": "Her", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "她", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26361630/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320978/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1428385790.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1428385790.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1428385790.02.jpg"
+                    }, 
+                    "id": "1320978", 
+                    "name": "松冈茉优"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323792/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1372786080.79.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1372786080.79.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1372786080.79.jpg"
+                    }, 
+                    "id": "1323792", 
+                    "name": "中条彩未"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312829/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18692.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18692.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18692.jpg"
+                    }, 
+                    "id": "1312829", 
+                    "name": "竹富圣花"
+                }
+            ], 
+            "collect_count": 1604, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山内大典"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "北坊信一"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26361630", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2264442586.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2264442586.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2264442586.jpg"
+            }, 
+            "original_title": "She", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "她", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26022182/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054515/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9587.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9587.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9587.jpg"
+                    }, 
+                    "id": "1054515", 
+                    "name": "伊莎贝尔·于佩尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041227/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4628.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4628.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4628.jpg"
+                    }, 
+                    "id": "1041227", 
+                    "name": "克里斯汀·伯克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018387/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47834.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47834.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47834.jpg"
+                    }, 
+                    "id": "1018387", 
+                    "name": "安妮·康斯金尼"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055953/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378043332.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378043332.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378043332.44.jpg"
+                    }, 
+                    "id": "1055953", 
+                    "name": "保罗·范霍文"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "26022182", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2310172349.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2310172349.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2310172349.jpg"
+            }, 
+            "original_title": "Elle", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "她", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3232278/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033555/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1406711278.36.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1406711278.36.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1406711278.36.jpg"
+                    }, 
+                    "id": "1033555", 
+                    "name": "珍妮·D·阿希"
+                }
+            ], 
+            "collect_count": 117, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036332/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5499.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5499.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5499.jpg"
+                    }, 
+                    "id": "1036332", 
+                    "name": "乔治·梅里爱"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "3232278", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3279724.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3279724.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3279724.jpg"
+            }, 
+            "original_title": "La Colonne de feu", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "她", 
+            "year": "1899"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10521712/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1227580/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1391353976.05.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1391353976.05.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1391353976.05.jpg"
+                    }, 
+                    "id": "1227580", 
+                    "name": "佐藤健"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1339797/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1440396062.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1440396062.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1440396062.02.jpg"
+                    }, 
+                    "id": "1339797", 
+                    "name": "大原樱子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275826/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1365606336.05.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1365606336.05.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1365606336.05.jpg"
+                    }, 
+                    "id": "1275826", 
+                    "name": "三浦翔平"
+                }
+            ], 
+            "collect_count": 7541, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320139/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48667.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48667.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48667.jpg"
+                    }, 
+                    "id": "1320139", 
+                    "name": "小泉德宏"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "10521712", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2153427992.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2153427992.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2153427992.jpg"
+            }, 
+            "original_title": "カノジョは嘘を愛しすぎてる", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "她爱上了我的谎", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26438858/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275523/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1414807061.59.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1414807061.59.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1414807061.59.jpg"
+                    }, 
+                    "id": "1275523", 
+                    "name": "黄静茵"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1318607/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1425995525.41.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1425995525.41.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1425995525.41.jpg"
+                    }, 
+                    "id": "1318607", 
+                    "name": "朴叙俊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320109/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1414248014.12.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1414248014.12.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1414248014.12.jpg"
+                    }, 
+                    "id": "1320109", 
+                    "name": "高俊熙"
+                }
+            ], 
+            "collect_count": 15096, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郑大允"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "26438858", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2265367214.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2265367214.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2265367214.jpg"
+            }, 
+            "original_title": "그녀는 예뻤다", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "她很漂亮", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292211/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016749/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1377693470.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1377693470.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1377693470.08.jpg"
+                    }, 
+                    "id": "1016749", 
+                    "name": "哈维尔·卡马拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032655/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11600.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11600.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11600.jpg"
+                    }, 
+                    "id": "1032655", 
+                    "name": "达里奥·葛兰帝内提"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025302/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51839.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51839.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51839.jpg"
+                    }, 
+                    "id": "1025302", 
+                    "name": "蕾欧诺·瓦特林"
+                }
+            ], 
+            "collect_count": 65362, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056071/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/719.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/719.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/719.jpg"
+                    }, 
+                    "id": "1056071", 
+                    "name": "佩德罗·阿莫多瓦"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1292211", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1108397218.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1108397218.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1108397218.jpg"
+            }, 
+            "original_title": "Hable con ella", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "对她说", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25882273/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053570/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371780692.9.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371780692.9.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371780692.9.jpg"
+                    }, 
+                    "id": "1053570", 
+                    "name": "许鞍华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274642/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1379649199.7.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1379649199.7.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1379649199.7.jpg"
+                    }, 
+                    "id": "1274642", 
+                    "name": "李樯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1345026/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1345026", 
+                    "name": "章海宁"
+                }
+            ], 
+            "collect_count": 1839, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1326465/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1401202886.95.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1401202886.95.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1401202886.95.jpg"
+                    }, 
+                    "id": "1326465", 
+                    "name": "崔毅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1344874/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1344874", 
+                    "name": "罗峥"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25882273", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2182415124.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2182415124.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2182415124.jpg"
+            }, 
+            "original_title": "她认出了风暴：萧红和她的黄金时代", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "她认出了风暴：萧红和她的黄金时代", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25809382/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kelly"
+                }
+            ], 
+            "collect_count": 686, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319261/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46335.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46335.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46335.jpg"
+                    }, 
+                    "id": "1319261", 
+                    "name": "沈可尚"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "短片"
+            ], 
+            "id": "25809382", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2165891649.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2165891649.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2165891649.jpg"
+            }, 
+            "original_title": "致闺蜜：被遗忘的那个她", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "致闺蜜：被遗忘的那个她", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11589763/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313303/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37554.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37554.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37554.jpg"
+                    }, 
+                    "id": "1313303", 
+                    "name": "陈妍希"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蔡升晏 Masa"
+                }
+            ], 
+            "collect_count": 621, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "余静萍"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "11589763", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24334283.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24334283.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24334283.jpg"
+            }, 
+            "original_title": "她，一個人的旅行", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "她，一个人的旅行", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3559446/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1341726/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1436273071.01.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1436273071.01.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1436273071.01.jpg"
+                    }, 
+                    "id": "1341726", 
+                    "name": "郭绮莉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037445/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3433.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3433.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3433.jpg"
+                    }, 
+                    "id": "1037445", 
+                    "name": "黄锦燊"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "嘉玲"
+                }
+            ], 
+            "collect_count": 421, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "嘉嘉"
+                }
+            ], 
+            "genres": [
+                "情色"
+            ], 
+            "id": "3559446", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2254694107.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2254694107.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2254694107.jpg"
+            }, 
+            "original_title": "她來自胡志明市", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "她来自胡志明市", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6083099/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "唐振剛"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "馬之秦"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "文帥"
+                }
+            ], 
+            "collect_count": 90, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "莊淮媗"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6083099", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s11134472.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s11134472.jpg", 
+                "small": "https://img1.doubanio.com/spic/s11134472.jpg"
+            }, 
+            "original_title": "訂做我的她", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "订做我的她", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3993327/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324070/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/58010.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/58010.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/58010.jpg"
+                    }, 
+                    "id": "1324070", 
+                    "name": "张弘"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316710/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37199.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37199.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37199.jpg"
+                    }, 
+                    "id": "1316710", 
+                    "name": "徐向东"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275239/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1401541223.96.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1401541223.96.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1401541223.96.jpg"
+                    }, 
+                    "id": "1275239", 
+                    "name": "智一桐"
+                }
+            ], 
+            "collect_count": 76, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1345619/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1345619", 
+                    "name": "朱岩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1298770/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19827.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19827.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19827.jpg"
+                    }, 
+                    "id": "1298770", 
+                    "name": "施扬平"
+                }
+            ], 
+            "genres": [], 
+            "id": "3993327", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4045997.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4045997.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4045997.jpg"
+            }, 
+            "original_title": "她来自台北", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "她来自台北", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3543932/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "甘婷婷"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗海琼"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郭晓东"
+                }
+            ], 
+            "collect_count": 115, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "马功伟"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3543932", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3605568.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3605568.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3605568.jpg"
+            }, 
+            "original_title": "不能没有她", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "不能没有她", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1868600/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324641/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12968.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12968.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12968.jpg"
+                    }, 
+                    "id": "1324641", 
+                    "name": "葛兰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1052072/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38113.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38113.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38113.jpg"
+                    }, 
+                    "id": "1052072", 
+                    "name": "雷震"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032432/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2114.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2114.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2114.jpg"
+                    }, 
+                    "id": "1032432", 
+                    "name": "乔宏"
+                }
+            ], 
+            "collect_count": 34, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041074/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3416.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3416.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3416.jpg"
+                    }, 
+                    "id": "1041074", 
+                    "name": "王天林"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017210/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1370830095.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1370830095.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1370830095.66.jpg"
+                    }, 
+                    "id": "1017210", 
+                    "name": "易文"
+                }
+            ], 
+            "genres": [
+                "歌舞"
+            ], 
+            "id": "1868600", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1802934.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1802934.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1802934.jpg"
+            }, 
+            "original_title": "教我如何不想她", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "教我如何不想她", 
+            "year": "1963"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3025274/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林孟瑾"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "夏紹虞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陳映蓉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱詩倩"
+                }
+            ], 
+            "genres": [], 
+            "id": "3025274", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2988730.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2988730.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2988730.jpg"
+            }, 
+            "original_title": "她。Just Do It", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "她。Just Do It", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4751723/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "龙刚"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林嘉莉"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "龙刚"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4751723", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4270817.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4270817.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4270817.jpg"
+            }, 
+            "original_title": "她", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "她", 
+            "year": "1976"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4282040/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙和廷"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林汝为"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄灿"
+                }
+            ], 
+            "genres": [], 
+            "id": "4282040", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1913242139.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1913242139.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1913242139.jpg"
+            }, 
+            "original_title": "她爱上了故乡", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "她爱上了故乡", 
+            "year": "1958"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26295713/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "姜武 / 牛莉 / 王志刚"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "鄢光宗"
+                }
+            ], 
+            "genres": [], 
+            "id": "26295713", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2292318469.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2292318469.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2292318469.jpg"
+            }, 
+            "original_title": "爱上夏天爱上她", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "爱上夏天爱上她", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26577230/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵博一"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵小宁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵玥"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵博一"
+                }
+            ], 
+            "genres": [], 
+            "id": "26577230", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "我的青春她做主", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我的青春她做主", 
+            "year": "2015"
+        }
+    ], 
+    "title": "搜索 \"她\" 的结果", 
+    "total": 81
+}

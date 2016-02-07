@@ -1,0 +1,289 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1424469/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032327/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10256.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10256.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10256.jpg"
+                    }, 
+                    "id": "1032327", 
+                    "name": "尤利娅·延奇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037371/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14329.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14329.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14329.jpg"
+                    }, 
+                    "id": "1037371", 
+                    "name": "杰拉德·亚历山大·海德"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fabian Hinrichs"
+                }
+            ], 
+            "collect_count": 3806, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050507/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050507", 
+                    "name": "马克·罗特蒙德"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1424469", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1637662452.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1637662452.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1637662452.jpg"
+            }, 
+            "original_title": "Sophie Scholl - Die letzten Tage", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "希望与反抗", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294245/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1142065/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1142065", 
+                    "name": "Sebastian Rice-Edwards"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Geraldine Muir"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013973/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20410.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20410.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20410.jpg"
+                    }, 
+                    "id": "1013973", 
+                    "name": "莎拉·米尔斯"
+                }
+            ], 
+            "collect_count": 934, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Boorman"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "1294245", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2789106.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2789106.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2789106.jpg"
+            }, 
+            "original_title": "Hope and Glory", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "希望与荣耀", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2084802/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050065/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15452.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15452.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15452.jpg"
+                    }, 
+                    "id": "1050065", 
+                    "name": "兰尼·亨利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022880/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1393778269.05.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1393778269.05.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1393778269.05.jpg"
+                    }, 
+                    "id": "1022880", 
+                    "name": "阿曼达·雷德曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036706/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14887.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14887.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14887.jpg"
+                    }, 
+                    "id": "1036706", 
+                    "name": "克里夫·罗素"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Del Maestro"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kim Flitcroft"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2084802", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2412752.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2412752.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2412752.jpg"
+            }, 
+            "original_title": "Hope & Glory", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "希望与荣誉", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5152393/", 
+            "casts": [], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brendan Donovan"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5152393", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4588587.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4588587.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4588587.jpg"
+            }, 
+            "original_title": "The Hopes & Dreams of Gazza Snell", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "加扎·斯内尔的希望与梦想", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10561908/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Oleg Menshikov"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1157600/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1157600", 
+                    "name": "Viktor Uralsky"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Viktor Uralsky"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Suren Shakhbazyan"
+                }
+            ], 
+            "genres": [
+                "战争"
+            ], 
+            "id": "10561908", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8985402.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8985402.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8985402.jpg"
+            }, 
+            "original_title": "Жду и надеюсь", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "等待与希望", 
+            "year": "1980"
+        }
+    ], 
+    "title": "搜索 \"希望与反抗\" 的结果", 
+    "total": 5
+}

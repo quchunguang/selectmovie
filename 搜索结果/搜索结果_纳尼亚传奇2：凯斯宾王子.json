@@ -1,0 +1,126 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1585236/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010580/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34026.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34026.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34026.jpg"
+                    }, 
+                    "id": "1010580", 
+                    "name": "乔芝·韩莉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047957/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2298.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2298.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2298.jpg"
+                    }, 
+                    "id": "1047957", 
+                    "name": "斯堪德·凯恩斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036355/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7625.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7625.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7625.jpg"
+                    }, 
+                    "id": "1036355", 
+                    "name": "安娜·帕波维尔"
+                }
+            ], 
+            "collect_count": 68258, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036635/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13897.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13897.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13897.jpg"
+                    }, 
+                    "id": "1036635", 
+                    "name": "安德鲁·亚当森"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "家庭"
+            ], 
+            "id": "1585236", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p815665348.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p815665348.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p815665348.jpg"
+            }, 
+            "original_title": "The Chronicles of Narnia: Prince Caspian", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "纳尼亚传奇2：凯斯宾王子", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1986352/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Dempsey"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sophie Wilcox"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Samuel West"
+                }
+            ], 
+            "collect_count": 84, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alex Kirby"
+                }
+            ], 
+            "genres": [], 
+            "id": "1986352", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2147806.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2147806.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2147806.jpg"
+            }, 
+            "original_title": "The Chronicles of Narnia: Prince Caspian and The Voyage of the Dawn Treader", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "纳尼亚传奇:凯斯宾王子,黎明踏浪号", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"纳尼亚传奇2：凯斯宾王子\" 的结果", 
+    "total": 2
+}

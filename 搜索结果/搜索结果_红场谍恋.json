@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301463/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/193.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/193.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/193.jpg"
+                    }, 
+                    "id": "1018982", 
+                    "name": "肖恩·康纳利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035642/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/29705.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/29705.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/29705.jpg"
+                    }, 
+                    "id": "1035642", 
+                    "name": "米歇尔·菲佛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041132/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12414.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12414.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12414.jpg"
+                    }, 
+                    "id": "1041132", 
+                    "name": "罗伊·沙伊德尔"
+                }
+            ], 
+            "collect_count": 528, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014268/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13702.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13702.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13702.jpg"
+                    }, 
+                    "id": "1014268", 
+                    "name": "弗雷德·谢皮西"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "惊悚"
+            ], 
+            "id": "1301463", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4416174.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4416174.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4416174.jpg"
+            }, 
+            "original_title": "The Russia House", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "俄罗斯大厦", 
+            "year": "1990"
+        }
+    ], 
+    "title": "搜索 \"红场谍恋\" 的结果", 
+    "total": 1
+}

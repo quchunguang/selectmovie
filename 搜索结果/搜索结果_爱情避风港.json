@@ -1,0 +1,892 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5327216/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016666/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4166.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4166.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4166.jpg"
+                    }, 
+                    "id": "1016666", 
+                    "name": "乔什·杜哈明"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009294/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35386.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35386.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35386.jpg"
+                    }, 
+                    "id": "1009294", 
+                    "name": "朱莉安·浩夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1161878/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1161878", 
+                    "name": "艾琳·齐格勒"
+                }
+            ], 
+            "collect_count": 5466, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018014/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4333.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4333.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4333.jpg"
+                    }, 
+                    "id": "1018014", 
+                    "name": "莱塞·霍尔斯道姆"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "悬疑"
+            ], 
+            "id": "5327216", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1966266770.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1966266770.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1966266770.jpg"
+            }, 
+            "original_title": "Safe Haven", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "爱情避风港", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26615913/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李俊杰"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李达"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "马诺"
+                }
+            ], 
+            "collect_count": 47, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "楚石"
+                }
+            ], 
+            "genres": [], 
+            "id": "26615913", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2270848895.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2270848895.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2270848895.jpg"
+            }, 
+            "original_title": "避风港囧", 
+            "rating": {
+                "average": 3.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "避风港囧", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1805831/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048134/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6208.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6208.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6208.jpg"
+                    }, 
+                    "id": "1048134", 
+                    "name": "比尔·帕克斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1060429/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1366555936.53.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1366555936.53.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1366555936.53.jpg"
+                    }, 
+                    "id": "1060429", 
+                    "name": "Razaaq Adoti"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008069/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32582.jpg"
+                    }, 
+                    "id": "1008069", 
+                    "name": "奥兰多·布鲁姆"
+                }
+            ], 
+            "collect_count": 234, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frank E. Flowers"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1805831", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1789788.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1789788.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1789788.jpg"
+            }, 
+            "original_title": "Haven", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "避风港", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5044733/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tuesday Weld"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048149/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/354.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/354.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/354.jpg"
+                    }, 
+                    "id": "1048149", 
+                    "name": "奥逊·威尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054528/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26019.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26019.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26019.jpg"
+                    }, 
+                    "id": "1054528", 
+                    "name": "杰克·尼科尔森"
+                }
+            ], 
+            "collect_count": 109, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Henry Jaglom"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5044733", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4477163.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4477163.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4477163.jpg"
+            }, 
+            "original_title": "A Safe Place", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "避风港", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2299324/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048125/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31006.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31006.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31006.jpg"
+                    }, 
+                    "id": "1048125", 
+                    "name": "梅丽莎·吉尔伯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1114515/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1114515", 
+                    "name": "Brad Johnson"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1163880/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28220.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28220.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28220.jpg"
+                    }, 
+                    "id": "1163880", 
+                    "name": "Katie Walder"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill Corcoran"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "2299324", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2759045.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2759045.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2759045.jpg"
+            }, 
+            "original_title": "Safe Harbour", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "避风港", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1787087/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010008/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1439584777.84.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1439584777.84.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1439584777.84.jpg"
+                    }, 
+                    "id": "1010008", 
+                    "name": "西尔维奥·奥兰多"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048284/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427623721.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427623721.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427623721.81.jpg"
+                    }, 
+                    "id": "1048284", 
+                    "name": "米歇尔·普拉西多"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009766/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7705.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7705.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7705.jpg"
+                    }, 
+                    "id": "1009766", 
+                    "name": "克劳迪奥·桑塔玛利亚"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004523/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24910.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24910.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24910.jpg"
+                    }, 
+                    "id": "1004523", 
+                    "name": "瑞卡多·米拉尼"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1787087", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3942513.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3942513.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3942513.jpg"
+            }, 
+            "original_title": "Il Posto dell' Anima", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "灵魂避风港", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26704857/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049718/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1364465884.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1364465884.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1364465884.71.jpg"
+                    }, 
+                    "id": "1049718", 
+                    "name": "汤姆·沃帕特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1255695/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1368633770.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1368633770.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1368633770.44.jpg"
+                    }, 
+                    "id": "1255695", 
+                    "name": "Michael Grant"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1353677/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1451214404.83.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1451214404.83.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1451214404.83.jpg"
+                    }, 
+                    "id": "1353677", 
+                    "name": "乔什·格林"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kerstin Karlhuber"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "同性"
+            ], 
+            "id": "26704857", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2307224364.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2307224364.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2307224364.jpg"
+            }, 
+            "original_title": "Fair Haven", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "避风港湾", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10767669/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275018/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9311.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9311.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9311.jpg"
+                    }, 
+                    "id": "1275018", 
+                    "name": "艾伦·特维特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013851/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375442873.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375442873.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375442873.34.jpg"
+                    }, 
+                    "id": "1013851", 
+                    "name": "丹尼尔·逊亚塔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013869/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17273.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17273.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17273.jpg"
+                    }, 
+                    "id": "1013869", 
+                    "name": "范妮莎·费丽托"
+                }
+            ], 
+            "collect_count": 1345, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1283728/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1283728", 
+                    "name": "Russell Lee Fine"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032052/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21181.jpg"
+                    }, 
+                    "id": "1032052", 
+                    "name": "雷尼·哈林"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "10767669", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1957069639.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1957069639.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1957069639.jpg"
+            }, 
+            "original_title": "Graceland", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "恩赐之地 第一季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4067117/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1233405/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48523.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48523.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48523.jpg"
+                    }, 
+                    "id": "1233405", 
+                    "name": "艾米丽·罗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048148/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48616.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48616.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48616.jpg"
+                    }, 
+                    "id": "1048148", 
+                    "name": "艾里克·巴弗尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314511/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24672.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24672.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24672.jpg"
+                    }, 
+                    "id": "1314511", 
+                    "name": "卢卡斯·布莱恩特"
+                }
+            ], 
+            "collect_count": 975, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Adam Kane"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "犯罪"
+            ], 
+            "id": "4067117", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p521459609.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p521459609.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p521459609.jpg"
+            }, 
+            "original_title": "Haven", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "港湾 第一季", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6721625/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1233405/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48523.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48523.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48523.jpg"
+                    }, 
+                    "id": "1233405", 
+                    "name": "艾米丽·罗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048148/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48616.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48616.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48616.jpg"
+                    }, 
+                    "id": "1048148", 
+                    "name": "艾里克·巴弗尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314511/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24672.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24672.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24672.jpg"
+                    }, 
+                    "id": "1314511", 
+                    "name": "卢卡斯·布莱恩特"
+                }
+            ], 
+            "collect_count": 472, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007202/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33523.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33523.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33523.jpg"
+                    }, 
+                    "id": "1007202", 
+                    "name": "亚当·肯恩"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "犯罪"
+            ], 
+            "id": "6721625", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s22705301.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s22705301.jpg", 
+                "small": "https://img3.doubanio.com/spic/s22705301.jpg"
+            }, 
+            "original_title": "Haven", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "港湾 第二季", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10756483/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1233405/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48523.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48523.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48523.jpg"
+                    }, 
+                    "id": "1233405", 
+                    "name": "艾米丽·罗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314511/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24672.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24672.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24672.jpg"
+                    }, 
+                    "id": "1314511", 
+                    "name": "卢卡斯·布莱恩特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048148/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48616.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48616.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48616.jpg"
+                    }, 
+                    "id": "1048148", 
+                    "name": "艾里克·巴弗尔"
+                }
+            ], 
+            "collect_count": 359, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lee Rose"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "犯罪"
+            ], 
+            "id": "10756483", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2151166115.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2151166115.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2151166115.jpg"
+            }, 
+            "original_title": "Haven", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "港湾 第三季", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25725233/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013851/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375442873.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375442873.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375442873.34.jpg"
+                    }, 
+                    "id": "1013851", 
+                    "name": "丹尼尔·逊亚塔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275018/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9311.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9311.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9311.jpg"
+                    }, 
+                    "id": "1275018", 
+                    "name": "艾伦·特维特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Brandon Jay McLaren"
+                }
+            ], 
+            "collect_count": 357, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "25725233", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2181586806.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2181586806.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2181586806.jpg"
+            }, 
+            "original_title": "Graceland", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "恩赐之地 第二季", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20515851/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1233405/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48523.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48523.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48523.jpg"
+                    }, 
+                    "id": "1233405", 
+                    "name": "艾米丽·罗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314511/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24672.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24672.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24672.jpg"
+                    }, 
+                    "id": "1314511", 
+                    "name": "卢卡斯·布莱恩特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048148/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48616.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48616.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48616.jpg"
+                    }, 
+                    "id": "1048148", 
+                    "name": "艾里克·巴弗尔"
+                }
+            ], 
+            "collect_count": 226, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "犯罪"
+            ], 
+            "id": "20515851", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2199347111.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2199347111.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2199347111.jpg"
+            }, 
+            "original_title": "Haven", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "港湾 第四季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26259655/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275018/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9311.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9311.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9311.jpg"
+                    }, 
+                    "id": "1275018", 
+                    "name": "艾伦·特维特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013851/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1375442873.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1375442873.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1375442873.34.jpg"
+                    }, 
+                    "id": "1013851", 
+                    "name": "丹尼尔·逊亚塔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1329971/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371011979.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371011979.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371011979.58.jpg"
+                    }, 
+                    "id": "1329971", 
+                    "name": "曼尼·蒙塔纳"
+                }
+            ], 
+            "collect_count": 121, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "26259655", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2243846612.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2243846612.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2243846612.jpg"
+            }, 
+            "original_title": "Graceland", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "恩赐之地 第三季", 
+            "year": "2015"
+        }
+    ], 
+    "title": "搜索 \"爱情避风港\" 的结果", 
+    "total": 14
+}

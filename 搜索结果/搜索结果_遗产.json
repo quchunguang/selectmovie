@@ -1,0 +1,1028 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301004/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Standing"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ian Hogg"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lee Montague"
+                }
+            ], 
+            "collect_count": 943, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045225/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1045225", 
+                    "name": "理查德·马昆德"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "悬疑"
+            ], 
+            "id": "1301004", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2558478.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2558478.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2558478.jpg"
+            }, 
+            "original_title": "The Legacy", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产", 
+            "year": "1978"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1418033/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ulrich Thomsen"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lisa Werlinder"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ghita Nørby"
+                }
+            ], 
+            "collect_count": 92, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Per Fly"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1418033", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1496663.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1496663.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1496663.jpg"
+            }, 
+            "original_title": "Arven", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24879198/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022633/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/30722.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/30722.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/30722.jpg"
+                    }, 
+                    "id": "1022633", 
+                    "name": "萝玛拉·嘉瑞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "安德鲁·斯科特 Andrew Scott"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "查理·考克斯 Charlie Cox"
+                }
+            ], 
+            "collect_count": 289, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1299495/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35954.jpg"
+                    }, 
+                    "id": "1299495", 
+                    "name": "彼得·特拉维斯"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "24879198", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2221572574.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2221572574.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2221572574.jpg"
+            }, 
+            "original_title": "Legacy", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3294815/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1073357/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55619.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55619.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55619.jpg"
+                    }, 
+                    "id": "1073357", 
+                    "name": "劳拉达纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018370/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41827.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41827.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41827.jpg"
+                    }, 
+                    "id": "1018370", 
+                    "name": "雅克·伯格拉克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025185/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/302.jpg"
+                    }, 
+                    "id": "1025185", 
+                    "name": "阿尔弗雷德·希区柯克"
+                }
+            ], 
+            "collect_count": 94, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028779/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1028779", 
+                    "name": "詹姆斯·涅尔森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "3294815", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3359092.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3359092.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3359092.jpg"
+            }, 
+            "original_title": "The Legacy", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产", 
+            "year": "1956"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5361463/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010226/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8767.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8767.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8767.jpg"
+                    }, 
+                    "id": "1010226", 
+                    "name": "埃迪·米切尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314457/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24363.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24363.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24363.jpg"
+                    }, 
+                    "id": "1314457", 
+                    "name": "克洛伊·兰贝特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sébastien Thiery"
+                }
+            ], 
+            "collect_count": 136, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042622/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042622", 
+                    "name": "劳伦特·海纳曼"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "5361463", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4535923.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4535923.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4535923.jpg"
+            }, 
+            "original_title": "L'héritage", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308647/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "千秋实Minoru Chiaki"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yusuke Kawazu"
+                }
+            ], 
+            "collect_count": 85, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小林正树 (Masaki Kobayashi)"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1308647", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24635586.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24635586.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24635586.jpg"
+            }, 
+            "original_title": "からみ合い", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产", 
+            "year": "1962"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4116990/", 
+            "casts": [], 
+            "collect_count": 82, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1308932/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/36145.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/36145.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/36145.jpg"
+                    }, 
+                    "id": "1308932", 
+                    "name": "格尔泽格茨·扬卡蒂斯"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "4116990", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4039439.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4039439.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4039439.jpg"
+            }, 
+            "original_title": "Legacy", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20452347/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "柳真"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李廷镇"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "钱忍和"
+                }
+            ], 
+            "collect_count": 780, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱圣宇"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "20452347", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2188603634.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2188603634.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2188603634.jpg"
+            }, 
+            "original_title": "백년의 유산", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "百年的遗产", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25834551/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000238/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15304.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15304.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15304.jpg"
+                    }, 
+                    "id": "1000238", 
+                    "name": "菲利普·文切斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314108/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1395813809.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1395813809.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1395813809.74.jpg"
+                    }, 
+                    "id": "1314108", 
+                    "name": "沙利文·斯特普尔顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1333195/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380284413.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380284413.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380284413.99.jpg"
+                    }, 
+                    "id": "1333195", 
+                    "name": "米歇尔·卢卡斯"
+                }
+            ], 
+            "collect_count": 1492, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1303080/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46363.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46363.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46363.jpg"
+                    }, 
+                    "id": "1303080", 
+                    "name": "迈克尔·巴塞特"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "惊悚"
+            ], 
+            "id": "25834551", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2261321720.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2261321720.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2261321720.jpg"
+            }, 
+            "original_title": "Strike Back", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "反击 第五季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3001077/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013770/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15184.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15184.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15184.jpg"
+                    }, 
+                    "id": "1013770", 
+                    "name": "杰瑞米·雷纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018989/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8829.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8829.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8829.jpg"
+                    }, 
+                    "id": "1018989", 
+                    "name": "蕾切尔·薇兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035676/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/385.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/385.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/385.jpg"
+                    }, 
+                    "id": "1035676", 
+                    "name": "爱德华·诺顿"
+                }
+            ], 
+            "collect_count": 103939, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049827/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12340.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12340.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12340.jpg"
+                    }, 
+                    "id": "1049827", 
+                    "name": "托尼·吉尔罗伊"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "悬疑", 
+                "冒险"
+            ], 
+            "id": "3001077", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1706819167.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1706819167.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1706819167.jpg"
+            }, 
+            "original_title": "The Bourne Legacy", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "谍影重重4", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3797854/", 
+            "casts": [], 
+            "collect_count": 762, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "关晖"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "3797854", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3840944.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3840944.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3840944.jpg"
+            }, 
+            "original_title": "世界遗产在中国", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "世界遗产在中国", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20399024/", 
+            "casts": [], 
+            "collect_count": 257, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "20399024", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24439930.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24439930.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24439930.jpg"
+            }, 
+            "original_title": "泰山 世界遗产系列记录片", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "泰山", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2348950/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316223/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35599.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35599.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35599.jpg"
+                    }, 
+                    "id": "1316223", 
+                    "name": "邢慧"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1346545/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/wya6KHfMoy8cel_avatar_uploaded1422005232.64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/wya6KHfMoy8cel_avatar_uploaded1422005232.64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/wya6KHfMoy8cel_avatar_uploaded1422005232.64.jpg"
+                    }, 
+                    "id": "1346545", 
+                    "name": "金峰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1030782/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16535.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16535.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16535.jpg"
+                    }, 
+                    "id": "1030782", 
+                    "name": "汪萍"
+                }
+            ], 
+            "collect_count": 133, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1325356/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354166856.09.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354166856.09.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354166856.09.jpg"
+                    }, 
+                    "id": "1325356", 
+                    "name": "井上梅次"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "2348950", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2153529428.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2153529428.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2153529428.jpg"
+            }, 
+            "original_title": "遺產伍億圓", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产五亿元", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1483470/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张玉玉"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "袁宗福"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周锦堂"
+                }
+            ], 
+            "collect_count": 78, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "颜学恕"
+                }
+            ], 
+            "genres": [], 
+            "id": "1483470", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1501293.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1501293.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1501293.jpg"
+            }, 
+            "original_title": "爱情与遗产", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "爱情与遗产", 
+            "year": "1980"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3613262/", 
+            "casts": [], 
+            "collect_count": 31, 
+            "directors": [], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "3613262", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3673904.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3673904.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3673904.jpg"
+            }, 
+            "original_title": "ロックマンエグゼ 光と闇の遗产", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "洛克人EXE剧场版光与暗之遗产", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25824930/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1015115/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1353229005.47.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1353229005.47.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1353229005.47.jpg"
+                    }, 
+                    "id": "1015115", 
+                    "name": "张国立"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317995/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/42085.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/42085.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/42085.jpg"
+                    }, 
+                    "id": "1317995", 
+                    "name": "韩小磊"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "侯跃华"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314738/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26163.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26163.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26163.jpg"
+                    }, 
+                    "id": "1314738", 
+                    "name": "米家山"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪"
+            ], 
+            "id": "25824930", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2242119378.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2242119378.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2242119378.jpg"
+            }, 
+            "original_title": "袁氏遗产案", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "袁氏遗产案", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5991783/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025536/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51297.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51297.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51297.jpg"
+                    }, 
+                    "id": "1025536", 
+                    "name": "谢贤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "江雪"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "龙刚"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275401/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/15286.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/15286.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/15286.jpg"
+                    }, 
+                    "id": "1275401", 
+                    "name": "楚原"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "5991783", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9085152.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9085152.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9085152.jpg"
+            }, 
+            "original_title": "遗产一百万", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产一百万", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26288915/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": ": 李子雄 / 蔡少芬 / 宫雪花 / 翟乃社 / 于月仙"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [], 
+            "id": "26288915", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "致命遗产", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "致命遗产", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26411347/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "符舜南"
+                }
+            ], 
+            "genres": [], 
+            "id": "26411347", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "遗产毒", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "遗产毒", 
+            "year": "1925"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3714030/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032675/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1410844418.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1410844418.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1410844418.39.jpg"
+                    }, 
+                    "id": "1032675", 
+                    "name": "韩孝珠"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275517/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46075.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46075.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46075.jpg"
+                    }, 
+                    "id": "1275517", 
+                    "name": "李昇基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275775/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11647.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11647.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11647.jpg"
+                    }, 
+                    "id": "1275775", 
+                    "name": "文彩元"
+                }
+            ], 
+            "collect_count": 21149, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320685/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1379086275.67.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1379086275.67.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1379086275.67.jpg"
+                    }, 
+                    "id": "1320685", 
+                    "name": "陈赫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3714030", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1844931931.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1844931931.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1844931931.jpg"
+            }, 
+            "original_title": "찬란한 유산", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "灿烂的遗产", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"遗产\" 的结果", 
+    "total": 96
+}

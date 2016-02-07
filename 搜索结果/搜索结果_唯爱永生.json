@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5265471/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025152/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3546.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3546.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3546.jpg"
+                    }, 
+                    "id": "1025152", 
+                    "name": "蒂尔达·斯文顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004596/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35625.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35625.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35625.jpg"
+                    }, 
+                    "id": "1004596", 
+                    "name": "汤姆·希德勒斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025135/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26044.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26044.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26044.jpg"
+                    }, 
+                    "id": "1025135", 
+                    "name": "米娅·华希科沃斯卡"
+                }
+            ], 
+            "collect_count": 22050, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041006/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/443.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/443.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/443.jpg"
+                    }, 
+                    "id": "1041006", 
+                    "name": "吉姆·贾木许"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "奇幻"
+            ], 
+            "id": "5265471", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2155683303.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2155683303.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2155683303.jpg"
+            }, 
+            "original_title": "Only Lovers Left Alive", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "唯爱永生", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"唯爱永生\" 的结果", 
+    "total": 1
+}

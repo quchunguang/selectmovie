@@ -1,0 +1,145 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292585/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041029/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/470.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/470.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/470.jpg"
+                    }, 
+                    "id": "1041029", 
+                    "name": "莱昂纳多·迪卡普里奥"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1407766093.88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1407766093.88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1407766093.88.jpg"
+                    }, 
+                    "id": "1035674", 
+                    "name": "马克·沃尔伯格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027197/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1378706818.35.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1378706818.35.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1378706818.35.jpg"
+                    }, 
+                    "id": "1027197", 
+                    "name": "洛南·布雷科"
+                }
+            ], 
+            "collect_count": 16325, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1331025/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1383102970.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1383102970.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1383102970.02.jpg"
+                    }, 
+                    "id": "1331025", 
+                    "name": "斯科特·卡尔维特"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "1292585", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2152106973.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2152106973.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2152106973.jpg"
+            }, 
+            "original_title": "The Basketball Diaries", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "边缘日记", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308819/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054418/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/591.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/591.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/591.jpg"
+                    }, 
+                    "id": "1054418", 
+                    "name": "蕾妮·齐薇格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031223/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1497.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1497.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1497.jpg"
+                    }, 
+                    "id": "1031223", 
+                    "name": "科林·费尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003493/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1871.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1871.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1871.jpg"
+                    }, 
+                    "id": "1003493", 
+                    "name": "休·格兰特"
+                }
+            ], 
+            "collect_count": 74514, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1288511/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28891.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28891.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28891.jpg"
+                    }, 
+                    "id": "1288511", 
+                    "name": "比班·基德龙"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1308819", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p480940107.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p480940107.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p480940107.jpg"
+            }, 
+            "original_title": "Bridget Jones: The Edge of Reason", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "BJ单身日记2：理性边缘", 
+            "year": "2004"
+        }
+    ], 
+    "title": "搜索 \"边缘日记\" 的结果", 
+    "total": 2
+}

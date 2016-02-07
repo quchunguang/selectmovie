@@ -1,0 +1,71 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2156948/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000225/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/54076.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/54076.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/54076.jpg"
+                    }, 
+                    "id": "1000225", 
+                    "name": "杰西卡·查斯坦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048158/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6204.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6204.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6204.jpg"
+                    }, 
+                    "id": "1048158", 
+                    "name": "弗兰西丝·费舍"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1258.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1258.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1258.jpg"
+                    }, 
+                    "id": "1040534", 
+                    "name": "德蒙特·莫罗尼"
+                }
+            ], 
+            "collect_count": 415, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dan Ireland"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2156948", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4514173.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4514173.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4514173.jpg"
+            }, 
+            "original_title": "Jolene", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "乔琳娜", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"乔琳娜\" 的结果", 
+    "total": 1
+}

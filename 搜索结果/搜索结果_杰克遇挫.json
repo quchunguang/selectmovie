@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3562412/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032079/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14916.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14916.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14916.jpg"
+                    }, 
+                    "id": "1032079", 
+                    "name": "塔梅尔·哈桑"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007693/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53503.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53503.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53503.jpg"
+                    }, 
+                    "id": "1007693", 
+                    "name": "西蒙·菲利普斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004889/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1353162219.07.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1353162219.07.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1353162219.07.jpg"
+                    }, 
+                    "id": "1004889", 
+                    "name": "奥莉薇娅·哈琳安"
+                }
+            ], 
+            "collect_count": 264, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paul Tanter"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alexander Williams"
+                }
+            ], 
+            "genres": [
+                "犯罪"
+            ], 
+            "id": "3562412", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4437236.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4437236.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4437236.jpg"
+            }, 
+            "original_title": "Jack Falls", 
+            "rating": {
+                "average": 5.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "杰克遇挫", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"杰克遇挫\" 的结果", 
+    "total": 1
+}

@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6724946/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040543/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/410.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/410.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/410.jpg"
+                    }, 
+                    "id": "1040543", 
+                    "name": "苏菲·玛索"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000477/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3940.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3940.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3940.jpg"
+                    }, 
+                    "id": "1000477", 
+                    "name": "加德·艾尔马莱"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321749/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/51205.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/51205.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/51205.jpg"
+                    }, 
+                    "id": "1321749", 
+                    "name": "莫里斯·巴泰勒米"
+                }
+            ], 
+            "collect_count": 4675, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1287220/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354002682.98.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354002682.98.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354002682.98.jpg"
+                    }, 
+                    "id": "1287220", 
+                    "name": "詹姆斯·胡特"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "6724946", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1785400131.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1785400131.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1785400131.jpg"
+            }, 
+            "original_title": "Un bonheur N'arrive Jamais Seul", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "邂逅幸福", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"邂逅幸福\" 的结果", 
+    "total": 1
+}

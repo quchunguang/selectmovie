@@ -1,0 +1,661 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1297203/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022001/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26041.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26041.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26041.jpg"
+                    }, 
+                    "id": "1022001", 
+                    "name": "伊莎贝尔·阿佳妮"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049525/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5549.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5549.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5549.jpg"
+                    }, 
+                    "id": "1049525", 
+                    "name": "山姆·尼尔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Margit Carstensen"
+                }
+            ], 
+            "collect_count": 6593, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041309/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1637.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1637.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1637.jpg"
+                    }, 
+                    "id": "1041309", 
+                    "name": "安德烈·祖拉斯基"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "恐怖"
+            ], 
+            "id": "1297203", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1985283899.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1985283899.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1985283899.jpg"
+            }, 
+            "original_title": "Possession", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "着魔", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298285/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Telly Savalas"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elke Sommer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sylva Koscina"
+                }
+            ], 
+            "collect_count": 47, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alfredo Leone"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mario Bava"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "恐怖", 
+                "爱情"
+            ], 
+            "id": "1298285", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3571171.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3571171.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3571171.jpg"
+            }, 
+            "original_title": "Lisa e il diavolo", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "著魔的丽莎", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305795/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000026/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5831.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5831.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5831.jpg"
+                    }, 
+                    "id": "1000026", 
+                    "name": "詹妮弗·格雷"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048157/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14769.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14769.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14769.jpg"
+                    }, 
+                    "id": "1048157", 
+                    "name": "克莱格·谢佛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313018/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14673.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14673.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14673.jpg"
+                    }, 
+                    "id": "1313018", 
+                    "name": "丹尼尔·莱派恩"
+                }
+            ], 
+            "collect_count": 32, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Avi Nesher"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "1305795", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1461100.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1461100.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1461100.jpg"
+            }, 
+            "original_title": "Ritual", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "着魔", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307091/", 
+            "casts": [], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "哥连 艾高斯顿 (Colin Eggleston)"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1307091", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1919518522.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1919518522.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1919518522.jpg"
+            }, 
+            "original_title": "Cassandra", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "夜夜著魔", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3875521/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1350448/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1437433286.5.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1437433286.5.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1437433286.5.jpg"
+                    }, 
+                    "id": "1350448", 
+                    "name": "亚历山大·米哈伊洛夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1144717/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1402328931.98.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1402328931.98.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1402328931.98.jpg"
+                    }, 
+                    "id": "1144717", 
+                    "name": "安德烈·罗斯托茨基"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Olga Ostroumova"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274315/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21219.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21219.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21219.jpg"
+                    }, 
+                    "id": "1274315", 
+                    "name": "伊琳娜·波普拉夫斯卡娅"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史"
+            ], 
+            "id": "3875521", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3895089.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3895089.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3895089.jpg"
+            }, 
+            "original_title": "Очарованный странник", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "着魔的流浪人", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10863210/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lola Bonora"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pina Borione"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anita Sanders"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pupi Avati"
+                }
+            ], 
+            "genres": [], 
+            "id": "10863210", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s10457326.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s10457326.jpg", 
+                "small": "https://img3.doubanio.com/spic/s10457326.jpg"
+            }, 
+            "original_title": "Thomas e gli indemoniati", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "托马斯和着魔者", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5049325/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Roemer"
+                }
+            ], 
+            "genres": [], 
+            "id": "5049325", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Haunted", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "着魔", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5116722/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James W. Horne"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008416/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1008416", 
+                    "name": "Gilbert Pratt"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "短片"
+            ], 
+            "id": "5116722", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1978146926.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1978146926.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1978146926.jpg"
+            }, 
+            "original_title": "Going Ga-ga", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "着魔", 
+            "year": "1929"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24873798/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019299/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1711.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1711.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1711.jpg"
+                    }, 
+                    "id": "1019299", 
+                    "name": "山寺宏一"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1001776/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4798.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4798.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4798.jpg"
+                    }, 
+                    "id": "1001776", 
+                    "name": "悠木碧"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042356/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32556.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32556.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32556.jpg"
+                    }, 
+                    "id": "1042356", 
+                    "name": "草尾毅"
+                }
+            ], 
+            "collect_count": 5771, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1332038/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1392471965.72.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1392471965.72.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1392471965.72.jpg"
+                    }, 
+                    "id": "1332038", 
+                    "name": "森田修平"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "24873798", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2166853535.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2166853535.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2166853535.jpg"
+            }, 
+            "original_title": "九十九", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "九十九", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293441/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017933/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8747.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8747.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8747.jpg"
+                    }, 
+                    "id": "1017933", 
+                    "name": "罗宾·汤尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019026/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5011.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5011.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5011.jpg"
+                    }, 
+                    "id": "1019026", 
+                    "name": "费尔鲁扎·鲍克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027828/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13115.jpg"
+                    }, 
+                    "id": "1027828", 
+                    "name": "内芙·坎贝尔"
+                }
+            ], 
+            "collect_count": 821, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014259/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1014259", 
+                    "name": "Andrew Fleming"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "奇幻", 
+                "恐怖"
+            ], 
+            "id": "1293441", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24523692.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24523692.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24523692.jpg"
+            }, 
+            "original_title": "The Craft", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "魔女游戏", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2374172/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clark Gable"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joan Crawford"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Wallace Ford"
+                }
+            ], 
+            "collect_count": 38, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clarence Brown"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "2374172", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24428729.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24428729.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24428729.jpg"
+            }, 
+            "original_title": "Possessed", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "藏娇记", 
+            "year": "1931"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3744801/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christopher Saint Booth"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Philip Adrian Booth"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Zaffis"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Christopher Saint Booth"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Philip Adrian Booth"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "3744801", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3972814.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3972814.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3972814.jpg"
+            }, 
+            "original_title": "The Possessed", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "The Possessed", 
+            "year": "2009"
+        }
+    ], 
+    "title": "搜索 \"着魔\" 的结果", 
+    "total": 12
+}

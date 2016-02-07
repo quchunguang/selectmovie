@@ -1,0 +1,306 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1297009/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056177/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5300.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5300.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5300.jpg"
+                    }, 
+                    "id": "1056177", 
+                    "name": "丹尼尔·戴-刘易斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007023/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5897.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5897.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5897.jpg"
+                    }, 
+                    "id": "1007023", 
+                    "name": "皮特·波斯尔思韦特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054701/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12646.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12646.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12646.jpg"
+                    }, 
+                    "id": "1054701", 
+                    "name": "约翰·林奇"
+                }
+            ], 
+            "collect_count": 22387, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004742/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19887.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19887.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19887.jpg"
+                    }, 
+                    "id": "1004742", 
+                    "name": "吉姆·谢里丹"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情"
+            ], 
+            "id": "1297009", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p758788727.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p758788727.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p758788727.jpg"
+            }, 
+            "original_title": "In the Name of the Father", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "因父之名", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4913208/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frans Timmers"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Theo Kemps"
+                }
+            ], 
+            "genres": [], 
+            "id": "4913208", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4414529.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4414529.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4414529.jpg"
+            }, 
+            "original_title": "in naam van de vader / 以父之名", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "in naam van de vader / 以父之名", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3278605/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elias Andreato"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Leonardo Miggiorin"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Denise Weinberg"
+                }
+            ], 
+            "collect_count": 589, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Júlio Maria Pessoa"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "短片"
+            ], 
+            "id": "3278605", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3678000.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3678000.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3678000.jpg"
+            }, 
+            "original_title": "Em Nome do Pai", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "以父之名", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3027617/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fawad Khan"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Iman Ali"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Naseeruddin Shah"
+                }
+            ], 
+            "collect_count": 62, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shoaib Mansoor"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "战争"
+            ], 
+            "id": "3027617", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3076332.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3076332.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3076332.jpg"
+            }, 
+            "original_title": "Khuda Kay Liye", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "以父之名", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5179230/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ebrahim Hatamikia"
+                }
+            ], 
+            "genres": [], 
+            "id": "5179230", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "In the Name of the Father", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "以父之名", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3596495/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004566/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21073.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21073.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21073.jpg"
+                    }, 
+                    "id": "1004566", 
+                    "name": "麦克·辛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041108/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8262.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8262.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8262.jpg"
+                    }, 
+                    "id": "1041108", 
+                    "name": "托妮·科莱特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jason Spevack"
+                }
+            ], 
+            "collect_count": 308, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dennis Lee"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3596495", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8968119.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8968119.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8968119.jpg"
+            }, 
+            "original_title": "Jesus Henry Christ", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "亨利小上帝", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"以父之名\" 的结果", 
+    "total": 6
+}

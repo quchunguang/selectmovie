@@ -1,0 +1,1050 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2133323/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/585.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/585.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/585.jpg"
+                    }, 
+                    "id": "1054412", 
+                    "name": "本·斯蒂勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022588/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6537.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6537.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6537.jpg"
+                    }, 
+                    "id": "1022588", 
+                    "name": "克里斯汀·韦格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002677/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26623.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26623.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26623.jpg"
+                    }, 
+                    "id": "1002677", 
+                    "name": "亚当·斯科特"
+                }
+            ], 
+            "collect_count": 112882, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/585.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/585.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/585.jpg"
+                    }, 
+                    "id": "1054412", 
+                    "name": "本·斯蒂勒"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "冒险"
+            ], 
+            "id": "2133323", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2160195181.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2160195181.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2160195181.jpg"
+            }, 
+            "original_title": "The Secret Life of Walter Mitty", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "白日梦想家", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10756518/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054514/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26576.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26576.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26576.jpg"
+                    }, 
+                    "id": "1054514", 
+                    "name": "艾玛·汤普森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054450/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/551.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/551.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/551.jpg"
+                    }, 
+                    "id": "1054450", 
+                    "name": "汤姆·汉克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017893/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/18195.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/18195.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/18195.jpg"
+                    }, 
+                    "id": "1017893", 
+                    "name": "保罗·吉亚玛提"
+                }
+            ], 
+            "collect_count": 14652, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1285940/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39941.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39941.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39941.jpg"
+                    }, 
+                    "id": "1285940", 
+                    "name": "约翰·李·汉考克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记"
+            ], 
+            "id": "10756518", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2052298202.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2052298202.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2052298202.jpg"
+            }, 
+            "original_title": "Saving Mr. Banks", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大梦想家", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7162143/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sébastien Ducret"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Janine Souchon"
+                }
+            ], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marie-Christine Perrodin"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "7162143", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7023936.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7023936.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7023936.jpg"
+            }, 
+            "original_title": "Le porte-plume", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "白日梦想家", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25942176/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342671/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1409735806.56.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1409735806.56.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1409735806.56.jpg"
+                    }, 
+                    "id": "1342671", 
+                    "name": "施琰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342429/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1408720453.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1408720453.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1408720453.34.jpg"
+                    }, 
+                    "id": "1342429", 
+                    "name": "骆新"
+                }
+            ], 
+            "collect_count": 1118, 
+            "directors": [], 
+            "genres": [
+                "真人秀"
+            ], 
+            "id": "25942176", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2261392790.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2261392790.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2261392790.jpg"
+            }, 
+            "original_title": "梦想改造家 第一季", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "梦想改造家 第一季", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26576624/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342429/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1408720453.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1408720453.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1408720453.34.jpg"
+                    }, 
+                    "id": "1342429", 
+                    "name": "骆新"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "施琰"
+                }
+            ], 
+            "collect_count": 1308, 
+            "directors": [], 
+            "genres": [
+                "真人秀"
+            ], 
+            "id": "26576624", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2261392587.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2261392587.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2261392587.jpg"
+            }, 
+            "original_title": "梦想改造家 第二季", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "tv", 
+            "title": "梦想改造家 第二季", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308341/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陶玉玲"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈大明"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "从连文 (Lianwen Chong)"
+                }
+            ], 
+            "genres": [
+                "家庭"
+            ], 
+            "id": "1308341", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4238199.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4238199.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4238199.jpg"
+            }, 
+            "original_title": "梦想家", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "梦想家", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25919918/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张博洋"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李少伟"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李亚平"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曾张粤紫"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "儿童", 
+                "短片"
+            ], 
+            "id": "25919918", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2189946195.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2189946195.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2189946195.jpg"
+            }, 
+            "original_title": "电影梦想家", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "电影梦想家", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26597844/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "设计师"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "上海电视台"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26597844", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "非常梦想家", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "非常梦想家", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3190050/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "及川光博"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "濑户朝香"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高桥英树"
+                }
+            ], 
+            "collect_count": 136, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "片冈敬司"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "藤泽浩一"
+                }
+            ], 
+            "genres": [], 
+            "id": "3190050", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2155132546.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2155132546.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2155132546.jpg"
+            }, 
+            "original_title": "晴れ着、ここ一番", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "霓裳梦想家", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2781507/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rusty Schwimmer"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009378/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7898.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7898.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7898.jpg"
+                    }, 
+                    "id": "1009378", 
+                    "name": "威廉姆·李·斯科特"
+                }
+            ], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Terri Farley-Teruel"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2781507", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2870501.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2870501.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2870501.jpg"
+            }, 
+            "original_title": "Beautiful Dreamer", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美丽的梦想家", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2068292/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048149/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/354.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/354.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/354.jpg"
+                    }, 
+                    "id": "1048149", 
+                    "name": "奥逊·威尔斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Oja Kodar"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048149/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/354.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/354.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/354.jpg"
+                    }, 
+                    "id": "1048149", 
+                    "name": "奥逊·威尔斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "短片"
+            ], 
+            "id": "2068292", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2555533.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2555533.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2555533.jpg"
+            }, 
+            "original_title": "The Dreamers", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "梦想家", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23117752/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Francesco Carril     奥拉·加里多"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luis Miguel Madrid"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aura Garrido"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "乔纳斯·特鲁巴"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "23117752", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1922737183.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1922737183.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1922737183.jpg"
+            }, 
+            "original_title": "Los ilusos", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "梦想家", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3632642/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andrew Halasz"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Félix Viscarret"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "3632642", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3693267.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3693267.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3693267.jpg"
+            }, 
+            "original_title": "Dreamers", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "梦想家", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11601050/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1065254/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1065254", 
+                    "name": "Alan Bean"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joe Gutheinz"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280175/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1280175", 
+                    "name": "Christopher Carson"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Simon Ennis"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "纪录片"
+            ], 
+            "id": "11601050", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s16875610.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s16875610.jpg", 
+                "small": "https://img3.doubanio.com/spic/s16875610.jpg"
+            }, 
+            "original_title": "Lunarcy!", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "月球梦想家", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2051013/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Colm Feore"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rip Torn"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Kent Harrison"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "2051013", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2368542.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2368542.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2368542.jpg"
+            }, 
+            "original_title": "Bin Limu still Dreamers", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "宾利慕尚梦想家", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5056169/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dan Wolman"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5056169", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Ha-Timhoni", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "梦想家", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26577041/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Floyd Cardoz"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1252084/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1252084", 
+                    "name": "Tom Colicchio"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018135/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1359182406.75.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1359182406.75.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1359182406.75.jpg"
+                    }, 
+                    "id": "1018135", 
+                    "name": "理查德·谢尔曼"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26577041", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2257992396.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2257992396.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2257992396.jpg"
+            }, 
+            "original_title": "THE RESTAURATEUR", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "餐厅梦想家", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1291856/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000090/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/36790.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/36790.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/36790.jpg"
+                    }, 
+                    "id": "1000090", 
+                    "name": "迈克尔·皮特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025155/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25343.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25343.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25343.jpg"
+                    }, 
+                    "id": "1025155", 
+                    "name": "伊娃·格林"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018067/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/172.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/172.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/172.jpg"
+                    }, 
+                    "id": "1018067", 
+                    "name": "路易·加瑞尔"
+                }
+            ], 
+            "collect_count": 90098, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035651/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/374.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/374.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/374.jpg"
+                    }, 
+                    "id": "1035651", 
+                    "name": "贝纳尔多·贝托鲁奇"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "爱情"
+            ], 
+            "id": "1291856", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1910913676.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1910913676.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910913676.jpg"
+            }, 
+            "original_title": "The Dreamers", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "戏梦巴黎", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2059119/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58897.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58897.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58897.jpg"
+                    }, 
+                    "id": "1005984", 
+                    "name": "爱染恭子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "胜然武美"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "佐藤庆"
+                }
+            ], 
+            "collect_count": 326, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038048/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3825.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3825.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3825.jpg"
+                    }, 
+                    "id": "1038048", 
+                    "name": "武智铁二 "
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "奇幻", 
+                "恐怖"
+            ], 
+            "id": "2059119", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3559709.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3559709.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3559709.jpg"
+            }, 
+            "original_title": "白日夢", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "白日梦", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1481399/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "路加奈子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石浜朗"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "松井康子"
+                }
+            ], 
+            "collect_count": 211, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038048/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3825.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3825.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3825.jpg"
+                    }, 
+                    "id": "1038048", 
+                    "name": "武智铁二 "
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1095155/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1095155", 
+                    "name": "Joseph Green"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "奇幻", 
+                "恐怖"
+            ], 
+            "id": "1481399", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4509339.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4509339.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4509339.jpg"
+            }, 
+            "original_title": "白日夢", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "白日梦", 
+            "year": "1964"
+        }
+    ], 
+    "title": "搜索 \"白日梦想家\" 的结果", 
+    "total": 52
+}

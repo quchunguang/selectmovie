@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10744164/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1220507/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/41401.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/41401.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/41401.jpg"
+                    }, 
+                    "id": "1220507", 
+                    "name": "奥玛·赛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000491/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44424.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44424.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44424.jpg"
+                    }, 
+                    "id": "1000491", 
+                    "name": "凯德·麦拉德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1066222/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1066222", 
+                    "name": "Olivier Baroux"
+                }
+            ], 
+            "collect_count": 248, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000491/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44424.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44424.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44424.jpg"
+                    }, 
+                    "id": "1000491", 
+                    "name": "凯德·麦拉德"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "10744164", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2211890258.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2211890258.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2211890258.jpg"
+            }, 
+            "original_title": "Mais qui a retué Pamela Rose?", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "谁又杀了帕米拉·萝丝", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"谁又杀了帕米拉·萝丝\" 的结果", 
+    "total": 1
+}

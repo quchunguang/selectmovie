@@ -1,0 +1,303 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/24530943/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054422/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/34966.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/34966.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/34966.jpg"
+                    }, 
+                    "id": "1054422", 
+                    "name": "卡梅隆·迪亚茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000023/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14239.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14239.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14239.jpg"
+                    }, 
+                    "id": "1000023", 
+                    "name": "莱斯利·曼恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1076051/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1368693740.25.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1368693740.25.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1368693740.25.jpg"
+                    }, 
+                    "id": "1076051", 
+                    "name": "尼古拉·科斯特-瓦尔道"
+                }
+            ], 
+            "collect_count": 15433, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017986/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4985.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4985.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4985.jpg"
+                    }, 
+                    "id": "1017986", 
+                    "name": "尼克·卡索维茨"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "24530943", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2174051294.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2174051294.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2174051294.jpg"
+            }, 
+            "original_title": "The Other Woman", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "情敌复仇战", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3240208/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041014/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/888.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/888.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/888.jpg"
+                    }, 
+                    "id": "1041014", 
+                    "name": "章子怡"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050059/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1691.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1691.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1691.jpg"
+                    }, 
+                    "id": "1050059", 
+                    "name": "范冰冰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050590/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3030.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3030.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3030.jpg"
+                    }, 
+                    "id": "1050590", 
+                    "name": "何润东"
+                }
+            ], 
+            "collect_count": 194476, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274853/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49852.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49852.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49852.jpg"
+                    }, 
+                    "id": "1274853", 
+                    "name": "金依萌"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "3240208", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p482937086.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p482937086.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p482937086.jpg"
+            }, 
+            "original_title": "非常完美", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "非常完美", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305775/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044907/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33155.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33155.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33155.jpg"
+                    }, 
+                    "id": "1044907", 
+                    "name": "盖瑞·丹尼尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032463/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1032463", 
+                    "name": "布赖恩·詹尼斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014139/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22308.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22308.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22308.jpg"
+                    }, 
+                    "id": "1014139", 
+                    "name": "巴巴拉·克兰普顿"
+                }
+            ], 
+            "collect_count": 117, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319001/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/45196.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/45196.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/45196.jpg"
+                    }, 
+                    "id": "1319001", 
+                    "name": "艾萨克·佛罗伦汀"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "西部"
+            ], 
+            "id": "1305775", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1665359.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1665359.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1665359.jpg"
+            }, 
+            "original_title": "Cold Harvest", 
+            "rating": {
+                "average": 4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "复仇战士", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3758508/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1133508/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1133508", 
+                    "name": "Ho-Sung Pak"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Antonio Fargas"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Greene"
+                }
+            ], 
+            "collect_count": 28, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Wayne Kennedy"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "3758508", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6333934.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6333934.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6333934.jpg"
+            }, 
+            "original_title": "Lesser of Three Evils", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "复仇战士", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300482/", 
+            "casts": [], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "约翰 G. 艾维尔森 (John G. Avildsen)"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1300482", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8946207.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8946207.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8946207.jpg"
+            }, 
+            "original_title": "Inferno", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "复仇战将", 
+            "year": "1999"
+        }
+    ], 
+    "title": "搜索 \"情敌复仇战\" 的结果", 
+    "total": 5
+}

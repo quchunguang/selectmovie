@@ -1,0 +1,189 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10800644/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000001/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20019.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20019.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20019.jpg"
+                    }, 
+                    "id": "1000001", 
+                    "name": "朱丽娅·斯蒂尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1071279/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14324.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14324.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14324.jpg"
+                    }, 
+                    "id": "1071279", 
+                    "name": "大卫·克罗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000055/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28644.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28644.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28644.jpg"
+                    }, 
+                    "id": "1000055", 
+                    "name": "亚美莉卡·费雷拉"
+                }
+            ], 
+            "collect_count": 1220, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002932/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1442967536.07.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1442967536.07.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1442967536.07.jpg"
+                    }, 
+                    "id": "1002932", 
+                    "name": "Todd Berger"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "10800644", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s10344640.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s10344640.jpg", 
+                "small": "https://img3.doubanio.com/spic/s10344640.jpg"
+            }, 
+            "original_title": "It's a Disaster", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "末日灾难", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4942674/", 
+            "casts": [], 
+            "collect_count": 105, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "quinn  berentson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "stuart  waterhouse"
+                }
+            ], 
+            "genres": [], 
+            "id": "4942674", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4435288.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4435288.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4435288.jpg"
+            }, 
+            "original_title": "Mega Disaster Earthquake", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "末日的地球：大地震", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5265178/", 
+            "casts": [], 
+            "collect_count": 74, 
+            "directors": [], 
+            "genres": [], 
+            "id": "5265178", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4469812.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4469812.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4469812.jpg"
+            }, 
+            "original_title": "Mega Disaster: Tsunami", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "末日的地球：世纪海啸", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5265175/", 
+            "casts": [], 
+            "collect_count": 52, 
+            "directors": [], 
+            "genres": [], 
+            "id": "5265175", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4469810.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4469810.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4469810.jpg"
+            }, 
+            "original_title": "Mega Disaster: Volcano", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "末日的地球：火山爆发", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308962/", 
+            "casts": [], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yossi Wein"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "1308962", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1644513.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1644513.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1644513.jpg"
+            }, 
+            "original_title": "Disaster", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "灾难", 
+            "year": "2001"
+        }
+    ], 
+    "title": "搜索 \"末日灾难\" 的结果", 
+    "total": 5
+}

@@ -1,0 +1,129 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2286418/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050883/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1373643880.68.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1373643880.68.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1373643880.68.jpg"
+                    }, 
+                    "id": "1050883", 
+                    "name": "玛雅·奥丝塔泽斯卡"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1167343/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/36886.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/36886.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/36886.jpg"
+                    }, 
+                    "id": "1167343", 
+                    "name": "亚特·祖米卓斯基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010809/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1414678899.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1414678899.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1414678899.66.jpg"
+                    }, 
+                    "id": "1010809", 
+                    "name": "帕威·马拉欣斯基"
+                }
+            ], 
+            "collect_count": 14408, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032325/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50295.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50295.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50295.jpg"
+                    }, 
+                    "id": "1032325", 
+                    "name": "安杰依·瓦伊达"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "2286418", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2747822.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2747822.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2747822.jpg"
+            }, 
+            "original_title": "Katyń", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "卡廷惨案", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4729753/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "William Amstrong"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Keith David"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Krzysztof Dracz"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laurence Rees"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "战争"
+            ], 
+            "id": "4729753", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4240941.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4240941.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4240941.jpg"
+            }, 
+            "original_title": "World War Two - Behind Closed Doors", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "二次大战秘辛", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"卡廷惨案\" 的结果", 
+    "total": 2
+}

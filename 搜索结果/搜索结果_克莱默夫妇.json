@@ -1,0 +1,1022 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1300685/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054427/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/604.jpg"
+                    }, 
+                    "id": "1054427", 
+                    "name": "达斯汀·霍夫曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054437/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/614.jpg"
+                    }, 
+                    "id": "1054437", 
+                    "name": "梅丽尔·斯特里普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054966/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27184.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27184.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27184.jpg"
+                    }, 
+                    "id": "1054966", 
+                    "name": "简·亚历山大"
+                }
+            ], 
+            "collect_count": 43869, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055906/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17301.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17301.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17301.jpg"
+                    }, 
+                    "id": "1055906", 
+                    "name": "罗伯特·本顿"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭"
+            ], 
+            "id": "1300685", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1490580680.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1490580680.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1490580680.jpg"
+            }, 
+            "original_title": "Kramer vs. Kramer", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "克莱默夫妇", 
+            "year": "1979"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1309064/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018039/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25637.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25637.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25637.jpg"
+                    }, 
+                    "id": "1018039", 
+                    "name": "艾恩·贝利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019033/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3179.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3179.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3179.jpg"
+                    }, 
+                    "id": "1019033", 
+                    "name": "小克利夫顿·克林斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009433/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6086.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6086.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6086.jpg"
+                    }, 
+                    "id": "1009433", 
+                    "name": "威尔·坎普"
+                }
+            ], 
+            "collect_count": 64798, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032052/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21181.jpg"
+                    }, 
+                    "id": "1032052", 
+                    "name": "雷尼·哈林"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "1309064", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p854543139.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p854543139.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p854543139.jpg"
+            }, 
+            "original_title": "Mindhunters", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "八面埋伏", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6776051/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040505/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/15885.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/15885.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/15885.jpg"
+                    }, 
+                    "id": "1040505", 
+                    "name": "马克·鲁弗洛"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025059/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33442.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33442.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33442.jpg"
+                    }, 
+                    "id": "1025059", 
+                    "name": "马特·波莫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000004/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/30216.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/30216.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/30216.jpg"
+                    }, 
+                    "id": "1000004", 
+                    "name": "吉姆·帕森斯"
+                }
+            ], 
+            "collect_count": 35249, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275184/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20075.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20075.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20075.jpg"
+                    }, 
+                    "id": "1275184", 
+                    "name": "瑞恩·墨菲"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "同性"
+            ], 
+            "id": "6776051", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2180543688.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2180543688.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2180543688.jpg"
+            }, 
+            "original_title": "The Normal Heart", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "平常的心", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26346317/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054765/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1054765", 
+                    "name": "Carl Achleitner"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alexander E. Fennon"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andreas Bettinger"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marc Schlegel"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "短片"
+            ], 
+            "id": "26346317", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2233267498.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2233267498.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2233267498.jpg"
+            }, 
+            "original_title": "Das Begräbnis des Harald Kramer", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "哈拉尔德·克莱默的葬礼", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26574445/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Larry Kramer"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean Carlomusto"
+                }
+            ], 
+            "genres": [], 
+            "id": "26574445", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2257218611.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2257218611.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2257218611.jpg"
+            }, 
+            "original_title": "Larry Kramer in Love and Anger", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "拉里·克莱默的爱和愤怒", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10755598/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031239/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26272.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26272.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26272.jpg"
+                    }, 
+                    "id": "1031239", 
+                    "name": "保罗·沃克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054395/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51597.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51597.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51597.jpg"
+                    }, 
+                    "id": "1054395", 
+                    "name": "伊利亚·伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013802/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2382.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2382.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2382.jpg"
+                    }, 
+                    "id": "1013802", 
+                    "name": "诺曼·瑞杜斯"
+                }
+            ], 
+            "collect_count": 1241, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1046078/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11019.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11019.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11019.jpg"
+                    }, 
+                    "id": "1046078", 
+                    "name": "韦恩·克莱默"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "10755598", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2000489002.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2000489002.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2000489002.jpg"
+            }, 
+            "original_title": "Pawn Shop Chronicles", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "当铺大乱斗", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307860/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031892/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25658.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25658.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25658.jpg"
+                    }, 
+                    "id": "1031892", 
+                    "name": "威廉姆·H·梅西"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000011/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2091.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2091.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2091.jpg"
+                    }, 
+                    "id": "1000011", 
+                    "name": "亚历克·鲍德温"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1388903099.27.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1388903099.27.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1388903099.27.jpg"
+                    }, 
+                    "id": "1002674", 
+                    "name": "玛丽亚·贝罗"
+                }
+            ], 
+            "collect_count": 454, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1046078/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11019.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11019.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11019.jpg"
+                    }, 
+                    "id": "1046078", 
+                    "name": "韦恩·克莱默"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1307860", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1409003.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1409003.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1409003.jpg"
+            }, 
+            "original_title": "The Cooler", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "倒霉蛋", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10617694/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018988/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/16081.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/16081.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/16081.jpg"
+                    }, 
+                    "id": "1018988", 
+                    "name": "琳赛·洛翰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009411/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28511.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28511.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28511.jpg"
+                    }, 
+                    "id": "1009411", 
+                    "name": "格兰特·鲍尔"
+                }
+            ], 
+            "collect_count": 494, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "劳埃德·克莱默 Lloyd Kramer"
+                }
+            ], 
+            "genres": [
+                "传记"
+            ], 
+            "id": "10617694", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s21863416.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s21863416.jpg", 
+                "small": "https://img3.doubanio.com/spic/s21863416.jpg"
+            }, 
+            "original_title": "Liz & Dick", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "丽兹与迪克", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5150568/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000011/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2091.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2091.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2091.jpg"
+                    }, 
+                    "id": "1000011", 
+                    "name": "亚历克·鲍德温"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022623/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1376114751.16.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1376114751.16.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1376114751.16.jpg"
+                    }, 
+                    "id": "1022623", 
+                    "name": "吉莲·安德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036351/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2000.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2000.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2000.jpg"
+                    }, 
+                    "id": "1036351", 
+                    "name": "贾德·阿帕图"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037677/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1037677", 
+                    "name": "劳埃德·克莱默"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "5150568", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6981100.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6981100.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6981100.jpg"
+            }, 
+            "original_title": "America in Primetime", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "黄金时段的美国", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305698/", 
+            "casts": [], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037677/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1037677", 
+                    "name": "劳埃德·克莱默"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1305698", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Amy & Isabelle (TV)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "母女情伤", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3081514/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031937/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1426340170.24.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1426340170.24.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1426340170.24.jpg"
+                    }, 
+                    "id": "1031937", 
+                    "name": "西德尼·波蒂埃"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002713/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8250.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8250.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8250.jpg"
+                    }, 
+                    "id": "1002713", 
+                    "name": "卢卡斯·哈斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035650/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27873.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27873.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27873.jpg"
+                    }, 
+                    "id": "1035650", 
+                    "name": "布莱特妮·墨菲"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037677/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1037677", 
+                    "name": "劳埃德·克莱默"
+                }
+            ], 
+            "genres": [], 
+            "id": "3081514", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3102380.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3102380.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3102380.jpg"
+            }, 
+            "original_title": "David and Lisa", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "David and Lisa", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5147014/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037677/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1037677", 
+                    "name": "劳埃德·克莱默"
+                }
+            ], 
+            "genres": [], 
+            "id": "5147014", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Mary Kay Letourneau: All American Girl", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Mary Kay Letourneau: All American Girl", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5217993/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037677/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1037677", 
+                    "name": "劳埃德·克莱默"
+                }
+            ], 
+            "genres": [], 
+            "id": "5217993", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Report from Ground Zero", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Report from Ground Zero", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292464/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007070/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8598.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8598.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8598.jpg"
+                    }, 
+                    "id": "1007070", 
+                    "name": "阿兰·贝茨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007026/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20540.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20540.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20540.jpg"
+                    }, 
+                    "id": "1007026", 
+                    "name": "奥列佛·里德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045100/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14615.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14615.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14615.jpg"
+                    }, 
+                    "id": "1045100", 
+                    "name": "格兰达·杰克逊"
+                }
+            ], 
+            "collect_count": 437, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010686/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10972.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10972.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10972.jpg"
+                    }, 
+                    "id": "1010686", 
+                    "name": "肯·罗素"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1292464", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2758950.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2758950.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2758950.jpg"
+            }, 
+            "original_title": "Women in Love", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "恋爱中的女人", 
+            "year": "1969"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1304029/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036619/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1355.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1355.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1355.jpg"
+                    }, 
+                    "id": "1036619", 
+                    "name": "丽芙·乌曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002718/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43517.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43517.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43517.jpg"
+                    }, 
+                    "id": "1002718", 
+                    "name": "奥丽维娅·赫西"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027350/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14385.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14385.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14385.jpg"
+                    }, 
+                    "id": "1027350", 
+                    "name": "彼得·芬奇"
+                }
+            ], 
+            "collect_count": 244, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "查尔斯 贾洛特 (Charles Jarrott)"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "歌舞", 
+                "冒险"
+            ], 
+            "id": "1304029", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2559721.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2559721.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2559721.jpg"
+            }, 
+            "original_title": "Lost Horizon", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "失去的地平线", 
+            "year": "1973"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2029977/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Meredith Baxter"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Hedison"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gale Sondergaard"
+                }
+            ], 
+            "collect_count": 27, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Curtis Harrington"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "2029977", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6522947.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6522947.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6522947.jpg"
+            }, 
+            "original_title": "The Cat Creature", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "猫精灵", 
+            "year": "1973"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25978139/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25978139", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2219931798.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2219931798.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2219931798.jpg"
+            }, 
+            "original_title": "Untitled Normal Heart Sequel", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "未定名平常的心续集", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25875019/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "动画"
+            ], 
+            "id": "25875019", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Hot Stuff", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "小恶魔", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5135040/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joe Massot"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "5135040", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Reflections on Love", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Reflections on Love", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5125951/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [], 
+            "id": "5125951", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Larry Kramer", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Larry Kramer", 
+            "year": ""
+        }
+    ], 
+    "title": "搜索 \"克莱默夫妇\" 的结果", 
+    "total": 26
+}

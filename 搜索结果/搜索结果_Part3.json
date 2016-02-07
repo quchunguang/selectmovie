@@ -1,0 +1,257 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10573589/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1148223/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33158.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33158.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33158.jpg"
+                    }, 
+                    "id": "1148223", 
+                    "name": "柴田恭兵"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1288267/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44687.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44687.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44687.jpg"
+                    }, 
+                    "id": "1288267", 
+                    "name": "风间彻"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019960/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7545.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7545.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7545.jpg"
+                    }, 
+                    "id": "1019960", 
+                    "name": "平泉成"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1346172/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1346172", 
+                    "name": "村川透"
+                }
+            ], 
+            "genres": [], 
+            "id": "10573589", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9014225.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9014225.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9014225.jpg"
+            }, 
+            "original_title": "はみだし刑事情熱系PART3", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "はみだし刑事情熱系PART3", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5239980/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "原田潤"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1052876/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/39231.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/39231.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/39231.jpg"
+                    }, 
+                    "id": "1052876", 
+                    "name": "丘里美"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038997/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20181.jpg"
+                    }, 
+                    "id": "1038997", 
+                    "name": "林泰文"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山田典吾"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5239980", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "はだしのゲン PART3 ヒロシマのたたかい", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "はだしのゲン PART3 ヒロシマのたたかい", 
+            "year": "1980"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23774708/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小野大輔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石塚運昇"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "三宅健太"
+                }
+            ], 
+            "collect_count": 3328, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "津田尚克"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "23774708", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2154661839.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2154661839.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2154661839.jpg"
+            }, 
+            "original_title": "ジョジョの奇妙な冒険 スターダストクルセイダース", 
+            "rating": {
+                "average": 9.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "tv", 
+            "title": "JOJO的奇妙冒险 星尘斗士", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5384543/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042356/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32556.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32556.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32556.jpg"
+                    }, 
+                    "id": "1042356", 
+                    "name": "草尾毅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008192/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35396.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35396.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35396.jpg"
+                    }, 
+                    "id": "1008192", 
+                    "name": "佐佐木望"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019299/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1711.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1711.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1711.jpg"
+                    }, 
+                    "id": "1019299", 
+                    "name": "山寺宏一"
+                }
+            ], 
+            "collect_count": 113, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1060219/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39047.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39047.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39047.jpg"
+                    }, 
+                    "id": "1060219", 
+                    "name": "荒牧伸志"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "八谷賢一"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "动画"
+            ], 
+            "id": "5384543", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4556133.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4556133.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4556133.jpg"
+            }, 
+            "original_title": "メガゾーン23 Part III イヴの目覚め ~ 解放の日", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "无限地带23Ⅲ：夏娃的觉醒 和 解放日", 
+            "year": "1989"
+        }
+    ], 
+    "title": "搜索 \"Part3\" 的结果", 
+    "total": 4
+}

@@ -1,0 +1,177 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10535562/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319990/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48433.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48433.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48433.jpg"
+                    }, 
+                    "id": "1319990", 
+                    "name": "伊科·乌艾斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1235271/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1373185590.17.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1373185590.17.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1373185590.17.jpg"
+                    }, 
+                    "id": "1235271", 
+                    "name": "朱莉·埃斯特尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319993/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/53326.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/53326.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/53326.jpg"
+                    }, 
+                    "id": "1319993", 
+                    "name": "雅彦·鲁伊安"
+                }
+            ], 
+            "collect_count": 30022, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320029/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48472.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48472.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48472.jpg"
+                    }, 
+                    "id": "1320029", 
+                    "name": "加雷斯·埃文斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "犯罪"
+            ], 
+            "id": "10535562", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2178368429.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2178368429.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2178368429.jpg"
+            }, 
+            "original_title": "The Raid 2: Berandal", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "突袭2：暴徒", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4838179/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1183746/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/30056.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/30056.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/30056.jpg"
+                    }, 
+                    "id": "1183746", 
+                    "name": "赵汉善"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312695/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48666.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48666.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48666.jpg"
+                    }, 
+                    "id": "1312695", 
+                    "name": "池贤宇"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320499/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/49318.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/49318.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/49318.jpg"
+                    }, 
+                    "id": "1320499", 
+                    "name": "文元柱 "
+                }
+            ], 
+            "collect_count": 2854, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023468/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8057.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8057.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8057.jpg"
+                    }, 
+                    "id": "1023468", 
+                    "name": "金相辰"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "4838179", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4133606.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4133606.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4133606.jpg"
+            }, 
+            "original_title": "주유소 습격사건 2", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "加油站袭击事件2", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305244/", 
+            "casts": [], 
+            "collect_count": 124, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aaron Norris"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险"
+            ], 
+            "id": "1305244", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2873919.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2873919.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2873919.jpg"
+            }, 
+            "original_title": "Delta Force 2: Operation Stranglehold", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "突袭哥伦比亚", 
+            "year": "1990"
+        }
+    ], 
+    "title": "搜索 \"突袭2\" 的结果", 
+    "total": 3
+}

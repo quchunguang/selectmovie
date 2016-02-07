@@ -1,0 +1,434 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4753436/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025147/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5321.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5321.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5321.jpg"
+                    }, 
+                    "id": "1025147", 
+                    "name": "克里夫·欧文"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Izán Corchero"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049588/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371190335.62.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371190335.62.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371190335.62.jpg"
+                    }, 
+                    "id": "1049588", 
+                    "name": "卡里斯·范·侯登"
+                }
+            ], 
+            "collect_count": 1671, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036661/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24499.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24499.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24499.jpg"
+                    }, 
+                    "id": "1036661", 
+                    "name": "胡安·卡洛斯·弗雷斯纳迪罗"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "4753436", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1537031403.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1537031403.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1537031403.jpg"
+            }, 
+            "original_title": "Intruders", 
+            "rating": {
+                "average": 5.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "恶灵入侵", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3012031/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047972/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1358812490.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1358812490.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1358812490.58.jpg"
+                    }, 
+                    "id": "1047972", 
+                    "name": "山姆·洛克威尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040580/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382850435.57.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382850435.57.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382850435.57.jpg"
+                    }, 
+                    "id": "1040580", 
+                    "name": "罗丝玛丽·德薇特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1329625/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/Z9YBBCTwR10cel_avatar_uploaded1369890804.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/Z9YBBCTwR10cel_avatar_uploaded1369890804.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/Z9YBBCTwR10cel_avatar_uploaded1369890804.74.jpg"
+                    }, 
+                    "id": "1329625", 
+                    "name": "萨克斯·沙比诺"
+                }
+            ], 
+            "collect_count": 2625, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028045/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393775333.32.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393775333.32.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393775333.32.jpg"
+                    }, 
+                    "id": "1028045", 
+                    "name": "吉尔·克兰"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "3012031", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2226012299.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2226012299.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2226012299.jpg"
+            }, 
+            "original_title": "Poltergeist", 
+            "rating": {
+                "average": 5.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼驱人", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2132426/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044708/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6531.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6531.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6531.jpg"
+                    }, 
+                    "id": "1044708", 
+                    "name": "杰弗里·迪恩·摩根"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025201/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33610.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33610.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33610.jpg"
+                    }, 
+                    "id": "1025201", 
+                    "name": "凯拉·塞吉维克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45263.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45263.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45263.jpg"
+                    }, 
+                    "id": "1040674", 
+                    "name": "麦蒂森·达文波特"
+                }
+            ], 
+            "collect_count": 7205, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018354/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/25996.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/25996.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/25996.jpg"
+                    }, 
+                    "id": "1018354", 
+                    "name": "奥勒·博内代尔"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "2132426", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1629715477.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1629715477.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1629715477.jpg"
+            }, 
+            "original_title": "The Possession", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "死魂盒", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3223597/", 
+            "casts": [], 
+            "collect_count": 66, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jamie Hewlett"
+                }
+            ], 
+            "genres": [], 
+            "id": "3223597", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3268231.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3268231.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3268231.jpg"
+            }, 
+            "original_title": "Gorillaz: Phase Two - Slowboat to Hades", 
+            "rating": {
+                "average": 9.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "街头霸王—入侵恶灵古堡", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300077/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022689/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49315.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49315.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49315.jpg"
+                    }, 
+                    "id": "1022689", 
+                    "name": "凯瑟琳·海克丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025203/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11840.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11840.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11840.jpg"
+                    }, 
+                    "id": "1025203", 
+                    "name": "克里斯·萨兰登"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045143/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380426867.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380426867.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380426867.74.jpg"
+                    }, 
+                    "id": "1045143", 
+                    "name": "艾力克斯·文森特"
+                }
+            ], 
+            "collect_count": 10521, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009463/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/49316.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/49316.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/49316.jpg"
+                    }, 
+                    "id": "1009463", 
+                    "name": "汤姆·霍兰德"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1300077", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1302801606.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1302801606.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1302801606.jpg"
+            }, 
+            "original_title": "Child's Play", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "鬼娃回魂", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5218896/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Damon Crump"
+                }
+            ], 
+            "genres": [
+                "惊悚", 
+                "动作", 
+                "恐怖"
+            ], 
+            "id": "5218896", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Risen", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "崛起", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1304623/", 
+            "casts": [], 
+            "collect_count": 1215, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fred Olen Ray"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "1304623", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1629834.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1629834.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1629834.jpg"
+            }, 
+            "original_title": "Evil Toons", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "邪灵入侵", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299871/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1135939/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11720.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11720.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11720.jpg"
+                    }, 
+                    "id": "1135939", 
+                    "name": "斯科特·帕特森"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Clare Carey"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033273/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1033273", 
+                    "name": "Dustin Voigt"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill L. Norton"
+                }
+            ], 
+            "genres": [
+                "科幻"
+            ], 
+            "id": "1299871", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24974928.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24974928.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24974928.jpg"
+            }, 
+            "original_title": "Them (TV)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "闪灵入侵", 
+            "year": "1996"
+        }
+    ], 
+    "title": "搜索 \"恶灵入侵\" 的结果", 
+    "total": 8
+}

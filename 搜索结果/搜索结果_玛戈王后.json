@@ -1,0 +1,144 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1300802/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022001/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26041.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26041.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26041.jpg"
+                    }, 
+                    "id": "1022001", 
+                    "name": "伊莎贝尔·阿佳妮"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007064/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2489.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2489.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2489.jpg"
+                    }, 
+                    "id": "1007064", 
+                    "name": "丹尼尔·奥图"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041277/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7033.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7033.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7033.jpg"
+                    }, 
+                    "id": "1041277", 
+                    "name": "维尔娜·丽丝"
+                }
+            ], 
+            "collect_count": 25798, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041315/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10387.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10387.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10387.jpg"
+                    }, 
+                    "id": "1041315", 
+                    "name": "帕特里斯·夏侯"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1300802", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2196127498.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2196127498.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2196127498.jpg"
+            }, 
+            "original_title": "La Reine Margot", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "玛戈王后", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1962122/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007066/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/850.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/850.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/850.jpg"
+                    }, 
+                    "id": "1007066", 
+                    "name": "让娜·莫罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1030121/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1030121", 
+                    "name": "阿曼多·弗兰西欧利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1129967/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1129967", 
+                    "name": "Robert Porte"
+                }
+            ], 
+            "collect_count": 162, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051653/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1051653", 
+                    "name": "Jean Dréville"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1962122", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2375587.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2375587.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2375587.jpg"
+            }, 
+            "original_title": "La reine Margot", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "女王玛尔戈", 
+            "year": "1954"
+        }
+    ], 
+    "title": "搜索 \"玛戈王后\" 的结果", 
+    "total": 2
+}

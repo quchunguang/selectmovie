@@ -1,0 +1,196 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3558640/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053617/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/543.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/543.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/543.jpg"
+                    }, 
+                    "id": "1053617", 
+                    "name": "罗伯特·雷德福"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022000/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13152.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13152.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13152.jpg"
+                    }, 
+                    "id": "1022000", 
+                    "name": "希亚·拉博夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000086/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1382356881.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1382356881.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1382356881.29.jpg"
+                    }, 
+                    "id": "1000086", 
+                    "name": "朱莉·克里斯蒂"
+                }
+            ], 
+            "collect_count": 35416, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053617/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/543.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/543.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/543.jpg"
+                    }, 
+                    "id": "1053617", 
+                    "name": "罗伯特·雷德福"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "3558640", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2188584137.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2188584137.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2188584137.jpg"
+            }, 
+            "original_title": "The Company You Keep", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "无处可逃", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20399058/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1197648/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35890.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35890.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35890.jpg"
+                    }, 
+                    "id": "1197648", 
+                    "name": "马特·史密斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036344/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42663.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42663.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42663.jpg"
+                    }, 
+                    "id": "1036344", 
+                    "name": "凯伦·吉兰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274423/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1404045064.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1404045064.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1404045064.94.jpg"
+                    }, 
+                    "id": "1274423", 
+                    "name": "亚瑟·达维尔"
+                }
+            ], 
+            "collect_count": 48, 
+            "directors": [], 
+            "genres": [
+                "科幻", 
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "20399058", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24439949.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24439949.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24439949.jpg"
+            }, 
+            "original_title": "Doctor Who: Best of The Companions", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "最棒的同伴", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5958595/", 
+            "casts": [], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Beeple"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "5958595", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4619643.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4619643.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4619643.jpg"
+            }, 
+            "original_title": "Kill Your Co-Workers", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "杀死你的同事", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5095915/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yuli Raizman"
+                }
+            ], 
+            "genres": [], 
+            "id": "5095915", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7665333.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7665333.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7665333.jpg"
+            }, 
+            "original_title": "Твой современник", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "你的同时代人", 
+            "year": "1967"
+        }
+    ], 
+    "title": "搜索 \"你的同伴\" 的结果", 
+    "total": 4
+}

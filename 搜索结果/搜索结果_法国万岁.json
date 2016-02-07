@@ -1,0 +1,131 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/20276520/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032624/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15249.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15249.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15249.jpg"
+                    }, 
+                    "id": "1032624", 
+                    "name": "何塞·加西亚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036804/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19944.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19944.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19944.jpg"
+                    }, 
+                    "id": "1036804", 
+                    "name": "迈克尔·扬"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1333835/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380027011.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380027011.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380027011.44.jpg"
+                    }, 
+                    "id": "1333835", 
+                    "name": "伊莎贝尔·富纳罗"
+                }
+            ], 
+            "collect_count": 3442, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036804/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19944.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19944.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19944.jpg"
+                    }, 
+                    "id": "1036804", 
+                    "name": "迈克尔·扬"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "20276520", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1856981650.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1856981650.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1856981650.jpg"
+            }, 
+            "original_title": "Vive La France", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "法国万岁", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3930000/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Josef Barta"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frank Argus"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eduard Bredun"
+                }
+            ], 
+            "collect_count": 77, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048465/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19761.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19761.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19761.jpg"
+                    }, 
+                    "id": "1048465", 
+                    "name": "卡尔·卡切纳"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "3930000", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3939744.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3939744.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3939744.jpg"
+            }, 
+            "original_title": "At' zije Republika", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "共和国万岁", 
+            "year": "1965"
+        }
+    ], 
+    "title": "搜索 \"法国万岁\" 的结果", 
+    "total": 2
+}

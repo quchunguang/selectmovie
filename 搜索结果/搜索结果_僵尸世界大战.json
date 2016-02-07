@@ -1,0 +1,977 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2132473/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054452/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1604.jpg"
+                    }, 
+                    "id": "1054452", 
+                    "name": "布拉德·皮特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314624/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365776277.2.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365776277.2.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365776277.2.jpg"
+                    }, 
+                    "id": "1314624", 
+                    "name": "米瑞·伊诺丝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009255/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29604.jpg"
+                    }, 
+                    "id": "1009255", 
+                    "name": "马修·福克斯"
+                }
+            ], 
+            "collect_count": 117046, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036561/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5038.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5038.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5038.jpg"
+                    }, 
+                    "id": "1036561", 
+                    "name": "马克·福斯特"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "2132473", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1915547683.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1915547683.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1915547683.jpg"
+            }, 
+            "original_title": "World War Z", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "僵尸世界大战", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25718135/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054452/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1604.jpg"
+                    }, 
+                    "id": "1054452", 
+                    "name": "布拉德·皮特"
+                }
+            ], 
+            "collect_count": 54, 
+            "directors": [], 
+            "genres": [
+                "动作", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "25718135", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "World War Z 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "僵尸世界大战2", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25838463/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054523/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28807.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28807.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28807.jpg"
+                    }, 
+                    "id": "1054523", 
+                    "name": "亚当·桑德勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044719/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7428.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7428.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7428.jpg"
+                    }, 
+                    "id": "1044719", 
+                    "name": "凯文·詹姆斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000015/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2555.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2555.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2555.jpg"
+                    }, 
+                    "id": "1000015", 
+                    "name": "米歇尔·莫纳汉"
+                }
+            ], 
+            "collect_count": 46833, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049716/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10680.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10680.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10680.jpg"
+                    }, 
+                    "id": "1049716", 
+                    "name": "克里斯·哥伦布"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "25838463", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2262297012.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2262297012.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2262297012.jpg"
+            }, 
+            "original_title": "Pixels", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "像素大战", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1982055/", 
+            "casts": [], 
+            "collect_count": 17, 
+            "directors": [], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "1982055", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "第三次世界大战", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "第三次世界大战", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26363237/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "冯华志"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26363237", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2237548483.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2237548483.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2237548483.jpg"
+            }, 
+            "original_title": "世界大战100年全程实录", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "世界大战100年全程实录", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25845320/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25845320", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "人民的胜利——第二次世界大战亚洲战场纪实", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "人民的胜利——第二次世界大战亚洲战场纪实", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1309044/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054435/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/567.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/567.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/567.jpg"
+                    }, 
+                    "id": "1054435", 
+                    "name": "汤姆·克鲁斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013785/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9723.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9723.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9723.jpg"
+                    }, 
+                    "id": "1013785", 
+                    "name": "达科塔·范宁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036459/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1432045499.18.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1432045499.18.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1432045499.18.jpg"
+                    }, 
+                    "id": "1036459", 
+                    "name": "米兰达·奥图"
+                }
+            ], 
+            "collect_count": 53441, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054440/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34602.jpg"
+                    }, 
+                    "id": "1054440", 
+                    "name": "史蒂文·斯皮尔伯格"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "冒险"
+            ], 
+            "id": "1309044", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1094375440.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1094375440.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1094375440.jpg"
+            }, 
+            "original_title": "War of the Worlds", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "世界之战", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26319235/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Noé Blancafort"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lauren Brady"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeff Newman"
+                }
+            ], 
+            "collect_count": 43, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jesse Baget"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Adrián Cardona"
+                }
+            ], 
+            "genres": [], 
+            "id": "26319235", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2225678495.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2225678495.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2225678495.jpg"
+            }, 
+            "original_title": "Zombieworld", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "僵尸世界", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1863100/", 
+            "casts": [], 
+            "collect_count": 731, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "BBC"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1863100", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4723777.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4723777.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4723777.jpg"
+            }, 
+            "original_title": "History of World War II", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "第二次世界大战历史全记录", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25897268/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1043243/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1043243", 
+                    "name": "唐·哈特曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013770/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15184.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15184.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15184.jpg"
+                    }, 
+                    "id": "1013770", 
+                    "name": "杰瑞米·雷纳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Don Meehan"
+                }
+            ], 
+            "collect_count": 667, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Ealer"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "25897268", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2185444092.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2185444092.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2185444092.jpg"
+            }, 
+            "original_title": "The World Wars", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "世界大战", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1956133/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jonathan Lewis"
+                }
+            ], 
+            "collect_count": 216, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marcus Kiggell"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Simon Kiggell"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1956133", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2274933917.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2274933917.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2274933917.jpg"
+            }, 
+            "original_title": "The First World War", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "第一次世界大战全记录", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3018350/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036370/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17200.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17200.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17200.jpg"
+                    }, 
+                    "id": "1036370", 
+                    "name": "C·托马斯·豪威尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1190875/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1190875", 
+                    "name": "Fred Griffith"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1203774/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1203774", 
+                    "name": "Zack Beseda"
+                }
+            ], 
+            "collect_count": 765, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036370/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17200.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17200.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17200.jpg"
+                    }, 
+                    "id": "1036370", 
+                    "name": "C·托马斯·豪威尔"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "科幻"
+            ], 
+            "id": "3018350", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2977663.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2977663.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2977663.jpg"
+            }, 
+            "original_title": "War of the Worlds 2: The Next Wave", 
+            "rating": {
+                "average": 3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "15"
+            }, 
+            "subtype": "movie", 
+            "title": "世界大战2之新的进攻", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2968729/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anthony Piana"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jack Clay"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "James Lathrop"
+                }
+            ], 
+            "collect_count": 488, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Timothy Hines"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "动作", 
+                "剧情"
+            ], 
+            "id": "2968729", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2871929.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2871929.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2871929.jpg"
+            }, 
+            "original_title": "War of the Worlds", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "世界大战争", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3805354/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1063854/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48096.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48096.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48096.jpg"
+                    }, 
+                    "id": "1063854", 
+                    "name": "Beau Billingslea"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050024/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050024", 
+                    "name": "Jim Byrnes"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tony Eusoff"
+                }
+            ], 
+            "collect_count": 380, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joe Pearson"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "动画", 
+                "冒险"
+            ], 
+            "id": "3805354", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3845119.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3845119.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3845119.jpg"
+            }, 
+            "original_title": "War of the Worlds: Goliath", 
+            "rating": {
+                "average": 5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "世界大战：歌利亚", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293523/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019142/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/41831.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/41831.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/41831.jpg"
+                    }, 
+                    "id": "1019142", 
+                    "name": "吉恩·巴瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1145223/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1364363031.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1364363031.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1364363031.39.jpg"
+                    }, 
+                    "id": "1145223", 
+                    "name": "Ann Robinson"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002877/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57518.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57518.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57518.jpg"
+                    }, 
+                    "id": "1002877", 
+                    "name": "莱斯·崔梅恩"
+                }
+            ], 
+            "collect_count": 278, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Byron Haskin"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "恐怖", 
+                "科幻"
+            ], 
+            "id": "1293523", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3350088.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3350088.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3350088.jpg"
+            }, 
+            "original_title": "The War of the Worlds", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "世界大战", 
+            "year": "1953"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2337382/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marian Kociniak"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Leonard Pietraszak"
+                }
+            ], 
+            "collect_count": 63, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tadeusz Chmielewski"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "战争"
+            ], 
+            "id": "2337382", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3144683.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3144683.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3144683.jpg"
+            }, 
+            "original_title": "Jak rozpętałem drugą wojnę światową : Ucieczka / Za bronią / Wśród swoich", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "我是怎样发动第二次世界大战的", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25894331/", 
+            "casts": [], 
+            "collect_count": 88, 
+            "directors": [], 
+            "genres": [], 
+            "id": "25894331", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2184922091.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2184922091.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2184922091.jpg"
+            }, 
+            "original_title": "Doomsday – World War I", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "彩色重现 第一次世界大战", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3804487/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019155/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34243.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34243.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34243.jpg"
+                    }, 
+                    "id": "1019155", 
+                    "name": "罗伯特·鲍威尔"
+                }
+            ], 
+            "collect_count": 36, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jonathan Martin"
+                }
+            ], 
+            "genres": [
+                "战争", 
+                "纪录片"
+            ], 
+            "id": "3804487", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3844445.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3844445.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3844445.jpg"
+            }, 
+            "original_title": "Great Raids of World War II", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "二次世界大战之海陆空突袭", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2337864/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "乙羽信子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "フランキー堺"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "松林宗恵"
+                }
+            ], 
+            "genres": [
+                "科幻"
+            ], 
+            "id": "2337864", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3917057.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3917057.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3917057.jpg"
+            }, 
+            "original_title": "世界大戦争", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "世界大战争", 
+            "year": "1961"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5220098/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036370/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17200.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17200.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17200.jpg"
+                    }, 
+                    "id": "1036370", 
+                    "name": "C·托马斯·豪威尔"
+                }
+            ], 
+            "collect_count": 23, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Michael Latt"
+                }
+            ], 
+            "genres": [
+                "科幻"
+            ], 
+            "id": "5220098", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4485227.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4485227.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4485227.jpg"
+            }, 
+            "original_title": "War of the Worlds", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "H·G·Wells的世界大战", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"僵尸世界大战\" 的结果", 
+    "total": 31
+}

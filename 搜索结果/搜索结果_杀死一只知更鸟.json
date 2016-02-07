@@ -1,0 +1,168 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1297991/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031218/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/338.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/338.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/338.jpg"
+                    }, 
+                    "id": "1031218", 
+                    "name": "格利高里·派克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1115819/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23641.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23641.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23641.jpg"
+                    }, 
+                    "id": "1115819", 
+                    "name": "约翰·梅根纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1133049/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/33821.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/33821.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/33821.jpg"
+                    }, 
+                    "id": "1133049", 
+                    "name": "弗兰克·奥弗顿"
+                }
+            ], 
+            "collect_count": 29568, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049957/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4830.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4830.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4830.jpg"
+                    }, 
+                    "id": "1049957", 
+                    "name": "罗伯特·马利根"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "1297991", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6328567.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6328567.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6328567.jpg"
+            }, 
+            "original_title": "To Kill a Mockingbird", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "杀死一只知更鸟", 
+            "year": "1962"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26543137/", 
+            "casts": [], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vera van Wolferen"
+                }
+            ], 
+            "genres": [], 
+            "id": "26543137", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2261090319.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2261090319.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2261090319.jpg"
+            }, 
+            "original_title": "How to Catch a Bird", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "如何杀死一只鸟", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10795199/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1188902/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1188902", 
+                    "name": "Eryk Lubos"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Agnieszka Pawełkiewicz"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksandra Michael"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1106663/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24818.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24818.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24818.jpg"
+                    }, 
+                    "id": "1106663", 
+                    "name": "扬·雅库布·科尔斯基"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "惊悚"
+            ], 
+            "id": "10795199", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2171500613.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2171500613.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2171500613.jpg"
+            }, 
+            "original_title": "Zabic bobra", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "干掉海狸", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"杀死一只知更鸟\" 的结果", 
+    "total": 3
+}

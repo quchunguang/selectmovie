@@ -1,0 +1,47 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1303831/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Louis de Funès"
+                }
+            ], 
+            "collect_count": 1244, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean Girault"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1303831", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1442081.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1442081.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1442081.jpg"
+            }, 
+            "original_title": "Le gendarme se marie", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "宪兵情缘", 
+            "year": "1968"
+        }
+    ], 
+    "title": "搜索 \"宪兵情缘\" 的结果", 
+    "total": 1
+}

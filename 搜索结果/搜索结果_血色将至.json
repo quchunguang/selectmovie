@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1945780/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056177/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5300.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5300.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5300.jpg"
+                    }, 
+                    "id": "1056177", 
+                    "name": "丹尼尔·戴-刘易斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027774/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/53682.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/53682.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/53682.jpg"
+                    }, 
+                    "id": "1027774", 
+                    "name": "保罗·达诺"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040598/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21779.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21779.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21779.jpg"
+                    }, 
+                    "id": "1040598", 
+                    "name": "凯文·J·奥康纳"
+                }
+            ], 
+            "collect_count": 30189, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054388/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1570.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1570.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1570.jpg"
+                    }, 
+                    "id": "1054388", 
+                    "name": "保罗·托马斯·安德森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "惊悚"
+            ], 
+            "id": "1945780", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2814424.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2814424.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2814424.jpg"
+            }, 
+            "original_title": "There Will Be Blood", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "血色将至", 
+            "year": "2007"
+        }
+    ], 
+    "title": "搜索 \"血色将至\" 的结果", 
+    "total": 1
+}

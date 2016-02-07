@@ -1,0 +1,132 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3260445/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Oksana Akinshina"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sergei Garmash"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksei Gorbunov"
+                }
+            ], 
+            "collect_count": 739, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Valeriy Todorovskiy"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "歌舞", 
+                "爱情"
+            ], 
+            "id": "3260445", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3365440.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3365440.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3365440.jpg"
+            }, 
+            "original_title": "Стиляги", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "布吉舞", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3040895/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037957/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2202.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2202.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2202.jpg"
+                    }, 
+                    "id": "1037957", 
+                    "name": "古田新太"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006103/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21096.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21096.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21096.jpg"
+                    }, 
+                    "id": "1006103", 
+                    "name": "福山雅治"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1104077/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44801.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44801.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44801.jpg"
+                    }, 
+                    "id": "1104077", 
+                    "name": "岸谷五朗"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006113/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5320.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5320.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5320.jpg"
+                    }, 
+                    "id": "1006113", 
+                    "name": "山本政志"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "大原盛雄"
+                }
+            ], 
+            "genres": [], 
+            "id": "3040895", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4495277.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4495277.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4495277.jpg"
+            }, 
+            "original_title": "アトランタ・ブギ", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "亚特兰大的布吉伍吉舞曲", 
+            "year": "1996"
+        }
+    ], 
+    "title": "搜索 \"布吉舞\" 的结果", 
+    "total": 2
+}

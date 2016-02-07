@@ -1,0 +1,375 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301419/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054427/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/604.jpg"
+                    }, 
+                    "id": "1054427", 
+                    "name": "达斯汀·霍夫曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004610/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1437981470.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1437981470.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1437981470.39.jpg"
+                    }, 
+                    "id": "1004610", 
+                    "name": "蕾妮·罗素"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34642.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34642.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34642.jpg"
+                    }, 
+                    "id": "1054534", 
+                    "name": "摩根·弗里曼"
+                }
+            ], 
+            "collect_count": 11737, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032021/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40391.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40391.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40391.jpg"
+                    }, 
+                    "id": "1032021", 
+                    "name": "沃尔夫冈·彼德森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "惊悚"
+            ], 
+            "id": "1301419", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1899701679.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1899701679.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1899701679.jpg"
+            }, 
+            "original_title": "Outbreak", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "极度恐慌", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2136441/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paul Naschy"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Julia Saly"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lola Gaos"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jacinto Molina"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "2136441", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2564406.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2564406.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2564406.jpg"
+            }, 
+            "original_title": "Panic Beats", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "极度恐慌", 
+            "year": "1983"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3118255/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "克里夫·德·杨"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗伯特·佛克特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "凯·楞次"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗伯特·A·费里提"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "3118255", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2873773.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2873773.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2873773.jpg"
+            }, 
+            "original_title": "Fear", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "极度恐慌", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305783/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Luca Barbareschi"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Salvatore Basile"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Francesca Ciardi"
+                }
+            ], 
+            "collect_count": 3236, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ruggero Deodato"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情", 
+                "恐怖"
+            ], 
+            "id": "1305783", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1654983.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1654983.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1654983.jpg"
+            }, 
+            "original_title": "Cannibal Holocaust", 
+            "rating": {
+                "average": 6.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "人食人实录", 
+            "year": "1980"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3163859/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nicolas Cage"
+                }
+            ], 
+            "collect_count": 31, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Carpenter"
+                }
+            ], 
+            "genres": [], 
+            "id": "3163859", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3540168.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3540168.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3540168.jpg"
+            }, 
+            "original_title": "Scared Straight", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "极度恐惧", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305461/", 
+            "casts": [], 
+            "collect_count": 27, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1099405/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1099405", 
+                    "name": "Ned Hockman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "斯基普 霍梅尔 (Skip Homeier)"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1305461", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3942449.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3942449.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3942449.jpg"
+            }, 
+            "original_title": "Stark Fear", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "极度恐惧", 
+            "year": "1962"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1300155/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050181/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1407406001.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1407406001.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1407406001.44.jpg"
+                    }, 
+                    "id": "1050181", 
+                    "name": "布琳克·史蒂文斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010609/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354863032.54.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354863032.54.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354863032.54.jpg"
+                    }, 
+                    "id": "1010609", 
+                    "name": "冉-迈克尔·文森特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312528/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1312528", 
+                    "name": "Jay B. Richardson"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Fred Olen Ray"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "剧情"
+            ], 
+            "id": "1300155", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6515242.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6515242.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6515242.jpg"
+            }, 
+            "original_title": "Haunting Fear", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "极度恐惧", 
+            "year": "1991"
+        }
+    ], 
+    "title": "搜索 \"极度恐慌\" 的结果", 
+    "total": 7
+}

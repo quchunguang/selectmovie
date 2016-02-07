@@ -1,0 +1,282 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1785166/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005773/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/88.jpg"
+                    }, 
+                    "id": "1005773", 
+                    "name": "克里斯蒂安·贝尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035639/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7723.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7723.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7723.jpg"
+                    }, 
+                    "id": "1035639", 
+                    "name": "史蒂夫·茨恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027205/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25959.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25959.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25959.jpg"
+                    }, 
+                    "id": "1027205", 
+                    "name": "杰瑞米·戴维斯"
+                }
+            ], 
+            "collect_count": 8714, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054397/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29614.jpg"
+                    }, 
+                    "id": "1054397", 
+                    "name": "沃纳·赫尔佐格"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "传记"
+            ], 
+            "id": "1785166", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p828964132.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p828964132.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p828964132.jpg"
+            }, 
+            "original_title": "Rescue Dawn", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "重见天日", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25884477/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1160836/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1160836", 
+                    "name": "Michael White"
+                }
+            ], 
+            "genres": [], 
+            "id": "25884477", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Azorian the Raising of the K-129", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "核潜艇重见天日", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1840765/", 
+            "casts": [], 
+            "collect_count": 48, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean-Charles Deniau"
+                }
+            ], 
+            "genres": [], 
+            "id": "1840765", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1712872.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1712872.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1712872.jpg"
+            }, 
+            "original_title": "Discovery-长毛象重见天日 ( Raising the Mammoth)", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "Discovery-长毛象重见天日 ( Raising the Mammoth)", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4901672/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324679/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1396447398.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1396447398.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1396447398.81.jpg"
+                    }, 
+                    "id": "1324679", 
+                    "name": "李绮年"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黎笑珊"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林妹妹"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "竺清贤"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "4901672", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "重见天日", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "重见天日", 
+            "year": "1937"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2977983/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曾志伟"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林正英"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "冯淬帆"
+                }
+            ], 
+            "collect_count": 619, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "庄胤建"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "2977983", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2883406.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2883406.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2883406.jpg"
+            }, 
+            "original_title": "羞羞鬼", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "羞羞鬼", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294916/", 
+            "casts": [], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杰里 詹姆森 (Jerry Jameson)"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1294916", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2578524.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2578524.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2578524.jpg"
+            }, 
+            "original_title": "Raise the Titanic", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "冲出地狱海", 
+            "year": "1980"
+        }
+    ], 
+    "title": "搜索 \"重见天日\" 的结果", 
+    "total": 6
+}

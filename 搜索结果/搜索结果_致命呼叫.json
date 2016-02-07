@@ -1,0 +1,247 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10554990/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054415/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51174.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51174.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51174.jpg"
+                    }, 
+                    "id": "1054415", 
+                    "name": "哈莉·贝瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025142/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/75.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/75.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/75.jpg"
+                    }, 
+                    "id": "1025142", 
+                    "name": "阿比盖尔·布蕾斯琳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013859/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41464.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41464.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41464.jpg"
+                    }, 
+                    "id": "1013859", 
+                    "name": "摩里斯·切斯塔特"
+                }
+            ], 
+            "collect_count": 15835, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274486/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4445.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4445.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4445.jpg"
+                    }, 
+                    "id": "1274486", 
+                    "name": "布拉德·安德森"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "10554990", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2016228486.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2016228486.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2016228486.jpg"
+            }, 
+            "original_title": "The Call", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "致命呼叫", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1401937/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eliza Dushku"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shawn Reaves"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Zach Galifianakis"
+                }
+            ], 
+            "collect_count": 266, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Phillip Noyce"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "悬疑"
+            ], 
+            "id": "1401937", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4720855.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4720855.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4720855.jpg"
+            }, 
+            "original_title": "Tru Calling", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "致命呼叫 第一季", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/22522798/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eliza Dushku"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Zach Galifianakis"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shawn Reaves"
+                }
+            ], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Katleman"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "22522798", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1901837740.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1901837740.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1901837740.jpg"
+            }, 
+            "original_title": "Tru Calling Season 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "致命呼叫 第二季 第二季", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24720271/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054392/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10323.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10323.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10323.jpg"
+                    }, 
+                    "id": "1054392", 
+                    "name": "苏珊·萨兰登"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010612/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4525.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4525.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4525.jpg"
+                    }, 
+                    "id": "1010612", 
+                    "name": "吉尔·贝罗斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036407/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3040.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3040.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3040.jpg"
+                    }, 
+                    "id": "1036407", 
+                    "name": "艾伦·伯斯汀"
+                }
+            ], 
+            "collect_count": 198, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037538/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1037538", 
+                    "name": "杰森·斯通"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "24720271", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2204720497.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2204720497.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2204720497.jpg"
+            }, 
+            "original_title": "The Calling", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "召唤", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"致命呼叫\" 的结果", 
+    "total": 4
+}

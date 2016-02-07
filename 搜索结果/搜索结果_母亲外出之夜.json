@@ -1,0 +1,126 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/25836073/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1085379/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8225.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8225.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8225.jpg"
+                    }, 
+                    "id": "1085379", 
+                    "name": "莎拉·德鲁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031818/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11727.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11727.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11727.jpg"
+                    }, 
+                    "id": "1031818", 
+                    "name": "西恩·奥斯汀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031907/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22211.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22211.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22211.jpg"
+                    }, 
+                    "id": "1031907", 
+                    "name": "帕翠西亚·希顿"
+                }
+            ], 
+            "collect_count": 1048, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342412/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1446373131.08.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1446373131.08.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1446373131.08.jpg"
+                    }, 
+                    "id": "1342412", 
+                    "name": "安德鲁·欧文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342413/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1446373056.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1446373056.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1446373056.39.jpg"
+                    }, 
+                    "id": "1342413", 
+                    "name": "乔恩·欧文"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "25836073", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2171923736.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2171923736.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2171923736.jpg"
+            }, 
+            "original_title": "Moms' Night Out", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "母亲外出之夜", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295930/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nick Nolte"
+                }
+            ], 
+            "collect_count": 64, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "基思 戈登 (Keith Gordon)"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "战争"
+            ], 
+            "id": "1295930", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1663399.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1663399.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1663399.jpg"
+            }, 
+            "original_title": "Mother Night", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "母亲之夜", 
+            "year": "1996"
+        }
+    ], 
+    "title": "搜索 \"母亲外出之夜\" 的结果", 
+    "total": 2
+}

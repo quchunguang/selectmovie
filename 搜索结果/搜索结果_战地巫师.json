@@ -1,0 +1,67 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10457306/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alain Lino Mic Eli Bastien"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317901/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41728.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41728.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41728.jpg"
+                    }, 
+                    "id": "1317901", 
+                    "name": "瑞秋·玛瓦赞"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Serge Kanyinda"
+                }
+            ], 
+            "collect_count": 2058, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305035/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/58043.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/58043.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/58043.jpg"
+                    }, 
+                    "id": "1305035", 
+                    "name": "金·诺古依"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10457306", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1586992421.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1586992421.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1586992421.jpg"
+            }, 
+            "original_title": "Rebelle", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "战地巫师", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"战地巫师\" 的结果", 
+    "total": 1
+}

@@ -1,0 +1,163 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293830/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018982/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/193.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/193.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/193.jpg"
+                    }, 
+                    "id": "1018982", 
+                    "name": "肖恩·康纳利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000011/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2091.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2091.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2091.jpg"
+                    }, 
+                    "id": "1000011", 
+                    "name": "亚历克·鲍德温"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007019/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19114.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19114.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19114.jpg"
+                    }, 
+                    "id": "1007019", 
+                    "name": "斯科特·格伦"
+                }
+            ], 
+            "collect_count": 9765, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013971/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6219.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6219.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6219.jpg"
+                    }, 
+                    "id": "1013971", 
+                    "name": "约翰·麦克蒂尔南"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "惊悚"
+            ], 
+            "id": "1293830", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4360423.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4360423.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4360423.jpg"
+            }, 
+            "original_title": "The Hunt for Red October", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "猎杀红色十月", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302171/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dominique Othenin-Girard"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "惊悚"
+            ], 
+            "id": "1302171", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Beyond Desire", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "红色猎杀", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1294960/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michael Dudikoff"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frederic Forrest"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Reiner Schöne"
+                }
+            ], 
+            "collect_count": 86, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "安德鲁 史蒂文斯 (Andrew Stevens)"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "惊悚", 
+                "剧情"
+            ], 
+            "id": "1294960", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3955483.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3955483.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3955483.jpg"
+            }, 
+            "original_title": "Crash Dive (V)", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "深海喋血", 
+            "year": "1997"
+        }
+    ], 
+    "title": "搜索 \"猎杀红色十月\" 的结果", 
+    "total": 3
+}

@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3392569/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/538.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/538.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/538.jpg"
+                    }, 
+                    "id": "1053587", 
+                    "name": "瑞秋·麦克亚当斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009238/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23541.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23541.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23541.jpg"
+                    }, 
+                    "id": "1009238", 
+                    "name": "哈里森·福特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053568/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31540.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31540.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31540.jpg"
+                    }, 
+                    "id": "1053568", 
+                    "name": "黛安·基顿"
+                }
+            ], 
+            "collect_count": 34572, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018187/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19496.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19496.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19496.jpg"
+                    }, 
+                    "id": "1018187", 
+                    "name": "罗杰·米歇尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "3392569", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p940381262.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p940381262.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p940381262.jpg"
+            }, 
+            "original_title": "Morning Glory", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "早间主播", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"早间主播\" 的结果", 
+    "total": 1
+}

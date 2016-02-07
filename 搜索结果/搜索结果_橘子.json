@@ -1,0 +1,1241 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3262935/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1109531/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365672621.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365672621.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365672621.29.jpg"
+                    }, 
+                    "id": "1109531", 
+                    "name": "休·劳瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000012/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10722.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10722.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10722.jpg"
+                    }, 
+                    "id": "1000012", 
+                    "name": "莉顿·梅斯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003488/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/64.jpg"
+                    }, 
+                    "id": "1003488", 
+                    "name": "亚当·布罗迪"
+                }
+            ], 
+            "collect_count": 3312, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1283446/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1283446", 
+                    "name": "朱利安·法里诺"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "剧情"
+            ], 
+            "id": "3262935", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11303921.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11303921.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11303921.jpg"
+            }, 
+            "original_title": "The Oranges", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "橘子", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26325496/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317433/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/40403.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/40403.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/40403.jpg"
+                    }, 
+                    "id": "1317433", 
+                    "name": "吕珍九"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317815/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51357.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51357.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51357.jpg"
+                    }, 
+                    "id": "1317815", 
+                    "name": "李宗泫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1344469/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1415005420.27.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1415005420.27.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1415005420.27.jpg"
+                    }, 
+                    "id": "1344469", 
+                    "name": "金雪炫"
+                }
+            ], 
+            "collect_count": 1000, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李炯旻"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "崔承范"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26325496", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2248420336.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2248420336.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2248420336.jpg"
+            }, 
+            "original_title": "오렌지 마말레이드", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子果酱", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2190914/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027798/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7257.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7257.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7257.jpg"
+                    }, 
+                    "id": "1027798", 
+                    "name": "周迅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1058399/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/44939.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/44939.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/44939.jpg"
+                    }, 
+                    "id": "1058399", 
+                    "name": "归亚蕾"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037715/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20776.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20776.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20776.jpg"
+                    }, 
+                    "id": "1037715", 
+                    "name": "黄磊"
+                }
+            ], 
+            "collect_count": 41114, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274842/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/45231.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/45231.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/45231.jpg"
+                    }, 
+                    "id": "1274842", 
+                    "name": "李少红"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "古装"
+            ], 
+            "id": "2190914", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2663283.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2663283.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2663283.jpg"
+            }, 
+            "original_title": "橘子红了", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子红了", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1292233/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019019/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1827.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1827.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1827.jpg"
+                    }, 
+                    "id": "1019019", 
+                    "name": "马尔科姆·麦克道威尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1125081/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1383168537.15.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1383168537.15.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1383168537.15.jpg"
+                    }, 
+                    "id": "1125081", 
+                    "name": "帕特里克·马基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1066549/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1359557994.31.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1359557994.31.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1359557994.31.jpg"
+                    }, 
+                    "id": "1066549", 
+                    "name": "迈克尔·贝茨"
+                }
+            ], 
+            "collect_count": 206846, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054533/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/46054.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/46054.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/46054.jpg"
+                    }, 
+                    "id": "1054533", 
+                    "name": "斯坦利·库布里克"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "科幻"
+            ], 
+            "id": "1292233", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p529908155.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p529908155.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p529908155.jpg"
+            }, 
+            "original_title": "A Clockwork Orange", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "发条橙", 
+            "year": "1971"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26275494/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1353155/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1449131466.44.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1449131466.44.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1449131466.44.jpg"
+                    }, 
+                    "id": "1353155", 
+                    "name": "吉塔娜·罗德里格斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1353156/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1449130440.35.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1449130440.35.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1449130440.35.jpg"
+                    }, 
+                    "id": "1353156", 
+                    "name": "米娅·泰勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336466/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1451917390.07.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1451917390.07.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1451917390.07.jpg"
+                    }, 
+                    "id": "1336466", 
+                    "name": "卡伦·卡拉古利安"
+                }
+            ], 
+            "collect_count": 4816, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1277751/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1442362378.18.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1442362378.18.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1442362378.18.jpg"
+                    }, 
+                    "id": "1277751", 
+                    "name": "肖恩·贝克"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "同性"
+            ], 
+            "id": "26275494", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2241278738.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2241278738.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2241278738.jpg"
+            }, 
+            "original_title": "Tangerine", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "橘色", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2282459/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱孝天"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄湘怡"
+                }
+            ], 
+            "collect_count": 526, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈东汉"
+                }
+            ], 
+            "genres": [], 
+            "id": "2282459", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2741820.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2741820.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2741820.jpg"
+            }, 
+            "original_title": "橘子醬男孩", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子酱男孩", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25758060/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李雪"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "宣言"
+                }
+            ], 
+            "collect_count": 241, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "周楠"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "短片"
+            ], 
+            "id": "25758060", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2156783372.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2156783372.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2156783372.jpg"
+            }, 
+            "original_title": "橘子与罗兴", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "橘子与罗兴", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4262238/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "方胜男"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "肖品高"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄育红"
+                }
+            ], 
+            "collect_count": 84, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄骥"
+                }
+            ], 
+            "genres": [], 
+            "id": "4262238", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4157262.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4157262.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4157262.jpg"
+            }, 
+            "original_title": "橘子皮的温度", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "橘子皮的温度", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3032847/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李玲君"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张伐"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "史久峰"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张客"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3032847", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3008916.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3008916.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3008916.jpg"
+            }, 
+            "original_title": "闽江橘子红", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "闽江橘子红", 
+            "year": "1956"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26658553/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄玮"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈祥祎"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈鹏"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄玮"
+                }
+            ], 
+            "genres": [], 
+            "id": "26658553", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2281000625.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2281000625.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2281000625.jpg"
+            }, 
+            "original_title": "一个吃橘子的人", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "一个吃橘子的人", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24869803/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1157203/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1423298291.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1423298291.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1423298291.29.jpg"
+                    }, 
+                    "id": "1157203", 
+                    "name": "连比特·乌尔夫萨克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007750/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1437550697.54.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1437550697.54.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1437550697.54.jpg"
+                    }, 
+                    "id": "1007750", 
+                    "name": "Elmo Nüganen"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1348849/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1348849", 
+                    "name": "Giorgi Nakashidze"
+                }
+            ], 
+            "collect_count": 2968, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1299756/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1423293050.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1423293050.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1423293050.33.jpg"
+                    }, 
+                    "id": "1299756", 
+                    "name": "萨萨·乌鲁沙泽"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "24869803", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2167417884.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2167417884.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2167417884.jpg"
+            }, 
+            "original_title": "Mandariinid", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "金橘", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1401931/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1184657/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1401873951.19.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1401873951.19.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1401873951.19.jpg"
+                    }, 
+                    "id": "1184657", 
+                    "name": "本·麦肯锡"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054222/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13573.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13573.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13573.jpg"
+                    }, 
+                    "id": "1054222", 
+                    "name": "米莎·巴顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003488/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/64.jpg"
+                    }, 
+                    "id": "1003488", 
+                    "name": "亚当·布罗迪"
+                }
+            ], 
+            "collect_count": 8949, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022741/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10295.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10295.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10295.jpg"
+                    }, 
+                    "id": "1022741", 
+                    "name": "道格·里曼"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1401931", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2262085933.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2262085933.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2262085933.jpg"
+            }, 
+            "original_title": "The O.C.", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子郡男孩  第一季", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1787265/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000419/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1393778382.24.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1393778382.24.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1393778382.24.jpg"
+                    }, 
+                    "id": "1000419", 
+                    "name": "夏洛特·科曼"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Aspinall"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1058635/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1058635", 
+                    "name": "Emily Aston"
+                }
+            ], 
+            "collect_count": 216, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1288511/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28891.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28891.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28891.jpg"
+                    }, 
+                    "id": "1288511", 
+                    "name": "比班·基德龙"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "同性"
+            ], 
+            "id": "1787265", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4617205.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4617205.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4617205.jpg"
+            }, 
+            "original_title": "Oranges Are Not The Only Fruit", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子不是唯一的水果", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3675105/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1186901/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1186901", 
+                    "name": "Louise Bourgeois"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1343375/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1343375", 
+                    "name": "Pandora Tabatabai Asbaghi"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1343376/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1343376", 
+                    "name": "Jean-Louis Bourgeois"
+                }
+            ], 
+            "collect_count": 506, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1015351/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1015351", 
+                    "name": "马里昂·卡乔里"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1341974/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1341974", 
+                    "name": "Amei Wallach"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "3675105", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1971206764.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1971206764.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1971206764.jpg"
+            }, 
+            "original_title": "Louise Bourgeois: The Spider, the Mistress and the Tangerine", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "路易斯·布尔乔亚：蜘蛛、情妇与橘子", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3921290/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1184657/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1401873951.19.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1401873951.19.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1401873951.19.jpg"
+                    }, 
+                    "id": "1184657", 
+                    "name": "本·麦肯锡"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003488/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/64.jpg"
+                    }, 
+                    "id": "1003488", 
+                    "name": "亚当·布罗迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054222/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13573.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13573.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13573.jpg"
+                    }, 
+                    "id": "1054222", 
+                    "name": "米莎·巴顿"
+                }
+            ], 
+            "collect_count": 1598, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ian Toynton"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3921290", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3932135.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3932135.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3932135.jpg"
+            }, 
+            "original_title": "The O.C.", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子郡男孩 第二季", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3921294/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1184657/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1401873951.19.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1401873951.19.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1401873951.19.jpg"
+                    }, 
+                    "id": "1184657", 
+                    "name": "本·麦肯锡"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003488/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/64.jpg"
+                    }, 
+                    "id": "1003488", 
+                    "name": "亚当·布罗迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054222/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13573.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13573.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13573.jpg"
+                    }, 
+                    "id": "1054222", 
+                    "name": "米莎·巴顿"
+                }
+            ], 
+            "collect_count": 1401, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ian Toynton"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3921294", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3932146.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3932146.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3932146.jpg"
+            }, 
+            "original_title": "The O.C.", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子郡男孩 第三季", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2268831/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1184657/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1401873951.19.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1401873951.19.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1401873951.19.jpg"
+                    }, 
+                    "id": "1184657", 
+                    "name": "本·麦肯锡"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003488/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/64.jpg"
+                    }, 
+                    "id": "1003488", 
+                    "name": "亚当·布罗迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008065/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21975.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21975.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21975.jpg"
+                    }, 
+                    "id": "1008065", 
+                    "name": "蕾切尔·比尔森"
+                }
+            ], 
+            "collect_count": 1353, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022843/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55938.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55938.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55938.jpg"
+                    }, 
+                    "id": "1022843", 
+                    "name": "乔什·施瓦兹"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "2268831", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2725174.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2725174.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2725174.jpg"
+            }, 
+            "original_title": "The O.C.", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子郡男孩 第四季", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3546015/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041970/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1377188597.4.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1377188597.4.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1377188597.4.jpg"
+                    }, 
+                    "id": "1041970", 
+                    "name": "置鲇龙太郎"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053809/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1357742924.87.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1357742924.87.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1357742924.87.jpg"
+                    }, 
+                    "id": "1053809", 
+                    "name": "国府田真里子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003697/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23348.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23348.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23348.jpg"
+                    }, 
+                    "id": "1003697", 
+                    "name": "山崎和佳奈"
+                }
+            ], 
+            "collect_count": 904, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "矢部秋则"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "3546015", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4151782.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4151782.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4151782.jpg"
+            }, 
+            "original_title": "ママレード・ボーイ", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子酱男孩", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/7153383/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Iban Garate"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Blanca Suárez"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028308/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1450619281.27.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1450619281.27.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1450619281.27.jpg"
+                    }, 
+                    "id": "1028308", 
+                    "name": "卡拉·埃雷贾德"
+                }
+            ], 
+            "collect_count": 50, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Imanol Uribe"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "7153383", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s8993946.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s8993946.jpg", 
+                "small": "https://img3.doubanio.com/spic/s8993946.jpg"
+            }, 
+            "original_title": "Miel de naranjas", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "橘子蜂蜜", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25738259/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Cenk Kangöz"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1260303/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1390152189.13.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1390152189.13.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1390152189.13.jpg"
+                    }, 
+                    "id": "1260303", 
+                    "name": "塞拉娜依.萨勒卡亚"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Çağatay Ulusoy"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ali Bilgin"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "25738259", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2167061620.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2167061620.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2167061620.jpg"
+            }, 
+            "original_title": "Medcezir 1. Sezon", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "橘子郡男孩 第一季", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"橘子\" 的结果", 
+    "total": 33
+}

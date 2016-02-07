@@ -1,0 +1,114 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298692/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054427/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/604.jpg"
+                    }, 
+                    "id": "1054427", 
+                    "name": "达斯汀·霍夫曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009241/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/103.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/103.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/103.jpg"
+                    }, 
+                    "id": "1009241", 
+                    "name": "罗宾·威廉姆斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054532/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8889.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8889.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8889.jpg"
+                    }, 
+                    "id": "1054532", 
+                    "name": "朱莉娅·罗伯茨"
+                }
+            ], 
+            "collect_count": 4456, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054440/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34602.jpg"
+                    }, 
+                    "id": "1054440", 
+                    "name": "史蒂文·斯皮尔伯格"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "家庭", 
+                "奇幻"
+            ], 
+            "id": "1298692", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1283237802.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1283237802.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1283237802.jpg"
+            }, 
+            "original_title": "Hook", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "铁钩船长", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24872860/", 
+            "casts": [], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1304710/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35544.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35544.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35544.jpg"
+                    }, 
+                    "id": "1304710", 
+                    "name": "谢立文"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "24872860", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2054386426.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2054386426.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2054386426.jpg"
+            }, 
+            "original_title": "屎钩船长", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "屎钩船长", 
+            "year": "1998"
+        }
+    ], 
+    "title": "搜索 \"铁钩船长\" 的结果", 
+    "total": 2
+}

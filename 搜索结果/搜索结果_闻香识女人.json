@@ -1,0 +1,131 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298624/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054451/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/645.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/645.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/645.jpg"
+                    }, 
+                    "id": "1054451", 
+                    "name": "阿尔·帕西诺"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009272/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1379214542.22.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1379214542.22.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1379214542.22.jpg"
+                    }, 
+                    "id": "1009272", 
+                    "name": "克里斯·奥唐纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049801/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/6174.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/6174.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/6174.jpg"
+                    }, 
+                    "id": "1049801", 
+                    "name": "詹姆斯·瑞布霍恩"
+                }
+            ], 
+            "collect_count": 345959, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055265/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4831.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4831.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4831.jpg"
+                    }, 
+                    "id": "1055265", 
+                    "name": "马丁·布莱斯"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1298624", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p925123037.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p925123037.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p925123037.jpg"
+            }, 
+            "original_title": "Scent of a Woman", 
+            "rating": {
+                "average": 8.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "闻香识女人", 
+            "year": "1992"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/19896409/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rani Mukerji拉尼·玛赫吉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1204177/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1353306610.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1353306610.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1353306610.26.jpg"
+                    }, 
+                    "id": "1204177", 
+                    "name": "Prithviraj Sukumaran "
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pakada Pandi"
+                }
+            ], 
+            "collect_count": 60, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sachin Kundalkar"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "19896409", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s22705967.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s22705967.jpg", 
+                "small": "https://img1.doubanio.com/spic/s22705967.jpg"
+            }, 
+            "original_title": "Aiyya", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "闻香识爱", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"闻香识女人\" 的结果", 
+    "total": 2
+}

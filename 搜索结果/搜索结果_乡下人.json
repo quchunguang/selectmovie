@@ -1,0 +1,479 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3014952/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018981/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20201.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20201.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20201.jpg"
+                    }, 
+                    "id": "1018981", 
+                    "name": "科洛·莫瑞兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041026/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27872.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27872.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27872.jpg"
+                    }, 
+                    "id": "1041026", 
+                    "name": "布蕾克·莱弗利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009278/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51283.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51283.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51283.jpg"
+                    }, 
+                    "id": "1009278", 
+                    "name": "罗瑞·卡尔金"
+                }
+            ], 
+            "collect_count": 3685, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037001/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1037001", 
+                    "name": "德里克·马蒂尼"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "3014952", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s9109846.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s9109846.jpg", 
+                "small": "https://img3.doubanio.com/spic/s9109846.jpg"
+            }, 
+            "original_title": "Hick", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "乡下人", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3221812/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "史戈"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1316235/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/35611.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/35611.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/35611.jpg"
+                    }, 
+                    "id": "1316235", 
+                    "name": "张晓林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "路羽"
+                }
+            ], 
+            "collect_count": 91, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "阿因"
+                }
+            ], 
+            "genres": [], 
+            "id": "3221812", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2302849217.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2302849217.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2302849217.jpg"
+            }, 
+            "original_title": "乡下人 城里人 外国人", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "乡下人 城里人 外国人", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25770198/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于运河"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于福慧"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王刚"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王志杰"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "25770198", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2242119802.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2242119802.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2242119802.jpg"
+            }, 
+            "original_title": "乡下人", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "乡下人", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1963112/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036470/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369641694.38.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369641694.38.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369641694.38.jpg"
+                    }, 
+                    "id": "1036470", 
+                    "name": "加斯帕德·尤利尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032143/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4916.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4916.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4916.jpg"
+                    }, 
+                    "id": "1032143", 
+                    "name": "玛丽-乔西·克罗兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014278/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18742.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18742.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18742.jpg"
+                    }, 
+                    "id": "1014278", 
+                    "name": "艾尔伯特·杜邦迪"
+                }
+            ], 
+            "collect_count": 1440, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019938/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1019938", 
+                    "name": "洛朗·布东纳"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情"
+            ], 
+            "id": "1963112", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1991890.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1991890.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1991890.jpg"
+            }, 
+            "original_title": "Jacquou le croquant", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "乡下人雅克", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5054198/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Valentin Vinogradov"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5054198", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6510642.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6510642.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6510642.jpg"
+            }, 
+            "original_title": "Земляки", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "乡下人", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26638529/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "26638529", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2273754272.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2273754272.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2273754272.jpg"
+            }, 
+            "original_title": "Hillbilly Horror Show", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "乡下人恐怖秀", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1805685/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mahasamut Boonyaruk"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Saengthong Gate-Uthong"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Pen-Ek Ratanaruang"
+                }
+            ], 
+            "collect_count": 4986, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275016/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28579.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28579.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28579.jpg"
+                    }, 
+                    "id": "1275016", 
+                    "name": "韦西·沙赞那庭"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻", 
+                "爱情"
+            ], 
+            "id": "1805685", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1677954.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1677954.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1677954.jpg"
+            }, 
+            "original_title": "หมานคร", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "大狗民", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2046037/", 
+            "casts": [], 
+            "collect_count": 357, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert W. Paul"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "喜剧"
+            ], 
+            "id": "2046037", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24970743.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24970743.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24970743.jpg"
+            }, 
+            "original_title": "The Countryman and the Cinematograph", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "乡下人与放映机", 
+            "year": "1901"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1306165/", 
+            "casts": [], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "默夫云 莱罗依 (Mervyn LeRoy)"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1306165", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4072878.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4072878.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4072878.jpg"
+            }, 
+            "original_title": "No Time for Sergeants", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "从军乐", 
+            "year": "1958"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3388174/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Josefina Gonzalez de Silva"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jose Luis Vallejo"
+                }
+            ], 
+            "collect_count": 77, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027182/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4294.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4294.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4294.jpg"
+                    }, 
+                    "id": "1027182", 
+                    "name": "吉尔莫·德尔·托罗"
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "剧情", 
+                "恐怖"
+            ], 
+            "id": "3388174", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3570824.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3570824.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3570824.jpg"
+            }, 
+            "original_title": "Doña Lupe", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "Doña Lupe", 
+            "year": "1985"
+        }
+    ], 
+    "title": "搜索 \"乡下人\" 的结果", 
+    "total": 10
+}

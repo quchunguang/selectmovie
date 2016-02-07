@@ -1,0 +1,160 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4049700/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032298/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20085.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20085.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20085.jpg"
+                    }, 
+                    "id": "1032298", 
+                    "name": "贝伦·鲁艾达"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000566/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37519.jpg"
+                    }, 
+                    "id": "1000566", 
+                    "name": "路易斯·奥马"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023869/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26963.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26963.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26963.jpg"
+                    }, 
+                    "id": "1023869", 
+                    "name": "帕布罗·德奎"
+                }
+            ], 
+            "collect_count": 12547, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1292439/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1352971932.75.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1352971932.75.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1352971932.75.jpg"
+                    }, 
+                    "id": "1292439", 
+                    "name": "吉列尔莫·莫拉莱斯"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "4049700", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p938695657.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p938695657.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p938695657.jpg"
+            }, 
+            "original_title": "Los ojos de Julia", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "茱莉娅的眼睛", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3110825/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "西尔维娅·克里斯蒂 Sylvia Kristel"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean-Claude Bouillon"
+                }
+            ], 
+            "collect_count": 28, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Siggi Gtz"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3110825", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1554292858.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1554292858.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1554292858.jpg"
+            }, 
+            "original_title": "Liebesschüler, Der", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "色欲茱莉娅", 
+            "year": "1974"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4052747/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Arantza Alvarez"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hugo Sanz"
+                }
+            ], 
+            "genres": [
+                "短片"
+            ], 
+            "id": "4052747", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3995821.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3995821.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3995821.jpg"
+            }, 
+            "original_title": "Los ojos de Alicia", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "阿丽西娅的眼睛", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"茱莉娅的眼睛\" 的结果", 
+    "total": 3
+}

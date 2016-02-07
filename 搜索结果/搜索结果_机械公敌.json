@@ -1,0 +1,113 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1308843/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027138/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31885.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31885.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31885.jpg"
+                    }, 
+                    "id": "1027138", 
+                    "name": "威尔·史密斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044868/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23281.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23281.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23281.jpg"
+                    }, 
+                    "id": "1044868", 
+                    "name": "布丽姬·穆娜"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031855/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13834.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13834.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13834.jpg"
+                    }, 
+                    "id": "1031855", 
+                    "name": "艾伦·图代克"
+                }
+            ], 
+            "collect_count": 153299, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027346/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9385.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9385.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9385.jpg"
+                    }, 
+                    "id": "1027346", 
+                    "name": "亚历克斯·普罗亚斯"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "悬疑", 
+                "科幻"
+            ], 
+            "id": "1308843", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p691069814.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p691069814.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p691069814.jpg"
+            }, 
+            "original_title": "I, Robot", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "我，机器人", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2266668/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027138/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31885.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31885.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31885.jpg"
+                    }, 
+                    "id": "1027138", 
+                    "name": "威尔·史密斯"
+                }
+            ], 
+            "collect_count": 2057, 
+            "directors": [], 
+            "genres": [
+                "科幻"
+            ], 
+            "id": "2266668", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4234810.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4234810.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4234810.jpg"
+            }, 
+            "original_title": "I, Robot 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "我，机器人2", 
+            "year": "2020"
+        }
+    ], 
+    "title": "搜索 \"机械公敌\" 的结果", 
+    "total": 2
+}

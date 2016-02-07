@@ -1,0 +1,169 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1295124/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031220/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44906.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44906.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44906.jpg"
+                    }, 
+                    "id": "1031220", 
+                    "name": "连姆·尼森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054393/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374649659.58.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374649659.58.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374649659.58.jpg"
+                    }, 
+                    "id": "1054393", 
+                    "name": "本·金斯利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1006956/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28941.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28941.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28941.jpg"
+                    }, 
+                    "id": "1006956", 
+                    "name": "拉尔夫·费因斯"
+                }
+            ], 
+            "collect_count": 410216, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054440/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34602.jpg"
+                    }, 
+                    "id": "1054440", 
+                    "name": "史蒂文·斯皮尔伯格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "1295124", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p492406163.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p492406163.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
+            }, 
+            "original_title": "Schindler's List", 
+            "rating": {
+                "average": 9.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "辛德勒的名单", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2027965/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carla Del Ponte"
+                }
+            ], 
+            "collect_count": 26, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marcel Schüpbach"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "2027965", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2355780.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2355780.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2355780.jpg"
+            }, 
+            "original_title": "La Liste de Carla", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "卡拉的名单", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2268749/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "文森特·罗伊塔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "鲁卡·金格立特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗伊·谢德"
+                }
+            ], 
+            "collect_count": 26, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "奇奥·西拉非尼"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "历史", 
+                "战争"
+            ], 
+            "id": "2268749", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2725002.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2725002.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2725002.jpg"
+            }, 
+            "original_title": "The Good War", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "德州46", 
+            "year": "2002"
+        }
+    ], 
+    "title": "搜索 \"辛德勒的名单\" 的结果", 
+    "total": 3
+}

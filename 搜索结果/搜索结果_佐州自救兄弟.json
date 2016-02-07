@@ -1,0 +1,144 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/25821467/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017946/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13751.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13751.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13751.jpg"
+                    }, 
+                    "id": "1017946", 
+                    "name": "艾斯·库珀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1286162/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25517.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25517.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25517.jpg"
+                    }, 
+                    "id": "1286162", 
+                    "name": "凯文·哈特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275017/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9265.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9265.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9265.jpg"
+                    }, 
+                    "id": "1275017", 
+                    "name": "肯·郑"
+                }
+            ], 
+            "collect_count": 625, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032396/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51519.jpg"
+                    }, 
+                    "id": "1032396", 
+                    "name": "蒂姆·斯托瑞"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "25821467", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2262164248.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2262164248.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2262164248.jpg"
+            }, 
+            "original_title": "Ride Along 2", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "佐州自救兄弟2", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3642895/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017946/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13751.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13751.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13751.jpg"
+                    }, 
+                    "id": "1017946", 
+                    "name": "艾斯·库珀"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010561/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3140.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3140.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3140.jpg"
+                    }, 
+                    "id": "1010561", 
+                    "name": "约翰·雷吉扎莫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1286162/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25517.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25517.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25517.jpg"
+                    }, 
+                    "id": "1286162", 
+                    "name": "凯文·哈特"
+                }
+            ], 
+            "collect_count": 3063, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032396/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51519.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51519.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51519.jpg"
+                    }, 
+                    "id": "1032396", 
+                    "name": "蒂姆·斯托瑞"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动作"
+            ], 
+            "id": "3642895", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2151430664.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2151430664.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2151430664.jpg"
+            }, 
+            "original_title": "Ride Along", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "佐州自救兄弟", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"佐州自救兄弟\" 的结果", 
+    "total": 2
+}

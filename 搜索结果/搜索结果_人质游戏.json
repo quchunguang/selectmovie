@@ -1,0 +1,57 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4905788/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040993/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23743.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23743.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23743.jpg"
+                    }, 
+                    "id": "1040993", 
+                    "name": "凯文·席格斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Devon Bostick"
+                }
+            ], 
+            "collect_count": 958, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aaron Woodley"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "4905788", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6809577.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6809577.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6809577.jpg"
+            }, 
+            "original_title": "Entitled", 
+            "rating": {
+                "average": 5.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "人质游戏", 
+            "year": "2010"
+        }
+    ], 
+    "title": "搜索 \"人质游戏\" 的结果", 
+    "total": 1
+}

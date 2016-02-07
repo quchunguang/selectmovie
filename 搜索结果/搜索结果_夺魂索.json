@@ -1,0 +1,175 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1301230/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048136/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35789.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35789.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35789.jpg"
+                    }, 
+                    "id": "1048136", 
+                    "name": "詹姆斯·斯图尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018313/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11916.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11916.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11916.jpg"
+                    }, 
+                    "id": "1018313", 
+                    "name": "约翰·道尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010651/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51432.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51432.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51432.jpg"
+                    }, 
+                    "id": "1010651", 
+                    "name": "法利·格兰杰"
+                }
+            ], 
+            "collect_count": 12791, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025185/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/302.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/302.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/302.jpg"
+                    }, 
+                    "id": "1025185", 
+                    "name": "阿尔弗雷德·希区柯克"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1301230", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2154845412.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2154845412.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2154845412.jpg"
+            }, 
+            "original_title": "Rope", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "夺魂索", 
+            "year": "1948"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10532999/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Hume Cronyn"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Farley Granger"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Patricia Hitchcock"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laurent Bouzereau"
+                }
+            ], 
+            "genres": [], 
+            "id": "10532999", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8916592.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8916592.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8916592.jpg"
+            }, 
+            "original_title": "'Rope' Unleashed", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "解开“夺魂索”", 
+            "year": "2001"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20366098/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曾志伟"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄秋生"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "廖启智"
+                }
+            ], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "黄精甫"
+                }
+            ], 
+            "genres": [], 
+            "id": "20366098", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24149762.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24149762.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24149762.jpg"
+            }, 
+            "original_title": "屠夫", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "屠夫", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"夺魂索\" 的结果", 
+    "total": 3
+}

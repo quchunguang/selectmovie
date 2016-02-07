@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5360889/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320168/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1377263407.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1377263407.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1377263407.29.jpg"
+                    }, 
+                    "id": "1320168", 
+                    "name": "杰瑞德·吉尔曼 "
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320169/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56797.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56797.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56797.jpg"
+                    }, 
+                    "id": "1320169", 
+                    "name": "卡拉·海沃德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010509/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/106.jpg"
+                    }, 
+                    "id": "1010509", 
+                    "name": "布鲁斯·威利斯"
+                }
+            ], 
+            "collect_count": 68316, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044872/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1372326428.67.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1372326428.67.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1372326428.67.jpg"
+                    }, 
+                    "id": "1044872", 
+                    "name": "韦斯·安德森"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "儿童"
+            ], 
+            "id": "5360889", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1791964116.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1791964116.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1791964116.jpg"
+            }, 
+            "original_title": "Moonrise Kingdom", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "月升王国", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"月升王国\" 的结果", 
+    "total": 1
+}

@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1438633/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044928/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7923.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7923.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7923.jpg"
+                    }, 
+                    "id": "1044928", 
+                    "name": "乔纳森·杰克逊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049510/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25083.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25083.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25083.jpg"
+                    }, 
+                    "id": "1049510", 
+                    "name": "大卫·阿奎特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049774/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1425116451.31.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1425116451.31.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1425116451.31.jpg"
+                    }, 
+                    "id": "1049774", 
+                    "name": "克里夫·罗伯逊"
+                }
+            ], 
+            "collect_count": 1299, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036906/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/12619.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12619.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/12619.jpg"
+                    }, 
+                    "id": "1036906", 
+                    "name": "米克·加里斯"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1438633", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1887024.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1887024.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1887024.jpg"
+            }, 
+            "original_title": "Riding the Bullet", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "骑弹飞行", 
+            "year": "2004"
+        }
+    ], 
+    "title": "搜索 \"骑弹飞行\" 的结果", 
+    "total": 1
+}

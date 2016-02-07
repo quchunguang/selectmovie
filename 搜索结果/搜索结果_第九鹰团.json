@@ -1,0 +1,75 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3078521/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031224/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47662.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47662.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47662.jpg"
+                    }, 
+                    "id": "1031224", 
+                    "name": "查宁·塔图姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274374/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27592.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27592.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27592.jpg"
+                    }, 
+                    "id": "1274374", 
+                    "name": "马克·斯特朗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053616/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1360070104.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1360070104.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1360070104.51.jpg"
+                    }, 
+                    "id": "1053616", 
+                    "name": "杰米·贝尔"
+                }
+            ], 
+            "collect_count": 9489, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040757/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11097.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11097.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11097.jpg"
+                    }, 
+                    "id": "1040757", 
+                    "name": "凯文·麦克唐纳"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3078521", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4534501.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4534501.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4534501.jpg"
+            }, 
+            "original_title": "The Eagle", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "迷踪：第九鹰团", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"第九鹰团\" 的结果", 
+    "total": 1
+}

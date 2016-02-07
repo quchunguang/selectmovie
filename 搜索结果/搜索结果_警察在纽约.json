@@ -1,0 +1,997 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2189642/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021999/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/17197.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/17197.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/17197.jpg"
+                    }, 
+                    "id": "1021999", 
+                    "name": "姜文"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313723/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1379952854.57.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1379952854.57.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1379952854.57.jpg"
+                    }, 
+                    "id": "1313723", 
+                    "name": "严晓频"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275275/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11543.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11543.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11543.jpg"
+                    }, 
+                    "id": "1275275", 
+                    "name": "王姬"
+                }
+            ], 
+            "collect_count": 26404, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1303060/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32710.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32710.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32710.jpg"
+                    }, 
+                    "id": "1303060", 
+                    "name": "郑晓龙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274255/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45667.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45667.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45667.jpg"
+                    }, 
+                    "id": "1274255", 
+                    "name": "冯小刚"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "2189642", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2650564.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2650564.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2650564.jpg"
+            }, 
+            "original_title": "北京人在纽约", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "北京人在纽约", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1308160/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025291/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/305.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/305.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/305.jpg"
+                    }, 
+                    "id": "1025291", 
+                    "name": "路易·德·菲耐斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054336/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18739.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18739.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18739.jpg"
+                    }, 
+                    "id": "1054336", 
+                    "name": "迈克尔·加拉布鲁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1123506/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1123506", 
+                    "name": "Christian Marin"
+                }
+            ], 
+            "collect_count": 1365, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045782/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369405658.24.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369405658.24.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369405658.24.jpg"
+                    }, 
+                    "id": "1045782", 
+                    "name": "Jean Girault"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1308160", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1108266654.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1108266654.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1108266654.jpg"
+            }, 
+            "original_title": "Le gendarme à New York", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "警察在纽约", 
+            "year": "1965"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26717827/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274235/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/805.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/805.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/805.jpg"
+                    }, 
+                    "id": "1274235", 
+                    "name": "邓超"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26717827", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "北京人在纽约2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "北京人在纽约2", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6874340/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anastasia Griffith"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tom Weston-Jones"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kyle Schmid"
+                }
+            ], 
+            "collect_count": 170, 
+            "directors": [], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "6874340", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11109010.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11109010.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11109010.jpg"
+            }, 
+            "original_title": "Copper", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "纽约警察故事 第一季", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/21760828/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "汤姆·威斯顿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "弗兰卡·波坦特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "凯尔·施密德"
+                }
+            ], 
+            "collect_count": 36, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "克拉克·约翰森"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "21760828", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2019065422.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2019065422.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2019065422.jpg"
+            }, 
+            "original_title": "Copper", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "纽约警察故事 第二季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1296820/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035643/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/989.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/989.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/989.jpg"
+                    }, 
+                    "id": "1035643", 
+                    "name": "阿诺·施瓦辛格"
+                }
+            ], 
+            "collect_count": 1024, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1297164/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1297164", 
+                    "name": "Arthur Allan Seidelman"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "家庭"
+            ], 
+            "id": "1296820", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1630444.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1630444.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1630444.jpg"
+            }, 
+            "original_title": "Hercules in New York", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "大力神在纽约", 
+            "year": "1969"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5323533/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Lennon"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Yoko Ono"
+                }
+            ], 
+            "collect_count": 90, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1283238/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1283238", 
+                    "name": "Michael Epstein"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "5323533", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2197265665.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2197265665.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2197265665.jpg"
+            }, 
+            "original_title": "LennoNYC", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "列侬在纽约", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4074374/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027840/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9858.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9858.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9858.jpg"
+                    }, 
+                    "id": "1027840", 
+                    "name": "罗杰·摩尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025239/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5181.jpg"
+                    }, 
+                    "id": "1025239", 
+                    "name": "约翰·休斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007088/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21033.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21033.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21033.jpg"
+                    }, 
+                    "id": "1007088", 
+                    "name": "帕特里克·麦克尼"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028039/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1028039", 
+                    "name": "Boris Sagal"
+                }
+            ], 
+            "genres": [], 
+            "id": "4074374", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4373141.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4373141.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4373141.jpg"
+            }, 
+            "original_title": "Sherlock Holmes in New York", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "福尔摩斯在纽约", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24530661/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "BD Wong"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marc and Chesney Doyle"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "24530661", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "China: West Meets East at The Metropolitan Museum of Art", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "纽约大都会艺术博物馆：中国艺术在西方", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25749864/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Essie Davis"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tom Hollander"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ewen Bremner"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aisling Walsh"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "传记", 
+                "爱情"
+            ], 
+            "id": "25749864", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2210282523.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2210282523.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2210282523.jpg"
+            }, 
+            "original_title": "A Poet in New York", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "诗人在纽约", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25798125/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045193/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1045193", 
+                    "name": "Matt Burns"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1047890/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6500.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6500.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6500.jpg"
+                    }, 
+                    "id": "1047890", 
+                    "name": "卡拉·奎沃多"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steeve Cazaux"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1294575/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48866.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48866.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48866.jpg"
+                    }, 
+                    "id": "1294575", 
+                    "name": "马丁·皮罗杨斯基"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "25798125", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2262746407.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2262746407.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2262746407.jpg"
+            }, 
+            "original_title": "Abril en Nueva York", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "四月在纽约", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5071182/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert R. Snody"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5071182", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Middleton Family at the New York World's Fair", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "米德尔顿一家人在纽约世博会上", 
+            "year": "1939"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26276450/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jeremy Rocklin"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26276450", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Dollars and Dreams: West Africans in New York", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "美元与美国梦：西非移民在纽约", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305441/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012646/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/125.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/125.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/125.jpg"
+                    }, 
+                    "id": "1012646", 
+                    "name": "张艾嘉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274231/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/793.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/793.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/793.jpg"
+                    }, 
+                    "id": "1274231", 
+                    "name": "张曼玉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274429/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38254.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38254.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38254.jpg"
+                    }, 
+                    "id": "1274429", 
+                    "name": "斯琴高娃"
+                }
+            ], 
+            "collect_count": 4065, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028510/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1645.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1645.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1645.jpg"
+                    }, 
+                    "id": "1028510", 
+                    "name": "关锦鹏"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1305441", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1417140.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1417140.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1417140.jpg"
+            }, 
+            "original_title": "人在紐約", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "人在纽约", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4901631/", 
+            "casts": [], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kim Jun Ok"
+                }
+            ], 
+            "genres": [], 
+            "id": "4901631", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4403647.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4403647.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4403647.jpg"
+            }, 
+            "original_title": "狮王在纽约", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "simba jr in new york", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26647098/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26647098", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "当我们爱在纽约", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "当我们爱在纽约", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26647100/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26647100", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2276814578.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2276814578.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2276814578.jpg"
+            }, 
+            "original_title": "当我们混在纽约", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "当我们混在纽约", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3057495/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040997/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33013.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33013.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33013.jpg"
+                    }, 
+                    "id": "1040997", 
+                    "name": "理查·基尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053573/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5062.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5062.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5062.jpg"
+                    }, 
+                    "id": "1053573", 
+                    "name": "唐·钱德尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018984/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25602.jpg"
+                    }, 
+                    "id": "1018984", 
+                    "name": "伊桑·霍克"
+                }
+            ], 
+            "collect_count": 7617, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013907/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4108.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4108.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4108.jpg"
+                    }, 
+                    "id": "1013907", 
+                    "name": "安东尼·福奎阿"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "剧情"
+            ], 
+            "id": "3057495", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4088337.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4088337.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4088337.jpg"
+            }, 
+            "original_title": "Brooklyn's Finest", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "布鲁克林警察", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3607877/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004587/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36527.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36527.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36527.jpg"
+                    }, 
+                    "id": "1004587", 
+                    "name": "约翰·赫特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013900/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33058.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33058.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33058.jpg"
+                    }, 
+                    "id": "1013900", 
+                    "name": "丹尼斯·欧哈拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017994/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24602.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24602.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24602.jpg"
+                    }, 
+                    "id": "1017994", 
+                    "name": "乔纳森·塔克"
+                }
+            ], 
+            "collect_count": 4822, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Richard Laxton"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "同性"
+            ], 
+            "id": "3607877", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4203266.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4203266.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4203266.jpg"
+            }, 
+            "original_title": "An Englishman in New York", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "英国人在纽约", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3289752/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Majandra Delfino"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Nicholas Brendon"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ethan Embry"
+                }
+            ], 
+            "collect_count": 175, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Larry Shaw"
+                }
+            ], 
+            "genres": [], 
+            "id": "3289752", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3548703.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3548703.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3548703.jpg"
+            }, 
+            "original_title": "Celeste in the City", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "西莉斯在纽约", 
+            "year": "2004"
+        }
+    ], 
+    "title": "搜索 \"警察在纽约\" 的结果", 
+    "total": 26
+}

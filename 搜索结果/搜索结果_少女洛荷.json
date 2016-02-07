@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6970906/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1323645/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57133.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57133.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57133.jpg"
+                    }, 
+                    "id": "1323645", 
+                    "name": "莎斯琪亚·罗森道尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327455/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1371194429.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1371194429.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1371194429.37.jpg"
+                    }, 
+                    "id": "1327455", 
+                    "name": "内勒·特雷布斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1327454/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1371196528.21.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1371196528.21.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1371196528.21.jpg"
+                    }, 
+                    "id": "1327454", 
+                    "name": "安德烈· 弗雷德"
+                }
+            ], 
+            "collect_count": 3303, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023398/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4287.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4287.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4287.jpg"
+                    }, 
+                    "id": "1023398", 
+                    "name": "凯特·休特兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚", 
+                "战争"
+            ], 
+            "id": "6970906", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10309277.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10309277.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10309277.jpg"
+            }, 
+            "original_title": "Lore", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "少女洛荷", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"少女洛荷\" 的结果", 
+    "total": 1
+}

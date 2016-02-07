@@ -1,0 +1,1032 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3442220/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1078180/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1078180", 
+                    "name": "John Chisholm"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1227436/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1227436", 
+                    "name": "Mandy-Rae Cruikshank"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Charles Hambleton"
+                }
+            ], 
+            "collect_count": 196777, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1324808/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1354247528.95.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1354247528.95.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1354247528.95.jpg"
+                    }, 
+                    "id": "1324808", 
+                    "name": "路易·西霍尤斯"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "3442220", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p455222172.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p455222172.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p455222172.jpg"
+            }, 
+            "original_title": "The Cove", 
+            "rating": {
+                "average": 9.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "海豚湾", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11600079/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313736/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1389112994.03.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1389112994.03.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1389112994.03.jpg"
+                    }, 
+                    "id": "1313736", 
+                    "name": "吴中天"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金小曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002051/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/27568.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/27568.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/27568.jpg"
+                    }, 
+                    "id": "1002051", 
+                    "name": "黄志玮"
+                }
+            ], 
+            "collect_count": 194, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1280584/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1362915519.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1362915519.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1362915519.48.jpg"
+                    }, 
+                    "id": "1280584", 
+                    "name": "陈以文"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "11600079", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2078000842.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2078000842.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2078000842.jpg"
+            }, 
+            "original_title": "戀戀海灣", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "恋恋海湾", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3273705/", 
+            "casts": [], 
+            "collect_count": 59, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3273705", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3332363.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3332363.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3332363.jpg"
+            }, 
+            "original_title": "富豪海湾至尊家缘", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "富豪海湾至尊家缘", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5958598/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "宣萱"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李克勤"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "蒙嘉慧"
+                }
+            ], 
+            "collect_count": 42, 
+            "directors": [], 
+            "genres": [], 
+            "id": "5958598", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4619645.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4619645.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4619645.jpg"
+            }, 
+            "original_title": "富豪海湾非凡情缘", 
+            "rating": {
+                "average": 6.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "富豪海湾非凡情缘", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307863/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "曹景阳"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mingao Chen"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Xin Di"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shui Ai"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Xuezhe Yan"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "1307863", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3336087.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3336087.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3336087.jpg"
+            }, 
+            "original_title": "兰色的海湾", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "兰色的海湾", 
+            "year": "1978"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4030461/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石原裕次郎"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "華欣"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "芦川いづみ"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "松尾昭典"
+                }
+            ], 
+            "genres": [], 
+            "id": "4030461", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2197302793.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2197302793.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2197302793.jpg"
+            }, 
+            "original_title": "海灣風雲", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "海湾风云", 
+            "year": "1962"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26605952/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王静"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317187/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38944.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38944.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38944.jpg"
+                    }, 
+                    "id": "1317187", 
+                    "name": "詹小楠"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高秀敏"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张毅燃 吴华俊"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26605952", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "金色海湾", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "金色海湾", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5325335/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317101/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38588.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38588.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38588.jpg"
+                    }, 
+                    "id": "1317101", 
+                    "name": "克里斯托弗·邓汉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1229657/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/43677.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/43677.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/43677.jpg"
+                    }, 
+                    "id": "1229657", 
+                    "name": "迈克尔·比斯利"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kether Donohue"
+                }
+            ], 
+            "collect_count": 1674, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002774/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17296.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17296.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17296.jpg"
+                    }, 
+                    "id": "1002774", 
+                    "name": "巴瑞·莱文森"
+                }
+            ], 
+            "genres": [
+                "科幻", 
+                "惊悚", 
+                "恐怖"
+            ], 
+            "id": "5325335", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1831653269.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1831653269.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1831653269.jpg"
+            }, 
+            "original_title": "The Bay", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "恐怖海湾", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1884675/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054437/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/614.jpg"
+                    }, 
+                    "id": "1054437", 
+                    "name": "梅丽尔·斯特里普"
+                }
+            ], 
+            "collect_count": 76, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Greg MacGillivray"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "1884675", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1824930.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1824930.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1824930.jpg"
+            }, 
+            "original_title": "Hurricane on the Bayou", 
+            "rating": {
+                "average": 7.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "海湾的飓风", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26650012/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275807/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1386248604.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1386248604.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1386248604.94.jpg"
+                    }, 
+                    "id": "1275807", 
+                    "name": "室毅"
+                }
+            ], 
+            "collect_count": 254, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26650012", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2279845909.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2279845909.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2279845909.jpg"
+            }, 
+            "original_title": "ドキュメント72時間 木更津 湾岸・大盛り弁当屋ブルース", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "纪实72小时 木更津海湾大分量便当店的蓝调", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1969165/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Frédéric Malgras"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009553/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22240.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22240.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22240.jpg"
+                    }, 
+                    "id": "1009553", 
+                    "name": "法伊娜·乔康"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027537/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4017.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4017.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4017.jpg"
+                    }, 
+                    "id": "1027537", 
+                    "name": "罗珊娜·马奎达"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Manuel Pradal"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1969165", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2035498.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2035498.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2035498.jpg"
+            }, 
+            "original_title": "Marie Baie des Anges", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "来自天使海湾的玛丽", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1307007/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009654/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1009654", 
+                    "name": "Alexander Nevsky"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aleksandr Abdulov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marat Basharov"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041833/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/13847.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/13847.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/13847.jpg"
+                    }, 
+                    "id": "1041833", 
+                    "name": "埃利达尔·梁赞诺夫"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "1307007", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s8514495.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s8514495.jpg", 
+                "small": "https://img3.doubanio.com/spic/s8514495.jpg"
+            }, 
+            "original_title": "Тихие омуты", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "寂静的海湾", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3242518/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "阿曼达·巴顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1090404/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1090404", 
+                    "name": "Thomas Downey"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049947/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1437282826.2.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1437282826.2.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1437282826.2.jpg"
+                    }, 
+                    "id": "1049947", 
+                    "name": "格里夫·弗斯特"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gary Jones"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "3242518", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3292754.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3292754.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3292754.jpg"
+            }, 
+            "original_title": "Jolly Roger", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "复活海盗:血洗海湾", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302891/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1115919/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56248.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56248.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56248.jpg"
+                    }, 
+                    "id": "1115919", 
+                    "name": "Pamela Sue Martin"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013872/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14359.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14359.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14359.jpg"
+                    }, 
+                    "id": "1013872", 
+                    "name": "提姆·麦锡森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1063762/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397388779.98.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397388779.98.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397388779.98.jpg"
+                    }, 
+                    "id": "1063762", 
+                    "name": "Barbara Billingsley"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "卡尔 谢恩克尔 (Carl Schenkel)"
+                }
+            ], 
+            "genres": [
+                "惊栗", 
+                "恐怖"
+            ], 
+            "id": "1302891", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2192192664.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2192192664.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2192192664.jpg"
+            }, 
+            "original_title": "Bay Coven (TV)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "海湾惊梦", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3175128/", 
+            "casts": [], 
+            "collect_count": 11, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3175128", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3217328.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3217328.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3217328.jpg"
+            }, 
+            "original_title": "Journeys to the bottom of the sea:The Lost Fleet", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "海底世界揭秘:消失在海湾", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25759748/", 
+            "casts": [], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shaina Anand"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ashok Sukumaran"
+                }
+            ], 
+            "genres": [
+                "历史", 
+                "纪录片", 
+                "音乐"
+            ], 
+            "id": "25759748", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "From Gulf to Gulf to Gulf", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "水手与海湾", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4073631/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1079441/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1408763292.82.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1408763292.82.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1408763292.82.jpg"
+                    }, 
+                    "id": "1079441", 
+                    "name": "Grace Darmond"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1166090/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1166090", 
+                    "name": "Niles Welch"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Herbert Fortier"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Wray Bartlett Physioc"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "4073631", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2153309796.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2153309796.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2153309796.jpg"
+            }, 
+            "original_title": "The Gulf Between", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "海湾之恋", 
+            "year": "1917"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24839490/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ayberk Pekcan"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alpay Kemal Atalan"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1181771/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1409929613.88.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1409929613.88.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1409929613.88.jpg"
+                    }, 
+                    "id": "1181771", 
+                    "name": "塞丽麦·伊根赤"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Şafak Bakkalbaşıoğlu"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "24839490", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2017514322.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2017514322.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2017514322.jpg"
+            }, 
+            "original_title": "Körfez Ateşi", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "海湾消防", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305782/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032294/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/15029.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/15029.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/15029.jpg"
+                    }, 
+                    "id": "1032294", 
+                    "name": "约翰·加菲尔德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007113/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1388571718.34.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1388571718.34.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1388571718.34.jpg"
+                    }, 
+                    "id": "1007113", 
+                    "name": "艾达·卢皮诺"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1124117/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5001.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5001.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5001.jpg"
+                    }, 
+                    "id": "1124117", 
+                    "name": "托马斯·米切尔"
+                }
+            ], 
+            "collect_count": 29, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048326/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52348.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52348.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52348.jpg"
+                    }, 
+                    "id": "1048326", 
+                    "name": "安纳托尔·李维克"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "黑色电影"
+            ], 
+            "id": "1305782", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4614543.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4614543.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4614543.jpg"
+            }, 
+            "original_title": "Out of the Fog", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "雾中来客", 
+            "year": "1941"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26630530/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "鈴木亮平"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "本上まなみ"
+                }
+            ], 
+            "collect_count": 19, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "26630530", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2270926274.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2270926274.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2270926274.jpg"
+            }, 
+            "original_title": "鈴木亮平“世界ミステリー遺産”に挑む！「アドリア海縦断」", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "铃木亮平探寻迷之人间瑰宝 橫穿亚得里亚海湾", 
+            "year": "2015"
+        }
+    ], 
+    "title": "搜索 \"海湾\" 的结果", 
+    "total": 25
+}

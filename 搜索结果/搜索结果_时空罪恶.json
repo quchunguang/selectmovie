@@ -1,0 +1,73 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/2301242/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028308/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1450619281.27.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1450619281.27.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1450619281.27.jpg"
+                    }, 
+                    "id": "1028308", 
+                    "name": "卡拉·埃雷贾德"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Candela Fernández"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1101560/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23466.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23466.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23466.jpg"
+                    }, 
+                    "id": "1101560", 
+                    "name": "芭芭拉·格娜加"
+                }
+            ], 
+            "collect_count": 19483, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1306843/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51993.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51993.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51993.jpg"
+                    }, 
+                    "id": "1306843", 
+                    "name": "那奇欧·维加隆多"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑", 
+                "科幻"
+            ], 
+            "id": "2301242", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1533792590.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1533792590.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1533792590.jpg"
+            }, 
+            "original_title": "Los cronocrímenes", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "时空罪恶", 
+            "year": "2007"
+        }
+    ], 
+    "title": "搜索 \"时空罪恶\" 的结果", 
+    "total": 1
+}

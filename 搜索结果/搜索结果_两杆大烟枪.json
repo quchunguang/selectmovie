@@ -1,0 +1,134 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293350/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027179/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2028.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2028.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2028.jpg"
+                    }, 
+                    "id": "1027179", 
+                    "name": "杰森·弗莱明"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007028/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/8696.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/8696.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/8696.jpg"
+                    }, 
+                    "id": "1007028", 
+                    "name": "德克斯特·弗莱彻"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014074/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6761.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6761.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6761.jpg"
+                    }, 
+                    "id": "1014074", 
+                    "name": "尼克·莫兰"
+                }
+            ], 
+            "collect_count": 291321, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025148/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38048.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38048.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38048.jpg"
+                    }, 
+                    "id": "1025148", 
+                    "name": "盖·里奇"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "1293350", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p792443418.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p792443418.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p792443418.jpg"
+            }, 
+            "original_title": "Lock, Stock and Two Smoking Barrels", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "两杆大烟枪", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1925300/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Daniel Caltagirone"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Scott Maslen"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shaun Parkes"
+                }
+            ], 
+            "collect_count": 412, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038789/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1038789", 
+                    "name": "大卫·萨克尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "1925300", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2216270382.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2216270382.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2216270382.jpg"
+            }, 
+            "original_title": "Lock, Stock...", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "两杆大烟枪 续篇", 
+            "year": "2000"
+        }
+    ], 
+    "title": "搜索 \"两杆大烟枪\" 的结果", 
+    "total": 2
+}

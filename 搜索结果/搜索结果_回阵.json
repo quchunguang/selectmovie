@@ -1,0 +1,61 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/5154001/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "布莱恩·普莱斯列"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "库尔特·拉塞尔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "梅兰妮·林斯基"
+                }
+            ], 
+            "collect_count": 1476, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Don Handfield"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭", 
+                "奇幻"
+            ], 
+            "id": "5154001", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s8912280.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s8912280.jpg", 
+                "small": "https://img3.doubanio.com/spic/s8912280.jpg"
+            }, 
+            "original_title": "Touchback", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "回阵", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"回阵\" 的结果", 
+    "total": 1
+}

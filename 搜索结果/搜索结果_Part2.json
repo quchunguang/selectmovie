@@ -1,0 +1,630 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/25777594/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028166/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/327.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/327.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/327.jpg"
+                    }, 
+                    "id": "1028166", 
+                    "name": "山田孝之"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314909/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354602963.53.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354602963.53.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354602963.53.jpg"
+                    }, 
+                    "id": "1314909", 
+                    "name": "绫野刚"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1052098/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365943165.63.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365943165.63.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365943165.63.jpg"
+                    }, 
+                    "id": "1052098", 
+                    "name": "崎本大海"
+                }
+            ], 
+            "collect_count": 2489, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1344769/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1344769", 
+                    "name": "山口雅俊"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "25777594", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2176802562.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2176802562.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2176802562.jpg"
+            }, 
+            "original_title": "闇金ウシジマくん Part2", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "暗金丑岛君2", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25021649/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018667/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/36735.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/36735.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/36735.jpg"
+                    }, 
+                    "id": "1018667", 
+                    "name": "长泽雅美"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274835/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6541.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6541.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6541.jpg"
+                    }, 
+                    "id": "1274835", 
+                    "name": "沟端淳平"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1035579/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1474.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1474.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1474.jpg"
+                    }, 
+                    "id": "1035579", 
+                    "name": "竹中直人"
+                }
+            ], 
+            "collect_count": 1640, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "塚本連平"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "秋山純"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "星野和成"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小松隆志"
+                }
+            ], 
+            "genres": [], 
+            "id": "25021649", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2303539733.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2303539733.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2303539733.jpg"
+            }, 
+            "original_title": "都市伝説の女 Part2", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "都市传说之女 第二季", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4899575/", 
+            "casts": [], 
+            "collect_count": 755, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Corridor Digital"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "a Los Angeles-based VFX Company"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sam Gorski"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Niko Pueringer"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "短片"
+            ], 
+            "id": "4899575", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4401763.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4401763.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4401763.jpg"
+            }, 
+            "original_title": "Call of Duty Modern Warfare: Frozen Crossing.part2", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "使命召唤6：现代战争2 真人版 第二部", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25854560/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "永山たかし"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "瀬戸早妃"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杉山彦々"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "横井健司"
+                }
+            ], 
+            "genres": [], 
+            "id": "25854560", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2176173699.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2176173699.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2176173699.jpg"
+            }, 
+            "original_title": "映画 ハッピーネガティブマリッジ Part2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "纯情佳偶(下)", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/22276569/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "ビデオ工房ＡＫＡＭＥ"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "22276569", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "離婚を選んだ女たち Part2 SEX", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "離婚を選んだ女たち Part2 SEX", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26381787/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "鈴木清"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "26381787", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "プロ野球を10倍楽しく見る方法PART2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "プロ野球を10倍楽しく見る方法PART2", 
+            "year": "1984"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26703793/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "佐藤寛太"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "美沙玲奈"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陣内孝則"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "溝口稔"
+                }
+            ], 
+            "genres": [], 
+            "id": "26703793", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "イタズラなKiss THE MOVIE Part2 キャンパス編", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "イタズラなKiss THE MOVIE Part2 キャンパス編", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1925049/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1051729/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/31980.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/31980.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/31980.jpg"
+                    }, 
+                    "id": "1051729", 
+                    "name": "森迫永依"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1038600/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1426690253.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1426690253.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1426690253.29.jpg"
+                    }, 
+                    "id": "1038600", 
+                    "name": "美山加恋"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023470/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3155.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3155.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3155.jpg"
+                    }, 
+                    "id": "1023470", 
+                    "name": "福田麻由子"
+                }
+            ], 
+            "collect_count": 3841, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320369/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320369", 
+                    "name": "西浦正记 "
+                }
+            ], 
+            "genres": [
+                "短片", 
+                "家庭"
+            ], 
+            "id": "1925049", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2152435311.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2152435311.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2152435311.jpg"
+            }, 
+            "original_title": "ちびまる子ちゃん 実写版 第2弾", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "樱桃小丸子 真人版2", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10833893/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275869/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1360094483.49.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1360094483.49.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1360094483.49.jpg"
+                    }, 
+                    "id": "1275869", 
+                    "name": "汪东城 "
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275450/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11126.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11126.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11126.jpg"
+                    }, 
+                    "id": "1275450", 
+                    "name": "曾沛慈"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "文雨非"
+                }
+            ], 
+            "collect_count": 2298, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "柯政铭"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320770/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1320770", 
+                    "name": "林清芳"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "奇幻"
+            ], 
+            "id": "10833893", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2248966001.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2248966001.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2248966001.jpg"
+            }, 
+            "original_title": "終極一班2", 
+            "rating": {
+                "average": 5.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "终极一班2", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3526311/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1020058/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40701.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40701.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40701.jpg"
+                    }, 
+                    "id": "1020058", 
+                    "name": "矢尾一树"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1043324/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55618.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55618.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55618.jpg"
+                    }, 
+                    "id": "1043324", 
+                    "name": "川村万梨阿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1008277/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4537.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4537.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4537.jpg"
+                    }, 
+                    "id": "1008277", 
+                    "name": "盐泽兼人"
+                }
+            ], 
+            "collect_count": 134, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1033675/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19559.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19559.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19559.jpg"
+                    }, 
+                    "id": "1033675", 
+                    "name": "板野一郎"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1052326/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/44335.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/44335.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/44335.jpg"
+                    }, 
+                    "id": "1052326", 
+                    "name": "石黑升"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "爱情", 
+                "科幻"
+            ], 
+            "id": "3526311", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6965446.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6965446.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6965446.jpg"
+            }, 
+            "original_title": "メガゾーン23 Part II 秘密く・だ・さ・い", 
+            "rating": {
+                "average": 8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "无限地带23Ⅱ：告诉我你的秘密", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26660985/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "秋野暢子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "松橋登"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "市原悦子"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "26660985", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "呪いの館", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "呪いの館", 
+            "year": "1979"
+        }
+    ], 
+    "title": "搜索 \"Part2\" 的结果", 
+    "total": 11
+}

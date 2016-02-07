@@ -1,0 +1,144 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1757927/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1088892/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1427704603.26.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1427704603.26.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1427704603.26.jpg"
+                    }, 
+                    "id": "1088892", 
+                    "name": "Karel Fiala"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1113298/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34149.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34149.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34149.jpg"
+                    }, 
+                    "id": "1113298", 
+                    "name": "米洛斯·科佩基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1085869/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1085869", 
+                    "name": "Kveta Fialová"
+                }
+            ], 
+            "collect_count": 707, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012705/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/19796.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/19796.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/19796.jpg"
+                    }, 
+                    "id": "1012705", 
+                    "name": "奥德里奇·利普斯基"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "喜剧", 
+                "歌舞"
+            ], 
+            "id": "1757927", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3307491.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3307491.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3307491.jpg"
+            }, 
+            "original_title": "Limonádový Joe aneb Konská opera", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "雷蒙纳多·乔", 
+            "year": "1964"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3668152/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1120287/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1120287", 
+                    "name": "Robert Livingston"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009245/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1009245", 
+                    "name": "雷蒙德·哈顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048304/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1048304", 
+                    "name": "邓肯·伦纳多"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012710/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1012710", 
+                    "name": "George Sherman"
+                }
+            ], 
+            "genres": [
+                "西部"
+            ], 
+            "id": "3668152", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Cowboys from Texas", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Cowboys from Texas", 
+            "year": "1939"
+        }
+    ], 
+    "title": "搜索 \"雷蒙纳多·乔\" 的结果", 
+    "total": 2
+}

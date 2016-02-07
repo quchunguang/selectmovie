@@ -1,0 +1,124 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10342838/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044721/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1459.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1459.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1459.jpg"
+                    }, 
+                    "id": "1044721", 
+                    "name": "丹尼·特雷霍"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025174/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23535.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23535.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23535.jpg"
+                    }, 
+                    "id": "1025174", 
+                    "name": "米歇尔·罗德里格兹"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055987/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33893.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33893.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33893.jpg"
+                    }, 
+                    "id": "1055987", 
+                    "name": "索菲娅·维加拉"
+                }
+            ], 
+            "collect_count": 9370, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019016/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/217.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/217.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/217.jpg"
+                    }, 
+                    "id": "1019016", 
+                    "name": "罗伯特·罗德里格兹"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "10342838", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2156580336.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2156580336.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2156580336.jpg"
+            }, 
+            "original_title": "Machete Kills", 
+            "rating": {
+                "average": 5.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "弯刀杀戮", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10342837/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044721/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1459.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1459.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1459.jpg"
+                    }, 
+                    "id": "1044721", 
+                    "name": "丹尼·特雷霍"
+                }
+            ], 
+            "collect_count": 93, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019016/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/217.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/217.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/217.jpg"
+                    }, 
+                    "id": "1019016", 
+                    "name": "罗伯特·罗德里格兹"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "10342837", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s11137270.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s11137270.jpg", 
+                "small": "https://img3.doubanio.com/spic/s11137270.jpg"
+            }, 
+            "original_title": "Machete Kills in Space", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "弯刀杀向太空", 
+            "year": "2016"
+        }
+    ], 
+    "title": "搜索 \"弯刀杀戮\" 的结果", 
+    "total": 2
+}

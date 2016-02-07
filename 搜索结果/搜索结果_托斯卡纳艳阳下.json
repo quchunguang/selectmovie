@@ -1,0 +1,460 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1307052/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053615/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6635.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6635.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6635.jpg"
+                    }, 
+                    "id": "1053615", 
+                    "name": "戴安·琳恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022742/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/15.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/15.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/15.jpg"
+                    }, 
+                    "id": "1022742", 
+                    "name": "雷欧·波瓦"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010565/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/10245.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/10245.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/10245.jpg"
+                    }, 
+                    "id": "1010565", 
+                    "name": "吴珊卓"
+                }
+            ], 
+            "collect_count": 30572, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045444/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24799.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24799.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24799.jpg"
+                    }, 
+                    "id": "1045444", 
+                    "name": "奥黛丽·威尔斯"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "1307052", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p510725258.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p510725258.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510725258.jpg"
+            }, 
+            "original_title": "Under the Tuscan Sun", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "托斯卡纳艳阳下", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26271094/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274224/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36798.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36798.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36798.jpg"
+                    }, 
+                    "id": "1274224", 
+                    "name": "周冬雨"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1205325/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11407.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11407.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11407.jpg"
+                    }, 
+                    "id": "1205325", 
+                    "name": "李准基"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1259866/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21006.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21006.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21006.jpg"
+                    }, 
+                    "id": "1259866", 
+                    "name": "阮经天"
+                }
+            ], 
+            "collect_count": 38, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315733/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/37115.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/37115.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/37115.jpg"
+                    }, 
+                    "id": "1315733", 
+                    "name": "林育贤"
+                }
+            ], 
+            "genres": [
+                "爱情"
+            ], 
+            "id": "26271094", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2250368388.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2250368388.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2250368388.jpg"
+            }, 
+            "original_title": "西西里艳阳下", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "西西里艳阳下", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3337821/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "施宁"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "范艳"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张国志"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3337821", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4240776.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4240776.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4240776.jpg"
+            }, 
+            "original_title": "小城艳阳下", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "小城艳阳下", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4097120/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paolo Briguglia"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alessandro Gassman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Giovanna Mezzogiorno"
+                }
+            ], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rocco Papaleo"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "歌舞"
+            ], 
+            "id": "4097120", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4348842.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4348842.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4348842.jpg"
+            }, 
+            "original_title": "Basilicata Coast to Coast", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "巴斯利卡塔艳阳下", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1329387/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050073/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/38429.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/38429.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/38429.jpg"
+                    }, 
+                    "id": "1050073", 
+                    "name": "安德烈·波切利"
+                }
+            ], 
+            "collect_count": 786, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1300615/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1300615", 
+                    "name": "Larry Weinstein"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "音乐"
+            ], 
+            "id": "1329387", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1499348.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1499348.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1499348.jpg"
+            }, 
+            "original_title": "Tuscan Skies", 
+            "rating": {
+                "average": 9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "托斯卡纳的天空", 
+            "year": "2002"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3034290/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andrea Bocelli"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kenny G"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Heather Headley"
+                }
+            ], 
+            "collect_count": 320, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3034290", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3198414.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3198414.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3198414.jpg"
+            }, 
+            "original_title": "Andrea Bocelli : Vivere Live in Tuscany", 
+            "rating": {
+                "average": 9.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "Andrea Bocelli 2007意大利托斯卡纳演唱会", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1494995/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andrea Bocelli"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sarah Brightman"
+                }
+            ], 
+            "collect_count": 118, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Amphlett"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "音乐"
+            ], 
+            "id": "1494995", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s1505136.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s1505136.jpg", 
+                "small": "https://img3.doubanio.com/spic/s1505136.jpg"
+            }, 
+            "original_title": "Andrea Bocelli: A Night in Tuscany", 
+            "rating": {
+                "average": 9.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "安德烈·波切利：托斯卡纳之夜", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25862344/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sophie van Oers"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Simone Kleinsma"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jan Kooijman"
+                }
+            ], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Johan Nijenhuis"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "25862344", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2177933687.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2177933687.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2177933687.jpg"
+            }, 
+            "original_title": "Toscaanse bruiloft", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "托斯卡纳婚礼", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26302564/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "日本TBS"
+                }
+            ], 
+            "genres": [], 
+            "id": "26302564", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2221962966.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2221962966.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2221962966.jpg"
+            }, 
+            "original_title": "THE世界遺産 イタリア・スペシャルI トスカーナ 5000年の旅", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "THE 世界遗产 意大利特集Ⅰ 托斯卡纳 5000年之旅", 
+            "year": "1996"
+        }
+    ], 
+    "title": "搜索 \"托斯卡纳艳阳下\" 的结果", 
+    "total": 9
+}

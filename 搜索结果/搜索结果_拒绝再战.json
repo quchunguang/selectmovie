@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1951113/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040999/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/434.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/434.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/434.jpg"
+                    }, 
+                    "id": "1040999", 
+                    "name": "瑞恩·菲利普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1101703/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3517.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3517.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3517.jpg"
+                    }, 
+                    "id": "1101703", 
+                    "name": "约瑟夫·高登-莱维特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1279455/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41639.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41639.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41639.jpg"
+                    }, 
+                    "id": "1279455", 
+                    "name": "罗伯·布朗"
+                }
+            ], 
+            "collect_count": 2290, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050124/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18383.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18383.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18383.jpg"
+                    }, 
+                    "id": "1050124", 
+                    "name": "金伯莉·皮尔斯"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "战争"
+            ], 
+            "id": "1951113", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2953251.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2953251.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2953251.jpg"
+            }, 
+            "original_title": "Stop-Loss", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "拒绝再战", 
+            "year": "2008"
+        }
+    ], 
+    "title": "搜索 \"拒绝再战\" 的结果", 
+    "total": 1
+}

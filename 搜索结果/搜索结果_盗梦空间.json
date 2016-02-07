@@ -1,0 +1,185 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3541415/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041029/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/470.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/470.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/470.jpg"
+                    }, 
+                    "id": "1041029", 
+                    "name": "莱昂纳多·迪卡普里奥"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1101703/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3517.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3517.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3517.jpg"
+                    }, 
+                    "id": "1101703", 
+                    "name": "约瑟夫·高登-莱维特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012520/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/118.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/118.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/118.jpg"
+                    }, 
+                    "id": "1012520", 
+                    "name": "艾伦·佩吉"
+                }
+            ], 
+            "collect_count": 802664, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054524/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/673.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/673.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/673.jpg"
+                    }, 
+                    "id": "1054524", 
+                    "name": "克里斯托弗·诺兰"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "科幻"
+            ], 
+            "id": "3541415", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p513344864.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p513344864.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
+            }, 
+            "original_title": "Inception", 
+            "rating": {
+                "average": 9.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "盗梦空间", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26613488/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张能富"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "范楚儿"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吴达成"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张能富"
+                }
+            ], 
+            "genres": [], 
+            "id": "26613488", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2267952475.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2267952475.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2267952475.jpg"
+            }, 
+            "original_title": "借梦空间", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "借梦空间", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10551896/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016664/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48454.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48454.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48454.jpg"
+                    }, 
+                    "id": "1016664", 
+                    "name": "杰瑞米·桑普特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Elizabeth Di Prinzio"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315564/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32815.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32815.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32815.jpg"
+                    }, 
+                    "id": "1315564", 
+                    "name": "布莱特·达文"
+                }
+            ], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rustam Branaman"
+                }
+            ], 
+            "genres": [
+                "惊悚"
+            ], 
+            "id": "10551896", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2178157535.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2178157535.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2178157535.jpg"
+            }, 
+            "original_title": "The Culling", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "选择", 
+            "year": "2015"
+        }
+    ], 
+    "title": "搜索 \"盗梦空间\" 的结果", 
+    "total": 3
+}

@@ -1,0 +1,964 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298506/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049803/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5431.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5431.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5431.jpg"
+                    }, 
+                    "id": "1049803", 
+                    "name": "理查德·法恩斯沃斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013835/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/55967.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/55967.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/55967.jpg"
+                    }, 
+                    "id": "1013835", 
+                    "name": "茜茜·斯派塞克"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Donald Wiegert"
+                }
+            ], 
+            "collect_count": 11687, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054578/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23582.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23582.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23582.jpg"
+                    }, 
+                    "id": "1054578", 
+                    "name": "大卫·林奇"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "传记", 
+                "剧情"
+            ], 
+            "id": "1298506", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2472531.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2472531.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2472531.jpg"
+            }, 
+            "original_title": "The Straight Story", 
+            "rating": {
+                "average": 8.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "史崔特先生的故事", 
+            "year": "1999"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5154555/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Norman Foster"
+                }
+            ], 
+            "collect_count": 377, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carlos Carcas"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Norberto López Amado"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "传记"
+            ], 
+            "id": "5154555", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s6036557.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s6036557.jpg", 
+                "small": "https://img1.doubanio.com/spic/s6036557.jpg"
+            }, 
+            "original_title": "How Much Does Your Building Weigh, Mr Foster?", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "您的建筑重几何，福斯特先生？", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303365/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1085939/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41012.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41012.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41012.jpg"
+                    }, 
+                    "id": "1085939", 
+                    "name": "皮埃尔·弗雷奈"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1071314/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1421839312.43.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1421839312.43.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1421839312.43.jpg"
+                    }, 
+                    "id": "1071314", 
+                    "name": "Aimé Clariond"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1089005/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1089005", 
+                    "name": "让·德比古"
+                }
+            ], 
+            "collect_count": 264, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019987/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1019987", 
+                    "name": "马瑞斯·克劳泽"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情", 
+                "历史"
+            ], 
+            "id": "1303365", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3301216.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3301216.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3301216.jpg"
+            }, 
+            "original_title": "Monsieur Vincent", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "文森特先生", 
+            "year": "1947"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3446571/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1218103/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1218103", 
+                    "name": "René Magritte"
+                }
+            ], 
+            "collect_count": 59, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Adrian Maben"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "3446571", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2153492853.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2153492853.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2153492853.jpg"
+            }, 
+            "original_title": "Monsieur René Magritte", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "雷内·马格利特先生", 
+            "year": "1978"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4053009/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Williams"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Barbara Baxley"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Isobel Elsom"
+                }
+            ], 
+            "collect_count": 34, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jules Bricken"
+                }
+            ], 
+            "genres": [
+                "犯罪", 
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "4053009", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3991598.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3991598.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3991598.jpg"
+            }, 
+            "original_title": "\"Alfred Hitchcock Presents\" The Three Dreams of Mr. Findlater", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "芬德雷特先生的三个梦", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2150261/", 
+            "casts": [], 
+            "collect_count": 30, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "A.Karanovich"
+                }
+            ], 
+            "genres": [
+                "动画", 
+                "短片"
+            ], 
+            "id": "2150261", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3082929.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3082929.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3082929.jpg"
+            }, 
+            "original_title": "Mister Twister", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "忒斯特先生", 
+            "year": "1963"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4220592/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Donat"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Mills"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Geoffrey Atkins"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carol Reed"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "剧情"
+            ], 
+            "id": "4220592", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2006246097.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2006246097.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2006246097.jpg"
+            }, 
+            "original_title": "The Young Mr. Pitt", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "小皮特先生", 
+            "year": "1942"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5054131/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "John Travolta"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gabe Kaplan"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [], 
+            "genres": [], 
+            "id": "5054131", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4608947.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4608947.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4608947.jpg"
+            }, 
+            "original_title": "Welcome Back, Kotter", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "欢迎归来，科特先生", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1302147/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1075421/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1075421", 
+                    "name": "Flavio Calzavara"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "1302147", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Don Buonaparte", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "波拿帕特先生", 
+            "year": "1941"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20280129/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kim Tae-young"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "短片"
+            ], 
+            "id": "20280129", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s23130660.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s23130660.jpg", 
+                "small": "https://img3.doubanio.com/spic/s23130660.jpg"
+            }, 
+            "original_title": "칸트씨의 발표회", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "坎特先生的发表会", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26602792/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040874/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/41924.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41924.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/41924.jpg"
+                    }, 
+                    "id": "1040874", 
+                    "name": "库尔特·冯内古特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mark Vonnegut"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "J.J. Harting"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "传记", 
+                "纪录片"
+            ], 
+            "id": "26602792", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "God Bless You, Mr. Vonnegut (or the Friends of Kilgore Trout)", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "上帝保佑你，冯内古特先生（或基尔戈·特劳特的朋友们）", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/6876044/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010649/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35459.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35459.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35459.jpg"
+                    }, 
+                    "id": "1010649", 
+                    "name": "安德鲁·迪沃夫"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049736/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22306.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22306.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22306.jpg"
+                    }, 
+                    "id": "1049736", 
+                    "name": "杰弗瑞·考姆斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sarah Lieving"
+                }
+            ], 
+            "collect_count": 195, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042096", 
+                    "name": "杰夫·布罗德史崔特"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "6876044", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s8994794.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s8994794.jpg", 
+                "small": "https://img1.doubanio.com/spic/s8994794.jpg"
+            }, 
+            "original_title": "Night of the Living Dead 3D: Re-Animation", 
+            "rating": {
+                "average": 3.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "活死人之夜3D：复活", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5188256/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042096", 
+                    "name": "杰夫·布罗德史崔特"
+                }
+            ], 
+            "genres": [], 
+            "id": "5188256", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Spider Baby", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Spider Baby", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1839849/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027288/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1440085708.69.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1440085708.69.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1440085708.69.jpg"
+                    }, 
+                    "id": "1027288", 
+                    "name": "布兰娜·布朗"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sid Haig"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Joshua DesRoches"
+                }
+            ], 
+            "collect_count": 601, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042096", 
+                    "name": "杰夫·布罗德史崔特"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "1839849", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1693427.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1693427.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1693427.jpg"
+            }, 
+            "original_title": "Night of the Living Dead 3D", 
+            "rating": {
+                "average": 4.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "25"
+            }, 
+            "subtype": "movie", 
+            "title": "新活死人之夜", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2259329/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Steven Williams"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bob Lazar"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sean David Morton"
+                }
+            ], 
+            "collect_count": 30, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042096", 
+                    "name": "杰夫·布罗德史崔特"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "2259329", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2707280.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2707280.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2707280.jpg"
+            }, 
+            "original_title": "Area 51: The Alien Interview", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "51号地区:与外星人对话", 
+            "year": "1997"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1869973/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010649/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35459.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35459.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35459.jpg"
+                    }, 
+                    "id": "1010649", 
+                    "name": "安德鲁·迪沃夫"
+                }
+            ], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042096", 
+                    "name": "杰夫·布罗德史崔特"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1869973", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1804367.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1804367.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1804367.jpg"
+            }, 
+            "original_title": "The Straun House", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "狂暴博士", 
+            "year": "2005"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5144097/", 
+            "casts": [], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042096", 
+                    "name": "杰夫·布罗德史崔特"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "5144097", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Sexbomb", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Sexbomb", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5141540/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1042096/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1042096", 
+                    "name": "杰夫·布罗德史崔特"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "短片"
+            ], 
+            "id": "5141540", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Megalomania", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "Megalomania", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2216237/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Paul McGann"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rupert Frazer"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Amanda Redman"
+                }
+            ], 
+            "collect_count": 35, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stuart Burge"
+                }
+            ], 
+            "genres": [], 
+            "id": "2216237", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6389785.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6389785.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6389785.jpg"
+            }, 
+            "original_title": "The Importance of Being Earnest", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "不可儿戏", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3804662/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027137/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1197.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1197.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1197.jpg"
+                    }, 
+                    "id": "1027137", 
+                    "name": "扎克·加利凡纳基斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031817/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/50751.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/50751.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/50751.jpg"
+                    }, 
+                    "id": "1031817", 
+                    "name": "乔恩·哈姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1305235/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/38561.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/38561.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/38561.jpg"
+                    }, 
+                    "id": "1305235", 
+                    "name": "乔什·加德"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "3804662", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Incredible Mr. Limpet", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "奇妙英雄", 
+            "year": "2017"
+        }
+    ], 
+    "title": "搜索 \"史崔特先生\" 的结果", 
+    "total": 20
+}

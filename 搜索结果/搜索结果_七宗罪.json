@@ -1,0 +1,916 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1292223/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34642.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34642.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34642.jpg"
+                    }, 
+                    "id": "1054534", 
+                    "name": "摩根·弗里曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054452/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1604.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1604.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1604.jpg"
+                    }, 
+                    "id": "1054452", 
+                    "name": "布拉德·皮特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054432/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9938.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9938.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9938.jpg"
+                    }, 
+                    "id": "1054432", 
+                    "name": "凯文·史派西"
+                }
+            ], 
+            "collect_count": 486802, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012521/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22137.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22137.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22137.jpg"
+                    }, 
+                    "id": "1012521", 
+                    "name": "大卫·芬奇"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "犯罪", 
+                "悬疑"
+            ], 
+            "id": "1292223", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p457631605.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p457631605.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457631605.jpg"
+            }, 
+            "original_title": "Se7en", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "七宗罪", 
+            "year": "1995"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3986123/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Dreama Walker"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jared Keeso"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rachel Melvin"
+                }
+            ], 
+            "collect_count": 4293, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1304577/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1304577", 
+                    "name": "杰夫·兰弗洛"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3986123", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4468119.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4468119.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4468119.jpg"
+            }, 
+            "original_title": "Seven Deadly Sins", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "七宗罪 第一季", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2032829/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Danièle Barraud"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041243/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/14462.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/14462.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/14462.jpg"
+                    }, 
+                    "id": "1041243", 
+                    "name": "让-皮埃尔·卡塞尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1139390/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/39388.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39388.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/39388.jpg"
+                    }, 
+                    "id": "1139390", 
+                    "name": "Dany Saval"
+                }
+            ], 
+            "collect_count": 2249, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032589/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12696.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12696.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12696.jpg"
+                    }, 
+                    "id": "1032589", 
+                    "name": "菲利普·德·普劳加"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054236/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1250.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1250.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1250.jpg"
+                    }, 
+                    "id": "1054236", 
+                    "name": "克劳德·夏布洛尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018333/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/19452.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/19452.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/19452.jpg"
+                    }, 
+                    "id": "1018333", 
+                    "name": "雅克·德米"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055489/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/730.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/730.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/730.jpg"
+                    }, 
+                    "id": "1055489", 
+                    "name": "让-吕克·戈达尔"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sylvain Dhomme"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1021273/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1021273", 
+                    "name": "Max Douy"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037728/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1037728", 
+                    "name": "尤内斯库"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019300/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26931.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26931.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26931.jpg"
+                    }, 
+                    "id": "1019300", 
+                    "name": "埃德沃德·莫利纳罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007124/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/20222.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/20222.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/20222.jpg"
+                    }, 
+                    "id": "1007124", 
+                    "name": "罗杰·瓦迪姆"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "2032829", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3308752.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3308752.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3308752.jpg"
+            }, 
+            "original_title": "Les sept péchés capitaux", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "七宗罪", 
+            "year": "1962"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20273857/", 
+            "casts": [], 
+            "collect_count": 8, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金子ひらく"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动画"
+            ], 
+            "id": "20273857", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s23122056.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s23122056.jpg", 
+                "small": "https://img3.doubanio.com/spic/s23122056.jpg"
+            }, 
+            "original_title": "七つの大罪 OVA", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "七宗罪", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24739536/", 
+            "casts": [], 
+            "collect_count": 24, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "温普林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "温普庆"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "24739536", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1995065516.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1995065516.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1995065516.jpg"
+            }, 
+            "original_title": "七宗罪", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "七宗罪", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25896901/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Morgan Spurlock"
+                }
+            ], 
+            "collect_count": 37, 
+            "directors": [], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "25896901", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2194877075.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2194877075.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2194877075.jpg"
+            }, 
+            "original_title": "7 Deadly Sins", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "七宗罪", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3726372/", 
+            "casts": [], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chantal Akerman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Maxi Cohen"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Valie Export"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Laurence Gavron"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bette Gordon"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ulrike Ottinger"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Helke Sander"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3726372", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2125441397.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2125441397.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2125441397.jpg"
+            }, 
+            "original_title": "Seven Women, Seven Sins", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "七个女人七宗罪", 
+            "year": "1986"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3202040/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Michèle Morgan"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Françoise Rosay"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean Debucourt"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1028551/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1386066774.64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1386066774.64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1386066774.64.jpg"
+                    }, 
+                    "id": "1028551", 
+                    "name": "伊夫·阿勒格莱特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054971/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/26976.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/26976.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/26976.jpg"
+                    }, 
+                    "id": "1054971", 
+                    "name": "克劳德·奥当-拉哈"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean Dréville"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eduardo De Filippo"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "André Lacombe"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carlo Rim"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048228/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/45603.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/45603.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/45603.jpg"
+                    }, 
+                    "id": "1048228", 
+                    "name": "罗伯托·罗西里尼"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3202040", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3245294.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3245294.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3245294.jpg"
+            }, 
+            "original_title": "les sept péchés capitaux", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "七宗罪", 
+            "year": "1952"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26278052/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carmen Caliente"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Carmen Callaway"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1344597/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1425186397.79.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1425186397.79.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1425186397.79.jpg"
+                    }, 
+                    "id": "1344597", 
+                    "name": "达妮·丹尼尔斯"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322587/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1416820670.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1416820670.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1416820670.81.jpg"
+                    }, 
+                    "id": "1322587", 
+                    "name": "詹姆斯·迪恩"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "惊悚"
+            ], 
+            "id": "26278052", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2215485042.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2215485042.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2215485042.jpg"
+            }, 
+            "original_title": "James Deen's Seven Sins: Wrath", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "詹姆斯·迪恩的七宗罪：愤怒", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5067086/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jacques Dumesnil"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Claude Génia"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aimé Clariond"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jean-Devaivre"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "5067086", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s7052005.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s7052005.jpg", 
+                "small": "https://img3.doubanio.com/spic/s7052005.jpg"
+            }, 
+            "original_title": "La ferme des sept péchés", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "农场的七宗罪", 
+            "year": "1949"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25865469/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1052297/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48084.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48084.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48084.jpg"
+                    }, 
+                    "id": "1052297", 
+                    "name": "梶裕贵"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1339311/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/ShdnKC0m0Vgcel_avatar_uploaded1395291678.28.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/ShdnKC0m0Vgcel_avatar_uploaded1395291678.28.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/ShdnKC0m0Vgcel_avatar_uploaded1395291678.28.jpg"
+                    }, 
+                    "id": "1339311", 
+                    "name": "雨宫天"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "久野美咲"
+                }
+            ], 
+            "collect_count": 3256, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1037973/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1423496516.6.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1423496516.6.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1423496516.6.jpg"
+                    }, 
+                    "id": "1037973", 
+                    "name": "冈村天斋"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "25865469", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2193804936.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2193804936.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2193804936.jpg"
+            }, 
+            "original_title": "七つの大罪", 
+            "rating": {
+                "average": 8.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "七大罪", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20458727/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Eleanor Parker"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Bill Travers"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "George Sanders"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ronald Neame"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vincente Minnelli (uncredited)"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "20458727", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24518364.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24518364.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24518364.jpg"
+            }, 
+            "original_title": "The Seventh Sin", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "面纱", 
+            "year": "1957"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3157586/", 
+            "casts": [], 
+            "collect_count": 3, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3157586", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Seven Sins: The Tyrant Ascending", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "The Seven Sins: The Tyrant Ascending", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5153924/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010638/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1434792918.74.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1434792918.74.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1434792918.74.jpg"
+                    }, 
+                    "id": "1010638", 
+                    "name": "普里扬卡·乔普拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014243/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/33299.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33299.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/33299.jpg"
+                    }, 
+                    "id": "1014243", 
+                    "name": "尼尔·尼汀·穆科什"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036581/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/2702.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/2702.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/2702.jpg"
+                    }, 
+                    "id": "1036581", 
+                    "name": "约翰·亚伯拉罕"
+                }
+            ], 
+            "collect_count": 611, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Vishal Bhardwaj"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "5153924", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4597284.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4597284.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4597284.jpg"
+            }, 
+            "original_title": "Sven Khoon Maaf", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "七宗罪孽的救赎", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3441547/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009453/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34462.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34462.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34462.jpg"
+                    }, 
+                    "id": "1009453", 
+                    "name": "莱娜·恩卓"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "萨穆埃尔-弗罗莱(Samuel Froler)"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "约兰-斯坦格兹(Goran Strangertz)"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "里卡德-霍伯特(Richard Hobert)"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "3441547", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3569146.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3569146.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3569146.jpg"
+            }, 
+            "original_title": "Ögat", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "眼见为实", 
+            "year": "1998"
+        }
+    ], 
+    "title": "搜索 \"七宗罪\" 的结果", 
+    "total": 15
+}

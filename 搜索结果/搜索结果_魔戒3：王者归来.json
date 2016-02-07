@@ -1,0 +1,949 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1291552/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054520/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29922.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29922.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29922.jpg"
+                    }, 
+                    "id": "1054520", 
+                    "name": "维果·莫腾森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054395/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/51597.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/51597.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/51597.jpg"
+                    }, 
+                    "id": "1054395", 
+                    "name": "伊利亚·伍德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031818/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/11727.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/11727.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/11727.jpg"
+                    }, 
+                    "id": "1031818", 
+                    "name": "西恩·奥斯汀"
+                }
+            ], 
+            "collect_count": 317781, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040524/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40835.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40835.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40835.jpg"
+                    }, 
+                    "id": "1040524", 
+                    "name": "彼得·杰克逊"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "奇幻"
+            ], 
+            "id": "1291552", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1910825503.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1910825503.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910825503.jpg"
+            }, 
+            "original_title": "The Lord of the Rings: The Return of the King", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "指环王3：王者无敌", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297151/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027809/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1452759480.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1452759480.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1452759480.3.jpg"
+                    }, 
+                    "id": "1027809", 
+                    "name": "马克·哈米尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009238/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23541.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23541.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23541.jpg"
+                    }, 
+                    "id": "1009238", 
+                    "name": "哈里森·福特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032150/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1399368368.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1399368368.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1399368368.97.jpg"
+                    }, 
+                    "id": "1032150", 
+                    "name": "安东尼·丹尼尔斯"
+                }
+            ], 
+            "collect_count": 45536, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045225/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1045225", 
+                    "name": "理查德·马昆德"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "1297151", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p732934345.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p732934345.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p732934345.jpg"
+            }, 
+            "original_title": "Star Wars: Episode VI - Return of the Jedi", 
+            "rating": {
+                "average": 8.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "星球大战3：绝地归来", 
+            "year": "1983"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26330955/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336920/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1451196460.57.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1451196460.57.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1451196460.57.jpg"
+                    }, 
+                    "id": "1336920", 
+                    "name": "张伟"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336919/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1451196097.21.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1451196097.21.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1451196097.21.jpg"
+                    }, 
+                    "id": "1336919", 
+                    "name": "张秉君"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336930/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1336930", 
+                    "name": "谭笑"
+                }
+            ], 
+            "collect_count": 2254, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336904/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1451195637.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1451195637.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1451195637.94.jpg"
+                    }, 
+                    "id": "1336904", 
+                    "name": "丁亮"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1352577/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1352577", 
+                    "name": "林永长"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "冒险"
+            ], 
+            "id": "26330955", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2303088664.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2303088664.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2303088664.jpg"
+            }, 
+            "original_title": "熊出没之熊心归来", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "熊出没之熊心归来", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3054636/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "George Carlin"
+                }
+            ], 
+            "collect_count": 259, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rocco Urbisci"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "同性", 
+                "家庭"
+            ], 
+            "id": "3054636", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3055516.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3055516.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3055516.jpg"
+            }, 
+            "original_title": "George Carlin: Back in Town", 
+            "rating": {
+                "average": 9.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "乔治 卡林：王者归来", 
+            "year": "1996"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24878382/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ravi Teja"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shriya Saran"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Srihari"
+                }
+            ], 
+            "collect_count": 4, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Gopichand Malineni"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "24878382", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2183900019.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2183900019.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2183900019.jpg"
+            }, 
+            "original_title": "Don Seenu", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "王者归来", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3012776/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031194/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/32971.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/32971.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/32971.jpg"
+                    }, 
+                    "id": "1031194", 
+                    "name": "任达华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274815/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47057.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47057.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47057.jpg"
+                    }, 
+                    "id": "1274815", 
+                    "name": "江华"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029477/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/57994.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/57994.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/57994.jpg"
+                    }, 
+                    "id": "1029477", 
+                    "name": "万绮雯"
+                }
+            ], 
+            "collect_count": 475, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "龙绍基"
+                }
+            ], 
+            "genres": [
+                "犯罪"
+            ], 
+            "id": "3012776", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3521582.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3521582.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3521582.jpg"
+            }, 
+            "original_title": "胜者为王III王者之战", 
+            "rating": {
+                "average": 7.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "胜者为王3王者之战", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2059283/", 
+            "casts": [], 
+            "collect_count": 18, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Okihiro Yoneda"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "科幻"
+            ], 
+            "id": "2059283", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3943598.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3943598.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3943598.jpg"
+            }, 
+            "original_title": "Mosura 3: Kingu Gidora raishu", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "摩斯拉3 王者基多拉来袭", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1997679/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1053580/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/24625.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/24625.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/24625.jpg"
+                    }, 
+                    "id": "1053580", 
+                    "name": "布兰登·费舍"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025146/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369201135.38.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369201135.38.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369201135.38.jpg"
+                    }, 
+                    "id": "1025146", 
+                    "name": "李连杰"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002674/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1388903099.27.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1388903099.27.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1388903099.27.jpg"
+                    }, 
+                    "id": "1002674", 
+                    "name": "玛丽亚·贝罗"
+                }
+            ], 
+            "collect_count": 73440, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032129/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13155.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13155.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13155.jpg"
+                    }, 
+                    "id": "1032129", 
+                    "name": "罗伯·科恩"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "奇幻"
+            ], 
+            "id": "1997679", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p457161680.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p457161680.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457161680.jpg"
+            }, 
+            "original_title": "The Mummy: Tomb of the Dragon Emperor", 
+            "rating": {
+                "average": 5.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "木乃伊3", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298572/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1120128/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1120128", 
+                    "name": "Kent McCord"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1070686/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369907949.99.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369907949.99.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369907949.99.jpg"
+                    }, 
+                    "id": "1070686", 
+                    "name": "James T. Callahan"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036480/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/48447.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/48447.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/48447.jpg"
+                    }, 
+                    "id": "1036480", 
+                    "name": "莎拉·道格拉斯"
+                }
+            ], 
+            "collect_count": 1898, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1301588/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/43611.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/43611.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/43611.jpg"
+                    }, 
+                    "id": "1301588", 
+                    "name": "布莱恩·尤兹纳"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "爱情", 
+                "科幻"
+            ], 
+            "id": "1298572", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3530762.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3530762.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3530762.jpg"
+            }, 
+            "original_title": "Return of the Living Dead III", 
+            "rating": {
+                "average": 7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "活死人归来3", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2376369/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009465/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/48870.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/48870.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/48870.jpg"
+                    }, 
+                    "id": "1009465", 
+                    "name": "奥森·比恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025239/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5181.jpg"
+                    }, 
+                    "id": "1025239", 
+                    "name": "约翰·休斯顿"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055113/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1055113", 
+                    "name": "西奥多·比凯尔"
+                }
+            ], 
+            "collect_count": 16, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1050558/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1050558", 
+                    "name": "Jules Bass"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1012672/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1391469466.35.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1391469466.35.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1391469466.35.jpg"
+                    }, 
+                    "id": "1012672", 
+                    "name": "Arthur Rankin Jr."
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "动画", 
+                "冒险"
+            ], 
+            "id": "2376369", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2845733.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2845733.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2845733.jpg"
+            }, 
+            "original_title": "The Return of the King", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "王者无敌", 
+            "year": "1980"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1304992/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Chuck Norris"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aki Aleong"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Floyd Levine"
+                }
+            ], 
+            "collect_count": 820, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Aaron Norris"
+                }
+            ], 
+            "genres": [
+                "动作"
+            ], 
+            "id": "1304992", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3172715.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3172715.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3172715.jpg"
+            }, 
+            "original_title": "Braddock: Missing in Action III", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "越战先锋3", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20378801/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "泡芙小姐"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "十三妖"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小若"
+                }
+            ], 
+            "collect_count": 504, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315960/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/37222.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/37222.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/37222.jpg"
+                    }, 
+                    "id": "1315960", 
+                    "name": "王波"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动画", 
+                "短片"
+            ], 
+            "id": "20378801", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s24227620.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s24227620.jpg", 
+                "small": "https://img3.doubanio.com/spic/s24227620.jpg"
+            }, 
+            "original_title": "泡芙小姐第三季：温暖归来", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "泡芙小姐第三季：温暖归来", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4017146/", 
+            "casts": [], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1314278/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23159.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23159.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23159.jpg"
+                    }, 
+                    "id": "1314278", 
+                    "name": "马库斯·邓斯坦"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "4017146", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3991098.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3991098.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3991098.jpg"
+            }, 
+            "original_title": "Halloween Returns", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "万圣节归来", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3337833/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "志穂美悦子"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "石橋雅史"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "張美和"
+                }
+            ], 
+            "collect_count": 12, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "山口和彦"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情"
+            ], 
+            "id": "3337833", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3406105.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3406105.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3406105.jpg"
+            }, 
+            "original_title": "帰って来た女必殺拳", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "女必杀拳归来", 
+            "year": "1975"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26435676/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "26435676", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "The Comeback", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "归来记 第三季", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26655587/", 
+            "casts": [], 
+            "collect_count": 6, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1336404/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1336404", 
+                    "name": "郑成峰"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画", 
+                "冒险"
+            ], 
+            "id": "26655587", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2298257563.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2298257563.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2298257563.jpg"
+            }, 
+            "original_title": "太空熊猫英雄归来", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "太空熊猫英雄归来", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1507214/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1200600/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1200600", 
+                    "name": "Alexandria DeFabiis"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Stacy Dunn"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ian George"
+                }
+            ], 
+            "collect_count": 75, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029028/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1029028", 
+                    "name": "James Riffel"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "恐怖"
+            ], 
+            "id": "1507214", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s25808578.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s25808578.jpg", 
+                "small": "https://img1.doubanio.com/spic/s25808578.jpg"
+            }, 
+            "original_title": "Night of the Day of the Dawn of the Son of the Bride of the Return of the Revenge of the Terror of the Attack of the Evil, Mutant, Hellbound, Flesh-Eating Subhumanoid Zombified Living Dead, Part 3", 
+            "rating": {
+                "average": 4.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "20"
+            }, 
+            "subtype": "movie", 
+            "title": "邪恶变种地狱食肉类人僵尸活死人之侵袭恐怖报复重返新娘的儿子的黎明的一天的夜晚第三部", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"魔戒3：王者归来\" 的结果", 
+    "total": 17
+}

@@ -1,0 +1,124 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1394218/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007006/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1368337641.6.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1368337641.6.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1368337641.6.jpg"
+                    }, 
+                    "id": "1007006", 
+                    "name": "杰克·莱蒙"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048130/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25449.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25449.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25449.jpg"
+                    }, 
+                    "id": "1048130", 
+                    "name": "雪莉·麦克雷恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049778/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18017.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18017.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18017.jpg"
+                    }, 
+                    "id": "1049778", 
+                    "name": "弗莱德·麦克莫瑞"
+                }
+            ], 
+            "collect_count": 11842, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054385/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/924.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/924.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/924.jpg"
+                    }, 
+                    "id": "1054385", 
+                    "name": "比利·怀德"
+                }
+            ], 
+            "genres": [
+                "爱情", 
+                "喜剧", 
+                "剧情"
+            ], 
+            "id": "1394218", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1887728.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1887728.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1887728.jpg"
+            }, 
+            "original_title": "The Apartment", 
+            "rating": {
+                "average": 8.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "桃色公寓", 
+            "year": "1960"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25913579/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "金喜甲"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "崔智姬"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321325/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1356855051.51.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1356855051.51.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1356855051.51.jpg"
+                    }, 
+                    "id": "1321325", 
+                    "name": "李亨杓 "
+                }
+            ], 
+            "genres": [], 
+            "id": "25913579", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "청색아파트", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "青色公寓", 
+            "year": "1963"
+        }
+    ], 
+    "title": "搜索 \"桃色公寓\" 的结果", 
+    "total": 2
+}

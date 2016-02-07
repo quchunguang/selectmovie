@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/4058964/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022004/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9684.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9684.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9684.jpg"
+                    }, 
+                    "id": "1022004", 
+                    "name": "西尔莎·罗南"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027533/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/22802.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/22802.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/22802.jpg"
+                    }, 
+                    "id": "1027533", 
+                    "name": "马克斯·艾恩斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040561/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1356261633.79.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1356261633.79.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1356261633.79.jpg"
+                    }, 
+                    "id": "1040561", 
+                    "name": "杰克·阿贝尔"
+                }
+            ], 
+            "collect_count": 14014, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018008/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3131.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3131.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3131.jpg"
+                    }, 
+                    "id": "1018008", 
+                    "name": "安德鲁·尼科尔"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "爱情", 
+                "科幻"
+            ], 
+            "id": "4058964", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1818227545.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1818227545.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1818227545.jpg"
+            }, 
+            "original_title": "The Host", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "宿主", 
+            "year": "2013"
+        }
+    ], 
+    "title": "搜索 \"宿主\" 的结果", 
+    "total": 1
+}

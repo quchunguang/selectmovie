@@ -1,0 +1,71 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/10806395/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005071/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7749.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7749.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7749.jpg"
+                    }, 
+                    "id": "1005071", 
+                    "name": "汤姆·希林"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Inga Birkenfeld"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1232494/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369660857.38.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369660857.38.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369660857.38.jpg"
+                    }, 
+                    "id": "1232494", 
+                    "name": "Annika Ernst"
+                }
+            ], 
+            "collect_count": 5082, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1329233/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369580786.29.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369580786.29.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369580786.29.jpg"
+                    }, 
+                    "id": "1329233", 
+                    "name": "杨·奥雷·格斯特"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "10806395", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s22711938.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s22711938.jpg", 
+                "small": "https://img1.doubanio.com/spic/s22711938.jpg"
+            }, 
+            "original_title": "Oh Boy", 
+            "rating": {
+                "average": 7.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "啊，男孩", 
+            "year": "2012"
+        }
+    ], 
+    "title": "搜索 \"啊，男孩\" 的结果", 
+    "total": 1
+}

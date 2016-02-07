@@ -1,0 +1,390 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1295399/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1056027/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378570313.97.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378570313.97.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378570313.97.jpg"
+                    }, 
+                    "id": "1056027", 
+                    "name": "三船敏郎"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032411/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24077.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24077.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24077.jpg"
+                    }, 
+                    "id": "1032411", 
+                    "name": "志村乔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010452/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1353130233.76.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1353130233.76.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1353130233.76.jpg"
+                    }, 
+                    "id": "1010452", 
+                    "name": "稻叶义男"
+                }
+            ], 
+            "collect_count": 75973, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054529/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1398689641.61.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1398689641.61.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1398689641.61.jpg"
+                    }, 
+                    "id": "1054529", 
+                    "name": "黑泽明"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "冒险", 
+                "剧情"
+            ], 
+            "id": "1295399", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p647099823.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p647099823.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p647099823.jpg"
+            }, 
+            "original_title": "七人の侍", 
+            "rating": {
+                "average": 9.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "七武士", 
+            "year": "1954"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1460911/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1005216/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4968.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4968.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4968.jpg"
+                    }, 
+                    "id": "1005216", 
+                    "name": "朴璐美"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016839/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10428.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10428.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10428.jpg"
+                    }, 
+                    "id": "1016839", 
+                    "name": "折笠富美子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054354/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5763.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5763.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5763.jpg"
+                    }, 
+                    "id": "1054354", 
+                    "name": "子安武人"
+                }
+            ], 
+            "collect_count": 2919, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "滝沢敏文"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吉田徹"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "多田俊介"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "科幻", 
+                "动画"
+            ], 
+            "id": "1460911", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2360328.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2360328.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2360328.jpg"
+            }, 
+            "original_title": "Samurai 7", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "七武士", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3369392/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙耀威"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "马伊琍"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "王艳"
+                }
+            ], 
+            "collect_count": 331, 
+            "directors": [], 
+            "genres": [
+                "剧情", 
+                "武侠", 
+                "古装"
+            ], 
+            "id": "3369392", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1938104998.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1938104998.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1938104998.jpg"
+            }, 
+            "original_title": "七武士", 
+            "rating": {
+                "average": 5.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "tv", 
+            "title": "七武士", 
+            "year": "2004"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4138506/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315099/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28875.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28875.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28875.jpg"
+                    }, 
+                    "id": "1315099", 
+                    "name": "柯受良"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1101152/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/7562.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/7562.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/7562.jpg"
+                    }, 
+                    "id": "1101152", 
+                    "name": "柯俊雄"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨书圣"
+                }
+            ], 
+            "collect_count": 123, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1099398/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1380933862.42.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1380933862.42.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1380933862.42.jpg"
+                    }, 
+                    "id": "1099398", 
+                    "name": "金鳌勋"
+                }
+            ], 
+            "genres": [
+                "冒险"
+            ], 
+            "id": "4138506", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4507821.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4507821.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4507821.jpg"
+            }, 
+            "original_title": "七武士", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "七武士", 
+            "year": "1982"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3011988/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Toshiro Mifune"
+                }
+            ], 
+            "collect_count": 671, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Scott Mann"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "动作", 
+                "历史"
+            ], 
+            "id": "3011988", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2222265724.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2222265724.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2222265724.jpg"
+            }, 
+            "original_title": "The Seven Samurai", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "七武士(美版)", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4310305/", 
+            "casts": [], 
+            "collect_count": 31, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Marty Gross"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "4310305", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4195498.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4195498.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4195498.jpg"
+            }, 
+            "original_title": "Seven Samurai: Origins and Influences", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "七武士的缘起以及影响", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5049698/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055975/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1406374038.69.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1406374038.69.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1406374038.69.jpg"
+                    }, 
+                    "id": "1055975", 
+                    "name": "卢·弗里基诺"
+                }
+            ], 
+            "collect_count": 5, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "克劳迪奥·弗拉加索 Claudio Fragasso"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025362/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32953.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32953.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32953.jpg"
+                    }, 
+                    "id": "1025362", 
+                    "name": "布鲁诺·马泰"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情"
+            ], 
+            "id": "5049698", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s9302738.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s9302738.jpg", 
+                "small": "https://img1.doubanio.com/spic/s9302738.jpg"
+            }, 
+            "original_title": "The Seven Magnificent Gladiators", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "神鬼七武士", 
+            "year": "1983"
+        }
+    ], 
+    "title": "搜索 \"七武士\" 的结果", 
+    "total": 7
+}

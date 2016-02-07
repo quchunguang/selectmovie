@@ -1,0 +1,86 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1300044/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036313/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/3551.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/3551.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/3551.jpg"
+                    }, 
+                    "id": "1036313", 
+                    "name": "杰夫·布里吉斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017898/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1360912229.81.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1360912229.81.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1360912229.81.jpg"
+                    }, 
+                    "id": "1017898", 
+                    "name": "约翰·古德曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054519/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1364.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1364.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1364.jpg"
+                    }, 
+                    "id": "1054519", 
+                    "name": "朱丽安·摩尔"
+                }
+            ], 
+            "collect_count": 26506, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054517/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378003189.3.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378003189.3.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378003189.3.jpg"
+                    }, 
+                    "id": "1054517", 
+                    "name": "乔尔·科恩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054401/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1378003599.02.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1378003599.02.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1378003599.02.jpg"
+                    }, 
+                    "id": "1054401", 
+                    "name": "伊桑·科恩"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "1300044", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s6809721.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s6809721.jpg", 
+                "small": "https://img3.doubanio.com/spic/s6809721.jpg"
+            }, 
+            "original_title": "The Big Lebowski", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "谋杀绿脚趾", 
+            "year": "1998"
+        }
+    ], 
+    "title": "搜索 \"谋杀绿脚趾\" 的结果", 
+    "total": 1
+}

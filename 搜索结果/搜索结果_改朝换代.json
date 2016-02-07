@@ -1,0 +1,77 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1929436/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036329/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374587274.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374587274.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374587274.39.jpg"
+                    }, 
+                    "id": "1036329", 
+                    "name": "杰米·福克斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054512/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/26079.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/26079.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/26079.jpg"
+                    }, 
+                    "id": "1054512", 
+                    "name": "詹妮弗·加纳"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013760/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/18772.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/18772.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/18772.jpg"
+                    }, 
+                    "id": "1013760", 
+                    "name": "杰森·贝特曼"
+                }
+            ], 
+            "collect_count": 7374, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031938/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/30850.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/30850.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/30850.jpg"
+                    }, 
+                    "id": "1031938", 
+                    "name": "彼得·博格"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情", 
+                "惊悚"
+            ], 
+            "id": "1929436", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2740516.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2740516.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2740516.jpg"
+            }, 
+            "original_title": "The Kingdom", 
+            "rating": {
+                "average": 7.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "改朝换代", 
+            "year": "2007"
+        }
+    ], 
+    "title": "搜索 \"改朝换代\" 的结果", 
+    "total": 1
+}

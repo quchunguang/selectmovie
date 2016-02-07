@@ -1,0 +1,76 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/6873766/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016676/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/56613.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/56613.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/56613.jpg"
+                    }, 
+                    "id": "1016676", 
+                    "name": "扎克·埃夫隆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1313408/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1412746295.33.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1412746295.33.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1412746295.33.jpg"
+                    }, 
+                    "id": "1313408", 
+                    "name": "迈尔斯·特勒"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1218973/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/23095.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/23095.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/23095.jpg"
+                    }, 
+                    "id": "1218973", 
+                    "name": "爱迪生·蒂姆林"
+                }
+            ], 
+            "collect_count": 4286, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1337274/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1399280808.0.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1399280808.0.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1399280808.0.jpg"
+                    }, 
+                    "id": "1337274", 
+                    "name": "汤姆·戈米肯"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "6873766", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2156890940.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2156890940.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2156890940.jpg"
+            }, 
+            "original_title": "That Awkward Moment", 
+            "rating": {
+                "average": 5.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "尴尬时刻", 
+            "year": "2014"
+        }
+    ], 
+    "title": "搜索 \"尴尬时刻\" 的结果", 
+    "total": 1
+}

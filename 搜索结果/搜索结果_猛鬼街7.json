@@ -1,0 +1,867 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1298389/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009366/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14701.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14701.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14701.jpg"
+                    }, 
+                    "id": "1009366", 
+                    "name": "希瑟·兰根坎普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019010/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12986.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12986.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12986.jpg"
+                    }, 
+                    "id": "1019010", 
+                    "name": "罗伯特·英格兰德"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025243/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14696.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14696.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14696.jpg"
+                    }, 
+                    "id": "1025243", 
+                    "name": "约翰·萨克松"
+                }
+            ], 
+            "collect_count": 17296, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025221/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5234.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5234.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5234.jpg"
+                    }, 
+                    "id": "1025221", 
+                    "name": "韦斯·克雷文"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "1298389", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2163976216.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2163976216.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2163976216.jpg"
+            }, 
+            "original_title": "A Nightmare On Elm Street", 
+            "rating": {
+                "average": 7.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "猛鬼街", 
+            "year": "1984"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1297010/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Heather Langenkamp"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Englund"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1111867/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/40070.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/40070.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/40070.jpg"
+                    }, 
+                    "id": "1111867", 
+                    "name": "米克·休斯"
+                }
+            ], 
+            "collect_count": 1867, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025221/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5234.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5234.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5234.jpg"
+                    }, 
+                    "id": "1025221", 
+                    "name": "韦斯·克雷文"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "恐怖", 
+                "悬疑"
+            ], 
+            "id": "1297010", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4386870.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4386870.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4386870.jpg"
+            }, 
+            "original_title": "New Nightmare", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "猛鬼街 7", 
+            "year": "1994"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2998395/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009239/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/20331.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/20331.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/20331.jpg"
+                    }, 
+                    "id": "1009239", 
+                    "name": "杰基·厄尔·哈利"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274969/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34813.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34813.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34813.jpg"
+                    }, 
+                    "id": "1274969", 
+                    "name": "鲁妮·玛拉"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027808/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8092.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8092.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8092.jpg"
+                    }, 
+                    "id": "1027808", 
+                    "name": "凯尔·加尔纳"
+                }
+            ], 
+            "collect_count": 11764, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004895/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/5129.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/5129.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/5129.jpg"
+                    }, 
+                    "id": "1004895", 
+                    "name": "塞缪尔·贝尔"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "2998395", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4193259.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4193259.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4193259.jpg"
+            }, 
+            "original_title": "A Nightmare on Elm Street", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "新猛鬼街", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1298214/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009366/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14701.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14701.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14701.jpg"
+                    }, 
+                    "id": "1009366", 
+                    "name": "希瑟·兰根坎普"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032329/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1376343115.64.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1376343115.64.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1376343115.64.jpg"
+                    }, 
+                    "id": "1032329", 
+                    "name": "克雷格·沃森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002694/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4530.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4530.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4530.jpg"
+                    }, 
+                    "id": "1002694", 
+                    "name": "帕特丽夏·阿奎特"
+                }
+            ], 
+            "collect_count": 2834, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045153/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/28432.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/28432.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/28432.jpg"
+                    }, 
+                    "id": "1045153", 
+                    "name": "查克·拉塞尔"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1298214", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4467770.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4467770.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4467770.jpg"
+            }, 
+            "original_title": "A Nightmare On Elm Street 3: Dream Warriors", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "猛鬼街3", 
+            "year": "1987"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1299957/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1130431/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1130431", 
+                    "name": "Mark Patton"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1004965/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354327375.62.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354327375.62.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354327375.62.jpg"
+                    }, 
+                    "id": "1004965", 
+                    "name": "肯·迈尔斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049908/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/31057.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/31057.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/31057.jpg"
+                    }, 
+                    "id": "1049908", 
+                    "name": "罗伯特·拉斯勒"
+                }
+            ], 
+            "collect_count": 2478, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018432/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1018432", 
+                    "name": "Jack Sholder"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1299957", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1880513.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1880513.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1880513.jpg"
+            }, 
+            "original_title": "A Nightmare on Elm Street 2: Freddy's Revenge", 
+            "rating": {
+                "average": 6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "30"
+            }, 
+            "subtype": "movie", 
+            "title": "猛鬼街2", 
+            "year": "1985"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295796/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1019010/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/12986.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12986.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/12986.jpg"
+                    }, 
+                    "id": "1019010", 
+                    "name": "罗伯特·英格兰德"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Lisa Wilcox"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Erika Anderson"
+                }
+            ], 
+            "collect_count": 1917, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1286903/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1380952164.15.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1380952164.15.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1380952164.15.jpg"
+                    }, 
+                    "id": "1286903", 
+                    "name": "斯蒂芬·霍普金斯"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1295796", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4378131.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4378131.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4378131.jpg"
+            }, 
+            "original_title": "A Nightmare On Elm Street: The Dream Child", 
+            "rating": {
+                "average": 6.4, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "猛鬼街5：猛鬼怪胎", 
+            "year": "1989"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1303998/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "罗伯特·英格兰德 Robert Englund"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "丽萨·赞恩 Lisa Zane"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shon Greenblatt"
+                }
+            ], 
+            "collect_count": 1815, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1276304/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1276304", 
+                    "name": "瑞秋·塔拉蕾"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "奇幻", 
+                "恐怖"
+            ], 
+            "id": "1303998", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1880517.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1880517.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1880517.jpg"
+            }, 
+            "original_title": "Freddy's Dead: The Final Nightmare", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "猛鬼街6", 
+            "year": "1991"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1295447/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tuesday Knight"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ken Sagoes"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1083815/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/22166.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/22166.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/22166.jpg"
+                    }, 
+                    "id": "1083815", 
+                    "name": "罗德尼·伊士曼"
+                }
+            ], 
+            "collect_count": 1872, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1032052/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/21181.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/21181.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/21181.jpg"
+                    }, 
+                    "id": "1032052", 
+                    "name": "雷尼·哈林"
+                }
+            ], 
+            "genres": [
+                "奇幻", 
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1295447", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4371277.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4371277.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4371277.jpg"
+            }, 
+            "original_title": "A Nightmare On Elm Street 4: The Dream Master", 
+            "rating": {
+                "average": 6.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "猛鬼街4：梦幻主宰", 
+            "year": "1988"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4038207/", 
+            "casts": [], 
+            "collect_count": 81, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Daniel Farrands"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andrew Kasch"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "4038207", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4337095.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4337095.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4337095.jpg"
+            }, 
+            "original_title": "Never Sleep Again: The Elm Street Legacy", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "永不入睡：猛鬼街传奇", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5966745/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Karan Shah"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Archana Puran Singh"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Johnny Lever"
+                }
+            ], 
+            "collect_count": 24, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Shyam Ramsay"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tulsi Ramsay"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "5966745", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4627282.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4627282.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4627282.jpg"
+            }, 
+            "original_title": "The Monster", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "印度版猛鬼街", 
+            "year": "1993"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3226177/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "David Naughton"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Judie Aronson"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Kevin McCarthy"
+                }
+            ], 
+            "collect_count": 11, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Douglas Curtis"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "喜剧"
+            ], 
+            "id": "3226177", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4611810.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4611810.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4611810.jpg"
+            }, 
+            "original_title": "The Sleeping Car", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "忘记猛鬼街", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26588792/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1348412/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1348412", 
+                    "name": "[deleted]"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1304876/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/16852.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/16852.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/16852.jpg"
+                    }, 
+                    "id": "1304876", 
+                    "name": "元秋"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "夜归弟弟"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "26588792", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Untitled Nightmare on Elm Street Reboot", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "猛鬼街", 
+            "year": "2018"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1293331/", 
+            "casts": [], 
+            "collect_count": 326, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tom DeSimone"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "惊悚"
+            ], 
+            "id": "1293331", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2960296.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2960296.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2960296.jpg"
+            }, 
+            "original_title": "Hell Night", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "地狱之夜", 
+            "year": "1981"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/4779277/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Robert Englund"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Sandahl Bergman"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Tony Dow"
+                }
+            ], 
+            "collect_count": 22, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Wes Craven"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "4779277", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4342557.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4342557.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4342557.jpg"
+            }, 
+            "original_title": "Freddy's Nightmares", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "弗雷迪的恶梦", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1419959/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048156/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1424579797.57.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1424579797.57.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1424579797.57.jpg"
+                    }, 
+                    "id": "1048156", 
+                    "name": "卡瑞·伍尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1147207/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42737.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42737.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42737.jpg"
+                    }, 
+                    "id": "1147207", 
+                    "name": "保罗·瑞斯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Simon Kunz"
+                }
+            ], 
+            "collect_count": 621, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rick Bota"
+                }
+            ], 
+            "genres": [
+                "恐怖", 
+                "悬疑", 
+                "惊悚"
+            ], 
+            "id": "1419959", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s3776610.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s3776610.jpg", 
+                "small": "https://img3.doubanio.com/spic/s3776610.jpg"
+            }, 
+            "original_title": "Hellraiser: Deader", 
+            "rating": {
+                "average": 6.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "养鬼吃人7：死魂灵", 
+            "year": "2005"
+        }
+    ], 
+    "title": "搜索 \"猛鬼街7\" 的结果", 
+    "total": 15
+}

@@ -1,0 +1,342 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1293864/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054449/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/4157.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/4157.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/4157.jpg"
+                    }, 
+                    "id": "1054449", 
+                    "name": "奥黛丽·赫本"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025208/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1405.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1405.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1405.jpg"
+                    }, 
+                    "id": "1025208", 
+                    "name": "彼得·奥图尔"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036385/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/11376.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/11376.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/11376.jpg"
+                    }, 
+                    "id": "1036385", 
+                    "name": "埃里·瓦拉赫"
+                }
+            ], 
+            "collect_count": 7592, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010691/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/2025.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2025.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/2025.jpg"
+                    }, 
+                    "id": "1010691", 
+                    "name": "威廉·惠勒"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪", 
+                "爱情"
+            ], 
+            "id": "1293864", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1077594334.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1077594334.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1077594334.jpg"
+            }, 
+            "original_title": "How to Steal a Million", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "偷龙转凤", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1304718/", 
+            "casts": [], 
+            "collect_count": 1046, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Peter Hall (I)"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "犯罪"
+            ], 
+            "id": "1304718", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2576941.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2576941.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2576941.jpg"
+            }, 
+            "original_title": "Perfect Friday", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "偷龙转凤智多星", 
+            "year": "1970"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26281395/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "詹秉熙 / 杨泽霖"
+                }
+            ], 
+            "collect_count": 2, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "彭俊"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "26281395", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2239798731.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2239798731.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2239798731.jpg"
+            }, 
+            "original_title": "赌王千霸之偷龙转凤", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "赌王千霸之偷龙转凤", 
+            "year": "1998"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26663200/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "朱虹"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "高远"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1329477/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1369710297.27.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1369710297.27.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1369710297.27.jpg"
+                    }, 
+                    "id": "1329477", 
+                    "name": "唐纹"
+                }
+            ], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1328178/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1328178", 
+                    "name": "沈鉴治"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "26663200", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "偷龙转凤", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "偷龙转凤", 
+            "year": "1966"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2357304/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275717/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1356435835.78.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1356435835.78.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1356435835.78.jpg"
+                    }, 
+                    "id": "1275717", 
+                    "name": "张庭"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275293/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28305.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28305.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28305.jpg"
+                    }, 
+                    "id": "1275293", 
+                    "name": "焦恩俊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1275457/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1420300146.91.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1420300146.91.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1420300146.91.jpg"
+                    }, 
+                    "id": "1275457", 
+                    "name": "牛莉"
+                }
+            ], 
+            "collect_count": 16942, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1321357/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1321357", 
+                    "name": "华践盟"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "古装"
+            ], 
+            "id": "2357304", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7035998.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7035998.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7035998.jpg"
+            }, 
+            "original_title": "绝色双娇", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "tv", 
+            "title": "绝色双娇", 
+            "year": "2000"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1305420/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055887/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/838.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/838.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/838.jpg"
+                    }, 
+                    "id": "1055887", 
+                    "name": "洪金宝"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1124360/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1353308269.24.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1353308269.24.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1353308269.24.jpg"
+                    }, 
+                    "id": "1124360", 
+                    "name": "利智"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "孙越"
+                }
+            ], 
+            "collect_count": 680, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055887/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/838.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/838.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/838.jpg"
+                    }, 
+                    "id": "1055887", 
+                    "name": "洪金宝"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "喜剧", 
+                "爱情"
+            ], 
+            "id": "1305420", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2181464065.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2181464065.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2181464065.jpg"
+            }, 
+            "original_title": "群龙戏凤", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "群龙戏凤", 
+            "year": "1989"
+        }
+    ], 
+    "title": "搜索 \"偷龙转凤\" 的结果", 
+    "total": 6
+}

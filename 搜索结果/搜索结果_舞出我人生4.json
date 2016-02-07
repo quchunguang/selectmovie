@@ -1,0 +1,607 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1829230/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031224/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/47662.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/47662.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/47662.jpg"
+                    }, 
+                    "id": "1031224", 
+                    "name": "查宁·塔图姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036316/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/17871.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/17871.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/17871.jpg"
+                    }, 
+                    "id": "1036316", 
+                    "name": "珍娜·迪万-塔图姆"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036393/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/4560.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/4560.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/4560.jpg"
+                    }, 
+                    "id": "1036393", 
+                    "name": "瑞切尔·格里菲斯"
+                }
+            ], 
+            "collect_count": 86231, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1045129/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/28806.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/28806.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/28806.jpg"
+                    }, 
+                    "id": "1045129", 
+                    "name": "安妮·弗莱彻"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "犯罪"
+            ], 
+            "id": "1829230", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p477592337.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p477592337.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p477592337.jpg"
+            }, 
+            "original_title": "Step Up", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "舞出我人生", 
+            "year": "2006"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5910040/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317840/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1431247292.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1431247292.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1431247292.37.jpg"
+                    }, 
+                    "id": "1317840", 
+                    "name": "瑞安·古兹曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1319201/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46516.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46516.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46516.jpg"
+                    }, 
+                    "id": "1319201", 
+                    "name": "凯瑟琳·麦考米克"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322165/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/52426.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/52426.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/52426.jpg"
+                    }, 
+                    "id": "1322165", 
+                    "name": "杰西卡·瓜迪克斯"
+                }
+            ], 
+            "collect_count": 21964, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1322160/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/52422.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/52422.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/52422.jpg"
+                    }, 
+                    "id": "1322160", 
+                    "name": "斯科特·斯皮尔"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "音乐"
+            ], 
+            "id": "5910040", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s8993976.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s8993976.jpg", 
+                "small": "https://img3.doubanio.com/spic/s8993976.jpg"
+            }, 
+            "original_title": "Step Up: Revolution", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "舞出我人生4", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26295762/", 
+            "casts": [], 
+            "collect_count": 9, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李毅"
+                }
+            ], 
+            "genres": [
+                "歌舞", 
+                "真人秀"
+            ], 
+            "id": "26295762", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2232976045.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2232976045.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2232976045.jpg"
+            }, 
+            "original_title": "舞出我人生", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "舞出我人生", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/2300450/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027176/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354415979.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354415979.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354415979.93.jpg"
+                    }, 
+                    "id": "1027176", 
+                    "name": "布莱恩娜·伊维根"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1049540/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8024.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8024.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8024.jpg"
+                    }, 
+                    "id": "1049540", 
+                    "name": "罗伯特·霍夫曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1244556/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9954.jpg"
+                    }, 
+                    "id": "1244556", 
+                    "name": "亚当·G·瑟瓦尼"
+                }
+            ], 
+            "collect_count": 44859, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040849/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13216.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13216.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13216.jpg"
+                    }, 
+                    "id": "1040849", 
+                    "name": "朱浩伟"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "音乐", 
+                "爱情"
+            ], 
+            "id": "2300450", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s2847289.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s2847289.jpg", 
+                "small": "https://img1.doubanio.com/spic/s2847289.jpg"
+            }, 
+            "original_title": "Step Up 2: The Streets", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "舞出我人生2：街舞", 
+            "year": "2008"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3000078/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040577/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13975.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13975.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13975.jpg"
+                    }, 
+                    "id": "1040577", 
+                    "name": "瑞奇·马兰博瑞"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1244556/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9954.jpg"
+                    }, 
+                    "id": "1244556", 
+                    "name": "亚当·G·瑟瓦尼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1174358/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/14235.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/14235.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/14235.jpg"
+                    }, 
+                    "id": "1174358", 
+                    "name": "沙妮·文森"
+                }
+            ], 
+            "collect_count": 27343, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040849/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/13216.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/13216.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/13216.jpg"
+                    }, 
+                    "id": "1040849", 
+                    "name": "朱浩伟"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "音乐", 
+                "爱情"
+            ], 
+            "id": "3000078", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4241412.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4241412.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4241412.jpg"
+            }, 
+            "original_title": "Step Up 3D", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "舞出我人生3", 
+            "year": "2010"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25783914/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317840/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1431247292.37.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1431247292.37.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1431247292.37.jpg"
+                    }, 
+                    "id": "1317840", 
+                    "name": "瑞安·古兹曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1027176/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1354415979.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1354415979.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1354415979.93.jpg"
+                    }, 
+                    "id": "1027176", 
+                    "name": "布莱恩娜·伊维根"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1244556/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/9954.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/9954.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/9954.jpg"
+                    }, 
+                    "id": "1244556", 
+                    "name": "亚当·G·瑟瓦尼"
+                }
+            ], 
+            "collect_count": 6365, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1342080/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1342080", 
+                    "name": "翠西·西埃"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情", 
+                "音乐"
+            ], 
+            "id": "25783914", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2208462295.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2208462295.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2208462295.jpg"
+            }, 
+            "original_title": "Step Up: All In", 
+            "rating": {
+                "average": 6.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "舞出我人生5", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/11510618/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "文江"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "郭帅祯"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "李欣聪"
+                }
+            ], 
+            "collect_count": 14, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "刘沛"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "家庭", 
+                "运动"
+            ], 
+            "id": "11510618", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s11100604.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s11100604.jpg", 
+                "small": "https://img1.doubanio.com/spic/s11100604.jpg"
+            }, 
+            "original_title": "跑出我人生", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "跑出我人生", 
+            "year": "2012"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26684709/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1312975/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/36833.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/36833.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/36833.jpg"
+                    }, 
+                    "id": "1312975", 
+                    "name": "朱丹"
+                }
+            ], 
+            "collect_count": 7, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨淞元"
+                }
+            ], 
+            "genres": [
+                "真人秀"
+            ], 
+            "id": "26684709", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2296438508.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2296438508.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2296438508.jpg"
+            }, 
+            "original_title": "减出我人生", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "减出我人生", 
+            "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1401535/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1010509/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/106.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/106.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/106.jpg"
+                    }, 
+                    "id": "1010509", 
+                    "name": "布鲁斯·威利斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1044704/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23664.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23664.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23664.jpg"
+                    }, 
+                    "id": "1044704", 
+                    "name": "蒂莫西·奥利芬特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017904/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3804.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3804.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3804.jpg"
+                    }, 
+                    "id": "1017904", 
+                    "name": "贾斯汀·朗"
+                }
+            ], 
+            "collect_count": 63789, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1031983/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1385617502.14.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1385617502.14.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1385617502.14.jpg"
+                    }, 
+                    "id": "1031983", 
+                    "name": "伦·怀斯曼"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "犯罪", 
+                "惊悚"
+            ], 
+            "id": "1401535", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p1617439899.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p1617439899.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1617439899.jpg"
+            }, 
+            "original_title": "Live Free or Die Hard", 
+            "rating": {
+                "average": 7.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "虎胆龙威4", 
+            "year": "2007"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3080024/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "こおろぎさとみ"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "吉田理保子"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003859/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1439118907.48.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1439118907.48.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1439118907.48.jpg"
+                    }, 
+                    "id": "1003859", 
+                    "name": "伊仓一惠"
+                }
+            ], 
+            "collect_count": 611, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "井内秀治"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "动画"
+            ], 
+            "id": "3080024", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3099017.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3099017.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3099017.jpg"
+            }, 
+            "original_title": "ママは小学４年生", 
+            "rating": {
+                "average": 8.5, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "妈妈是小学四年生", 
+            "year": "1992"
+        }
+    ], 
+    "title": "搜索 \"舞出我人生4\" 的结果", 
+    "total": 10
+}

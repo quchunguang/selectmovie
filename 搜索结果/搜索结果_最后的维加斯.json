@@ -1,0 +1,144 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/3014557/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054445/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/47221.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/47221.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/47221.jpg"
+                    }, 
+                    "id": "1054445", 
+                    "name": "罗伯特·德尼罗"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054534/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/34642.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/34642.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/34642.jpg"
+                    }, 
+                    "id": "1054534", 
+                    "name": "摩根·弗里曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1040531/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/5066.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/5066.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/5066.jpg"
+                    }, 
+                    "id": "1040531", 
+                    "name": "凯文·克莱恩"
+                }
+            ], 
+            "collect_count": 11433, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022710/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1379831737.28.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1379831737.28.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1379831737.28.jpg"
+                    }, 
+                    "id": "1022710", 
+                    "name": "乔·德特杜巴"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "3014557", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2153684611.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2153684611.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2153684611.jpg"
+            }, 
+            "original_title": "Last Vegas", 
+            "rating": {
+                "average": 7.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "最后的维加斯", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25937855/", 
+            "casts": [], 
+            "collect_count": 0, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1022710/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1379831737.28.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1379831737.28.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1379831737.28.jpg"
+                    }, 
+                    "id": "1022710", 
+                    "name": "乔·德特杜巴"
+                }
+            ], 
+            "genres": [
+                "喜剧"
+            ], 
+            "id": "25937855", 
+            "images": {
+                "large": "https://img3.doubanio.com/f/shire/21e771816d14ede9a77a01b6c7874c4b05dd05e2/pics/movie-default-large.gif", 
+                "medium": "https://img1.doubanio.com/f/shire/afee3c96d502c5afca2219d69e57cdaea0f756a4/pics/movie-default-medium.gif", 
+                "small": "https://img1.doubanio.com/f/shire/a6980e5630cd9e11715c14fb2ca2bd0cc9abee4b/pics/movie-default-small.gif"
+            }, 
+            "original_title": "Last Vegas 2", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "最后的维加斯2", 
+            "year": "2017"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5109680/", 
+            "casts": [], 
+            "collect_count": 10, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jesper W. Nielsen"
+                }
+            ], 
+            "genres": [
+                "动作", 
+                "剧情"
+            ], 
+            "id": "5109680", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s4536396.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s4536396.jpg", 
+                "small": "https://img3.doubanio.com/spic/s4536396.jpg"
+            }, 
+            "original_title": "Den sidste viking", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "最后的维京人", 
+            "year": "1997"
+        }
+    ], 
+    "title": "搜索 \"最后的维加斯\" 的结果", 
+    "total": 3
+}

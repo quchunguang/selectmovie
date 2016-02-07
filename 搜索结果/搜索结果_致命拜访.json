@@ -1,0 +1,87 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1482051/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054442/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/619.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/619.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/619.jpg"
+                    }, 
+                    "id": "1054442", 
+                    "name": "妮可·基德曼"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1025175/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/42588.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/42588.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/42588.jpg"
+                    }, 
+                    "id": "1025175", 
+                    "name": "丹尼尔·克雷格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036408/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/6535.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6535.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/6535.jpg"
+                    }, 
+                    "id": "1036408", 
+                    "name": "杰瑞米·诺森"
+                }
+            ], 
+            "collect_count": 12921, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1014157/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9410.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9410.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9410.jpg"
+                    }, 
+                    "id": "1014157", 
+                    "name": "奥利弗·西斯贝格"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274963/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/8704.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/8704.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/8704.jpg"
+                    }, 
+                    "id": "1274963", 
+                    "name": "詹姆斯·麦克特格"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "科幻", 
+                "惊悚"
+            ], 
+            "id": "1482051", 
+            "images": {
+                "large": "https://img3.doubanio.com/lpic/s2579335.jpg", 
+                "medium": "https://img3.doubanio.com/mpic/s2579335.jpg", 
+                "small": "https://img3.doubanio.com/spic/s2579335.jpg"
+            }, 
+            "original_title": "The Invasion", 
+            "rating": {
+                "average": 6.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "致命拜访", 
+            "year": "2007"
+        }
+    ], 
+    "title": "搜索 \"致命拜访\" 的结果", 
+    "total": 1
+}
