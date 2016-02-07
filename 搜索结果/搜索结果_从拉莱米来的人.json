@@ -1,0 +1,237 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/1294771/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1048136/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/35789.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/35789.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/35789.jpg"
+                    }, 
+                    "id": "1048136", 
+                    "name": "詹姆斯·斯图尔特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1007117/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1388914872.84.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1388914872.84.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1388914872.84.jpg"
+                    }, 
+                    "id": "1007117", 
+                    "name": "阿瑟·肯尼迪"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1013699/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397371331.39.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397371331.39.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397371331.39.jpg"
+                    }, 
+                    "id": "1013699", 
+                    "name": "凯茜·奥唐内"
+                }
+            ], 
+            "collect_count": 172, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1009612/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1386375552.71.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1386375552.71.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1386375552.71.jpg"
+                    }, 
+                    "id": "1009612", 
+                    "name": "安东尼·曼"
+                }
+            ], 
+            "genres": [
+                "悬疑", 
+                "西部"
+            ], 
+            "id": "1294771", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2204419439.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2204419439.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2204419439.jpg"
+            }, 
+            "original_title": "The Man from Laramie", 
+            "rating": {
+                "average": 6.7, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "从拉莱米来的人", 
+            "year": "1955"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3432928/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017358/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1017358", 
+                    "name": "Nikoloz Sanishvili"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1055652/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1397386514.94.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1397386514.94.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1397386514.94.jpg"
+                    }, 
+                    "id": "1055652", 
+                    "name": "蕾拉·阿伯西兹"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1017358/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
+                    }, 
+                    "id": "1017358", 
+                    "name": "Nikoloz Sanishvili"
+                }
+            ], 
+            "genres": [
+                "冒险", 
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "3432928", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3558237.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3558237.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3558237.jpg"
+            }, 
+            "original_title": "Isini chamovidnen mtidan", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "从山里来的人", 
+            "year": "1954"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20427675/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Jonathan Pryce"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Anna Massey"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Susannah York"
+                }
+            ], 
+            "collect_count": 1, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rob Rohrer"
+                }
+            ], 
+            "genres": [], 
+            "id": "20427675", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24468457.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24468457.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24468457.jpg"
+            }, 
+            "original_title": "The Man from the Pru", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "从普鲁来的人", 
+            "year": "1990"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/1440215/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Andrei Mironov"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mikhail Boyarsky"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Oleg Tabakov"
+                }
+            ], 
+            "collect_count": 69, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Alla Surikova"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "歌舞", 
+                "爱情"
+            ], 
+            "id": "1440215", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2274582993.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2274582993.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2274582993.jpg"
+            }, 
+            "original_title": "Человек с бульвара Капуцинов", 
+            "rating": {
+                "average": 6.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "35"
+            }, 
+            "subtype": "movie", 
+            "title": "一个来自嘉布遣修会林荫道的人", 
+            "year": "1987"
+        }
+    ], 
+    "title": "搜索 \"从拉莱米来的人\" 的结果", 
+    "total": 4
+}

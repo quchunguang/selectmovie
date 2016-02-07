@@ -23,9 +23,6 @@ api_search_base = ur'https://api.douban.com/v2/movie/search?q='
 api_subject_base = ur'https://api.douban.com/v2/movie/subject/'
 page_subject_base = ur'http://movie.douban.com/subject/'
 
-# Global library of select informations of my movies.
-library = []
-
 
 def readJson(filename):
     """
@@ -69,7 +66,7 @@ def getTitle(filename):
            (sub.startswith("19") or sub.startswith("20")):
             return segs[i+1]
 
-    print "[WARN] Can not get title. file:", filename.encode("utf-8")
+    print "[WARN] Get title error", filename.encode("utf-8")
     return ""
 
 
@@ -78,7 +75,7 @@ def requestJson(url):
     Douban limit 150 access/h without access token and 500 access/h with token.
     '''
     # When the limit is reached, raise exception here
-    print "[INFO] Access", url.encode('utf-8')
+    # print "[INFO] Access", url.encode('utf-8')
     response = urllib2.urlopen(url.encode('utf-8'))
 
     if response.code != 200:
@@ -112,43 +109,45 @@ def genFileList():
     writeJson(filelist_file, filelist)
 
 
-def genDelta(filelist):
+def genDelta(library, filelist):
     """
     Generate movie info. Ignore those already in the local library.
     """
-    global library
-
     for filename in filelist:
-        movie_info = genOne(filename)
-        if movie_info is not None:
-            print "[INFO] [New]", filename.encode("utf-8")
-            library.append(movie_info)
-        else:
+        try:
+            movie_info = genOne(library, filename)
+            if movie_info is not None:
+                print "[INFO] [New]", filename.encode("utf-8")
+                library.append(movie_info)
+        except Exception:
+            print "[WARN] Access exception", filename.encode("utf-8")
+        finally:
             filelist.remove(filename)
 
-    return filelist
+    writeJson(filelist_file, filelist)
+    writeJson(library_file, library)
 
 
-def exist(title):
+def exist(title, library):
     for item in library:
         if item["title"] == title:
             return True
     return False
 
 
-def genOne(filename):
+def genOne(library, filename):
     """
     Generate movie information from DouBan Movie by given filename.
     """
     # Get Chinese title from filename.
     title = getTitle(filename)
-    if title == "" or exist(title):
+    if title == "" or exist(title, library):
         return None
 
     # Search movie by title.
     search = requestJson(api_search_base + title)
     if search is None or len(search["subjects"]) == 0:
-        print "[WARN] Can not find this movie,", title.encode("utf-8")
+        print "[WARN] Search error", filename.encode("utf-8")
         return None
     writeJson(ur"搜索结果\搜索结果_" + title + ".json", search)
 
@@ -173,7 +172,7 @@ def genOne(filename):
     return obj
 
 
-def genItems(target):
+def genItems(target, library):
     """
     Format of a item:
 
@@ -196,7 +195,7 @@ def genItems(target):
         target.write(s.encode("utf8"))
 
 
-def genHTML():
+def genHTML(library):
     """
     Generate index.html file by reference the library.
     """
@@ -204,7 +203,7 @@ def genHTML():
     target = open(ur"index.html", "w")
     for line in tpl:
         if line == "{{ITERATOR_ITEMS}}\n":
-            genItems(target)
+            genItems(target, library)
         else:
             target.write(line)
     tpl.close()
@@ -213,20 +212,14 @@ def genHTML():
 
 def main():
 
-    # genFileList()
+    genFileList()
 
-    global library
     library = readJson(library_file)
     filelist = readJson(filelist_file)
 
-    try:
-        filelist = genDelta(filelist)
-    except Exception:
-        print "[WARN] Access limit of Douban reached."
+    genDelta(library, filelist)
 
-    writeJson(filelist_file, filelist)
-    writeJson(library_file, library)
-    genHTML()
+    genHTML(library)
 
 
 if __name__ == '__main__':

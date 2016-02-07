@@ -36,7 +36,7 @@
                     "name": "海伦娜·伯翰·卡特"
                 }
             ], 
-            "collect_count": 448745, 
+            "collect_count": 448957, 
             "directors": [
                 {
                     "alt": "http://movie.douban.com/celebrity/1012521/", 
@@ -105,7 +105,7 @@
                     "name": "杰瑞德·莱托"
                 }
             ], 
-            "collect_count": 138782, 
+            "collect_count": 138998, 
             "directors": [
                 {
                     "alt": "http://movie.douban.com/celebrity/1274537/", 
@@ -139,6 +139,74 @@
             "subtype": "movie", 
             "title": "达拉斯买家俱乐部", 
             "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23776287/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1023476/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32109.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32109.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32109.jpg"
+                    }, 
+                    "id": "1023476", 
+                    "name": "李若彤"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1020025/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/25674.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25674.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/25674.jpg"
+                    }, 
+                    "id": "1020025", 
+                    "name": "陈慧珊"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1016848/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46776.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46776.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46776.jpg"
+                    }, 
+                    "id": "1016848", 
+                    "name": "李丽珍"
+                }
+            ], 
+            "collect_count": 5539, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1002862/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1161.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1161.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1161.jpg"
+                    }, 
+                    "id": "1002862", 
+                    "name": "曾志伟"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "爱情"
+            ], 
+            "id": "23776287", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2183750891.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2183750891.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2183750891.jpg"
+            }, 
+            "original_title": "女人俱樂部", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "女人俱乐部", 
+            "year": "2014"
         }, 
         {
             "alt": "http://movie.douban.com/subject/1294572/", 
@@ -233,6 +301,38 @@
             "year": "2014"
         }, 
         {
+            "alt": "http://movie.douban.com/subject/1861064/", 
+            "casts": [], 
+            "collect_count": 111, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Antonio Olivas"
+                }
+            ], 
+            "genres": [
+                "恐怖"
+            ], 
+            "id": "1861064", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s1793418.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s1793418.jpg", 
+                "small": "https://img1.doubanio.com/spic/s1793418.jpg"
+            }, 
+            "original_title": "FRIGHT CLUB", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "赫人俱乐部", 
+            "year": "2006"
+        }, 
+        {
             "alt": "http://movie.douban.com/subject/25760247/", 
             "casts": [
                 {
@@ -266,7 +366,7 @@
                     "name": "杰西·麦卡尼"
                 }
             ], 
-            "collect_count": 2698, 
+            "collect_count": 3151, 
             "directors": [
                 {
                     "alt": "http://movie.douban.com/celebrity/1050089/", 
@@ -302,38 +402,6 @@
             "year": "2015"
         }, 
         {
-            "alt": "http://movie.douban.com/subject/1861064/", 
-            "casts": [], 
-            "collect_count": 111, 
-            "directors": [
-                {
-                    "alt": null, 
-                    "avatars": null, 
-                    "id": null, 
-                    "name": "Antonio Olivas"
-                }
-            ], 
-            "genres": [
-                "恐怖"
-            ], 
-            "id": "1861064", 
-            "images": {
-                "large": "https://img1.doubanio.com/lpic/s1793418.jpg", 
-                "medium": "https://img1.doubanio.com/mpic/s1793418.jpg", 
-                "small": "https://img1.doubanio.com/spic/s1793418.jpg"
-            }, 
-            "original_title": "FRIGHT CLUB", 
-            "rating": {
-                "average": 8.2, 
-                "max": 10, 
-                "min": 0, 
-                "stars": "40"
-            }, 
-            "subtype": "movie", 
-            "title": "赫人俱乐部", 
-            "year": "2006"
-        }, 
-        {
             "alt": "http://movie.douban.com/subject/1295728/", 
             "casts": [
                 {
@@ -367,7 +435,7 @@
                     "name": "约翰·卡普洛斯"
                 }
             ], 
-            "collect_count": 8134, 
+            "collect_count": 8157, 
             "directors": [
                 {
                     "alt": "http://movie.douban.com/celebrity/1004657/", 
@@ -402,141 +470,73 @@
             "year": "1985"
         }, 
         {
-            "alt": "http://movie.douban.com/subject/23776287/", 
+            "alt": "http://movie.douban.com/subject/3071461/", 
             "casts": [
                 {
-                    "alt": "http://movie.douban.com/celebrity/1023476/", 
+                    "alt": "http://movie.douban.com/celebrity/1017904/", 
                     "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/32109.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32109.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/32109.jpg"
+                        "large": "https://img1.doubanio.com/img/celebrity/large/3804.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3804.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/3804.jpg"
                     }, 
-                    "id": "1023476", 
-                    "name": "李若彤"
+                    "id": "1017904", 
+                    "name": "贾斯汀·朗"
                 }, 
                 {
-                    "alt": "http://movie.douban.com/celebrity/1020025/", 
+                    "alt": "http://movie.douban.com/celebrity/1041008/", 
                     "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/25674.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/25674.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/25674.jpg"
+                        "large": "https://img3.doubanio.com/img/celebrity/large/445.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/445.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/445.jpg"
                     }, 
-                    "id": "1020025", 
-                    "name": "陈慧珊"
+                    "id": "1041008", 
+                    "name": "安娜·法瑞丝"
                 }, 
                 {
-                    "alt": "http://movie.douban.com/celebrity/1016848/", 
+                    "alt": "http://movie.douban.com/celebrity/1031808/", 
                     "avatars": {
-                        "large": "https://img3.doubanio.com/img/celebrity/large/46776.jpg", 
-                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46776.jpg", 
-                        "small": "https://img3.doubanio.com/img/celebrity/small/46776.jpg"
+                        "large": "https://img3.doubanio.com/img/celebrity/large/9906.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9906.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/9906.jpg"
                     }, 
-                    "id": "1016848", 
-                    "name": "李丽珍"
+                    "id": "1031808", 
+                    "name": "马修·格雷·古柏勒"
                 }
             ], 
-            "collect_count": 5537, 
+            "collect_count": 19919, 
             "directors": [
                 {
-                    "alt": "http://movie.douban.com/celebrity/1002862/", 
+                    "alt": "http://movie.douban.com/celebrity/1022841/", 
                     "avatars": {
-                        "large": "https://img3.doubanio.com/img/celebrity/large/1161.jpg", 
-                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1161.jpg", 
-                        "small": "https://img3.doubanio.com/img/celebrity/small/1161.jpg"
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1365751509.43.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365751509.43.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1365751509.43.jpg"
                     }, 
-                    "id": "1002862", 
-                    "name": "曾志伟"
+                    "id": "1022841", 
+                    "name": "贝蒂·托马斯"
                 }
             ], 
             "genres": [
-                "剧情", 
-                "爱情"
+                "动画", 
+                "喜剧", 
+                "家庭"
             ], 
-            "id": "23776287", 
+            "id": "3071461", 
             "images": {
-                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2183750891.jpg", 
-                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2183750891.jpg", 
-                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2183750891.jpg"
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p815699212.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p815699212.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p815699212.jpg"
             }, 
-            "original_title": "女人俱樂部", 
+            "original_title": "Alvin and the Chipmunks: The Squeakquel", 
             "rating": {
-                "average": 7.6, 
+                "average": 6.9, 
                 "max": 10, 
                 "min": 0, 
-                "stars": "40"
-            }, 
-            "subtype": "tv", 
-            "title": "女人俱乐部", 
-            "year": "2014"
-        }, 
-        {
-            "alt": "http://movie.douban.com/subject/26333597/", 
-            "casts": [
-                {
-                    "alt": "http://movie.douban.com/celebrity/1202538/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/39704.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/39704.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/39704.jpg"
-                    }, 
-                    "id": "1202538", 
-                    "name": "英迪娅·莎莫"
-                }, 
-                {
-                    "alt": "http://movie.douban.com/celebrity/1246985/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/41303.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/41303.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/41303.jpg"
-                    }, 
-                    "id": "1246985", 
-                    "name": "杰登.杰米斯"
-                }, 
-                {
-                    "alt": "http://movie.douban.com/celebrity/1058309/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/12944.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12944.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/12944.jpg"
-                    }, 
-                    "id": "1058309", 
-                    "name": "朱莉·安妮"
-                }
-            ], 
-            "collect_count": 24, 
-            "directors": [
-                {
-                    "alt": "http://movie.douban.com/celebrity/1058309/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/12944.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/12944.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/12944.jpg"
-                    }, 
-                    "id": "1058309", 
-                    "name": "朱莉·安妮"
-                }
-            ], 
-            "genres": [
-                "剧情", 
-                "动作", 
-                "悬疑"
-            ], 
-            "id": "26333597", 
-            "images": {
-                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2230083342.jpg", 
-                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2230083342.jpg", 
-                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2230083342.jpg"
-            }, 
-            "original_title": "Dirty Wives Club", 
-            "rating": {
-                "average": 0, 
-                "max": 10, 
-                "min": 0, 
-                "stars": "00"
+                "stars": "35"
             }, 
             "subtype": "movie", 
-            "title": "肮脏妻子俱乐部", 
-            "year": "2014"
+            "title": "鼠来宝：明星俱乐部", 
+            "year": "2009"
         }, 
         {
             "alt": "http://movie.douban.com/subject/26382771/", 
@@ -596,75 +596,6 @@
             "year": "2015"
         }, 
         {
-            "alt": "http://movie.douban.com/subject/3071461/", 
-            "casts": [
-                {
-                    "alt": "http://movie.douban.com/celebrity/1017904/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/3804.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3804.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/3804.jpg"
-                    }, 
-                    "id": "1017904", 
-                    "name": "贾斯汀·朗"
-                }, 
-                {
-                    "alt": "http://movie.douban.com/celebrity/1041008/", 
-                    "avatars": {
-                        "large": "https://img3.doubanio.com/img/celebrity/large/445.jpg", 
-                        "medium": "https://img3.doubanio.com/img/celebrity/medium/445.jpg", 
-                        "small": "https://img3.doubanio.com/img/celebrity/small/445.jpg"
-                    }, 
-                    "id": "1041008", 
-                    "name": "安娜·法瑞丝"
-                }, 
-                {
-                    "alt": "http://movie.douban.com/celebrity/1031808/", 
-                    "avatars": {
-                        "large": "https://img3.doubanio.com/img/celebrity/large/9906.jpg", 
-                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9906.jpg", 
-                        "small": "https://img3.doubanio.com/img/celebrity/small/9906.jpg"
-                    }, 
-                    "id": "1031808", 
-                    "name": "马修·格雷·古柏勒"
-                }
-            ], 
-            "collect_count": 19874, 
-            "directors": [
-                {
-                    "alt": "http://movie.douban.com/celebrity/1022841/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/1365751509.43.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1365751509.43.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/1365751509.43.jpg"
-                    }, 
-                    "id": "1022841", 
-                    "name": "贝蒂·托马斯"
-                }
-            ], 
-            "genres": [
-                "动画", 
-                "喜剧", 
-                "家庭"
-            ], 
-            "id": "3071461", 
-            "images": {
-                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p815699212.jpg", 
-                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p815699212.jpg", 
-                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p815699212.jpg"
-            }, 
-            "original_title": "Alvin and the Chipmunks: The Squeakquel", 
-            "rating": {
-                "average": 6.9, 
-                "max": 10, 
-                "min": 0, 
-                "stars": "35"
-            }, 
-            "subtype": "movie", 
-            "title": "鼠来宝：明星俱乐部", 
-            "year": "2009"
-        }, 
-        {
             "alt": "http://movie.douban.com/subject/2139553/", 
             "casts": [
                 {
@@ -698,7 +629,7 @@
                     "name": "卡梅隆·理查德森"
                 }
             ], 
-            "collect_count": 43804, 
+            "collect_count": 43863, 
             "directors": [
                 {
                     "alt": "http://movie.douban.com/celebrity/1320343/", 
@@ -732,144 +663,6 @@
             "subtype": "movie", 
             "title": "鼠来宝", 
             "year": "2007"
-        }, 
-        {
-            "alt": "http://movie.douban.com/subject/1300872/", 
-            "casts": [
-                {
-                    "alt": "http://movie.douban.com/celebrity/1040997/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/33013.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/33013.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/33013.jpg"
-                    }, 
-                    "id": "1040997", 
-                    "name": "理查·基尔"
-                }, 
-                {
-                    "alt": "http://movie.douban.com/celebrity/1053615/", 
-                    "avatars": {
-                        "large": "https://img3.doubanio.com/img/celebrity/large/6635.jpg", 
-                        "medium": "https://img3.doubanio.com/img/celebrity/medium/6635.jpg", 
-                        "small": "https://img3.doubanio.com/img/celebrity/small/6635.jpg"
-                    }, 
-                    "id": "1053615", 
-                    "name": "戴安·琳恩"
-                }, 
-                {
-                    "alt": "http://movie.douban.com/celebrity/1004762/", 
-                    "avatars": {
-                        "large": "https://img3.doubanio.com/img/celebrity/large/12686.jpg", 
-                        "medium": "https://img3.doubanio.com/img/celebrity/medium/12686.jpg", 
-                        "small": "https://img3.doubanio.com/img/celebrity/small/12686.jpg"
-                    }, 
-                    "id": "1004762", 
-                    "name": "格里高利·海因斯"
-                }
-            ], 
-            "collect_count": 786, 
-            "directors": [
-                {
-                    "alt": "http://movie.douban.com/celebrity/1054419/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/592.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/592.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/592.jpg"
-                    }, 
-                    "id": "1054419", 
-                    "name": "弗朗西斯·福特·科波拉"
-                }
-            ], 
-            "genres": [
-                "犯罪", 
-                "剧情", 
-                "音乐"
-            ], 
-            "id": "1300872", 
-            "images": {
-                "large": "https://img1.doubanio.com/lpic/s3145772.jpg", 
-                "medium": "https://img1.doubanio.com/mpic/s3145772.jpg", 
-                "small": "https://img1.doubanio.com/spic/s3145772.jpg"
-            }, 
-            "original_title": "The Cotton Club", 
-            "rating": {
-                "average": 7.3, 
-                "max": 10, 
-                "min": 0, 
-                "stars": "40"
-            }, 
-            "subtype": "movie", 
-            "title": "棉花俱乐部", 
-            "year": "1984"
-        }, 
-        {
-            "alt": "http://movie.douban.com/subject/4706257/", 
-            "casts": [
-                {
-                    "alt": "http://movie.douban.com/celebrity/1017904/", 
-                    "avatars": {
-                        "large": "https://img1.doubanio.com/img/celebrity/large/3804.jpg", 
-                        "medium": "https://img1.doubanio.com/img/celebrity/medium/3804.jpg", 
-                        "small": "https://img1.doubanio.com/img/celebrity/small/3804.jpg"
-                    }, 
-                    "id": "1017904", 
-                    "name": "贾斯汀·朗"
-                }, 
-                {
-                    "alt": "http://movie.douban.com/celebrity/1000066/", 
-                    "avatars": {
-                        "large": "https://img3.doubanio.com/img/celebrity/large/2020.jpg", 
-                        "medium": "https://img3.doubanio.com/img/celebrity/medium/2020.jpg", 
-                        "small": "https://img3.doubanio.com/img/celebrity/small/2020.jpg"
-                    }, 
-                    "id": "1000066", 
-                    "name": "杰西·麦卡尼"
-                }, 
-                {
-                    "alt": "http://movie.douban.com/celebrity/1031808/", 
-                    "avatars": {
-                        "large": "https://img3.doubanio.com/img/celebrity/large/9906.jpg", 
-                        "medium": "https://img3.doubanio.com/img/celebrity/medium/9906.jpg", 
-                        "small": "https://img3.doubanio.com/img/celebrity/small/9906.jpg"
-                    }, 
-                    "id": "1031808", 
-                    "name": "马修·格雷·古柏勒"
-                }
-            ], 
-            "collect_count": 7484, 
-            "directors": [
-                {
-                    "alt": "http://movie.douban.com/celebrity/1292230/", 
-                    "avatars": {
-                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png", 
-                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png", 
-                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png"
-                    }, 
-                    "id": "1292230", 
-                    "name": "迈克·米歇尔"
-                }
-            ], 
-            "genres": [
-                "喜剧", 
-                "动画", 
-                "奇幻"
-            ], 
-            "id": "4706257", 
-            "images": {
-                "large": "https://img3.doubanio.com/lpic/s6383580.jpg", 
-                "medium": "https://img3.doubanio.com/mpic/s6383580.jpg", 
-                "small": "https://img3.doubanio.com/spic/s6383580.jpg"
-            }, 
-            "original_title": "Alvin and the Chipmunks: Chip-Wrecked", 
-            "rating": {
-                "average": 6.5, 
-                "max": 10, 
-                "min": 0, 
-                "stars": "35"
-            }, 
-            "subtype": "movie", 
-            "title": "鼠来宝3", 
-            "year": "2011"
         }, 
         {
             "alt": "http://movie.douban.com/subject/1421926/", 
@@ -1169,7 +962,7 @@
                     "name": "夏语心"
                 }
             ], 
-            "collect_count": 45, 
+            "collect_count": 46, 
             "directors": [
                 {
                     "alt": null, 
@@ -1195,6 +988,176 @@
             "subtype": "tv", 
             "title": "PMAM之欲望俱乐部", 
             "year": "2015"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20366183/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张歆"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "杨雄"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "林美仑"
+                }
+            ], 
+            "collect_count": 19, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于蒨"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "情色"
+            ], 
+            "id": "20366183", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24149833.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24149833.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24149833.jpg"
+            }, 
+            "original_title": "绿帽风云俱乐部", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "绿帽风云俱乐部", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26020927/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1317102/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1374121527.93.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1374121527.93.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1374121527.93.jpg"
+                    }, 
+                    "id": "1317102", 
+                    "name": "思漩"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1315232/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/30273.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/30273.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/30273.jpg"
+                    }, 
+                    "id": "1315232", 
+                    "name": "厉娜"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "张靖宜"
+                }
+            ], 
+            "collect_count": 46, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "邓科"
+                }
+            ], 
+            "genres": [
+                "喜剧", 
+                "爱情", 
+                "短片"
+            ], 
+            "id": "26020927", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2201700128.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2201700128.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2201700128.jpg"
+            }, 
+            "original_title": "初恋女友俱乐部", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "初恋女友俱乐部", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/26613425/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274939/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1401438840.47.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1401438840.47.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1401438840.47.jpg"
+                    }, 
+                    "id": "1274939", 
+                    "name": "胡可"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274879/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7381.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7381.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7381.jpg"
+                    }, 
+                    "id": "1274879", 
+                    "name": "迟帅"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1274413/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/10848.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/10848.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/10848.jpg"
+                    }, 
+                    "id": "1274413", 
+                    "name": "舒畅"
+                }
+            ], 
+            "collect_count": 143, 
+            "directors": [], 
+            "genres": [
+                "儿童", 
+                "动画"
+            ], 
+            "id": "26613425", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2267245998.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2267245998.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2267245998.jpg"
+            }, 
+            "original_title": "小神龙俱乐部", 
+            "rating": {
+                "average": 8.8, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "tv", 
+            "title": "小神龙俱乐部", 
+            "year": "1994"
         }
     ], 
     "title": "搜索 \"搏击俱乐部\" 的结果", 

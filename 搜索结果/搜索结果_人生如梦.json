@@ -1,0 +1,510 @@
+{
+    "count": 20, 
+    "start": 0, 
+    "subjects": [
+        {
+            "alt": "http://movie.douban.com/subject/21247888/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1113823/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1401.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1401.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1401.jpg"
+                    }, 
+                    "id": "1113823", 
+                    "name": "碧昂丝·诺尔斯"
+                }
+            ], 
+            "collect_count": 817, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Ed Burke"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1113823/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1401.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1401.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1401.jpg"
+                    }, 
+                    "id": "1113823", 
+                    "name": "碧昂丝·诺尔斯"
+                }
+            ], 
+            "genres": [
+                "纪录片"
+            ], 
+            "id": "21247888", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1859050346.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p1859050346.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1859050346.jpg"
+            }, 
+            "original_title": "Beyoncé: Life Is But a Dream", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "45"
+            }, 
+            "subtype": "movie", 
+            "title": "人生如梦", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/23431760/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1018958/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/21198.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/21198.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/21198.jpg"
+                    }, 
+                    "id": "1018958", 
+                    "name": "罗杰·埃伯特"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054425/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/601.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/601.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/601.jpg"
+                    }, 
+                    "id": "1054425", 
+                    "name": "马丁·斯科塞斯"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1054397/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/29614.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/29614.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/29614.jpg"
+                    }, 
+                    "id": "1054397", 
+                    "name": "沃纳·赫尔佐格"
+                }
+            ], 
+            "collect_count": 1988, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1287571/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1419169584.82.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1419169584.82.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1419169584.82.jpg"
+                    }, 
+                    "id": "1287571", 
+                    "name": "斯蒂夫·詹姆斯"
+                }
+            ], 
+            "genres": [
+                "传记", 
+                "纪录片"
+            ], 
+            "id": "23431760", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2191975301.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2191975301.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2191975301.jpg"
+            }, 
+            "original_title": "Life Itself", 
+            "rating": {
+                "average": 8.2, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "人生如戏", 
+            "year": "2014"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/24751763/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000905/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/46.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/46.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/46.jpg"
+                    }, 
+                    "id": "1000905", 
+                    "name": "葛优"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1041014/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/888.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/888.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/888.jpg"
+                    }, 
+                    "id": "1041014", 
+                    "name": "章子怡"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1036630/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/32309.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/32309.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/32309.jpg"
+                    }, 
+                    "id": "1036630", 
+                    "name": "浅野忠信"
+                }
+            ], 
+            "collect_count": 87, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1320881/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/54399.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/54399.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/54399.jpg"
+                    }, 
+                    "id": "1320881", 
+                    "name": "程耳"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "悬疑"
+            ], 
+            "id": "24751763", 
+            "images": {
+                "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2266691278.jpg", 
+                "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2266691278.jpg", 
+                "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2266691278.jpg"
+            }, 
+            "original_title": "罗曼蒂克消亡史", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "罗曼蒂克消亡史", 
+            "year": "2016"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/25957227/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1201858/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/7415.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/7415.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/7415.jpg"
+                    }, 
+                    "id": "1201858", 
+                    "name": "布雷特·安德森"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1078607/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/1367760894.09.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/1367760894.09.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/1367760894.09.jpg"
+                    }, 
+                    "id": "1078607", 
+                    "name": "伯纳德·巴勒特"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Mat Osman"
+                }
+            ], 
+            "collect_count": 101, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Instinct Film & Media"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "短片"
+            ], 
+            "id": "25957227", 
+            "images": {
+                "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2195512511.jpg", 
+                "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2195512511.jpg", 
+                "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2195512511.jpg"
+            }, 
+            "original_title": "The High Life", 
+            "rating": {
+                "average": 7.9, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "Suede: 浮生如梦", 
+            "year": "2013"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/5320219/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "于荣坚"
+                }
+            ], 
+            "collect_count": 13, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "陈远良"
+                }
+            ], 
+            "genres": [
+                "剧情", 
+                "短片"
+            ], 
+            "id": "5320219", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s4503114.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s4503114.jpg", 
+                "small": "https://img1.doubanio.com/spic/s4503114.jpg"
+            }, 
+            "original_title": "人生如寄", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "人生如寄", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3642301/", 
+            "casts": [], 
+            "collect_count": 11, 
+            "directors": [], 
+            "genres": [], 
+            "id": "3642301", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3708122.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3708122.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3708122.jpg"
+            }, 
+            "original_title": "人生如戏", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "tv", 
+            "title": "人生如戏", 
+            "year": ""
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/10779912/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1000561/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/23888.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/23888.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/23888.jpg"
+                    }, 
+                    "id": "1000561", 
+                    "name": "罗伊·安德森"
+                }
+            ], 
+            "collect_count": 52, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Johan Carlsson"
+                }
+            ], 
+            "genres": [
+                "纪录片", 
+                "传记"
+            ], 
+            "id": "10779912", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s10279894.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s10279894.jpg", 
+                "small": "https://img1.doubanio.com/spic/s10279894.jpg"
+            }, 
+            "original_title": "Det är en dag imorgon också", 
+            "rating": {
+                "average": 9.3, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "50"
+            }, 
+            "subtype": "movie", 
+            "title": "人生如是", 
+            "year": "2011"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3147503/", 
+            "casts": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1020385/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1397205887.56.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1397205887.56.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1397205887.56.jpg"
+                    }, 
+                    "id": "1020385", 
+                    "name": "大塚宁宁"
+                }, 
+                {
+                    "alt": "http://movie.douban.com/celebrity/1029875/", 
+                    "avatars": {
+                        "large": "https://img1.doubanio.com/img/celebrity/large/24914.jpg", 
+                        "medium": "https://img1.doubanio.com/img/celebrity/medium/24914.jpg", 
+                        "small": "https://img1.doubanio.com/img/celebrity/small/24914.jpg"
+                    }, 
+                    "id": "1029875", 
+                    "name": "近藤公园"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "小林賢太郎"
+                }
+            ], 
+            "collect_count": 17, 
+            "directors": [
+                {
+                    "alt": "http://movie.douban.com/celebrity/1003627/", 
+                    "avatars": {
+                        "large": "https://img3.doubanio.com/img/celebrity/large/1385204418.66.jpg", 
+                        "medium": "https://img3.doubanio.com/img/celebrity/medium/1385204418.66.jpg", 
+                        "small": "https://img3.doubanio.com/img/celebrity/small/1385204418.66.jpg"
+                    }, 
+                    "id": "1003627", 
+                    "name": "田边诚一"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3147503", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s3182119.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s3182119.jpg", 
+                "small": "https://img1.doubanio.com/spic/s3182119.jpg"
+            }, 
+            "original_title": "Life Is Journey", 
+            "rating": {
+                "average": 0, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "00"
+            }, 
+            "subtype": "movie", 
+            "title": "人生如旅途", 
+            "year": "2003"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/3591052/", 
+            "casts": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Samuel Barnett"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Rafe Spall"
+                }, 
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Zoe Tapper"
+                }
+            ], 
+            "collect_count": 1796, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "Diarmuid Lawrence"
+                }
+            ], 
+            "genres": [
+                "剧情"
+            ], 
+            "id": "3591052", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s7059843.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s7059843.jpg", 
+                "small": "https://img1.doubanio.com/spic/s7059843.jpg"
+            }, 
+            "original_title": "Desperate Romantics", 
+            "rating": {
+                "average": 7.6, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "tv", 
+            "title": "情迷画色", 
+            "year": "2009"
+        }, 
+        {
+            "alt": "http://movie.douban.com/subject/20399033/", 
+            "casts": [], 
+            "collect_count": 97, 
+            "directors": [
+                {
+                    "alt": null, 
+                    "avatars": null, 
+                    "id": null, 
+                    "name": "赵易"
+                }
+            ], 
+            "genres": [
+                "动画"
+            ], 
+            "id": "20399033", 
+            "images": {
+                "large": "https://img1.doubanio.com/lpic/s24512289.jpg", 
+                "medium": "https://img1.doubanio.com/mpic/s24512289.jpg", 
+                "small": "https://img1.doubanio.com/spic/s24512289.jpg"
+            }, 
+            "original_title": "On the Water", 
+            "rating": {
+                "average": 8.1, 
+                "max": 10, 
+                "min": 0, 
+                "stars": "40"
+            }, 
+            "subtype": "movie", 
+            "title": "逝者如斯", 
+            "year": "2011"
+        }
+    ], 
+    "title": "搜索 \"人生如梦\" 的结果", 
+    "total": 10
+}
